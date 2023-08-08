@@ -1,0 +1,29 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+
+<main class="index">
+	<div class="article-list">
+		{{ range (where .Site.RegularPages "Section" "blog") }}
+		<article>
+			<header>
+				{{ if isset .Params "post_image" }}
+				<div class="container flex flex-wrap">
+					<aside class="row twenty post_image"><img src="{{.Params.post_image}}"></aside>
+					<div class="row eighty">
+						<time datetime="{{.Date}}">{{.Date.Format "02.01.2006"}}</time><a href="{{.Permalink}}">{{.Title}}</a>
+					</div>
+				</div>
+				{{ else }}
+				<time datetime="{{.Date}}">{{.Date.Format "02.01.2006"}}</time><a href="{{.Permalink}}">{{.Title}}</a>
+				{{ end }}
+			</header>
+			<p>{{.Summary}} …</p>
+			<footer>
+				<a href="{{.Permalink}}">lesen…</a>
+			</footer>
+		</article>
+		{{ end }}
+	</div>
+</main>
+
+{{ partial "footer.html" . }}
