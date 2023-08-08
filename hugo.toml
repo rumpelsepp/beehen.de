@@ -1,0 +1,13 @@
+baseURL = 'https://beehen.de'
+languageCode = 'de'
+DefaultContentLanguage = "de"
+
+title = 'Beehen on Tour'
+
+#theme = 'lightbi-hugo'
+
+[privacy]
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
