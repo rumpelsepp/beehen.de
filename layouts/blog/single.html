@@ -1,50 +1,33 @@
-{{ partial "head.html" . }}
-{{ partial "header.html" . }}
+{{ define "main" }}
 
 <main class="single">
     <header>
-        <h1>{{$.Title}}</h1>
-	<nav class="article-nav">
-	{{ with .PrevInSection }}
-	<a href="{{ .Permalink }}">« vorheriger Artikel</a>
-            ·
-	{{ end }}
+        <h1>{{ if .Draft }}DRAFT · {{ end }}{{$.Title}}</h1>
 
-	{{ with .NextInSection }}
-	<a href="{{ .Permalink }}">nächster Artikel »</a>
-	{{ end }}
-	</nav>
+        {{ partial "article-nav.html" . }}
 
-	{{ if isset .Params "tags" }}
-	<div class="tags">
-	{{ $taxonomy := "tags" }} {{ with .Param $taxonomy }}
-	  {{ range $index, $tag := . }} {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
-	  <!-- <a href="{{ .Permalink }}">{{ $tag | urlize }}</a> -->
-	  #{{ $tag }}
-         {{- end -}} {{- end -}}
-         {{ end }}
-	</div>
-	{{ end }}
 	   <div class="meta">
-            <time datetime="{{.Date}}">{{.Date.Format "02.01.2006"}}</time>
+            <time datetime="{{.Date}}">{{.Date.Format "02.01.2006"}}</time> 
+            ·
+
+			{{ partial "tags-span.html" . }}
+
             {{ with .GitInfo }}
             ·
             Modified: <time datetime="{{ $.GitInfo.AuthorDate}}">{{ $.GitInfo.AuthorDate.Format "January 2, 2006 15:04"}}</time>
             ·
             <a href="https://github.com/rumpelsepp/blog/commit/{{ $.GitInfo.Hash }}">{{ $.GitInfo.AbbreviatedHash }}</a>
             {{ end }}
-
-	    {{ if isset .Params "meta" }}
-            ·
-	    {{ .Params.meta | markdownify }}
-	    {{ end }}
-	</div>
-
-
+		</div>
     </header>
     <article>
-        {{.Content}}
+        {{ .Content }}
     </article>
+    <footer>
+        {{ partial "article-nav.html" . }}
+    </footer>
 </main>
 
-{{ partial "footer.html" }}
+{{ partial "related.html" . }}
+
+{{ end }}

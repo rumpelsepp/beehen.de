@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="568.141px" height="448.765px" viewBox="0 0 568.141 448.765" enable-background="new 0 0 568.141 448.765"
+	 xml:space="preserve">
+<circle fill="none" stroke="#B9BC9A" stroke-width="3" cx="813.266" cy="170.614" r="622.157"/>
+<path fill="#F2E9FF" d="M813.266,170.615H191.108c0-343.608,278.55-622.158,622.158-622.158
+	c343.607,0,622.157,278.549,622.157,622.158H813.266z"/>
+<path fill="#87A4D3" d="M813.266,170.615h622.157c0,21.722-1.141,43.43-3.408,65.032L813.266,170.615z"/>
+<path fill="#4773BB" d="M813.266,170.615l618.749,65.032c-2.271,21.604-5.671,43.074-10.188,64.321L813.266,170.615z"/>
+<path fill="#263E66" d="M813.266,170.615l608.562,129.353c-4.517,21.248-10.143,42.244-16.854,62.902L813.266,170.615z"/>
+<path fill="#1F252D" d="M813.266,170.615l591.707,192.255C1298.791,689.662,947.8,868.501,621.009,762.322
+	C431.6,700.779,283.101,552.281,221.559,362.871L813.266,170.615z"/>
+<path fill="#263E66" d="M813.266,170.615L221.559,362.871c-6.713-20.658-12.339-41.654-16.854-62.902L813.266,170.615z"/>
+<path fill="#4773BB" d="M813.266,170.615L204.703,299.968c-4.518-21.246-7.916-42.717-10.188-64.32L813.266,170.615z"/>
+<path fill="#87A4D3" d="M813.266,170.615l-618.749,65.032c-2.271-21.604-3.409-43.311-3.409-65.032H813.266z"/>
+<line fill="none" stroke="#000000" stroke-width="2" x1="56.563" y1="170.615" x2="1534.969" y2="170.615"/>
+<line fill="none" stroke="#000000" stroke-width="2" x1="813.266" y1="-551.088" x2="813.266" y2="892.318"/>
+<text transform="matrix(1 0 0 1 1539.9456 177.3335)" font-family="Liberation Sans,Arial,sans-serif" font-style="italic" font-size="23">horizon</text>
+<text transform="matrix(1 0 0 1 85 161)" font-family="Liberation Sans,Arial,sans-serif" font-style="italic" font-size="21">Horizont</text>
+<text transform="matrix(1 0 0 1 1399.3108 148.2163)" font-family="Liberation Sans,Arial,sans-serif" font-size="23">day</text>
+<text transform="matrix(1 0 0 1 202.5046 148.2163)" font-family="Liberation Sans,Arial,sans-serif" font-weight="bold" font-size="24">Tag</text>
+<g transform="rotate(0.265)">
+	<g id="sun">
+		<circle fill="#FFFF00" stroke="#000000" stroke-width="2" cx="1435.02" cy="173.493" r="2.877"/>
+	</g>
+</g>
+<g transform="rotate(6)">
+	<g id="sun_1_">
+		<circle fill="#FFFF00" stroke="#000000" stroke-width="2" cx="1423.026" cy="236.12" r="2.878"/>
+	</g>
+</g>
+<g transform="rotate(12)">
+	<g id="sun_2_">
+		<circle fill="#FFFF00" stroke="#000000" stroke-width="2" cx="1403.946" cy="301.848" r="2.876"/>
+	</g>
+</g>
+<g transform="rotate(18)">
+	<g id="sun_3_">
+		<circle fill="#FFFF00" stroke="#000000" stroke-width="2" cx="1378.394" cy="367.082" r="2.878"/>
+	</g>
+</g>
+<g transform="rotate(-0.265)">
+	<g id="sun_4_">
+		<circle fill="#FFFF00" stroke="#DFCC1A" stroke-width="1" cx="189.681" cy="171.787" r="2.877"/>
+	</g>
+</g>
+<text transform="matrix(1 0.0046 -0.0046 1 1447.7874 189.228)" font-family="Liberation Sans,Arial,sans-serif" font-size="23">sunrise</text>
+<text transform="matrix(0.9945 0.1045 -0.1045 0.9945 1443.6868 243.6304)" font-family="Liberation Sans,Arial,sans-serif" font-size="23">civil dawn</text>
+<text transform="matrix(0.9781 0.2079 -0.2079 0.9781 1432.6028 309.1235)" font-family="Liberation Sans,Arial,sans-serif" font-size="22.3944">nautical dawn</text>
+<text transform="matrix(0.9511 0.309 -0.309 0.9511 1414.7297 373.106)" font-family="Liberation Sans,Arial,sans-serif" font-size="22.4001">astronomical dawn</text>
+<text transform="matrix(1 -0.0046 0.0046 1 10 193.5327)" font-family="Liberation Sans,Arial,sans-serif" font-size="21">Sonnenuntergang</text>
+<path fill="#FFFFFF" d="M1211.447,170.615l4.979,14.932l-4.979-4.978l-4.978,4.978L1211.447,170.615z"/>
+<path fill="#FFFFFF" d="M1209.265,212.236l6.511-14.329l-5.47,4.43l-4.431-5.47L1209.265,212.236z"/>
+<text transform="matrix(0.9986 0.0523 -0.0523 0.9986 1216.6223 197.8101)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="20.1561">6°</text>
+<path fill="#FFFFFF" d="M1167.896,170.615l4.978,14.932l-4.978-4.978l-4.978,4.978L1167.896,170.615z"/>
+<path fill="#FFFFFF" d="M1160.146,244.347l7.974-13.572l-5.9,3.834l-3.834-5.902L1160.146,244.347z"/>
+<text transform="matrix(0.9945 0.1045 -0.1045 0.9945 1169.3293 214.1187)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="20.1579">12°</text>
+<path fill="#FFFFFF" d="M1124.344,170.615l4.978,14.932l-4.978-4.978l-4.979,4.978L1124.344,170.615z"/>
+<path fill="#FFFFFF" d="M1109.117,266.744l9.351-12.664l-6.271,3.194l-3.193-6.271L1109.117,266.744z"/>
+<text transform="matrix(0.9877 0.1564 -0.1564 0.9877 1123.55 225.8804)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="20.1579">18°</text>
+<path fill="#FFFFFF" d="M415.086,170.615l4.977,14.932l-4.977-4.978l-4.979,4.978L415.086,170.615z"/>
+<path fill="#FFFFFF" d="M417.266,212.236l3.39-15.369l-4.43,5.47l-5.471-4.43L417.266,212.236z"/>
+<text transform="matrix(0.9986 -0.0523 0.0523 0.9986 421.9886 197.1772)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="20.1561">6°</text>
+<path fill="#FFFFFF" d="M458.636,170.615l4.977,14.932l-4.977-4.978l-4.979,4.978L458.636,170.615z"/>
+<path fill="#FFFFFF" d="M466.385,244.347l1.765-15.641l-3.834,5.9l-5.903-3.832L466.385,244.347z"/>
+<text transform="matrix(0.9945 -0.1045 0.1045 0.9945 465.22 213.2749)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="20.1579">12°</text>
+<path fill="#FFFFFF" d="M502.187,170.615l4.978,14.932l-4.978-4.978l-4.978,4.978L502.187,170.615z"/>
+<path fill="#FFFFFF" d="M517.41,266.744l0.119-15.74l-3.192,6.271l-6.271-3.193L517.41,266.744z"/>
+<text transform="matrix(0.9877 -0.1564 0.1564 0.9877 510.9446 224.6187)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="20.1579">18°</text>
+<text transform="matrix(0.9986 0.0523 -0.0523 0.9986 1309.9348 203.3721)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="22.3956">civil twilight</text>
+<text transform="matrix(0.9877 0.1564 -0.1564 0.9877 1264.4075 248.8706)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="23">nautical twilight</text>
+<text transform="matrix(0.9659 0.2588 -0.2588 0.9659 1205.6819 282.7173)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="23">astronomical twilight</text>
+<text transform="matrix(0.9336 0.3584 -0.3584 0.9336 1334.7327 377.9839)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="23">night</text>
+<text transform="matrix(0.9986 -0.0523 0.0523 0.9986 204.739 209.2349)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="17.9982">bürgerliche Dämmerung</text>
+<text transform="matrix(0.9877 -0.1564 0.1564 0.9877 212.1087 272.6323)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="18">nautische Dämmerung</text>
+<text transform="matrix(0.9659 -0.2588 0.2588 0.9659 226.0657 334.9077)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-size="18">astronomische Dämmerung</text>
+<text transform="matrix(0.9336 -0.3584 0.3584 0.9336 246.4553 395.3901)" fill="#FFFFFF" font-family="Liberation Sans,Arial,sans-serif" font-weight="bold" font-size="24">Nacht</text>
+<path fill="none" stroke="#FFFFFF" stroke-width="2" d="M515.019,259.326c-7.659-25.789-12.064-52.978-12.74-81.089"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="2" d="M464.716,236.341c-3.479-18.558-5.514-37.627-5.979-57.084"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="2" d="M416.377,203.747c-0.667-8.096-1.095-16.262-1.271-24.488"/>
+<g transform="rotate(-0.265)">
+	<g id="sun_5_">
+		<circle fill="#FFFF00" stroke="#DFCC1A" stroke-width="1" cx="192.664" cy="237.251" r="2.877"/>
+	</g>
+</g>
+<g transform="rotate(-0.265)">
+	<g id="sun_6_">
+		<circle fill="#FFFF00" stroke="#DFCC1A" stroke-width="1" cx="203.123" cy="301.115" r="2.877"/>
+	</g>
+</g>
+<g transform="rotate(-0.265)">
+	<g id="sun_7_">
+		<circle fill="#FFFF00" stroke="#DFCC1A" stroke-width="1" cx="219.101" cy="364.65" r="2.877"/>
+	</g>
+</g>
+</svg>
