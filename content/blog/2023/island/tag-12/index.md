@@ -2,7 +2,6 @@
 title: 'Tag 12: Vulkanismus 🌋 at its best'
 date: 2023-08-10T22:13:16+02:00
 tags: ["island", "myvatn", "vulkan"]
-series: ["island"]
 ---
 *Vulkanismus 🌋 at its best - oder „Oh mein Gott! Hoits enk bitte d'Nosn 👃 zua! 😁”*
 
@@ -50,7 +49,7 @@ Danke [Wikipedia](https://de.wikipedia.org/wiki/Hverfjall)!
 
 - beim Hverfjall handelt es sich um einen Aschekegel mit Tuffkrater und Ringwall
 - Entstehung vor ca. 2500 Jahren durch gewaltige Wasserdampfexplosionen: heißes Magma traf auf Grundwasser, eine fette Wasserdampfsäule ragte in den Himmel. Die Lava erstarrte durch den Wasserdampf glasig und rieselte am Rande der Wasserdampfsäule herab, wodurch der Ring von 1 km Durchmesser und 90-150 m Höhe entstand (= pyroklastischer Strom).
-- Volumen des ausgeworfenen Materials: ca. 250 Mill. m<sup>3</sup>
+- Volumen des ausgeworfenen Materials: ca. 250 Mill. m³
 {{< /info >}}
 
 ## Next Stop: **Krafla** bzw. **Námafjall**

@@ -1,9 +1,7 @@
 ---
 title: "Tag 2: Do scheint ja echt de gonze Nocht de Sonne! — Da kannst ja ned schlafen!"
 date: 2023-07-31T22:13:16+02:00
-post_image: pingsee.jpg
 tags: ["island", "reykjavik"]
-series: ["island"]
 draft: false
 ---
 
