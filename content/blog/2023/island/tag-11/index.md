@@ -2,7 +2,6 @@
 title: "Tag 11: Wir fahren zum östlichsten Punkt unserer Reise - Wo isn jetz eigentlich der blede Wossafoi?" 
 date: 2023-08-09T22:13:16+02:00
 tags: ["island", "myvatn", "wasserfall"]
-series: ["island"]
 draft: false
 ---
 
@@ -96,7 +95,7 @@ jap... der war echt fett! Und den Steff hats dann auch noch sauber obgschifft! �
 {{< info >}}
 - Der Dettifoss wird als mächtigster Wasserfall von Europa bezeichnet
 - Der zugehörige Fluss ist der Jökulsá á Fjöllum, der wiederum direkt vom Vatnajökull kommt. 
-- Durchschnittlich plumpsen 193 m<sup>3</sup>/s über den Wasserfall
+- Durchschnittlich plumpsen 193 m³/s über den Wasserfall
 - Er ist 100 m breit und 45 m hoch
 - Der Dettifoss liegt im größten Nationalpark des Landes, und steht damit unter besonderem Schutz.
 {{< /info >}}

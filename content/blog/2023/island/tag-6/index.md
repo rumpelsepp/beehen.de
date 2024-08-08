@@ -1,11 +1,7 @@
 ---
 title: "Tag 6: I kenn da a Abkürzung…"
 date: 2023-08-04T22:13:16+02:00
-meta: "Westfjords · An Larus sei Hittn · 03.08. — 06.08.2023"
-post_image: IMG_20230804_151550.jpg
 tags: ["island", "westfjords", "hittn"]
-series: ["island"]
-draft: false
 ---
 
 Ganz ehrlich – wir waren total geflashed von unserer genialen

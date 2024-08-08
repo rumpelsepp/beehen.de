@@ -1,9 +1,7 @@
 ---
 title: "Tag 10: Das Glück dieser Erde liegt auf dem Rücken der (Island-)Pferde"
 date: 2023-08-08T22:13:16+02:00
-post_image: IMG_20230808_155745.jpg
 tags: ["island", "myvatn"]
-series: ["island"]
 draft: false
 ---
 

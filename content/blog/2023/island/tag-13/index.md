@@ -2,9 +2,8 @@
 title: 'Tag 13: Eine neue Location wartet auf uns: Die Hazienda 🙃'
 date: 2023-08-11T22:13:16+02:00
 tags: ["island", "hazienda", "chillen"]
-series: ["island"]
 ---
-## Eckdaten der Reise:
+## Eckdaten der Reise
 
 {{< box >}}
 480 km | knapp 6 h Fahrzeit | Zwischenstopp: Dalvik

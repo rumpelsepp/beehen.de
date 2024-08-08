@@ -1,11 +1,9 @@
 ---
 title: 'Tag 14: Chillen in der Hazienda'
 date: 2023-08-12T22:13:16+02:00
-tags: ["island"]
-series: ["island"]
-draft: true
+tags: ["island", "hazienda", "chillen"]
 ---
-Dieses Mal hatten wir wieder richtig Glück (🏴󠁤󠁥󠁢󠁹󠁿: a Dusl; 🇦🇹/🏴󠁤󠁥󠁢󠁹󠁿: a Massl). Die Unterkunft ist wirklich genau so, wie sie auf den Bildern aussieht und wir waren wieder alle voll und ganz bereit zum Chillen!
+Dieses Mal hatten wir wieder richtig Glück (BY: a Dusl; 🇦🇹/BY: a Massl). Die Unterkunft ist wirklich genau so, wie sie auf den Bildern aussieht und wir waren wieder alle voll und ganz bereit zum Chillen!
 
 ## Die Ausstattung
 
@@ -24,5 +22,11 @@ Irgendwo im Lavafeld mit Blick auf den Langjökull: [99PXP3GP+F9](https://goo.gl
 
 Mittlerweile haben wir schon so viel gesehen und gelernt, dass wir hier tatsächlich Tag 14 + Tag 16 einfach mit Seele baumeln lassen und was man sonst hier noch so anstellen kann (richtig: Sauna und Kochen sind fester Bestandteil) verbringen.
 
-Hier einige Eindrücke:
-
+{{< fig src="IMG_20230811_161133.jpg" >}}
+{{< fig src="IMG_20230811_201127.jpg" >}}
+{{< fig src="IMG_20230812_135040.jpg" >}}
+{{< fig src="IMG_20230813_101039.jpg" >}}
+{{< fig src="IMG_20230815_104309.jpg" >}}
+{{< fig src="IMG_20230815_105112.jpg" >}}
+{{< fig src="IMG_20230815_105746.jpg" >}}
+{{< fig src="IMG_20230815_105813.jpg" >}}
