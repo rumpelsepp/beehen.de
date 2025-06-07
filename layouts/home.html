@@ -1,0 +1,48 @@
+{{ define "main" }}
+    <header>
+        <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="article-list">
+        {{ range (where .Site.RegularPages "Section" "blog") }}
+        <article>
+                {{ $img := "" }}
+
+                {{- $images := .Page.Resources.ByType "image" -}}
+                {{- $featured := $images.GetMatch "*feature*" -}}
+                {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+                {{- with $featured -}}
+                    {{ $img = $featured.Fit "600x600 webp" }}
+                {{- end -}}
+
+                <div class="card mb-3">
+                    <div class="row g-0">
+                        {{ if not (eq $img "") }}
+                        <aside class="col-md-4">
+                            <img class="img-fluid" src="{{ $img.RelPermalink }}">
+                        </aside>
+                        {{ end }}
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <header>
+                                    <hgroup class="card-title">
+                                        <h2 class="h4"><a href="{{ .RelPermalink }}">{{ if .Draft }}DRAFT · {{ end }}{{ .Title }}</a></h2>
+                                        <small class="text-body-secondary"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time>
+                                        {{ partial "tags-span.html" . }}
+                                        </small>
+                                    </hgroup>
+
+                                </header>
+
+                                <div class="card-text">
+                                    {{ .Content | plainify | strings.Truncate 300 }}
+                                    <a href="{{ .Permalink }}">[…]</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </article>
+        {{ end }}
+    </div>
+{{ end }}
