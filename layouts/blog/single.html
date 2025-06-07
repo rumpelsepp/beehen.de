@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<article class="content">
+        <header>
+                {{ partial "article-nav.html" . }}
+
+                <hgroup>
+                <h1 {{ if .Draft }}class="draft"{{ end }}>{{ $.Title }}</h1>
+
+                   <p class="meta">
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time>
+
+                    {{ if isset .Params "tags" }}
+                        {{ partial "tags-span.html" . }}
+                    {{ end }}
+                        </p>
+                </hgroup>
+        </header>
+
+{{ .Content }}
+        <footer>
+                {{ partial "article-nav.html" . }}
+        </footer>
+</article>
+
+{{ partial "related.html" . }}
+{{ end }}
