@@ -122,11 +122,11 @@ Leider gibt's kein Foto, weil wir gleich alles verspeist hatten. 😋
 
 ## Spaghetti Cacio e Pepe
 
-{{< box >}}
+{{< info header="Spaghetti Cacio e Pepe" >}}
 **Zutaten:** Spaghetti, Pecorino (Parmesan geht auch super), Pfeffer, Wasser, Salz und Pfeffer => das ist der erste Grund, warum wir das Rezept feiern! Des Zeig kriagst überall!
 
 **Zubereitung**: Nudeln kochen, Käse reiben, gemahlenen Pfeffer anrösten, bei mittlerer Hitze und mit Nudelwassen löschen, Käse mit Nudelwasser mischen, damit es cremig wird, Nudeln mit Pfeffergemisch und Käsegemisch vermengen - e Basta!
-{{< /box >}}
+{{< /info >}}
 
 Supersimpel und superlecker! So lieben wir das!
 
@@ -147,7 +147,7 @@ Wir nutzen die Zugfahrt natürlich sinnvoll, um unseren Blog zu füttern... mach
 
 _Übrigens: Möglicherweise hat der Zug gespürt, dass der Steff an Bord ist!_
 
-{{< figure src="Screenshot_20240317-150607-crop.png" >}}
+{{< fig src="Screenshot_20240317-150607-crop.png" >}}
 
 ---
 
@@ -158,8 +158,9 @@ Nachdem ich aufgrund der Verspätung in Salzburg den nächstspäteren Zug Richtu
 Spontan ging es dann über Mühldorf am Inn nach Markt Schwaben, wo ich dann in meiner Not einen [Griechen](https://maps.app.goo.gl/YnDxnE8dtcryotnV9) 🇬🇷 für ein schnelles Abendessen aufgesucht hatte.
 Das Restaurant war schon ziemlich geil…
 
-{{< figure src="IMG_20240317_204910.jpg" >}}
-{{< figure src="IMG_20240317_205225.jpg" >}}
+TODO: Fix Bilder
+{{</* fig src="IMG_20240317_204910.jpg" */>}}
+{{</* fig src="IMG_20240317_205225.jpg" */>}}
 
 Mit der S- und U-Bahn war ich denn letzten Endes um 2230 Uhr zu Hause anstatt wie angedacht um 1900 Uhr. 😠
 Sänk you for träveling wis Deutsche Bahn!

@@ -2,15 +2,17 @@
 title: Impressum
 ---
 
-## Angaben gemäß § 5 TMG
-
-Stefan Tatschner  
+Imkerei Stefan Tatschner  
 Gräfelfinger Straße 169a  
-81375 München  
+81375 München
+
+## Kontakt
+
+Telefon: <a href="tel:+4915124096409">+49 1512 4096409</a>  
 E-Mail: stefan.tatschner@mailbox.org
 
-## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
+## Verantwortlich für den Inhalt
 
-Stefan Tatschner  
+Dr. Stefan Tatschner  
 Gräfelfinger Straße 169a  
 81375 München
