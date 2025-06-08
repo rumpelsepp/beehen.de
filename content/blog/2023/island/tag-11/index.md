@@ -78,7 +78,7 @@ So viel wissen wir:
 
 ## Next Stop: **Dettifoss** - oder „Jo Himmi Herrgott, zefix halleluja,... wo is denn jetzt der verfluachte Wossafoi - gibs den überhaupt?“
 
-Nach der Wanderung zu den Basaltsäulen waren wir heute zum ersten Mal a bissl miad (:de:: müde)! - Der Wind hier is echt brutal! - Da wirst a bissl hi!... Darum haben wir uns entschieden nicht noch weiter Richtung Osten zu fahren, sondern einfach noch gemütlich zum Dettifoss zu fahren, der am Heimweg liegt. Das war eine sehr gute Entscheidung! 
+Nach der Wanderung zu den Basaltsäulen waren wir heute zum ersten Mal a bissl miad (:de: müde)! - Der Wind hier is echt brutal! - Da wirst a bissl hi!... Darum haben wir uns entschieden nicht noch weiter Richtung Osten zu fahren, sondern einfach noch gemütlich zum Dettifoss zu fahren, der am Heimweg liegt. Das war eine sehr gute Entscheidung! 
 
 Ehrlicherweise müssen wir zugeben, auf das was dort kam waren wir nicht gut vorbereitet! => Karin schaut Steff an: „Glabst schon, dass du gnuag anhast?“ - Daraufhin Steff: „Wos denn? I hob :four:! V I E R Schichten an! Des wird wohl reichen?“... Naja... hat's nicht! 🤦
 
@@ -86,7 +86,7 @@ Wir sind zunächst über eine echt beeindruckende Lava-Landschaft gefahren! Der 
 
 {{< fig src="IMG_20230809_173105.jpg" >}}
 
-Wir dachten schon, da will uns einer verarschen - der Wasserfall is sicher pinschig (:de:: mickrig) und fetzklein, sonst würden wir ihn ja schon sehen... und dann:
+Wir dachten schon, da will uns einer verarschen - der Wasserfall is sicher pinschig (:de: mickrig) und fetzklein, sonst würden wir ihn ja schon sehen... und dann:
 
 {{< youtube id="YHMOojnWHrk" >}}
 
