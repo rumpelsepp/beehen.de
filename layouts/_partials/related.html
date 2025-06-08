@@ -1,7 +1,10 @@
 {{ $related := .Site.RegularPages.Related . | first 5 }}
 {{ with $related }}
-    <div class="related info">
-      <h2>Ähnliche Artikel</h2>
+    <div class="card">
+        <div class="card-header">
+          Ähnliche Artikel
+        </div>
+        <div class="card-body">
       <ul>
         {{ range $i, $p := . }}
           <li>
@@ -19,5 +22,6 @@
           </li>
         {{ end }}
       </ul>
+    </div>
     </div>
 {{ end }}
