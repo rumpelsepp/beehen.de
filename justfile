@@ -1,4 +1,5 @@
-deploy: clean
+build: clean
+    npm run build
     podman run \
         --net=none \
         --rm \
@@ -11,8 +12,10 @@ deploy: clean
         --log-driver none \
         ghcr.io/gohugoio/hugo:latest \
         build \
-        --ignoreCache && \
-        rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
+        --ignoreCache
+
+deploy: build
+    rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 
 serve: clean
     podman run \
@@ -33,3 +36,5 @@ serve: clean
 clean:
     rm -rf public
 
+podman-pull:
+    podman pull ghcr.io/gohugoio/hugo:latest
