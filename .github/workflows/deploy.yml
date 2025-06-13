@@ -17,6 +17,12 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+      - name: Install npm deps
+        run: npm ci
+      - name: Build the assets
+        run: npm run build
       - name: Build the website
         run: hugo build --ignoreCache
       - name: Install SSH key

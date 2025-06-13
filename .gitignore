@@ -1,4 +1,32 @@
-/.vscode
-/public
-_gen
-.hugo_build.lock
+# Generated files by hugo
+.vscode
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
+*Zone.Identifier
+
+# Office
+~$*
+*.~*
+
+# Python
+.mypy_cache
+.ruff_cache
+.venv
+
+/.hugo_build.lock
+/assets/*.js
+/assets/*.map
+/assets/*.css
+/assets/*.woff
+/assets/*.woff2
+/node_modules
