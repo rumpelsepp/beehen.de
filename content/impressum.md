@@ -2,7 +2,7 @@
 title: Impressum
 ---
 
-Imkerei Stefan Tatschner  
+Stefan Tatschner  
 Gräfelfinger Straße 169a  
 81375 München
 
