@@ -2,7 +2,6 @@ npm-build:
     npm run build
 
 build: clean npm-build
-    npm run build
     podman run \
         --net=none \
         --rm \
