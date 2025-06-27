@@ -1,4 +1,7 @@
-build: clean
+npm-build:
+    npm run build
+
+build: clean npm-build
     npm run build
     podman run \
         --net=none \
@@ -17,7 +20,7 @@ build: clean
 deploy: build
     rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 
-serve: clean
+serve: clean npm-build
     podman run \
        --net=host \
        --rm \
