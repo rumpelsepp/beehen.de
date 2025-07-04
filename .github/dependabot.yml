@@ -5,6 +5,6 @@ updates:
     schedule:
       interval: "monthly"
   - package-ecosystem: "gitsubmodule"
-    directory: "/themes"
+    directory: "/"
     schedule:
       interval: "monthly"
