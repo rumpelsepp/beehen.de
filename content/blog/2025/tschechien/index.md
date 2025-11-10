@@ -3,6 +3,7 @@ title: "Auszeit in Tschechien: Back to the Roots"
 date: 2025-11-10
 tags: ["tschechien", "prag", "böhmen"]
 toc: true
+image: "IMG_20251109_122009.jpg"
 ---
 
 Wer uns kennt, weiß: de zwoa sind a bissl viel unterwegs und beruflich schon recht eingespannt 🫩😵.
@@ -125,12 +126,14 @@ Einige unserer Highlights:
 
 [Prager Metronom](https://mapy.com/s/pefovokede) (🇨🇿: Metronom na Letné): Die Kommunisten hatten auf diesem Hügel eine sehr große Stalin Statue errichtet. Dafür brauchten sie so lange, dass Stalin die Fertigstellung nimmer erlebte. Die Prager fanden das Monument eher schräg und haben es kurzerhand wieder abgerissen. Stattdessen wurde auf den Fundamenten der Stalin Statue ein großes Metronom errichtet. Das Metronem steht für den unerbittlichen Lauf der Zeit und als Mahnmal für die Vergangenheit bzw. die verlorene Zeit unter dem sowjetischen Einfluss.
 
+{{< fig src="IMG_20251103_154235.jpg" >}}
 {{< fig src="IMG_20251103_153238.jpg" >}}
 
 [Karlsbrücke](https://mapy.com/s/fegedefaca) (🇨🇿: Karlův most): Die Karlsbrücke ist die älteste erhaltene Brücke über den nordwärts fließenden Fluss Moldau und eine der ältesten Steinbrücken Europas. Sie gilt als Wahrzeichen der Stadt Prag.
-Auf dem Foto im Hintergrund erspähbar… 🙂
+Auf den Fotos ist die Brücke jeweils im Hintergrund erspähbar… 🙂
 
 {{< fig src="IMG_20251104_120940.jpg" >}}
+{{< fig src="IMG_20251104_134610.jpg" >}}
 {{< fig src="IMG_20251104_134955.jpg" >}}
 
 [Prager Burg](https://mapy.com/s/dejaruhamo) (🇨🇿: Pražský hrad): Die Prager Burg ist die ehemalige Residenz der Könige von Böhmen im Hradschin (Burgviertel) in der tschechischen Hauptstadt Prag. Mit einer Fläche von fast 70.000 Quadratmetern ist sie die größte geschlossene Burganlage der Welt.
@@ -162,6 +165,8 @@ Ein Stück Kulter, das es nicht nach Bayern geschafft hat… 😅
 Was für uns aber niemals fehlen darf, wenn wir eine Stadt besuchen, ist einfach losspazieren, die Atmosphäre der Stadt aufsaugen und schauen wohin es einen treibt.
 Das haben wir auch dieses Mal gemacht...
 Was allgemein auffällt: Die Tschechen neigen bei Installationen aller Art eher zum "improvisieren" als wir Österreicher bzw. Deutsche.
+
+{{< fig src="IMG_20251109_122009.jpg" >}}
 
 Zum Abschluss: Warum ist hier eigentlich üüüüüüberall Kopfsteinpflaster????
 Wir sind zu faul dies zu recherchieren… 🙃
