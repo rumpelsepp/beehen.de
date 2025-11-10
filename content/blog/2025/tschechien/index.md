@@ -72,10 +72,46 @@ Das Rezept wollen wir euch natürlich nicht vorenthalten:
 TODO
 
 ## Prag
-* Free walking tours + Brandon
-* Alleine spazieren gehen - inkl. Weg zur Mall...
+Nach der Brauerei-Tour hat Steff uns souveränst nach Prag/Praha gefahren und Karin hat versucht ihn so gut sie konnte durch die Stadt zu lotsen.
+... aber ja... diese Tschechen... das sind übelst unlustige Autofahrer! - Verdammt schnell sind die unterwegs...
+
+Naja... we did it! 
+Jetzt war nur die Frage: was machen wir mit unserer Zeit in Prag?
+Die Stadt ist riesig und wunderschön!
+Das liegt unter anderem auch daran, dass sie nie durch einen Krieg zerstört wurde...
+Es gibt sooo viel zu sehen? 
+Wie wollen wir vorgehen?
+
+Dank einem saucoolen Tipp von Karin's Kollegin - Free Walking Tours (Vielen Dank, liebe Johanna) haben wir uns für eine dieser Touren entschieden.
+
+Das funktioniert so:
+1. Man meldet sich bei einer Tour an (In unserem Fall: Prague Old Town & Josefov) an.
+2. Dann geht man zum vereinbarten Treffpunkt und trifft den Guy, der die Tour mit dir machen wird.
+3. Man genießt die Tour - hoffentlich
+4. Zum Schluss gibt man dem Guide so viel €€€ wie einem die Tour wert war.
+
+Ein sehr cooles Konzept finden wir.
+Unser Guide war Brandon, ein Amerikaner aus Californien, der vor über 10 Jahren nach Prag ausgewandert ist um sein Single-Leben und verschiedenste Vorteile in Europa/Prag zu feiern. 
+Am zweiten Tag lernte er seine Frau kennen und lebt seither glücklich mit ihr und gibt eben solche Free Walking Tours.
+
+Wir erlebten extrem coole 2,5 Stunden mit ihm wo wir gemeinsam mit anderen Touris aus Deutschland, Australien, Schottland oder Canada durch unterschiedliche Ecken der Altstadt schlenderten, und die perfekte Mischung aus Infos und Tipps für die Stadt bekamen.
+
+Einige unserer Highlights:
+* Charles University
+* Ovocny Trh: Hier trug sich scheinbar eine recht spannende Geschichte zu. Mozarts "Figaro's Hochzeit" kam in Wien lt. Brandon nicht soooo wahnsinnig gut an. Aber in Prag war es ein riesiger Erfolg (30 minütiger Applaus). Das war wahrscheinlich ein Grund dafür, dass Mozart eine besonders gute Beziehung zu Prag hatte. Karin erkannte das Tonbeispiel von Brandon gleich und gewann dafür eine hübsche Postkarte...  - Danke Brandon.
+* Pražský orloj  - Die Rathausuhr, die eigentlich gar nicht soooo spektakulär war - trotzdem irgendwie nice
+* Das Jüdische Viertel inkl. der Synagogen und dem alten Friedhof: es ist einfach so heftig was dieser Typ mit dem Bärtchen an so vielen Orten in Europa angerichtet hat!
+* Pražský metronom: die Kommunisten hatten auf diesem Hügel eine übelst große Stalin-Statue errichtet. Dafür brauchten sie so lange, dass der Typi nimmer lebte. Die Prager fanden das Monument ohnehin ned sooo geil, haben es kurzerhand wieder abgerissen und ein großes Metronom hingebaut für den unerbittlichen Lauf der Zeit und als Mahmal für die Vergangenheit.
+* Eurotrip: ein möglicherweise eher furchtbarer Film, wo ein paar Ami-kids durch Europa reisn. Obwohl im Film die Stadt Prag nicht vorkommt wurde alles dort gedreht. Das zeigt wie abwechslungsreich und schön diese Stadt einfach wirklich ist. 
+
+Weil uns das Ganze so gut gefallen hat, waren wir am nächsten Tag gleich wieder am Start und gingen mit Brandon zur Karlsbrücke/Karlův most, und zur Prager Burg/Pražský hrad.
+
+Was für uns aber niemals fehlen darf, wenn wir eine Stadt besuchen, ist einfach losspazieren, die Atmosphäre der Stadt aufsaugen und schauen wohin es einen treibt. 
+Das haben wir auch dieses Mal gemacht...
+
+... warum ist hier eigentlich üüüüüüberall Kopfsteinplfaster????
+
 * Stromkasten Gag
-* Verrückte Autofahrer
 
 ## Böhmen
 ### Wanderungen/Felsen
