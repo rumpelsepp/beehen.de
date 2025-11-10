@@ -6,8 +6,8 @@ toc: true
 image: "IMG_20251104_134610.jpg"
 ---
 
-Wer uns kennt, weiß: de zwoa sind a bissl viel unterwegs und beruflich schon recht eingespannt 🫩😵.
-In einer Zeit wo Steff gerade erfolgreich sein PhD-Studium 🎓 abgeschlossen hat und Karin mittendrin 👩‍🎓 ist, haben wir beschlossen: es ist höchste Eisenbahn für eine Auszeit!
+Wer uns kennt, weiß: De zwoa sind a bissl viel unterwegs und beruflich schon recht eingespannt 🫩😵.
+In einer Zeit wo Steff gerade erfolgreich sein PhD-Studium 🎓 abgeschlossen hat und Karin mittendrin 👩‍🎓 ist, haben wir beschlossen: Es ist höchste Eisenbahn für eine Auszeit!
 {.lead}
 
 Dieses Mal haben wir uns wieder für a extrem spannendes Ziel entschieden: Tschechien 🇨🇿.
@@ -155,7 +155,7 @@ Auf den Fotos ist die Brücke jeweils im Hintergrund erspähbar… 🙂
 {{< fig src="IMG_20251104_114933.jpg" >}}
 {{< fig src="IMG_20251106_145132.jpg" >}}
 
-Was ebenfalls extrem spannend ist: Die Österreichische Kaffeekulter mit "Espresso", "Verlängerter" und "Apfelstrudel" gibt es in Prag!
+Was ebenfalls extrem spannend ist: Die Österreichische Kaffeekultur mit "Espresso", "Verlängerter" und "Apfelstrudel" gibt es in Prag!
 Wie wir herausgefunden haben liegt es natürlich an den [Habsburgern](https://de.wikipedia.org/wiki/Habsburg), die einmal in Prag unterwegs waren.
 Sogar das typisch silberne Tablett und das obligatorische Glas Wasser wird hier in Prag serviert!
 Ein Stück Kulter, das es nicht nach Bayern geschafft hat… 😅
