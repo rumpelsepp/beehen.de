@@ -1,27 +1,19 @@
-{{ $related := .Site.RegularPages.Related . | first 5 }}
-{{ with $related }}
-    <div class="card">
-        <div class="card-header">
-          Ähnliche Artikel
-        </div>
-        <div class="card-body">
-      <ul>
-        {{ range $i, $p := . }}
-          <li>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ with .HeadingsFiltered }}
-              <ul>
-                {{ range . }}
-                  {{ $link := printf "%s#%s" $p.RelPermalink .ID | safeURL }}
-                  <li>
-                    <a href="{{ $link }}">{{ .Title }}</a>
-                  </li>
-                {{ end }}
-              </ul>
-            {{ end }}
-          </li>
-        {{ end }}
-      </ul>
-    </div>
-    </div>
+{{ define "_partials/inline/related-list.html "}}
+  <ul>
+    {{ range $i, $p := . }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+{{ with $related := .Site.RegularPages.Related . | first 5}}
+  {{ $context := dict
+    "cardClass" "mt-4 mb-4"
+    "header" "Ähnliche Artikel"
+    "content" (partial "inline/related-list.html" .)
+  }}
+
+  {{ partial "card.html" $context }}
 {{ end }}
