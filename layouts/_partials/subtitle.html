@@ -1,0 +1,18 @@
+{{ $dateTag := printf `<time datetime="%s">%s</time>` (.Date.Format "2006-01-02") (.Date.Format "02.01.2006") }}
+{{ $subtitle := (printf `<i class="bi bi-calendar-date"></i> %s` $dateTag) | safeHTML }}
+{{ with $tags := .Params.tags }}
+    {{ $links := slice }}
+    {{ range $tags }}
+        {{ $tagName := . }}
+        {{ $tagPage := site.GetPage (printf "tags/%s" $tagName) }}
+        {{ with $tagPage }}
+            {{ $links = $links | append (printf `<a href="%s">#%s</a>` .RelPermalink $tagName) }}
+        {{ else }}
+            {{ $links = $links | append (printf "#%s" $tagName) }}
+        {{ end }}
+    {{ end }}
+    {{ $linksHTML := (delimit $links " ") | safeHTML }}
+    {{ $subtitle = printf `%s · <i class="bi bi-tag"></i> %s` $subtitle $linksHTML | safeHTML }}
+{{ end }}
+
+{{ $subtitle }}

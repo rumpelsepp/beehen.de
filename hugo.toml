@@ -37,18 +37,24 @@ weight = 20
   quality = 97
   resampleFilter = "Lanczos"
 
-[markup.goldmark.renderer]
-unsafe = true
-
-[markup.goldmark.extensions.typographer]
-  apostrophe = '&rsquo;'
-  disable = false
-  ellipsis = '&hellip;'
-  emDash = '&mdash;'
-  enDash = '&ndash;'
-  leftAngleQuote = '&laquo;'
-  leftDoubleQuote = '„'
-  leftSingleQuote = '‚'
-  rightAngleQuote = '&raquo;'
-  rightDoubleQuote = '”'
-  rightSingleQuote = '‘'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.typographer]
+        apostrophe = '&rsquo;'
+        disable = false
+        ellipsis = '&hellip;'
+        emDash = '&mdash;'
+        enDash = '&ndash;'
+        leftAngleQuote = '&laquo;'
+        leftDoubleQuote = '„'
+        leftSingleQuote = '‚'
+        rightAngleQuote = '&raquo;'
+        rightDoubleQuote = '”'
+        rightSingleQuote = '‘' 

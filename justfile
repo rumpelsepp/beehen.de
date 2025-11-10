@@ -32,8 +32,7 @@ serve: clean npm-build
        --log-driver none \
        ghcr.io/gohugoio/hugo:latest \
        server \
-       --ignoreCache \
-       --disableFastRender
+       --buildDrafts
 
 clean:
     rm -rf public
