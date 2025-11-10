@@ -1,48 +1,51 @@
+{{- define "_partials/inline/gallery/card-content.html" }}
+  {{ $text := or .Params.description .Summary }}
+  {{ $text = $text | plainify | strings.Truncate 200 }}
+
+  <p>{{ $text }}</p>
+  <a href="{{ .RelPermalink }}" class="btn btn-primary">Zum Artikel</a>
+{{- end }}
+
 {{ define "main" }}
-    <header>
-        <h1>{{ .Title }}</h1>
-    </header>
+<article class="content">
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+  
+  {{ with .Params.Description }}
+      <p class="lead">
+        {{ . }}
+      </p>
+  {{ end }}
 
-    <div class="article-list">
-        {{ range (where .Site.RegularPages "Section" "blog") }}
-        <article>
-                {{ $img := "" }}
+  {{ .Content }}
 
-                {{- $images := .Page.Resources.ByType "image" -}}
-                {{- $featured := $images.GetMatch "*feature*" -}}
-                {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
-                {{- with $featured -}}
-                    {{ $img = $featured.Fit "600x600 webp" }}
-                {{- end -}}
+  {{ range $i, $p := (where .Site.RegularPages "Section" "blog") }}
+    {{ if eq (mod $i 2) 0 }}
+      <div class="row">
+    {{ end }}
+    
+    {{ $context := dict
+      "cardClass" "mb-4"
+      "title" ((printf `<a href="%s">%s</a>` $p.RelPermalink $p.Title) | safeHTML)
+      "subtitle" (partial "subtitle.html" $p)
+      "content" (partial "inline/gallery/card-content.html" $p)
+    }}
 
-                <div class="card mb-3">
-                    <div class="row g-0">
-                        {{ if not (eq $img "") }}
-                        <aside class="col-md-4">
-                            <img class="img-fluid" src="{{ $img.RelPermalink }}">
-                        </aside>
-                        {{ end }}
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <header>
-                                    <hgroup class="card-title">
-                                        <h2 class="h4"><a href="{{ .RelPermalink }}">{{ if .Draft }}DRAFT · {{ end }}{{ .Title }}</a></h2>
-                                        <small class="text-body-secondary"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time>
-                                        {{ partial "tags-span.html" . }}
-                                        </small>
-                                    </hgroup>
+    {{ $imgName := default "feature.jpg" ($p.Param "image") }}
+    {{ $imgPath := urls.JoinPath $p.Path $imgName }}
+    
+    {{ if fileExists $imgPath }}
+      {{ $context = merge $context (dict "image" (urls.JoinPath $p.RelPermalink $imgName)) }}
+    {{ end }}
 
-                                </header>
-
-                                <div class="card-text">
-                                    {{ .Content | plainify | strings.Truncate 300 }}
-                                    <a href="{{ .Permalink }}">[…]</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-        </article>
-        {{ end }}
+    <div class="col-md-6">
+      {{ partial "card.html" $context }}
     </div>
+
+    {{ if or (eq (mod (add $i 1) 2) 0) (eq (add $i 1) (len (where .Site.RegularPages "Section" "blog"))) }}
+      </div>
+    {{ end }}
+  {{ end }}
+</article>
 {{ end }}

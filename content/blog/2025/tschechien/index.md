@@ -1,6 +1,6 @@
 ---
 title: "Auszeit in Tschechien - oder - back to the roots"
-date: 2025-11-10T16:00:16+01:00
+date: 2025-11-10
 tags: ["tschechien", "prag"]
 draft: true
 ---
