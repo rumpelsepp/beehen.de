@@ -1,13 +1,10 @@
-<section class="card">
-    <div class="card-header h5">
-        {{ with .Get "header" }}
-        {{ . }}
-        {{ else }}
-        💡 Infos für Gscheidhaferl… 🤓
-        {{ end }}
-    </div>
-
-    <div class="card-body">
-        {{ .Inner | markdownify }}
-    </div>
-</section>
+{{ $context := dict
+    "cardClass" ((.Get "card_class") | default "mb-3")
+    "header" (.Get "header" | default "💡 Infos für Gscheidhaferl… 🤓")
+    "image" (.Get "image")
+    "title" (.Get "title")
+    "subtitle" (.Get "subtitle")
+    "content" (.Inner | markdownify)
+    "footer" (.Get "footer")
+}}
+{{ partial "card.html" $context }}
