@@ -118,4 +118,43 @@ Das haben wir auch dieses Mal gemacht...
 * Basalt
 * Sandstein
 * Flusstal
+
 ### Ahnenforschung
+2 Knallers sind also unterwegs in Tschechien.
+Beide haben einen Opa mit tschechischen Wurzeln, aber nicht wirklich so viel Ahnung wie das damals so alles zugegangen ist. 
+Wir können uns gut vorstellen, dass die Erfahrungen die unsere Opas und deren Familien während der Vertreibung gemacht haben unfassbar heftig waren. 
+Wir vermuten nun, dass das der Grund war, warum darüber auch nie so wirklich viel gesprochen wurde. 
+
+Natürlich gibt es in unseren Familien ein paar Geschichten, die wir schon kennen, aber so richtig greifbar ist es nicht. 
+Der Opa von Karin hat manchmal von einem Theater in Saaz erzählt.
+Er war auch irgendwie musikalisch - spielte Oboe und Violine, wenn ich mich recht erinnere.
+Die Familienverhältnisse sind kompliziert - alle verstreut irgendwo in Österreich.
+Zur Familie gehören verschiede Menschen, die unterschiedliche Erfahrungen mit den damaligen "Organisationen und Strukturen" gemacht haben.
+Die Familie weiß natürlich Bescheid über die gemeinsamen Erfahrungen, aber man entscheidet sich dafür lieber nicht darüber zu sprechen.
+Karins Opa Hans musste ungefähr 13 Jahre alt gewesen sein als er abhauen musste.
+Er konnte sich sicherlich an sehr viel erinnern, aber so richtig hat es sich für Karin nicht ergeben mit ihm darüber zu reden.
+Das heißt Karin, möglicherweise auch alle anderen, jüngeren Nachkommen kennen die Geschichte allenfalls oberflächlich.
+
+Bevor wir aber diese Reise starteten, hat Karin noch 1x kurz bei ihrer Mama nachgefragt und hat Geburts-/Tauf- und Heiratsurkunden von Opa und verschiedenen Vorfahren mitgenommen.
+Zunächst schauten diese Informationen wie ein wildes Sammelsurium aus.
+Auch, weil die Dokumente teilweise 3-Sprachig und handschriftlich verfasst waren.
+ABER: wir konnten möglicherweise einen Teil des Stammbaums bis ca. 1830 rekonstruieren!
+
+TODO: Steff einfügen
+
+Naja - was macht man nun auf den Spuren der eigenen Vorfahren, wenn man in einem Land ist, wo tausende Deutsche vertrieben wurden, man die aktuelle Amtssprache nicht spricht, und man selbst eigentlich gar nicht so recht weiß, was man finden will?
+
+Wir haben uns dafür entschieden die beiden wohl wichtigsten Orte für unsere Opas einfach zu besuchen:
+* Úštěk/Auscha
+* Žatec/Saaz
+
+Wir sind einfach durch die Orte spaziert und haben die Orte auf uns wirken lassen.
+Wir haben möglicherweise das Elternhaus von Steff's Opa gefunden.
+In Saaz standen wir vor dem Theater, von dem Karin's Opa wohl erzählt hat. 
+Und dann waren wir noch auf den beiden Friedhöfen mit den Namen der Vorfahren im Hinterkopf.
+Diese Friedhöfe sind schon erstaunliche Zeugen der Zeit.
+Währen Karin es aus ihrem Heimatort eher kennt, dass alte Gräber von denen es keine Nachfahren mehr gibt aufgelassen werden, schaut das hier ganz anders aus.
+Neben ganz neuen und offensichtlich gepflegten Gräbern (immerhin war auch hier Allerheiligen ;-) mit meist tschechischen Namen, gibt es hier auch richtig alte, verfallene Gräber.
+Auf den Grabsteinen liest man auf diesen Gräbern vermehrt deutsche Namen - sofern diese noch lesbar sind und nicht mit Efeu überwuchert sind. 
+Inschriften nach 1940 gibt es hier aber kaum. 
+Wirklich heftig.
