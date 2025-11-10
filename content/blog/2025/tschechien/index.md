@@ -3,7 +3,7 @@ title: "Auszeit in Tschechien: Back to the Roots"
 date: 2025-11-10
 tags: ["tschechien", "prag", "böhmen"]
 toc: true
-image: "IMG_20251109_122009.jpg"
+image: "IMG_20251104_134610.jpg"
 ---
 
 Wer uns kennt, weiß: de zwoa sind a bissl viel unterwegs und beruflich schon recht eingespannt 🫩😵.
