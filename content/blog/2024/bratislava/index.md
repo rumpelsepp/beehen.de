@@ -6,6 +6,7 @@ draft: false
 ---
 
 Was macht man, wenn er Geburtstag hat, sie aber für ein Arbeitstreffen in Wien ist und man eigentlich gemeinsam, am liebsten bei einem Ausflug feiern möchte? - Ganz einfach Steff gabelt Karin in Wien auf, befreit sie von den klassischen Weana Grantlern und es geht ab nach Bratislava! - Juhuuu...
+{.lead}
 
 ## Der Tag davor
 

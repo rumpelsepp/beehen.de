@@ -2,7 +2,9 @@
 
 <article class="content">
     <header>
-        {{ partial "article-nav.html" . }}
+        <div class="mb-4">
+            {{ partial "article-nav.html" . }}
+        </div>
 
         <hgroup>
             <h1 {{ if .Draft }}class="draft" {{ end }}>{{ $.Title }}</h1>
@@ -12,6 +14,13 @@
             </p>
         </hgroup>
     </header>
+    
+    {{ if and (.Params.toc) (ne .TableOfContents "") }}
+      <nav class="table-of-contents">
+        {{ .TableOfContents }}
+      </nav>
+      <hr>
+    {{ end }}
 
     {{ .Content }}
     <footer>
