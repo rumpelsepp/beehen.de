@@ -2,7 +2,6 @@
 title: "Auszeit in Tschechien: Back to the Roots"
 date: 2025-11-10
 tags: ["tschechien", "prag", "böhmen"]
-draft: true
 toc: true
 ---
 

@@ -39,3 +39,6 @@ clean:
 
 podman-pull:
     podman pull ghcr.io/gohugoio/hugo:latest
+
+check-links:
+    lychee content/*
