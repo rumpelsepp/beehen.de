@@ -115,9 +115,36 @@ Das haben wir auch dieses Mal gemacht...
 
 ## Böhmen
 ### Wanderungen/Felsen
-* Basalt
-* Sandstein
-* Flusstal
+Schon a Zeiterl bevor wir uns dann wirklich dazu entschlossen nach Böhmen zu cruisen, hat Steff mal sowas gesagt wie: Hee... lass uns in die Böhmische Schweiz fahren da ist es volle schön, da gibt es so geologische Strukturen die so a bissl aussehen wie der Bryce Cannyon - nur halt ned in rot!
+Und Karin dachte sich... jo kloooaaar! 
+
+Es hat sich bestätigt: überall, wo wir hier hinkommen und eigentlich braucht man nur a bissl im Wald spazieren gehen, findet man extrem coole Felsformationen. 
+Wir wollten dem natürlich wieder mal a bisserl stärker auf die Spur gehen und versuchen zu verstehen, wie das Ganze hier so entstanden ist. 
+Vorab: Es ist kompliziert!
+Wie so oft bei solchen geologischen Prozessen ist das ein Zusammenwirken von verschiedenen Prozessen.
+
+Info für Gscheidhaferl:
+Gerade weil es so kompliziert ist, versuchen wir hier einen gaaanz groben Überblick zu geben.
+
+Über weite Strecken gibt es hier den sogenannten Elbsandstein.
+Der hat sich vor 85-100 Millionen Jahren am Grunde des Meeres gebildet.
+Es haben sich also sandige Elemente am Boden gesammelt und gefestigt.
+Viel später - das Meer hat sich verzogen - kam dann Erosion durch Sonne, Wind und Regen dazu.
+Dadurch bildeten sich eben Fugen und Spalten in diesem "Elbsandsteingebirge". 
+Und dann gab es auch noch Vulkanismus... der ist dafür verantwortlich, dass sich vulkanische, also härtere Ablagerungen sammelten.
+Weil diese eben härter sind erodieren diese langsamer.
+Dadurch bildeten sich unfassbar coole Felsformationen inkl. Höhlen, Nischen, Tunnel oder Sanduhren wie sie z.B. im Felsenlabyrinth in Tisá zu finden sind. 
+
+Wer noch mehr Infos mag: Hier gibt's noch a bissl was https://www.tyssaer-waende.de/
+
+Wir haben mehrere dieser Felsen bewandert:
+* Das Felsenlabyrinth bei Tisá
+* Skautská Skála: https://www.komoot.de/tour/2672456279?ref=aso&share_token=avF8Ube2Phwiyo5IXeBnNw0hdVXDRwhnSoa0KhTqQceK2jZF3K
+* Burgruine Helfenburk: Hier gabs nicht nur die Felsen, sondern direkt auf die Felsen drauf haben die Kannler noch die Burg gebaut. https://www.komoot.de/tour/2672482853?ref=aso&share_token=aHzw3fbw42H7oKnfNB2uyoYp0izxr2Z8UpW9KO8J1Q2Q8Wrs40
+
+Und dann gabs da noch - BASALT! - und zwar richtig schönen Basalt!
+Von der Reise nach Island wissen wir: der hat definitiv was mit Vulkanismus zu tun.
+Der Herrenhaus Felsen ist ein wunderschönes Beispiel dafür.
 
 ### Ahnenforschung
 2 Knallers sind also unterwegs in Tschechien.
