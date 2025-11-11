@@ -1,7 +1,7 @@
 ---
 title: "Auszeit in Tschechien: Back to the Roots"
 date: 2025-11-10
-tags: ["tschechien", "prag", "böhmen"]
+tags: ["tschechien", "böhmen", "prag"]
 toc: true
 image: "IMG_20251104_134610.jpg"
 ---
@@ -118,7 +118,7 @@ Am zweiten Tag in Prag lernte er seine Frau kennen und lebt seither glücklich m
 Wir erlebten extrem coole 2,5 Stunden mit ihm, in denen wir gemeinsam mit anderen Touris aus Deutschland 🇩🇪, Australien 🇦🇺, Schottland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, Kanada 🇨🇦 oder den USA 🇺🇸 durch unterschiedliche Ecken der Altstadt schlenderten und die perfekte Mischung aus Infos und Tipps für die Stadt bekamen.
 
 Weil uns das Ganze so gut gefallen hat, waren wir am nächsten Tag gleich wieder am Start und gingen mit Brandon über die Karlsbrücke (🇨🇿: Karlův most) zur Prager Burg (🇨🇿: Pražský hrad).
-In der Prager Burgeranlage zeigte er uns mit einem peinlich berührten Augenzwinkern und unter schallendem Gelächter einen amerikanischen Heiligen: St. Arbucks 😜.
+In der Prager Burganlage zeigte er uns mit einem peinlich berührten Augenzwinkern und unter schallendem Gelächter einen amerikanischen Heiligen: St. Arbucks 😜.
 
 {{< fig src="IMG_20251104_125332.jpg" >}}
 
@@ -130,7 +130,8 @@ Einige unserer Highlights:
 {{< fig src="IMG_20251103_153238.jpg" >}}
 
 [Karlsbrücke](https://mapy.com/s/fegedefaca) (🇨🇿: Karlův most): Die Karlsbrücke ist die älteste erhaltene Brücke über den nordwärts fließenden Fluss Moldau und eine der ältesten Steinbrücken Europas. Sie gilt als Wahrzeichen der Stadt Prag.
-Auf den Fotos ist die Brücke jeweils im Hintergrund erspähbar… 🙂
+Auf einem der Fotos ist die Brücke jeweils im Hintergrund erspähbar… 🙂
+Welche Brücke die Karlsbrücke ist, findet ihr bestimmt selbst heraus. 🧐
 
 {{< fig src="IMG_20251104_120940.jpg" >}}
 {{< fig src="IMG_20251104_134610.jpg" >}}
@@ -158,7 +159,7 @@ Auf den Fotos ist die Brücke jeweils im Hintergrund erspähbar… 🙂
 Was ebenfalls extrem spannend ist: Die Österreichische Kaffeekultur mit "Espresso", "Verlängerter" und "Apfelstrudel" gibt es in Prag!
 Wie wir herausgefunden haben liegt es natürlich an den [Habsburgern](https://de.wikipedia.org/wiki/Habsburg), die einmal in Prag unterwegs waren.
 Sogar das typisch silberne Tablett und das obligatorische Glas Wasser wird hier in Prag serviert!
-Ein Stück Kulter, das es nicht nach Bayern geschafft hat… 😅
+Ein Stück Kultur, das es nicht nach Bayern geschafft hat… 😅
 
 {{< fig src="IMG_20251104_083532.jpg" >}}
 
@@ -258,7 +259,7 @@ Das heißt Karin, möglicherweise auch alle anderen, jüngeren Nachkommen kennen
 Bevor wir aber diese Reise starteten, hat Karin noch 1x kurz bei ihrer Mama nachgefragt und hat Geburts-, Tauf- und Heiratsurkunden von Opa und verschiedenen Vorfahren mitgenommen.
 Zunächst schauten diese Informationen wie ein wildes Sammelsurium aus.
 Auch, weil die Dokumente teilweise 3-Sprachig (Deutsch 🇩🇪, Tschechisch 🇨🇿 und Latein ✝️) und handschriftlich verfasst waren.
-ABER: wir konnten möglicherweise einen Teil von Karins Stammbaums bis ca. 1830 rekonstruieren!
+ABER: Wir konnten möglicherweise einen Teil von Karins Stammbaum bis ca. 1830 rekonstruieren!
 
 Naja - was macht man nun auf den Spuren der eigenen Vorfahren, wenn man in einem Land ist, wo tausende Deutsche vertrieben wurden, man die aktuelle Amtssprache nicht spricht, und man selbst eigentlich gar nicht so recht weiß, was man finden will?
 Wir haben uns dafür entschieden, die beiden wohl wichtigsten Orte für unsere Opas einfach zu besuchen: [Auscha](https://mapy.com/s/bekobenejo) (🇨🇿: Úštěk) und [Saaz](https://mapy.com/s/jebapeleja) (🇨🇿: Žatec).
