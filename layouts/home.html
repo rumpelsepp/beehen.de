@@ -3,7 +3,6 @@
   {{ $text = $text | plainify | strings.Truncate 200 }}
 
   <p>{{ $text }}</p>
-  <a href="{{ .RelPermalink }}" class="btn btn-primary">Zum Artikel</a>
 {{- end }}
 
 {{ define "main" }}
@@ -25,7 +24,7 @@
       <div class="row">
     {{ end }}
     
-    {{ $title := ((printf `<a href="%s">%s</a>` $p.RelPermalink $p.Title) | safeHTML) }}
+    {{ $title := $p.Title }}
     {{ if $p.Draft }}
         {{ $title = printf "✍️ %s" $title  | safeHTML }}
     {{ end }}
@@ -35,6 +34,7 @@
       "title" $title
       "subtitle" (partial "subtitle.html" $p)
       "content" (partial "inline/gallery/card-content.html" $p)
+      "url" $p.RelPermalink
     }}
 
     {{ $imgName := default "feature.jpg" ($p.Param "image") }}

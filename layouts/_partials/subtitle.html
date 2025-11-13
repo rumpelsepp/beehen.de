@@ -12,7 +12,7 @@
         {{ end }}
     {{ end }}
     {{ $linksHTML := (delimit $links " ") | safeHTML }}
-    {{ $subtitle = printf `%s · <i class="bi bi-tag"></i> %s` $subtitle $linksHTML | safeHTML }}
+    {{ $subtitle = printf `%s <i class="bi bi-tag"></i> %s` $subtitle $linksHTML | safeHTML }}
 {{ end }}
 
 {{ $subtitle }}
