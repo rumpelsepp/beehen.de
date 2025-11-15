@@ -32,7 +32,7 @@ Was wir aber herausgefunden haben:
 - Die Schafe wurden von den Wikingern mitgebracht - davor gab es nur den Polarfuchs
 - Es handelt sich um das Nordische Kurzschwanzschaf
 - Kurz nach der Geburt werden sie alle im Juni in die Berge getrieben, wo sie sich selbst überlassen werden
-- Beim Schafabtrieb (🇮🇸: Réttir; 🇦🇹: Schafischehr) im September, werden sie wieder ins Tal zusammengetrieben und auseinandersortiert, damit jeder Farmer wieder die eigenen Schafe hat - Das Ganze gleicht natürlich einem Volksfest, denn am besten hilft gegen die Kälte eine gehörige Portion Alkohol! Na dann - Prost!
+- Beim Schafabtrieb (🇮🇸: Réttir; 🇦🇹: Schafischee) im September, werden sie wieder ins Tal zusammengetrieben und auseinandersortiert, damit jeder Farmer wieder die eigenen Schafe hat - Das Ganze gleicht natürlich einem Volksfest, denn am besten hilft gegen die Kälte eine gehörige Portion Alkohol! Na dann - Prost!
 {{< /info >}}
 
 ## Heuballen (🇦🇹: Heiboin; BY: Heibinkl)
