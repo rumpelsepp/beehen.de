@@ -2,7 +2,7 @@
 title: Impressum
 ---
 
-Stefan Tatschner  
+Dr. Stefan Tatschner  
 Gräfelfinger Straße 169a  
 81375 München
 
