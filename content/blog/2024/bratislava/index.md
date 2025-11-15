@@ -159,9 +159,8 @@ Nachdem ich aufgrund der Verspätung in Salzburg den nächstspäteren Zug Richtu
 Spontan ging es dann über Mühldorf am Inn nach Markt Schwaben, wo ich dann in meiner Not einen [Griechen](https://maps.app.goo.gl/YnDxnE8dtcryotnV9) 🇬🇷 für ein schnelles Abendessen aufgesucht hatte.
 Das Restaurant war schon ziemlich geil…
 
-TODO: Fix Bilder
-{{</* fig src="IMG_20240317_204910.jpg" */>}}
-{{</* fig src="IMG_20240317_205225.jpg" */>}}
+{{< fig src="IMG_20240317_204910.jpg" >}}
+{{< fig src="IMG_20240317_205225.jpg" >}}
 
 Mit der S- und U-Bahn war ich denn letzten Endes um 2230 Uhr zu Hause anstatt wie angedacht um 1900 Uhr. 😠
 Sänk you for träveling wis Deutsche Bahn!
