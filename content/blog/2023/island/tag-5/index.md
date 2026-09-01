@@ -25,7 +25,7 @@ Damit wir schon einen ersten Eindruck bekommen, wie es sich auf einer
 Schotterstraße fährt haben wir einen besonderen Weg über eine
 Hochlandstraße genommen:
 
-TODO: GoPro Video einfügen.
+> 🚧 **TODO:** GoPro-Video einfügen
 
 Das letzte Stück zur Hittn war schon ein bisschen abenteuerlich. Steff
 hat es natürlich bravourös gemeistert, aber Karin hat am Beifahrersitz
@@ -33,7 +33,7 @@ schon a bissl gschwitzt! (Jap – mir war es zuerst fast ein bisserl zu
 schnell). Auch die Suche nach dem in der Beschreibung angegebenen Schild
 mit der Aufschrift „Bruárá“ hat sich irgendwie schwieriger gestaltet als
 gedacht. Nach einem klitzekleinen Irrtum – wir sind noch einmal
-zurückgefahren, um dann denselben Weg noch 1x zu fahren – haben wird das
+zurückgefahren, um dann denselben Weg noch 1x zu fahren – haben wir das
 Schild aber gefunden! - Hurra!!
 
 {{< fig src="IMG_20230803_124940.jpg" >}}

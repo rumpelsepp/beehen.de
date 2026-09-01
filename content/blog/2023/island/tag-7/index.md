@@ -26,8 +26,8 @@ wohl mit ihr vergleichen – aber die Küstenstraße bis zum
 {{< fig src="IMG_20230805_153509.jpg" >}}
 {{< fig src="IMG_20230805_173821.jpg" >}}
 
-Neben der wunderschönen Landschaft, kamen wir auch an einer still
-gelegten Heringfabrik vorbei. Dort, in [Djúpavík](https://de.wikipedia.org/wiki/Dj%C3%BApav%C3%ADk)[^1] arbeiteten zu Hochzeiten
+Neben der wunderschönen Landschaft, kamen wir auch an einer
+stillgelegten Heringsfabrik vorbei. Dort, in [Djúpavík](https://de.wikipedia.org/wiki/Dj%C3%BApav%C3%ADk)[^1] arbeiteten zu Hochzeiten
 tatsächlich über 200 Menschen. Wir haben uns ernsthaft
 gefragt: „Wo kamen denn bitte die ganzen Menschen her?“ Der heutige
 Zustand der Fabrik ist ganz schön creepy. Es wirkt ein bisschen wie aus

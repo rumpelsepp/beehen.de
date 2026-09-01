@@ -29,7 +29,7 @@ Es gibt folgende Kategorien:
 - **Hauptstraße**: Teil des grundlegenden Transportsystems und dienen der überregionalen Verbindung der urbanen Gebiete.
 - **Nebenstraße**: Verbinden Hauptstraßen untereinander oder binden besondere Stätten wie z.B. Flughäfen an.
 - **Lokale Einfallstraße**: Verbindung zu einzelnen Höfen, Kirchen oder ähnlich.
-- **Hautpstraße im Hochland**: Es gibt nur vier davon, die Nummer trägt ein `F` Prefix, größtenteils unbefestigt, Brücken über Flüsse existieren nicht. Nicht jedermanns Sache. ⚠
+- **Hauptstraße im Hochland**: Es gibt nur vier davon, die Nummer trägt ein `F` Prefix, größtenteils unbefestigt, Brücken über Flüsse existieren nicht. Nicht jedermanns Sache. ⚠
 - **Hochlandstraße**: Alles andere… tendenziell Finger weg. ☣️
 
 **Random Facts**
@@ -41,7 +41,7 @@ Es gibt folgende Kategorien:
 - Generell gilt: Je länger die Straßennummer desto abenteuerlicher; steht ein `F` davor, dann wird's besonders abenteuerlich.
 {{< /info >}}
 
-Da wir bei unserer whale watching Tour sehr aufmerksam waren, haben wir es hier gleich ganz selbst ständig geschafft ein Exemplar zu identifizieren. Eva so ganz unbeeindruckt und cool vom Rücksitz: „He… i hab grad an Wal gseng”… und wir haben ihn alle gefunden er hat einige Fontänen in die Luft gepustet! Aber gerochen haben wir immer noch nix!
+Da wir bei unserer whale watching Tour sehr aufmerksam waren, haben wir es hier gleich ganz selbstständig geschafft ein Exemplar zu identifizieren. Eva so ganz unbeeindruckt und cool vom Rücksitz: „He… i hab grad an Wal gseng”… und wir haben ihn alle gefunden er hat einige Fontänen in die Luft gepustet! Aber gerochen haben wir immer noch nix!
 
 
 {{<fig src="IMG_20230806_113837.jpg">}}
@@ -65,7 +65,7 @@ Die Fahrt hat sich wirklich gelohnt. Auch, wenn es anstrengend war - es hat auch
 
 {{< info >}}
 - Polen 🇵🇱 bilden in Island 🇮🇸 die größte Gruppe von Einwanderern bzw. ethnische Minderheit
-- Diese Zuwanderung ist zurückzuführen auf die Öffnung des isländischen Arbeitsmarktes fr Bürger:innen der EU (2006) bzw. dem Beitritt Polens zum Schengenraum (2007)
+- Diese Zuwanderung ist zurückzuführen auf die Öffnung des isländischen Arbeitsmarktes für Bürger:innen der EU (2006) bzw. dem Beitritt Polens zum Schengenraum (2007)
 - Die polnische Bevölkerung is endogam geprägt — also es wird die polnische Kultur gepflegt. Steff hat gleich mal einen polnischen Supermarkt ausgecheckt! Es werden nicht nur originale polnische Produkte verkauft, sondern es wird auch Polnisch gesprochen - da hat er gleich seine special „Język polski - Skills“ (ja! Karin hat hier copy-paste gemacht, weil sie es nicht schreiben kann! 😆) ausgepackt und sich ein [Prince Polo](https://de.wikipedia.org/wiki/Prince_Polo) gekauft.
 - Mit dieser Einwanderung ging auch ein Anstieg der römisch-katholischen Kirche auf 4 Prozent einher, denn die isländische Staatskirche ist evangelisch-lutherisch. 
 {{< /info >}}

@@ -165,7 +165,7 @@ Ein Stück Kultur, das es nicht nach Bayern geschafft hat… 😅
 
 Was für uns aber niemals fehlen darf, wenn wir eine Stadt besuchen, ist einfach losspazieren, die Atmosphäre der Stadt aufsaugen und schauen wohin es einen treibt.
 Das haben wir auch dieses Mal gemacht...
-Was allgemein auffällt: Die Tschechen neigen bei Installationen aller Art eher zum "improvisieren" als wir Österreicher bzw. Deutsche.
+Was allgemein auffällt: Die Tschechen neigen bei Installationen aller Art eher zum "Improvisieren" als wir Österreicher bzw. Deutsche.
 
 {{< fig src="IMG_20251109_122009.jpg" >}}
 

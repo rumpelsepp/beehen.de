@@ -18,7 +18,7 @@ Karin hat irgendwann einfach damit gestartet eine Zusammenfassung der Tage zu er
 
 ## Steff: der Mann mit den technischen Fähigkeiten
 
-Alle, die schon von Beginn an mitgelesen haben es vielleicht gemerkt, es gab immer wieder kleine optische und technische Updates in unserem Reisebericht. Steff ging nämlich voll ab! Zunächst hatte er noch eine Vorlage, das wurde ihm aber zu doof und er hat einfach ein simples eigenes [Hugo Theme](https://gohugo.io/) gebaut! Immer wieder kamen coole features wie #tags, Einbindung für Facebook, WhatsApp,... Vor/Zurück Buttons... Er hat auch die Inhalte/Bilder/Videos so editiert, dass es für den Blog gut ausschaut und hat dann alles online gestellt.
+Alle, die schon von Beginn an mitgelesen haben, haben es vielleicht gemerkt: Es gab immer wieder kleine optische und technische Updates in unserem Reisebericht. Steff ging nämlich voll ab! Zunächst hatte er noch eine Vorlage, das wurde ihm aber zu doof und er hat einfach ein simples eigenes [Hugo Theme](https://gohugo.io/) gebaut! Immer wieder kamen coole features wie #tags, Einbindung für Facebook, WhatsApp,... Vor/Zurück Buttons... Er hat auch die Inhalte/Bilder/Videos so editiert, dass es für den Blog gut ausschaut und hat dann alles online gestellt.
 
 Ganz ehrlich: Karin versteht, die Hälfte selbst nicht, was da "unter der Haube" passiert, aber das Ergebnis ist einfach saucool! - DANKE Steff!
 Das Schönste an dem gemeinsamen Projekt ist: jeder kann etwas recht gut und wir können spitzenmäßig zusammenarbeiten!

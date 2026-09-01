@@ -11,7 +11,7 @@ Wir haben zwar "nur" die Hinterlassenschaften mehrere Ausbrüche erkundet, aber 
 
 In Summe können wir sehr zufrieden sein; wir haben innerhalb von 19 Tagen 4000 km zurückgelegt und dabei quasi die ganze Insel umrundet.
 Unsere Reiseorganisation mit den angepeilten vier Nächten pro Unterkunft ist ziemlich gut aufgegangen; wenn wir's ändern würden, würden wir eher mehr Nächte als weniger pro Unterkunft wählen.
-Bei der ganzen Reise haben wir acht mal getankt (da wir paranoid waren, haben wir bereits immer getankt sobald der Tankstand auf 50% war 🙈).
+Bei der ganzen Reise haben wir acht Mal getankt (da wir paranoid waren, haben wir bereits immer getankt sobald der Tankstand auf 50% war 🙈).
 Die Helga war mit ~ 5 l Diesel auf 100 km ziemlich sparsam unterwegs finden wir!
 
 Diese Dinge haben wir (jeweils immer zu dritt) vor der Reise zu Hause gebucht.

@@ -16,7 +16,7 @@ Ein bisschen [Wikipedia](https://de.wikipedia.org/wiki/D%C3%A4mmerung) Zauberei:
 
 > Als Dämmerung bezeichnet man den fließenden Übergang von Lichtverhältnissen zu Anfang und Ende des lichten Tages im Wechsel zur Nacht, die aufgrund des Sonnenstandes und der Lichtstreuung in der Atmosphäre entstehen. Das wahrgenommene Licht wird als Dämmerlicht oder Dämmerschein bezeichnet. Physikalisch bedeutet Dämmerung die Zeitspanne, in der gestreutes Restlicht der Sonne, die unter dem Horizont steht, von einem Ort aus sichtbar ist. Sie dauert so lange, wie die zur Zone des Dämmerlichts nachtseitig verbreiterte Tag-Nacht-Grenze über diesen Standort hinwegzieht. 
 
-Es wird generell zwischen *drei* Dämmerungsphasen unterschieden. Im Bezugssystem eines Beobachters auf der Erde unterscheiden sich in dem Winkel in dem die Mitte der Sonnenscheibe unter dem Horizont steht. Nachfolgend eine kleine Grafik zum ausklappen.
+Es wird generell zwischen *drei* Dämmerungsphasen unterschieden. Im Bezugssystem eines Beobachters auf der Erde unterscheiden sie sich in dem Winkel, in dem die Mitte der Sonnenscheibe unter dem Horizont steht. Nachfolgend eine kleine Grafik zum Ausklappen.
 
 {{< details summary="Dämmerungsphasen" >}}
 {{< figure src="Twilight_subcategories_de.svg" attr="wikipedia/Dämmerung" attrlink="https://de.wikipedia.org/wiki/D%C3%A4mmerung#/media/Datei:Twilight_subcategories_de.svg" >}}

@@ -15,7 +15,7 @@ Wir haben jetzt ja schon öfter von der Tatsache berichtet, dass Island sich gan
 
 ## Unser erster Stopp: **Dimmuborgir**
 
-Nein, das hat nix mit der [Lieblingsband](https://www.youtube.com/watch?v=joEAb_y7ZYA)[^1] von Steffs Musilehrerin „da Fischin“ zu tun! Dimmuborgir heißt so viel wie „dunkle Burgen“ und ist eine ganz spezielle Art von Lavafeld. Vor über 2000 Jahren staute sich hier ein Lavasee auf. Das Wasser verdampfte und der Dampf bahnte sich einen Weg zur Oberfläche. Dadurch erstarrte die Lava in einer bizarren Formenvielefalt. Irgendwann ist dann aber auch der Damm gebrochen und die noch flüssige Lava floss zum Mývatn hin ab. Die erstarrten Türme blieben zurück. Wir können mittlerweile sehr gut nachvollziehen, dass diese Gegend die Fantasie der Isländer:innen stark angefeuert hat. Die Türme, Brücken 🌉, Höhlen und Überhänge erinnern wirklich an steinerne Gestalten - oder eben Trolle 🧌! 
+Nein, das hat nix mit der [Lieblingsband](https://www.youtube.com/watch?v=joEAb_y7ZYA)[^1] von Steffs Musilehrerin „da Fischin“ zu tun! Dimmuborgir heißt so viel wie „dunkle Burgen“ und ist eine ganz spezielle Art von Lavafeld. Vor über 2000 Jahren staute sich hier ein Lavasee auf. Das Wasser verdampfte und der Dampf bahnte sich einen Weg zur Oberfläche. Dadurch erstarrte die Lava in einer bizarren Formenvielfalt. Irgendwann ist dann aber auch der Damm gebrochen und die noch flüssige Lava floss zum Mývatn hin ab. Die erstarrten Türme blieben zurück. Wir können mittlerweile sehr gut nachvollziehen, dass diese Gegend die Fantasie der Isländer:innen stark angefeuert hat. Die Türme, Brücken 🌉, Höhlen und Überhänge erinnern wirklich an steinerne Gestalten - oder eben Trolle 🧌! 
 
 [^1]: auf eigene Gefahr! 😁
 
@@ -68,9 +68,9 @@ Wir fahren weiter und halten nur kurz bei der **endlosen Dusche** an.
 Und dann kommts ganz dicke... Steff so: „Oh Leid - hoits eich d'Nosn zua!“ Karin ist bedient mit Autofahren, aber versucht so wenig wie möglich zu atmen... 2 min später - es stinkt immer noch bestialisch - Steff so: „Boah des riacht aber scha echt streng!“ Der Grund: das **Krafla-Kraftwerk**! 
 
 {{< info >}}
-Das [Geothermalkratwerk](https://de.wikipedia.org/wiki/Krafla-Kraftwerk) direkt am Zentralvulkan Krafla nutzt die Energie aus dem Erdinneren, was sich nicht immer ganz ohne Probleme gestaltete. Nach dem Bau 1875 wurde wegen vulkanischer Aktivitäten erst 1999 die zweite Turbine in Betrieb genommen und seitdem ist das Kraftwerk das größte seiner Art. Ein Ausbau auf 150 MW ist geplant.
+Das [Geothermalkraftwerk](https://de.wikipedia.org/wiki/Krafla-Kraftwerk) direkt am Zentralvulkan Krafla nutzt die Energie aus dem Erdinneren, was sich nicht immer ganz ohne Probleme gestaltete. Nach dem Bau 1975 wurde wegen vulkanischer Aktivitäten erst 1999 die zweite Turbine in Betrieb genommen und seitdem ist das Kraftwerk das größte seiner Art. Ein Ausbau auf 150 MW ist geplant.
 
-**💡 Zum Vergleich**: Das stillgelegte Atomkraftwerk Isar 2 bei Landshut in Niederbayern lieferte 1,4 GW, fast das Zehnfache! Hier kommt die Energie allerdings gratis aus dem Boden - und ja, das Geothermalkraftwerkt stinkt bestialisch nach faulen Eiern! 🥚
+**💡 Zum Vergleich**: Das stillgelegte Atomkraftwerk Isar 2 bei Landshut in Niederbayern lieferte 1,4 GW, fast das Zehnfache! Hier kommt die Energie allerdings gratis aus dem Boden - und ja, das Geothermalkraftwerk stinkt bestialisch nach faulen Eiern! 🥚
 {{< /info >}}
 
 {{< fig src="IMG_20230810_150512.jpg" >}}

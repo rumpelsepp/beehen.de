@@ -11,22 +11,22 @@ tags: ["island"]
 An diesem Tag waren wir wirklich ein bisserl traurig, dass wir die Hütte verlassen mussten. Wir hätten es dort locker noch ein paar Tage ausgehalten. Aber wir wollten ja auch noch den Süden der Insel ein wenig näher erkunden. Neben Bier- und Furtenüberquerungstipps haben wir von Hans auch noch einen Tipp bekommen, wie wir am besten von Reykholt zu unserem letzten Cottage in der Nähe von Hella kommen. — Entlang des **Langjökull** natürlich.
 
 {{< info >}}
-(Danke Baedecker und Wikipedia)
+(Danke Baedeker und Wikipedia)
 
-- Der Langjökull ist der zweitgrößte Gletscher Isalands (953 m²)
+- Der Langjökull ist der zweitgrößte Gletscher Islands (953 km²)
 - Eisdicke: bis zu 580 m
 - Höchster Punkt = Baldjökull (1450 m)
 - Er beherrscht das westliche Hochland
 - Er ist ziemlich lang — daher auch der Name 😉 (15-20 km)
 - Unter seinem Eis befinden sich mindestens zwei aktive Vulkansysteme.
-- Wie es sich für Regionen mit Massentourismus gehört gibt es auch in Island atemberaubende/schräge/verrückte (je nachdem, wie man es sehen will) Möglichkeiten ein besonderes *Adventure* zu erleben. Eine davon ist hier: Ein 200 Meter langen Tunnel ins Innere des Gletschers... (Nur so viel: wir haben es nicht gemacht! 😉)
+- Wie es sich für Regionen mit Massentourismus gehört gibt es auch in Island atemberaubende/schräge/verrückte (je nachdem, wie man es sehen will) Möglichkeiten ein besonderes *Adventure* zu erleben. Eine davon ist hier: Ein 200 Meter langer Tunnel ins Innere des Gletschers... (Nur so viel: wir haben es nicht gemacht! 😉)
 {{< /info >}}
 
 Möglicherweise hängt die Frage, ob F-Road oder keine F-Road mit dieser Attraktion zusammen. Das Datenmaterial in unseren Karten war hier nicht ganz eindeutig. Danach wissen wir: 
 - bis zur Abzweigung zum Tunnel: ganz normale 3-stellige Straße
 - danach ein Stück harmlose F-Road, bis wir fast wieder beim Þingvallavatn sind
 
-TODO GoPro-Video einfügen
+> 🚧 **TODO:** GoPro-Video einfügen
 
 
 ## Abendgestaltung
@@ -40,8 +40,8 @@ Steff kann keine Wasserfälle mehr sehen und kümmert sich liebevoll um das Aben
 
 ### **Seljalandsfoss** und **Gljúfurárfoss**
 
-Nur eine halbe Stunde entfernt waren wieder einmal eine Reihe von Wasserfällen zu finden. Diese befinden sich an der Südwestecke des Eyjafjallajökull. Jo simmt! Des is der Vulkan der 2010 ausgebrochen is! Fost a bissl arg wie nahe des ois in Island so is!
-Wir haben es erfolgreich verdrängt und haben die Wasserfälle auf spezielle Art und Weise erkundet! Denn den **Seljalandsfoss** kann man "hintergehen" also hinterm Wasserfall herumlatschen. Den **Gljúfurárfoss** mussten wir suchen, denn der fällt wirklich in eine Höhle und ist von außen zunächst nur zu hören und nicht zu sehen. Nachdem wir ein eine falsche Spalte gelatscht sind - wir vermuten, da kam auch einmal Wasser runter, so wie die Felswände dort aussahen - haben wir die richtige Spalte gefunden... 
+Nur eine halbe Stunde entfernt waren wieder einmal eine Reihe von Wasserfällen zu finden. Diese befinden sich an der Südwestecke des Eyjafjallajökull. Jo stimmt! Des is der Vulkan der 2010 ausgebrochen is! Fost a bissl arg wie nahe des ois in Island so is!
+Wir haben es erfolgreich verdrängt und haben die Wasserfälle auf spezielle Art und Weise erkundet! Denn den **Seljalandsfoss** kann man "hintergehen" also hinterm Wasserfall herumlatschen. Den **Gljúfurárfoss** mussten wir suchen, denn der fällt wirklich in eine Höhle und ist von außen zunächst nur zu hören und nicht zu sehen. Nachdem wir in eine falsche Spalte gelatscht sind - wir vermuten, da kam auch einmal Wasser runter, so wie die Felswände dort aussahen - haben wir die richtige Spalte gefunden... 
 
 {{< fig src="IMG_20230815_110947.jpg" >}}
 {{< fig src="IMG_20230815_113645.jpg" >}}
