@@ -1,0 +1,68 @@
+{{- /*
+  Local override of Hugo's embedded _funcs/get-page-images.html.
+
+  Identical to the built-in, except that an auto-discovered *featured*
+  image resource (feature/cover/thumbnail) is downscaled to the Open
+  Graph reference size (1200x630) instead of being served at full
+  resolution. opengraph.html, twitter_cards.html and schema.html all
+  consume this helper, so they pick up the resized URL automatically.
+
+  Images set explicitly via the `images` front-matter parameter or the
+  site `params.images` are left untouched.
+*/ -}}
+{{- $imgs := slice }}
+{{- $imgParams := .Params.images }}
+{{- $resources := .Resources.ByType "image" -}}
+{{/* Find featured image resources if the images parameter is empty. */}}
+{{- if not $imgParams }}
+	{{- $featured := $resources.GetMatch "*feature*" -}}
+	{{- if not $featured }}{{ $featured = $resources.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+	{{- with $featured }}
+		{{- $og := . -}}
+		{{- if reflect.IsImageResourceProcessable . -}}
+			{{- $og = (.Filter images.AutoOrient).Process "fill 1200x630 q80" -}}
+		{{- end -}}
+		{{- $imgs = $imgs | append (dict
+			"Image" $og
+			"RelPermalink" $og.RelPermalink
+			"Permalink" $og.Permalink
+			)
+		}}
+	{{- end }}
+{{- end }}
+{{/* Use the first one of site images as the fallback. */}}
+{{- if and (not $imgParams) (not $imgs) }}
+	{{- with site.Params.images }}
+		{{- $imgParams = first 1 . }}
+	{{- end }}
+{{- end }}
+{{/* Parse page's images parameter. */}}
+{{- range $imgParams }}
+	{{- $img := . }}
+	{{- $url := urls.Parse $img }}
+	{{- if eq $url.Scheme "" }}
+		{{/* Internal image: check page resources first, then global resources. */}}
+		{{- with or ($resources.GetMatch $img) (resources.GetMatch $img) -}}
+			{{- $imgs = $imgs | append (dict
+				"Image" .
+				"RelPermalink" .RelPermalink
+				"Permalink" .Permalink
+				)
+			}}
+		{{- else }}
+			{{- $imgs = $imgs | append (dict
+				"RelPermalink" (relURL $img)
+				"Permalink" (absURL $img)
+				)
+			}}
+		{{- end }}
+	{{- else }}
+		{{/* External image */}}
+		{{- $imgs = $imgs | append (dict
+			"RelPermalink" $img
+			"Permalink" $img
+			)
+		}}
+	{{- end }}
+{{- end }}
+{{- return $imgs }}

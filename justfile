@@ -4,7 +4,7 @@ npm-build:
     npm run build
 
 build: npm-build
-    {{ hugo }} build --gc
+    {{ hugo }} build
 
 serve: npm-build
     {{ hugo }} server --buildDrafts
