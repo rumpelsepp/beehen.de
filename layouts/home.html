@@ -37,11 +37,9 @@
       "url" $p.RelPermalink
     }}
 
-    {{ $imgName := default "feature.jpg" ($p.Param "image") }}
-    {{ $imgPath := urls.JoinPath $p.Path $imgName }}
-    
-    {{ if fileExists $imgPath }}
-      {{ $context = merge $context (dict "image" (urls.JoinPath $p.RelPermalink $imgName)) }}
+    {{ with $p.Resources.GetMatch (default "feature.jpg" ($p.Param "image")) }}
+      {{ $card := (.Filter images.AutoOrient).Resize "800x webp" }}
+      {{ $context = merge $context (dict "image" $card.RelPermalink) }}
     {{ end }}
 
     <div class="col-md-6">

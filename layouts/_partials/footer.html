@@ -1,0 +1,35 @@
+{{- /*
+  Local override of the theme's footer partial.
+
+  The theme stylesheet (bundle_src/css/main.css) styles a structured footer
+  via .footer-inner / .footer-brand / .footer-col / .footer-bottom, but the
+  theme's own footer.html only emits a bare inline menu — so #site-footer
+  rendered as an unpadded dark strip. This markup matches the existing CSS.
+*/ -}}
+<div class="footer-inner container">
+  <div class="footer-brand">
+    {{ site.Title }}
+    {{- with site.Params.description }}
+      <span class="footer-tagline">{{ . }}</span>
+    {{- end }}
+  </div>
+
+  {{- with index site.Menus "footer" }}
+    <nav class="footer-col" aria-label="Footer">
+      <ul>
+        {{- range . }}
+          <li>
+            <a href="{{ .URL }}"
+              {{- if $.IsMenuCurrent .Menu . }} class="active" aria-current="page"{{ end -}}
+            >{{ .Name }}</a>
+          </li>
+        {{- end }}
+      </ul>
+    </nav>
+  {{- end }}
+
+  <div class="footer-bottom">
+    © {{ now.Year }} {{ site.Title }} ·
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.de" rel="license noopener" target="_blank">CC BY-NC 4.0</a>
+  </div>
+</div>

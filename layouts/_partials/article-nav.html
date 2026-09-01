@@ -1,25 +1,13 @@
-<nav class="article-nav">
-    <div class="container">
-        <div class="row">
-            <div class="col col d-flex justify-content-start">
-                <a
-                {{ with .PrevInSection }}
-                    href="{{ .RelPermalink }}" class="btn btn-light"
-                {{ else }}
-                    aria-disabled="true" class="btn btn-light disabled" href=""
-                {{ end }}
-                >« vorheriger Artikel</a>
-            </div>
+<nav class="article-nav d-flex flex-wrap justify-content-between gap-2" aria-label="Artikelnavigation">
+    {{ with .PrevInSection }}
+        <a class="btn btn-light" href="{{ .RelPermalink }}" rel="prev">« vorheriger Artikel</a>
+    {{ else }}
+        <span class="btn btn-light disabled" aria-disabled="true">« vorheriger Artikel</span>
+    {{ end }}
 
-            <div class="col col d-flex justify-content-end">
-                <a
-                    {{ with .NextInSection }}
-                        href="{{ .RelPermalink }}" class="btn btn-light"
-                    {{ else }}
-                        aria-disabled="true" class="btn btn-light disabled" href=""
-                    {{ end }}
-                >nächster Artikel »</a>
-            </div>
-        </div>
-    </div>
+    {{ with .NextInSection }}
+        <a class="btn btn-light" href="{{ .RelPermalink }}" rel="next">nächster Artikel »</a>
+    {{ else }}
+        <span class="btn btn-light disabled" aria-disabled="true">nächster Artikel »</span>
+    {{ end }}
 </nav>
