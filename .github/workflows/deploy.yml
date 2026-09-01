@@ -21,6 +21,13 @@ jobs:
         uses: actions/setup-node@v6
       - name: Setup just
         uses: extractions/setup-just@v3
+      - name: Cache Hugo image resources
+        uses: actions/cache@v4
+        with:
+          path: resources/_gen
+          key: hugo-resources-${{ github.run_id }}
+          restore-keys: |
+            hugo-resources-
       - name: Install npm deps
         run: npm ci
       - name: Install SSH key

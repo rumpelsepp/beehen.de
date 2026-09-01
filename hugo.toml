@@ -15,6 +15,8 @@ theme = 'bienensteff'
 description = 'Eine kleine Erkundung der Welt'
 breadcrumb = false
 blogAsHome = true
+# Zielformat, in das der fig-Shortcode Bilder konvertiert
+imageFormat = 'webp'
 
 
 [menus]
@@ -34,8 +36,15 @@ weight = 20
     privacyEnhanced = true
 
 [imaging]
-  quality = 97
+  # Fallback-Qualitaet fuer Formate ohne eigenen Block (z. B. jpeg)
+  quality = 92
   resampleFilter = "Lanczos"
+
+  [imaging.webp]
+    # Fuers Web praktisch verlustfrei wahrnehmbar, deutlich kleiner als 97
+    quality = 85
+    # 0-6, hoeher = bessere Kompression bei langsamerem Encode (einmalig, dank Cache)
+    method = 6
 
 [markup]
   [markup.goldmark]
