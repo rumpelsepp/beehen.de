@@ -7,7 +7,7 @@ build: clean npm-build
         --rm \
         --interactive \
         --tty \
-        --volume "$PWD:/mnt/$PWD" \
+        --volume "$PWD:/mnt/$PWD:z" \
         --workdir "/mnt/$PWD" \
         --userns keep-id \
         --group-add keep-groups \
@@ -25,7 +25,7 @@ serve: clean npm-build
        --rm \
        --interactive \
        --tty \
-       --volume "$PWD:/mnt/$PWD" \
+       --volume "$PWD:/mnt/$PWD:z" \
        --workdir "/mnt/$PWD" \
        --userns keep-id \
        --group-add keep-groups \
