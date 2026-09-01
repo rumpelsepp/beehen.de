@@ -7,9 +7,9 @@ draft: false
 
 *Das Glück dieser Erde liegt auf dem Rücken der (Island-)Pferde - oder - Verdammt, warum haben wir nicht kapiert, was Mývatn auf Deutsch heißt?*
 
-Nachdem wir die letzten zweit Tage wirklich viel on the road waren, haben wir uns heute dazu entschieden, einen gemütlichen Tag rund um unsere Unterkunft bei der Mama machen wollen. 
+Nachdem wir die letzten zwei Tage wirklich viel on the road waren, haben wir uns heute dazu entschieden, einen gemütlichen Tag rund um unsere Unterkunft bei der Mama zu machen. 
 
-_**kleine Sidenote:** Mittlerweile haben kapiert, dass die Mama eher einer seeeehr strengen Heimaufsicht 🧹 gleicht - aber wir kommen gut damit klar, denn wir wissen ja, dass WIR den Feueralarm nicht zum drölften Mal ausgelöst haben, sondern möglicherweise die Knaller nebenan…_
+_**kleine Sidenote:** Mittlerweile haben wir kapiert, dass die Mama eher einer seeeehr strengen Heimaufsicht 🧹 gleicht - aber wir kommen gut damit klar, denn wir wissen ja, dass WIR den Feueralarm nicht zum drölften Mal ausgelöst haben, sondern möglicherweise die Knaller nebenan…_
 
 Mývatn und seine Umgebung bieten jede Menge Highlights vulkanischen Ursprungs - von brodelnden Schlammtöpfen, über leuchtende Schwefelfelder und riesige erstarrte Lavaströme bis hin zum Ringwallkrater und Pseudokrater ist alles dabei. All das befindet sich rings um einen See mit sattgrünen Inseln 🏝️ und Buchten, wo tausende Vögel leben 🐦.
 
@@ -44,7 +44,7 @@ Unsere Unterkunft ist ganz zufällig auch eine Reiterfarm! Darum haben Eva und K
 **Islandpferde 🐎**
 - kamen mit den ersten Siedlern, denn davor gab es eigentlich nur den Polarfuchs in Island
 - Durch die isolierte Lage (Insel) haben sich die Ur-Islandpferde in den letzten 1000 Jahren nicht verändert
-- Um diese einzigartige Rasse zu bewahren, gibt es ein Gesetz,das den Import von Tieren verbietet
+- Um diese einzigartige Rasse zu bewahren, gibt es ein Gesetz, das den Import von Tieren verbietet
 - **Funfact**: selbst auf der Insel aufgewachsene Pferde, die im Ausland waren dürfen nicht mehr zurück
 - Sie haben im Unterschied zu anderen Pferden *vier* Gangarten - sie können zusätzlich [**Tölt**](https://www.youtube.com/watch?v=wGziDugCL9I)
 {{< /info >}}

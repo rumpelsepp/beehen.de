@@ -17,7 +17,7 @@ draft: false
 
 Das war der Ausgangspunkt für unsere Tour. Das scheinen ja ganz präzise
 Beschreibungen für unsere heutige Wanderung zu sein. - Dachten wir. Der
-Aufstieg war tatsächlich easy. Viele Schilder, ein Breit ausgetretener
+Aufstieg war tatsächlich easy. Viele Schilder, ein breit ausgetretener
 Weg, Menschen, die vom Golden Circle zu den warmen Quellen pilgern,
 Menschen die auf Ponys reiten - a gmahde Wiesn! - Abgesehen von der
 massiven Muckal-Population (🇩🇪: Mücken), die uns beim Aufstieg das Atmen schwer
@@ -41,7 +41,7 @@ unsere Tour fortsetzen wollen – klang ja ganz easy in der Beschreibung…
 {{< fig src="wanderung-dampf.jpg" >}}
 
 Naja… es war auf jeden Fall wunderschön und es war ein Abenteuer. Wir
-waren so ziemlich alleine unterwegs.Nur eine Isländerin mit Hund haben
+waren so ziemlich alleine unterwegs. Nur eine Isländerin mit Hund haben
 wir getroffen, die selbst die Ruhe im Tal und die Tatsache, dass man
 hier die Aktivität in der Erde spüren und hören kann feierte.
 

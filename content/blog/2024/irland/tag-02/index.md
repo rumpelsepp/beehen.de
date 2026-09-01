@@ -27,7 +27,7 @@ Die grandios engen Straßen mit Linksverkehr werden von lebensmüden Busfahrern 
 {{< fig src="1000024188.jpg" >}}
 
 {{< info >}}
-Der **Ring of Kerry** ([irisch](https://de.wikipedia.org/wiki/Irische_Sprache) Mórchuaird Chiarraí) ist eine 179 km lange [Panoramaküstenstraße](https://de.wikipedia.org/wiki/Irische_Sprache) im [County Kerry](https://de.wikipedia.org/wiki/Irische_Sprache) im Südwesten [Irlands](https://de.wikipedia.org/wiki/Irische_Sprache).
+Der **Ring of Kerry** ([irisch](https://de.wikipedia.org/wiki/Irische_Sprache) Mórchuaird Chiarraí) ist eine 179 km lange [Panoramaküstenstraße](https://de.wikipedia.org/wiki/Ferienstra%C3%9Fe) im [County Kerry](https://de.wikipedia.org/wiki/County_Kerry) im Südwesten [Irlands](https://de.wikipedia.org/wiki/Irland).
 Busse und Lkw dürfen den Ring wegen der Enge der Straßen nur in einer Richtung (gegen den Uhrzeigersinn) der irischen Nationalstraße 70 befahren.
 Die N70 führt um die [Iveragh-Halbinsel](https://de.wikipedia.org/wiki/Iveragh-Halbinsel) entweder küstennah oder direkt die Küste entlang von [Kenmare](https://de.wikipedia.org/wiki/Kenmare) über [Waterville](https://de.wikipedia.org/wiki/An_Coire%C3%A1n) nach [Killorglin](https://de.wikipedia.org/wiki/Killorglin); dann landeinwärts über Killarney und wieder nach Kenmare.
 Eine Wanderversion dieser Straße stellt der Fernwanderweg [Kerry Way](https://de.wikipedia.org/wiki/Kerry_Way) dar.
@@ -54,7 +54,7 @@ _schamlos aus Wikipedia kopiert: https://de.wikipedia.org/wiki/Pinte_
 {{< /info >}}
 
 Karin und Steff haben am selben Abend gelernt: Die Flagge von Kerry ist ein gelb-grünes Karomuster… 
-Wobei wir aber immer noch glauben, dass die gesehene Flagge in Pub weiß-blau und Rautenmuster war 🤩.
+Wobei wir aber immer noch glauben, dass die gesehene Flagge im Pub weiß-blau und Rautenmuster war 🤩.
 Der Kellner musste ganz schön lachen, als wir ihn gefragt haben, warum sie denn eine Bavarian flag hier hätten! 🤣🤣🤣
 Long story short: Wir hatten einen mega lustigen Abend!
 

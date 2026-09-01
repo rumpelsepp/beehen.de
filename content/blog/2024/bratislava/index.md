@@ -12,7 +12,7 @@ Was macht man, wenn er Geburtstag hat, sie aber für ein Arbeitstreffen in Wien 
 
 Steff ist super happy, weil er erfolgreich seine Bienen 🐝 umgezogen hat und cruist um ca. 14:35 Uhr in München Hauptbahnhof los, damit er mit Karin um ca. 19:35 Uhr am Hauptbahnhof in Wien noch was speisen kann. 🇦🇹
 
-Karin feiert zuerst noch das geniale Frühstück und ihr Lieblingszimmer (da waren wir auch schon mal gemeinsam!) im SDG-Hotel (Boutiquehotel Stadthalle) in Wien. _Achtung Schleichwerbung_ - Na im ernst! - Wenn ihr mal a coole Unterkunft in Wien braucht - des is the place to be! - De haben ernsthaft auch Bienen am Dach! 🐝
+Karin feiert zuerst noch das geniale Frühstück und ihr Lieblingszimmer (da waren wir auch schon mal gemeinsam!) im SDG-Hotel (Boutiquehotel Stadthalle) in Wien. _Achtung Schleichwerbung_ - Na im Ernst! - Wenn ihr mal a coole Unterkunft in Wien braucht - des is the place to be! - De haben ernsthaft auch Bienen am Dach! 🐝
 
 {{< fig src="IMG_20240314_222446.jpg" >}}
 
@@ -67,7 +67,7 @@ Der Gebirgszug der Karpaten beginnt im Stadtgebiet von Bratislava mit den [Thebe
 Quelle: https://de.wikipedia.org/wiki/Bratislava
 {{< /info >}}
 
-Den Weg zum "Mannschgerl on a stick" haben wir ganz mutig ohne großartig ein Navi zu benutzen gemacht. Is jo a vü cooler - des ko jo a nit so schwer sein, wenn man ständig des Ding sieht. Des war schon a guate Idee, weil so kommt man auch a bissl auf andere Wege - zum Beispiel vorbei an der Botschaft der Niederlanden 🇳🇱 und von Rumänien 🇷🇴 - Echt spannend diese Siedlungen auf den Hügeln. Recht eng und verwinkelt alles, manchmal wirkt es chaotisch, aber doch alles total schön und liebevoll gemacht mit kleinen Stiegen  zwischendurch und vielen gerade schon blühenden Gärten! 🌸🌼
+Den Weg zum "Mannschgerl on a stick" haben wir ganz mutig ohne großartig ein Navi zu benutzen gemacht. Is jo a vü cooler - des ko jo a nit so schwer sein, wenn man ständig des Ding sieht. Des war schon a guate Idee, weil so kommt man auch a bissl auf andere Wege - zum Beispiel vorbei an der Botschaft der Niederlande 🇳🇱 und von Rumänien 🇷🇴 - Echt spannend diese Siedlungen auf den Hügeln. Recht eng und verwinkelt alles, manchmal wirkt es chaotisch, aber doch alles total schön und liebevoll gemacht mit kleinen Stiegen  zwischendurch und vielen gerade schon blühenden Gärten! 🌸🌼
 
 ## Kriegerdenkmal Slavín
 

@@ -72,7 +72,7 @@ dampft es, in anderen blubbert das heiße Wasser vor sich hin, wieder
 andere sehen aus wie himmelblaue Heißwasseraugen und dann gibt es noch
 diesen hier: den **Stokkur** – die Springquelle.
 
-TODO: Video von Ausbruch hochladen. :)
+> 🚧 **TODO:** Video vom Ausbruch hochladen
 
 … jou, aber wie funktioniert das jetzt eigentlich?
 

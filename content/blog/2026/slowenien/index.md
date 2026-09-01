@@ -39,7 +39,7 @@ Bevor wir uns aber wirklich auf den Weg machen, brauchen wir – ihr könnt es e
 Steff ist der Beisl-Finder, darum wirft er kurzerhand einen Blick auf die Karte und findet natürlich den genialsten Bäcker im ganzen Ort (Feistritz an der Gail) – Karin war zwar ultimativ verwirrt vor der Tür – das Ding hat eher ausgeschaut wie ein Eingang in irgendeinen Hinterhof – aber drinnen – alter Falter – da hat es herrlich nach allen möglichen süßen Leckereien geduftet und eine richtig liebe Dame hat uns aufgeklärt, mit wie vielen unterschiedlichen Füllungen sie ihre Teilchen – selbstverständlich selbst! – bestückt.
 Und die Dinger, so wie auch das Brot, das wir uns eingekauft haben, waren der Hammer! DANKE – Beisl-Finder Steff – you rock (natürlich auch die Bäckerei)!
 
-TODO: Bilder Bäckerei / Route einfügen
+> 🚧 **TODO:** Bilder Bäckerei / Route einfügen
 
 Danach geht's ab über die italienische Grenze nach Tarvis 🇮🇹, wo wir aber gleich Richtung Slowenien 🇸🇮 abbiegen.
 Wir merken schon aufgrund der Straßenführung bzw. -beschaffenheit und dem Fahrstil der anderen Autofahrer:innen, dass wir nimmer in AUT sind… schon a bissl spannend immer wieder… und auch die Vegetation ist echt schon anders! – So schön, wenn man einfach mit wachem Auge durch eine noch unbekannte Region cruised!
@@ -57,7 +57,7 @@ Wir zwei Knaller watscheln einfach mal durch den Schützengraben und versuchen u
 
 Den schon erwähnten Grenzstein haben wir natürlich auch noch angeschaut inkl. verfallener Truppenunterkünfte – zumindest mutmaßen wir, dass es solche sind.
 
-TODO: Bilder Schützengraben / Grenzstein einfügen
+> 🚧 **TODO:** Bilder Schützengraben / Grenzstein einfügen
 
 Auch wenn wir nach solchen Spots schon immer a wengal bedrückt sind, finden wir es wichtig, sich auch solche Dinge anzuschauen – Erinnerungskultur sozusagen.
 
@@ -69,7 +69,7 @@ ZUM GLÜCK war das Wetter eher bescheiden und damit kaum andere Menschen unterwe
 Karin ist am Steuer und fährt einfach mal recht unbedarft los. Es dauert nicht lange und es wird echt eng, die Straße schlängelt sich zunächst durch den Wald, es gibt immer wieder Ausweichbuchten, aber bald wird's noch enger und wir fahren in Tunnels, natürlich ohne Licht, und wir fahren gefühlt eine Felswand hinauf! Im Ernst – des war die Straße der Hölle! – Steff wurde immer leiser und hatte spätestens, als wir auf eine fette Felswand zufahren, echt a bissl Schiss – Zitat Steff: „I bin a Waidler und koa Gams!“ … naja, Karin kommt zwar aus dem gebirgigen Pongau und hat schon einiges erlebt, aber das hat ihr auch nimmer taugt – aber sie blieb stark und hat den Pass bezwungen! – Juhuu!
 Sche woas trotzdem (als wir wieder unten waren ;-)).
 
-TODO: Bilder Mangart-Passstraße einfügen
+> 🚧 **TODO:** Bilder Mangart-Passstraße einfügen
 
 ## An der Soča
 
@@ -77,7 +77,7 @@ Naja, und dann waren wir noch an der Soča! – Der Fluss ist bekannt für's Kaj
 Es waren zwar schon drölf andere Touris mit uns unterwegs, als wir zur Hängebrücke spazierten, aber es hat sich trotzdem gelohnt! – Unfassbar, wie blau das Wasser dort ist!
 Und die ersten Bienenbeuten haben wir auch gesehen! 🐝
 
-TODO: Bilder Soča / Hängebrücke einfügen
+> 🚧 **TODO:** Bilder Soča / Hängebrücke einfügen
 
 Am Abend kamen wir dann ziemlich entspannt in unserer ersten Unterkunft im Wippachtal an…
 
@@ -91,13 +91,14 @@ btw. Autofahren in Italien ist pain… De typies reden nicht nur so schnell und 
 Weil Karin so tapfer am Berg gefahren ist, darf sich aber diesmal Steff mit den erschwerten Bedingungen auseinandersetzen.
 Naja – aber Triest war schon wirklich schön! – Geheimtipp von Karin: Probierts des Feigeneis im Beislfinder-Eisladen – unfassbar guat!
 
-TODO: Link Eisladen einfügen
-TODO: Bilder Triest einfügen
+> 🚧 **TODO:** Link Eisladen einfügen
+>
+> 🚧 **TODO:** Bilder Triest einfügen
 
 {{< info >}}
 **Info für Gscheithaferl:** Geschichte von Triest – Kaffeekultur, Österreich-Ungarn usw.
 
-TODO: ausformulieren
+🚧 **TODO:** ausformulieren
 {{< /info >}}
 
 ## Piran
@@ -112,7 +113,7 @@ Wir spazieren den Strand entlang, wo sich wieder mal drölf andere Touristen in 
 Die Slowenen sind schon voll entspannt und total nett.
 Es erinnert uns schon ein bisschen an die Urlaube früher in Italien oder Kroatien 🇭🇷, aber irgendwie ist es alles ein bisschen entspannter.
 
-TODO: Bilder Piran einfügen
+> 🚧 **TODO:** Bilder Piran einfügen
 
 Damit wir unsere Badesachen nicht ganz umsonst mitgschleppt haben, hüpft Karin dann doch auch noch in ihre Badesachen und schmeißt sich ins Meer.
 Aber ab jetzt weiß sie: hmmm… a wenn i das früher echt ziemlich gern hatte, einfach am Strand zu flaken und wenn's mir zu warm wird ins Wasser zu springen, i mag des echt nimmer!
@@ -127,5 +128,5 @@ jou… jetzt weiß sie es wenigstens! – Aber sie war drinnen!
 {{< info >}}
 **Funfact:** Die Grenze zwischen Kroatien und Slowenien ist hier nicht gaaaanz geklärt, darum ist der Verlauf etwas schräg…
 
-TODO: Details / Quelle ergänzen
+🚧 **TODO:** Details / Quelle ergänzen
 {{< /info >}}

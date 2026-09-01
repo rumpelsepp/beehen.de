@@ -34,10 +34,10 @@ Pride zu feiern.
 {{< fig src="regenbogen.jpg" >}}
 
 Mittlerweile ist die Farbe permanent dort. Wie die
-Stadtätin Dóra Björt Guðjónsdottir sagt: „Es ist wunderbar, dass der
+Stadträtin Dóra Björt Guðjónsdottir sagt: „Es ist wunderbar, dass der
 Regenbogen jetzt immer hier sein wird, weil das ein Symbol Reykjavíks
-als Stadt der Menschenrechte ist, wo jeder willkommen ist. Wir haben bei
-☕ Cappucino, Americano, Tee und Waffeln im [**Mokka Kaffi**](https://goo.gl/maps/GdU8M3hisUZ2wged6)
+als Stadt der Menschenrechte ist, wo jeder willkommen ist.“ Wir haben bei
+☕ Cappuccino, Americano, Tee und Waffeln im [**Mokka Kaffi**](https://goo.gl/maps/GdU8M3hisUZ2wged6)
 natürlich mit gefeiert 🥳. 
 Das ist nämlich eines der ältesten Cafés
 Reykjavíks, wo die erste Espressomaschine Islands stand. Es ist noch
@@ -51,9 +51,9 @@ Es ging ab zum **whale watching**.
 {{< fig src="kueste.jpg" >}}
 
 Es war ein wunderbarer Tag mit viel
-Sonnenschein und guten Chancen die Wale zu sehen. Wir hatte Glück, wir haben gleich mehrere Zwergwale (aka. minke whales) gesehen 🐳.
+Sonnenschein und guten Chancen die Wale zu sehen. Wir hatten Glück, wir haben gleich mehrere Zwergwale (aka. minke whales) gesehen 🐳.
 
-TODO: GoPro Walvideo einfügen. :)
+> 🚧 **TODO:** GoPro-Walvideo einfügen
 
 {{< info >}}
 
@@ -62,7 +62,7 @@ TODO: GoPro Walvideo einfügen. :)
     -   Es ist ein Bartenwal
     -   Es gibt auf der Südhalbkugel auch eine Zwergwalpopulation, die
         ein bisschen größer werden können.
-    -   Ein Walkalb wieg bei der Geburt 450 kg
+    -   Ein Walkalb wiegt bei der Geburt 450 kg
 
 -   Man kann die Wale auf See anhand von folgenden Merkmalen finden:
 
@@ -80,7 +80,7 @@ TODO: GoPro Walvideo einfügen. :)
 
 Nachdem wir erfolgreich Wale beobachtet hatten, war uns allen schlecht!
 Am sicheren hinteren, bzw. unteren Ende des Bootes haben wir es zwar
-tief gefroren aber speibfrei in den den Hafen geschafft.
+tief gefroren aber speibfrei in den Hafen geschafft.
 
 {{< fig src="bier.jpg" >}}
 {{< fig src="burger.jpg" >}}

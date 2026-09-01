@@ -40,7 +40,7 @@ Was wir aber herausgefunden haben:
 *Ich will meine Bayernfahne haben! Irgendwann wird das 🏴󠁤󠁥󠁢󠁹󠁿 funktionieren!*
 
 Was uns als Landkinder besonders aufgefallen ist, sind die 100e Heuballen die überall herum liegen. Wir wussten ja von den Schafen, den Pferden, auch von den Gewächshäusern, wo die Isländer:innen jede Menge Obst und Gemüse anbauen, aber das mit dem Heu war uns neu - es sind wirklich sehr, sehr viele Heuballen...
-Ganz zufriedenstellend ist unsere Antwort nicht: Nur ca. 2,3% des Landes werden für den Anbau von Nahrungsmittel und die [Heuernte genutzt](https://www.eldey.de/Wirtschaft/Landwirtschaft/landwirtschaft.html).
+Ganz zufriedenstellend ist unsere Antwort nicht: Nur ca. 2,3% des Landes werden für den Anbau von Nahrungsmitteln und die [Heuernte genutzt](https://www.eldey.de/Wirtschaft/Landwirtschaft/landwirtschaft.html).
 
 Was uns aufgefallen ist bzw. was wir daraus schließen:
 - Die Heuhaufen nach dem Bedingsen mit dem "Kreislheiga" sind verhältnismäßig echt klein
@@ -77,12 +77,12 @@ Hans (Ja wir haben ihn schon "zitiert") hat uns vom jährlichen [Fischfest in Da
 {{< fig src="IMG_20230811_143441.jpg" >}}
 {{< fig src="IMG_20230811_151219.jpg" >}}
 
-Wir wollten uns das Dörfchen aber trotzdem anschauen! Es war schon sehr viel los und es war reger Betrieb im ganzen Ort (Luftballons aufhängen, Bühne aufbauen, Stellplatz am Campingplatz suchen)... und mittendrin läuft uns  der Hans über den Weg! - Wir haben gemeinsam einen Kaffee im traditionellen lokalen Kaffi getrunken und einen Bier-Geheimtipp bekommen. Außerdem haben wir einen weiteren insider Tipp zum Überqueren einer Furt bekommen.
+Wir wollten uns das Dörfchen aber trotzdem anschauen! Es war schon sehr viel los und es war reger Betrieb im ganzen Ort (Luftballons aufhängen, Bühne aufbauen, Stellplatz am Campingplatz suchen)... und mittendrin läuft uns der Hans über den Weg! - Wir haben gemeinsam einen Kaffee im traditionellen lokalen Kaffi getrunken und einen Bier-Geheimtipp bekommen. Außerdem haben wir einen weiteren insider Tipp zum Überqueren einer Furt bekommen.
 
 {{< info header="💡 Pro-Tipp für das Überqueren einer Furt 💡" >}} 
 Man werfe einen großen Stein in die Mitte der Furt. Wenn man den Stein am Boden aufkommen hört, dann ist alles sicher. Wenn man ihn nicht hört ist sie zu tief. 👌👍
 
 Wir haben's trotzdem **nicht** probiert… 🤣
-{{< /box >}}
+{{< /info >}}
 
 Schließlich sind wir dann weiter zur Hazienda gedüst... nähere Infos dazu kommen dann im nächsten Artikel!

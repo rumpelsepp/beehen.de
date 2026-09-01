@@ -40,7 +40,7 @@ Dieser kleine Fischerort ist ein echter Geheimtipp. Das Örtchen liegt idyllisch
 {{< fig src="IMG_20230807_173409.jpg" >}}
 {{< fig src="IMG_20230807_173020.jpg" >}}
 
-Außerdem haben wir unserem abenteuerlichen Wander-Reiseführer mit den akkuraten Wegbeschreibungen hier noch eine Chance gegeben! - Wir wollten ein Stück um den **Botnsvatn** spazieren, weil wir jetzt echt schon viel zu lange einfach nur im Auto gehockt sind. Im Reiseführer wurde der See als „wie ein überdimensionaler Infinitypool“ beschrieben, weil man einen wirklich großartigen Blick auf die Skjálfandi-Bucht (Erdbebenbucht) gewährt. Irgendwie lud das auch ein bisschen zum badln ein… Zum Glück haben wir das nicht gemacht - Denn der Botnsvatn geht bei uns aus folgenden Gründen als „Itchy-See“ in die Reisegeschichte ein! 
+Außerdem haben wir unserem abenteuerlichen Wander-Reiseführer mit den akkuraten Wegbeschreibungen hier noch eine Chance gegeben! - Wir wollten ein Stück um den **Botnsvatn** spazieren, weil wir jetzt echt schon viel zu lange einfach nur im Auto gehockt sind. Im Reiseführer wurde der See als „wie ein überdimensionaler Infinitypool“ beschrieben, weil man einen wirklich großartigen Blick auf die Skjálfandi-Bucht (Erdbebenbucht) hat. Irgendwie lud das auch ein bisschen zum badln ein… Zum Glück haben wir das nicht gemacht - Denn der Botnsvatn geht bei uns aus folgenden Gründen als „Itchy-See“ in die Reisegeschichte ein! 
 
 {{< fig src="IMG_20230807_184147.jpg" >}}
 {{< fig src="IMG_20230807_190051.jpg" >}}
@@ -55,7 +55,7 @@ Am hinteren Ende des Sees haben wir ein wichtiges Schild entdeckt! Dort wurden W
 
 - Die im Wasser leben und normalerweise Enten oder Vögel als Wirte benutzen. 
 - Sie saugen sich an der Haut fest, suchen ihren Weg zum Darm, wo sie sich vermehren und dann wieder ausgeschieden werden. 
-- Geht man in so einem Gewässer  schwimmen, saugen sich de bleden Viecher dann auch beim Menschen an, schaffen es aber dann nicht bis zum Darm
+- Geht man in so einem Gewässer schwimmen, saugen sich de bleden Viecher dann auch beim Menschen an, schaffen es aber dann nicht bis zum Darm
 - Man bekommt einen eher greislichen und schmerzhaften Ausschlag. 
 {{< /info >}}
 

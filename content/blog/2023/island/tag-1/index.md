@@ -14,7 +14,7 @@ schon mal super! Oder?
 … naja fast.
 
 Als sich beim vereinbarten Zeitpunkt noch immer keiner am Schalter
-blicken lies, haben wir dann doch mal angerufen… erfolglos. Nach einigem
+blicken ließ, haben wir dann doch mal angerufen… erfolglos. Nach einigem
 Hin und Her und auch verwirrten Blicken von den Menschen die bei der
 Autovermietung nebenan arbeiteten, haben wir herausgefunden: Für diese
 Firma arbeitet kein eigener Dude, wir hätten uns einfach bei der
@@ -23,7 +23,7 @@ Schlange anstellen sollen…
 Aber Ende gut – alles Gut! — Wir haben unsere Helga auf Zeit adoptiert!
 🫶😉
 
-{{< fig src="helga.jpg" caption="unser fahrbahrer Untersatz" >}}
+{{< fig src="helga.jpg" caption="unser fahrbarer Untersatz" >}}
 
 Nun konnte es los gehen. Wir entschlossen uns die Halbinsel
 **Reykjanes** die Rauchhalbinsel zu erkunden, bevor wir in
@@ -52,12 +52,12 @@ wird!
 
 {{< youtube id="OUdz7lndC1s" >}}
 
-Danach haben wir eine kleine Wanderung zur Klippe die mit Moos und Gras
+Danach haben wir eine kleine Wanderung zur Klippe gemacht, die mit Moos und Gras
 bewachsen ist und von so weißem Zeugs bedeckt war. Die Aussicht von der
 Klippe aus war einfach der Wahnsinn!
 
 Und wir haben herausgefunden, was das weiße Zeugs ist… Da nisten einfach
-100e Möven… 💩
+100e Möwen… 💩
 
 {{< fig src="moewen.jpg" >}}
 

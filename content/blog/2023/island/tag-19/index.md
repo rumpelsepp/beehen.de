@@ -15,7 +15,7 @@ Nach einer wahnsinnig schönen, erlebnisreichen und eindrucksvollen Zeit in Isla
 
 Eva geht noch einmal Duschen... sie hat ja heute - JUHUUUUUU ein Date mit dem Piloten in Reykjavik! 😏
 
-Danach können wir los! Heute ist zum ersten mal wirklich Regen angesagt... wir können nur betonen: Wir hatten echt so ein Glück mit dem Wetter 🌞 => Des woa fost scho kitschig! Gleichzeitig hatten wir schon immer wieder auch Sorge, was zu Hause gerade abgeht - ständige Unwetterwarnungen am Handy, Nachrichten von Hochwasser, Muren, Waldbränden... Das ist wirklich nicht schön... 😭
+Danach können wir los! Heute ist zum ersten Mal wirklich Regen angesagt... wir können nur betonen: Wir hatten echt so ein Glück mit dem Wetter 🌞 => Des woa fost scho kitschig! Gleichzeitig hatten wir schon immer wieder auch Sorge, was zu Hause gerade abgeht - ständige Unwetterwarnungen am Handy, Nachrichten von Hochwasser, Muren, Waldbränden... Das ist wirklich nicht schön... 😭
 
 Zurück in Reykjavik, haben wir uns noch 1x Kaffee und Waffeln im [Mokka Kaffi](https://goo.gl/maps/ujTMuZppPi5qLo7y8) gegönnt, und dabei unsere letzten Postkarten geschrieben 😉. - Jupp wir waren schon sehr früh dran! Danach gehen alle eine Runde spazieren.
 

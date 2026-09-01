@@ -18,7 +18,7 @@ Einfach rein spazieren und schauen was uns so entgegen springt.
 Heute ist folgendes gesprungen:
 Der [English Market](https://www.corkcity.ie/en/english-market/) an der Grand Parade, wo Händler seit 1788 ihre Geschäfte betreiben.
 Der Name kommt von der einstigen Abgrenzung zum Irish Market, nämlich ein Heisl weiter.
-Trotz vieler vergangener Jahre inklusive Feuer blieb die viktorianische Architektur vou Sir John Benson (1862) erhalten.
+Trotz vieler vergangener Jahre inklusive Feuer blieb die viktorianische Architektur von Sir John Benson (1862) erhalten.
 
 {{< fig src="feature.jpg" >}}
 {{< fig src="1000024361.jpg" >}}

@@ -59,7 +59,7 @@ Wollgras, Vögel, und natürlich auch einen Wasserfall… Es war großartig…
 
 *Auflösung der WC-Geschichte 💩*
 
-Da die Hitten ernsthaft klein war – eigentlich war sie nur ein Raum in
+Da die Hittn ernsthaft klein war – eigentlich war sie nur ein Raum in
 dem ein Eck abgetrennt war in dem die Toilette stand. - Und JA oben war
 ein ca. 20 cm Spalt – brauchten wir eine gute Strategie, um die
 Schmetterbox 🚽🧻 (🇦🇹: es Heisl) benutzen zu können. Was könnte da besser

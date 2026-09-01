@@ -28,13 +28,13 @@ Mittlerweile sind wir schon voll eingegrooved und haben einen festen Tagesablauf
 
 Auch am **Snæfellsnes**-Tag haben wir natürlich diesen bewährten Timetable verwendet, denn wir wussten: Des wird wieder ein laaaanger Tag. Die erste Fahr-schicht hat Karin übernommen. Das Coole und gleichzeitig Herausfordernde heute war: Es war wieder so geniales Wetter (ganz im Ernst! - Wir haben die ganze Zeit zu ein Glück! ☘️ Ehrlicherweise haben wir alle viel zu viel warme Kleidung dabei!), dass der von einem Gletscher bedeckte Vulkan 🌋🏔️ — **Snæfellsjökull** — schon von Anfang an zu sehen war und zum Greifen nah war (war er aber nicht). 
 
-## Das erste Ziel: **Arnastapi**
+## Das erste Ziel: **Arnarstapi**
 
 Unser "Wander-Reiseführer" hat hier wieder eine ganz leichte Tour beschrieben, die wir gerne ausprobieren wollten. Der Ort befindet sich auf der Südseite der Halbinsel und liegt einfach beinhart zwischen Snæfellsjökull - also einem richtig fetten Stratovulkan (Schichtvulkan) inkl. Gletscher - und den imposanten Basaltklippen, die eben initial durch einen Vulkanausbruch bzw. später, durch Erosion, entstanden sind. Das war also heute die geballte Ladung an Geographie/Geologie.
 
-Im folgenden Video, kann man förmlich sehen, wie die Lava dort ins Meer geflossen ist! — Do hot's sicher sauba zischt!
+Im folgenden Video kann man förmlich sehen, wie die Lava dort ins Meer geflossen ist! — Do hot's sicher sauba zischt!
 
-TODO: Video einfügen
+> 🚧 **TODO:** Video einfügen
 
 Steff war so in Fahrt, dass er sich die volle Dröhnung zu Vulkanen gegeben hat. Er hat sich einfach mitten ins Gelände gesetzt und hat versucht zu verstehen, wie das alles funktioniert:
 
@@ -85,7 +85,9 @@ Tatsächlich haben wir die Wanderung nur in eine Richtung gemacht, weil Steff so
 
 ## Nächster Halt: **Djúpalónssandur**
 
-Steff ging an dieser Stelle schon voll ab, um all das, was er gelernt hat auch an die girls weiterzugeben. Aber Karin hat darauf bestanden sich wirklich noch den tollen schwarzen Sand von Djúpalónssandur anzuschauen. Wirklich genial dort! Das Wasser war nicht mal so kalt wie wir das erwartet hätten, und die Wellen waren höher, als zumindest Karin das erwartet hätte. Jap sie hat ihre Hose nicht weit genug raufgekrempelt, als sie ihre Füße ins Wasser gehängt hat! TODO: Nasse Hose Emotji oder so... Und - ratet, was wir dort gesehen haben!!!!... Richtig: Wale! 🐳🐋 Wir sind überzeugt, das waren bestimmt Orcas! - Das haben wir gerochen! 🤣
+Steff ging an dieser Stelle schon voll ab, um all das, was er gelernt hat auch an die girls weiterzugeben. Aber Karin hat darauf bestanden sich wirklich noch den tollen schwarzen Sand von Djúpalónssandur anzuschauen. Wirklich genial dort! Das Wasser war nicht mal so kalt wie wir das erwartet hätten, und die Wellen waren höher, als zumindest Karin das erwartet hätte. Jap sie hat ihre Hose nicht weit genug raufgekrempelt, als sie ihre Füße ins Wasser gehängt hat! Und - ratet, was wir dort gesehen haben!!!!... Richtig: Wale! 🐳🐋 Wir sind überzeugt, das waren bestimmt Orcas! - Das haben wir gerochen! 🤣
+
+> 🚧 **TODO:** Emoji für die nasse Hose ergänzen
 
 {{< fig src="IMG_20230813_163434.jpg" >}}
 {{< fig src="IMG_20230813_164016.jpg" >}}
