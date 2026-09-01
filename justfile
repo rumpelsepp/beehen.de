@@ -1,7 +1,13 @@
 npm-build:
     npm run build
 
-build: clean npm-build
+build: npm-build
+    hugo build
+
+serve: npm-build
+    hugo server
+
+build-with-podman: clean npm-build
     podman run \
         --net=none \
         --rm \
@@ -19,7 +25,7 @@ build: clean npm-build
 deploy: build
     rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 
-serve: clean npm-build
+serve-with-podman: clean npm-build
     podman run \
        --net=host \
        --rm \
