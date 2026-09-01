@@ -46,3 +46,36 @@ Auch wenn wir nach solchen Spots schon immer a wengal bedrückt sind, finden wir
 
 
 Naja und dann waren wir noch an der Soca! – Der Fluss ist bekannt für’s Kajaken – völlig zurecht. Es waren zwar schon drölf andere Touris mit uns unterwegs, als wir zur Hängebrücke spazierten, aber es hat sich trotzdem gelohnt! – Unfassbar, wie blau das Wasser dort ist! Und die ersten Bienenbeuten haben wir auch gesehen!
+
+Am Abend kamen wir dann ziemlich entspannt in unserer ersten Unterkunft im Wippach Tal an... 
+
+Obwohl wir uns zunächst gedacht haben, dass wir es am nächsten Tag gemütlich angehen lassen, waren wir natürlich neugierig und haben uns doch schon wieder auf den Weg gemacht - So weit is jo nimmer bis noch Italien! 
+Auf geht's nach Triest - wir wollen nachschauen, ob die Stadt wirklich so ausschaut, als hätte man Wien genommen und einfach an die Adria verpflanzt!
+Wir kommen vom Norden und fahren ein Stückerl die Küstenstraße entlang! - schon ziemlich nice, finden wir!
+Weil wir uns schon irgendwie denken können, dass wir zwei Bildschirmbraune Helden es nicht ewig lange in der wahrscheinlich brennhoaßn Stadt (Das Schild am Stadtanfang hat ernsthaft +36°C angezeigt.) aushalten, rollern wir unser Auto zum Hafen zu einem Parkplatz und lassen uns von dort aus einfach durch die Stadt treiben. 
+btw. Autofahren in Italien ist pain... De typies reden nicht nur so schnell und hektisch, sondern die machen das einfach auch auf der Straße.
+Weil Karin so tapfer am Berg gefahren ist, darf sich aber diesmal Steff mit den erschwerten Bedingungen auseinandersetzten.
+Naja- Aber Triest war schon wirklich schön! - Geheimtipp von Karin: Probierts des Feigeneis im Beislfinder-Eisladen:todo: Einfügen - unfassbar guat!
+
+todo: Info für Gscheithaferl: Geschicthe Triest - Kaffeekultur, Österreich usw.
+
+Weil wir es aber dann wirklich nicht lange in der Stadt ausgehalten haben, gings weiter entlang der Küste nach Piran, denn ja, auch Slowenien hat eine Küste - mal schauen, was die so kann!
+Nachdem Karin ihren einzigen Job als Beifahrerin ver*** hat - sie hat keinen gscheiten Parkplatz gefunden, sind wir einfach gleich an die westlichste Spitze von Slowenien gedüst und dieses Mal spitzenmäßig vorbereitet zu einem Parkplatz.
+Zum Glück, denn Piran ist eine gaaaanz alte Ortschaft und Autos müssen draußen bleiben - saucool finden wir und machen uns zu Fuß auf den Weg!
+Auch hier is es fetzheiß aber es ist auch ziemlich cool, mit der Kirche oben am Hügel, wo man aber gleich auf zwei Seiten zum Meer sieht. 
+Man hört überall Musik.
+Die engen Gasserl sind super spannend und liab und wir verstehen schon irgendwie, dass es sich hier gut aushalten lässt.
+Wir spazieren den Strand entlang wo sich wieder mal drölf andere Touristen in der Sonne und im Meer tummeln und entscheiden uns, dass wir uns einfach wieder mal recht azyklisch ein frühes Abendessen gönnen... nice!
+Die Slowenen sind schon voll entspannt und total nett. 
+Es erinnert uns schon ein bisschen an die Urlaube früher in Italien oder Kroatien, aber irgendwie ist es alles ein bisschen entspannter.
+
+Damit wir unsere Badesachen nicht ganz umsonst mitgschleppt haben, hüpft Karin dann doch auch noch in ihre Badesachen und schmeißt sich ins Meer. 
+Aber ab jetzt weiß sie: hmmm... a wenn i das früher echt ziemlich gern hatte, einfach am Strand zu flaken und wenns mir zu warm wird ins Wasser zu springen, i mag des echt nimmer!
+1. Warum sind da so viele Menschen, verdammt?
+2. Wääähhh es fischelt do oba schon a bissl, oder?
+3. Des is ma echt z'soizig! - und meine Haut klebt danach so greislich - und btw. warum riach i jetzt wia a Fiisch?
+4. Wos gspia i do eigentlich die ganze Zeit im Wasser? - Do sind keine Pflanzen - sand des Quallen? Wäääähhh, Panik, i mag hier wieder raus! 
+
+jou... jetzt weiß sie es wenigstens! - Aber sie war drinnen!
+
+Funfact: Die Grenze zwischen Kroatien und Slowenien ist hier nicht gaaaanz geklärt darum ist der Verlauf hier etwas schräg... (todo)
