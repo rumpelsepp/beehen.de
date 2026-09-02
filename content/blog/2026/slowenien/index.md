@@ -46,18 +46,25 @@ Wir merken schon aufgrund der Straßenführung bzw. -beschaffenheit und dem Fahr
 
 ## Schützengräben aus dem Ersten Weltkrieg
 
-Unser erster Halt ist also ein Schützengraben aus dem Ersten Weltkrieg.
+Unser erster Halt ist also ein [Schützengraben aus dem Ersten Weltkrieg](https://maps.app.goo.gl/ewPqT6k4TfA4eUQr7).
 
-Irgendwo im Wald – nicht weit von dem alten Grenzstein, der noch vor dem Ersten Weltkrieg (**TODO**: Jahr prüfen) die Grenze zwischen Österreich 🇦🇹 und Ungarn 🇭🇺 markiert hat – befinden sich noch ziemlich gut erhaltene Schützengräben im Wald, bzw. sie wurden einmal restauriert.
+{{< fig src="IMG_20260825_093105.jpg" >}}
+{{< fig src="IMG_20260825_093210.jpg" >}}
+{{< fig src="IMG_20260825_094315.jpg" >}}
+
+Irgendwo im Wald – nicht weit von dem [alten Grenzstein](https://maps.app.goo.gl/BNUPc6ZNythVbDuf7), der noch 1887 vor dem Ersten Weltkrieg die Grenze zwischen Österreich 🇦🇹 und Ungarn 🇭🇺 markiert hat – befinden sich noch ziemlich gut erhaltene Schützengräben im Wald, bzw. sie wurden einmal restauriert.
 Wir wären zwar fast vorbeibrennt, weil es nur eine recht unscheinbare Tafel dort gab, aber wir haben den Spot trotzdem gefunden.
+
+{{< fig src="IMG_20260825_095719.jpg" >}}
+{{< fig src="IMG_20260825_095726.jpg" >}}
 
 Schon erstaunlich, wie solche Orte dann irgendwann einfach „lost places“ werden… sie sind zwar einfach dort und sozusagen Zeugen einer echt schlimmen Zeit, aber keiner hat sie mehr so richtig am Schirm und keiner schert sich so richtig drum. Für uns aber doch voll beeindruckend.
 An dem Tag war das Wetter ned wirklich so guat und im Wald hots ziemlich gfeichtelt und so Nebelschwaden sind herumgezogen. 🌫️
-Wir zwei Knaller watscheln einfach mal durch den Schützengraben und versuchen uns vorzustellen, wie das damals so gewesen sein muss! Echt gruselig! 😰 (Und wir haben auch einen passenden Sound zum Thema: [Soldier of Heaven – Sabaton](https://youtu.be/LYI3eegIJlI?si=tuEW7Z3qkT3ufntP). 🎧)
+Wir zwei Knaller watscheln einfach mal durch den Schützengraben und versuchen uns vorzustellen, wie das damals so gewesen sein muss! Echt gruselig! 😰 (Wir haben auch einen passenden Sound zum Thema: [Soldier of Heaven – Sabaton](https://youtu.be/LYI3eegIJlI?si=tuEW7Z3qkT3ufntP). 🎧)
 
 Den schon erwähnten Grenzstein haben wir natürlich auch noch angeschaut inkl. verfallener Truppenunterkünfte – zumindest mutmaßen wir, dass es solche sind.
 
-> 🚧 **TODO:** Bilder Schützengraben / Grenzstein einfügen
+> 🚧 **TODO:** Truppenunterkünfte, Fotos
 
 Auch wenn wir nach solchen Orten schon immer a wengal bedrückt sind, finden wir es wichtig, sich auch solche Dinge anzuschauen – Erinnerungskultur sozusagen. 🕯️
 
@@ -69,6 +76,9 @@ ZUM GLÜCK war das Wetter eher bescheiden und damit kaum andere Menschen unterwe
 Karin ist am Steuer und fährt einfach mal recht unbedarft los. Es dauert nicht lange und es wird echt eng, die Straße schlängelt sich zunächst durch den Wald, es gibt immer wieder Ausweichbuchten, aber bald wird's noch enger und wir fahren in Tunnels, natürlich ohne Licht, und wir fahren gefühlt eine Felswand hinauf! Im Ernst, des war die Straße der Hölle! 😱 Steff wurde immer leiser und hatte spätestens, als wir auf eine fette Felswand zufahren, echt a bissl Schiss 😨. Zitat Steff: „I bin a Waidler und koa Gams!“ 🐐 Naja, Karin kommt zwar aus dem gebirgigen Pongau und hat schon einiges erlebt, aber das hat ihr auch nimmer taugt. Aber sie blieb stark und hat den Pass bezwungen! Juhuu! 🙌
 Sche woas trotzdem (als wir wieder unten waren 😮‍💨😉).
 
+{{< fig src="IMG_20260825_105245.jpg" >}}
+{{< fig src="IMG_20260825_111816.jpg" >}}
+
 > 🚧 **TODO:** Bilder Mangart-Passstraße einfügen
 
 ## An der Soča
@@ -77,11 +87,14 @@ Naja, und dann waren wir noch an der Soča! Der Fluss ist bekannt für's Kajaken
 Es waren zwar schon drölf andere Touris 📸 mit uns unterwegs, als wir zur Hängebrücke spazierten, aber es hat sich trotzdem gelohnt! Unfassbar, wie blau das Wasser dort ist!
 Und die ersten Bienenbeuten haben wir auch gesehen! 🐝
 
-> 🚧 **TODO:** Bilder Soča / Hängebrücke einfügen
+{{< fig src="IMG_20260825_141259.jpg" >}}
+{{< fig src="IMG_20260825_144039.jpg" >}}
 
 Am Abend kamen wir dann ziemlich entspannt in unserer [ersten Unterkunft](https://www.airbnb.de/rooms/51489481) im Wippachtal an…
 
 ## Triest
+
+{{< fig src="IMG_20260826_113714.jpg" >}}
 
 Obwohl wir uns zunächst gedacht haben, dass wir es am nächsten Tag gemütlich angehen lassen, waren wir natürlich neugierig und haben uns doch schon wieder auf den Weg gemacht – so weit is jo nimmer bis noch Italien! 🇮🇹
 Auf geht's nach Triest: Wir wollen nachschauen, ob die Stadt wirklich so ausschaut, als hätte man Wien genommen und einfach an die Adria verpflanzt!
@@ -90,6 +103,8 @@ Weil wir uns schon irgendwie denken können, dass wir zwei bildschirmbraune Held
 Übrigens, Autofahren in Italien ist echt ein Krampf… 😤 Die Typen reden nicht nur so schnell und hektisch, sondern die machen das einfach auch auf der Straße.
 Weil Karin so tapfer am Berg gefahren ist, darf sich aber diesmal Steff mit den erschwerten Bedingungen auseinandersetzen. 😮‍💨🚗
 Naja, aber Triest war schon wirklich schön! Geheimtipp von Karin: Probierts des Feigeneis im [Beislfinder-Eisladen](https://maps.app.goo.gl/Av9zU7R2FjqjXQ1s8) – unfassbar guat!
+
+{{< fig src="IMG_20260826_123834.jpg" >}}
 
 > 🚧 **TODO:** Bilder Triest einfügen
 
@@ -114,6 +129,10 @@ Die engen Gasserl sind super spannend und liab und wir verstehen schon irgendwie
 Wir spazieren den Strand entlang, wo sich wieder mal drölf andere Touristen in der Sonne und im Meer tummeln, und entscheiden uns, dass wir uns einfach wieder mal recht azyklisch ein frühes Abendessen gönnen… nice! 🍽️
 Die Slowenen sind schon voll entspannt und total nett. 😌
 Es erinnert uns schon ein bisschen an die Urlaube früher in Italien 🇮🇹 oder Kroatien 🇭🇷, aber irgendwie ist es alles ein bisschen entspannter.
+
+{{< fig src="IMG_20260826_154709.jpg" >}}
+{{< fig src="IMG_20260826_154854.jpg" >}}
+{{< fig src="IMG_20260826_184726.jpg" >}}
 
 > 🚧 **TODO:** Bilder Piran einfügen
 
