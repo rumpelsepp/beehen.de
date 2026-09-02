@@ -255,6 +255,28 @@ Nachdem Schussel-Steff leider seine Sonnenbrille verloren hat, haben wir unsere 
 
 Neu bebrillt und beeist haben wir dann noch den Hügel der lokalen Burg erklommen, um einen Rundumblick zu haben. Schön wars! 🌄
 
+## Die Geschichte von Blaz und seinem kleinen Paradies
+Nachdem wir festgestellt haben, dass es uns direkt am Meer eigentlich zu heiß ist, war es eigentlich klar, dass unsere nächste Bude wieder a bissl weiter Richtung Berge sein darf.
+Wir sind auf der Karte herumgefahren und haben uns gedacht: hmmmm irgendwas zwischen Ljublijana und Maribor wär doch gut, dann können wir am Schluss ein feines Ringerl machen. 
+Gesagt - getan: am Freitag haben wir gebucht und am Samstag sind wir nach unserem Besuch in Ljublijana angereist und etwas erschöpft angekommen.
+Blaz (zu Deutsch: Blasius) hat uns schon ganz neugierig erwartet (wir hatten zwar gehofft, dass wir einfach einen unspektakulären self-check-in machen können, aber in diesem Fall war es tatsächlich total nett).
+Denn wie wir erfahren haben, hat Blaz und seine Frau das Appartement ursprünglich für die Tochter hergerichtet (mit total viel Herzblut und eigener Arbeit), die aber seit kurzem bei ihrem Partner lebt. 
+Dafür hatten jetzt wir das Vergnügen in dieser der Geschichte entsprechend unfassbar schönen Bude zu wohnen (btw: die beiden machen das jetzt seit 4! Wochen 🧐). 
+Aber überzeugt euch selbst:
+
+🚧 **TODO:** Bild von Bude einfügen
+
+Wir haben es einfach nur gefeiert und genossen!
+Darum haben wir uns am Sonntag einfach nur in den Garten gepflanzt, mit einem Buch und haben gelesen und später drinnen Catan gespielt (Wir lieben die Duell Version!)
+Zitat von Blaz am nächsten Tag: I was wondering if you were still alive, because you have been so quiet!
+
+Blaz und seine Frau sind total liebe Hosts. 
+Wir wurden ganz unkompliziert zu einem Grillabend eingeladen, dabei bekocht und ehrlicherweise mit alkoholischen Getränken abgefüllt (wobei, das geht bei uns zwei relativ schnell). 
+An diesem Tag haben sie noch zwei weitere Gäste aufgenommen, die bei einem Bekannten gestrandet waren, wo sie nicht ganz so happy mit der Anfahrt zur Unterkunft waren.
+Aber alles kein Problem...
+So kam es, dass Menschen aus 5 Nationen (Slowenien, Dänemark, Iran, Deutschland, Österreich) und unterschiedichen Generationen einen gemeinsamen einen ziemlich unvergesslichen Abend gemeinsam verbrachten.
+Schon spannend welche Gespräche sich dabei so entwickeln.
+
 ## Karst – wenn das Wasser einfach verschwindet
 
 Spätestens in der Höhle ist uns klar geworden: Die ganze Ecke hier ist nicht *irgendein* Karst – sie ist *der* Karst. Das Kalkstein-Plateau zwischen Ljubljana, Triest und dem Meer heißt auf Slowenisch [Kras](https://de.wikipedia.org/wiki/Karst_(S%C3%BCdeuropa)), auf Italienisch *Carso*, auf Deutsch *Karst* – und hat weltweit allen ähnlichen Landschaften den Namen gegeben.
