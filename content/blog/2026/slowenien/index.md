@@ -192,16 +192,15 @@ Riesige Formen, die über Hunderttausende von Jahren entstanden sind und hier so
 Es war ziemlich genial und noch dazu wars wunderbare 10°C kühl.
 
 {{< info >}}
-**Die Königin der Unterwelt - die Tropfsteinhöhle von Postojna**
-Wir haben ziemlich viele Infos bekommen - hier eine kleine Auswahl:
-- sie ist die längste touristisch genutzte Höhle in Europa.
-- Wir befinden uns in einer Karstlandschaft, das ist vereinfacht gesagt Kalkgestein, dass durch Errosion mit Wasser geformt wurde.
-- Der Fluss Pivka hat also über Jahrtausende hinweg Kalk gelöst und miteführter Sand, Kies, oder Geröll haben ihres dazu beigetragen das Höhlensystem zu formen.
-- Später fließt das gleiche Wasser als Lublijanica durch Leibach.
-- Wegen tektonischer Hebung/Senkung hat sich das Wasser immer neue Wege gesucht. Darum gibt es mittlerweile 3 Stockwerke: Ganz oben, wo die Höhlen mittlerweile nicht mehr begehbar sind. Im mittleren Stockwerk befindet sich heute die begehbare Höhle und ganz unten fließt immer noch der Pivka Fluss!
-- und wie kommen jetzt die Topfsteine in die ausgespülte Höhle? - Durch verdammt viele Tropfen, die sich ihren Weg durch den Kalkstein bahnen, dort Sedimente lösen und in der Höhle als Tropfen wieder abgeben. 
-- Es gibt speziell hässliche Grottenolme in der Höhle (Wurmartige, blinde, greisliche Viecher - aber trotzdem voi spannend, dass die da unten leben können!)
+**Die Königin der Unterwelt – die Tropfsteinhöhle von Postojna**
 
+Postojna gilt mit rund 24 km Gesamtlänge als die längste touristisch erschlossene Höhle Europas. Gegraben hat sie der Fluss Pivka: Über Jahrtausende hat er den Kalk gelöst, mitgeführter Sand, Kies und Geröll haben wie Schmirgelpapier nachgeholfen. Weiter unten taucht dasselbe Wasser mehrfach ab und wieder auf und erreicht über etliche Umwege als Ljubljanica schließlich die Hauptstadt Ljubljana.
+
+Weil sich das Land tektonisch hebt, hat sich der Fluss immer wieder tiefer eingegraben. Deshalb liegt die Höhle heute in drei „Stockwerken“: ganz oben die ältesten, längst trockenen und nicht mehr zugänglichen Gänge, in der Mitte die begehbare Schauhöhle – und ganz unten rauscht noch immer die Pivka. Die Tropfsteine steuert jeder einzelne Wassertropfen bei, der von oben durch den Fels sickert, dabei Kalk aufnimmt und ihn in der Höhle wieder absetzt.
+
+In den Wasserläufen der Höhle lebt außerdem der Grottenolm: ein wurmförmiges, blindes, ziemlich greisliches Amphibium, das im Dauerdunkel jahrelang ohne Nahrung auskommt und erstaunlich alt wird. Hässlich – aber schon beeindruckend, dass da unten überhaupt etwas lebt.
+
+Quelle: [Höhlen von Postojna – Wikipedia](https://de.wikipedia.org/wiki/H%C3%B6hlen_von_Postojna)
 {{< /info >}}
 
 > 🚧 **TODO:** Bilder Höhle von Postojna einfügen
