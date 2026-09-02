@@ -1,3 +1,11 @@
-{{ $gpx := .Page.Resources.GetMatch (.Get "gpx") }}
-{{ $state := printf `{"urls": ["%s"]}` $gpx.Permalink }}
-<iframe src="https://gpx.studio/?state={{ $state }}&embed" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state={{ $state }}"></a></p></iframe>
+{{- $gpx := .Page.Resources.GetMatch (.Get "gpx") -}}
+{{- with $gpx -}}
+  {{- $state := printf `{"urls": ["%s"]}` .Permalink -}}
+  <iframe src="https://gpx.studio/?state={{ $state }}&embed"
+    title="{{ $.Get `title` | default `Interaktive Karte des GPX-Tracks` }}"
+    width="100%" height="500" loading="lazy" allowfullscreen>
+    <a href="https://gpx.studio/?state={{ $state }}">Karte auf gpx.studio öffnen</a>
+  </iframe>
+{{- else -}}
+  {{- warnf "shortcode map: no GPX resource matching %q in %s" ($.Get "gpx") $.Page.Path -}}
+{{- end -}}

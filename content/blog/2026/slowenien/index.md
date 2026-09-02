@@ -14,13 +14,13 @@ Aber genau das ist doch auch das Besondere am Reisen: Einfach eine grobe Idee im
 Naja – und dann einfach dort bleiben, wo es einem gefällt.
 {.lead}
 
-{{< info >}}
+{{< box >}}
 **Unsere Eckdaten:**
 
 - **Start:** Montag, 24. August – wir besuchen Karins Verwandte in Kärnten 🇦🇹. Danach ist alles offen.
 - **Ende:** Mittwoch, 2. September – irgendwo in der Steiermark, weil Donnerstag und Freitag gibt's noch einen Österreich-Bonus beim Erstkommunionsausflug mit Karins Nichte.
 - **Mögliche Ziele:** Slowenien 🇸🇮, Soča-Tal, Bleder See, Triest 🇮🇹, Istrien, Ljubljana – es gibt vieles, das wir uns anschauen können.
-{{< /info >}}
+{{< /box >}}
 
 Let's go!
 
@@ -157,12 +157,12 @@ Zum Glück hatten wir einiges an zeitlichen Puffer, denn wir haben die Burg ziem
 - Zugbrücke zur alten Höhlenburg
 - Die Überbleibsel der alten Höhlenburg, wo Gänge durch den Karst immer noch durch die Felsen in naheliegende Dörfer führen (diese sind leider nicht mehr zugänglich - wobei Karin hätt sich da eh niemals durchgetraut...)
 
-{{< info >}}
+{{< box >}}
 🚧 **TODO:** Details zu Höhlenburg einfügen/ Quelle ergänzen
 - wie lange bewohnt
 - Geschichte mit dem Erasmus und den frischen Kirschen
 
-{{< /info >}}
+{{< /box >}}
 
 ### Höhle von Postojna
 Schon in der Burg haben wir gemerkt, dass wir eher langsame Burgbesucher sind - wir wurden immer mal wieder von anderen Leuten überholt. 
@@ -174,4 +174,3 @@ Der Parkplatz dort war fetzgroß und fetzvoll!
 Wir kommen zum Vorplatz zum Eingang der Höhle, wo wir gleich mal in vier verschiedene Gruppen eingeteilt werden - je nach Sprache! (Slowenisch, Italienisch, Deutsch und ein bissl Englisch ist hier ganz normal!)
 Und dann fahren wir mit dem Zug von einer ultra fancy U-Bahn gleichen Bahnhof einfach mal 5 km in den Berg hinein!!!
 Das haben wir wieder mal nicht erwartet!
-
