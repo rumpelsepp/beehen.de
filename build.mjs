@@ -13,7 +13,9 @@ async function runBuild() {
         base_style: path.resolve('themes/bienensteff/bundle_src/css/main.css'),
         style: path.resolve('bundle_src/css/style.css'),
       },
-      outdir: 'static',
+      // Output into Hugo's assets/ dir so Hugo Pipes can fingerprint + publish
+      // (cache-busting, SRI). Nothing here is referenced directly by URL.
+      outdir: 'assets/gen',
       bundle: true,
       // Sourcemaps only for local `--watch`; keep them out of the deployed site.
       sourcemap: isWatchMode ? 'linked' : false,
