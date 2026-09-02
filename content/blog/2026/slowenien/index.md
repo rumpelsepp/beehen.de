@@ -179,11 +179,29 @@ Zum Glück hatten wir einiges an zeitlichem Puffer, denn wir haben die Burg ziem
 Schon in der Burg haben wir gemerkt, dass wir eher langsame Burgbesucher sind: Wir wurden immer mal wieder von anderen Leuten überholt.
 Aber uns ist das ja wurscht… wir haben keinen Stress.
 Erst als wir wieder aus der Burg raus sind und am Parkplatz kapieren, wie viele Leute da unterwegs sind – wieder einmal alles bummvoi…
-Und es war dann auch schwer, den Weg wieder hochzufahren, weil manche Leute echt so unfassbar intelligent sind, dass sie in der Spitzkehre anfangen zum Überholen – [#Darwinaward](https://de.wikipedia.org/wiki/Darwin_Awards). 🤦
+Und es war dann auch schwer, den Weg wieder hochzufahren, weil manche Leute echt so unfassbar intelligent sind, dass sie in der Spitzkehre (nur ums noch anschaulicher zu machen: des sind die 180 Grad!!! Kurven die oft auf an Berg rauf führen, weils einfach anders ned geht!) anfangen zum Überholen – [#Darwinaward](https://de.wikipedia.org/wiki/Darwin_Awards). 🤦
 So richtig klar wurde es uns aber erst bei der Tropfsteinhöhle, dass wir jetzt echt in einer Hochburg sind (die sich aber wirklich gelohnt hat!).
 Der Parkplatz dort war fetzgroß und fetzvoll! 🅿️
 Wir kommen zum Vorplatz beim Eingang der Höhle, wo wir gleich mal in vier verschiedene Gruppen eingeteilt werden – je nach Sprache! (Slowenisch 🇸🇮, Italienisch 🇮🇹, Deutsch 🇩🇪 und a bissl Englisch 🇬🇧 – das ist hier ganz normal!)
 Und dann fahren wir mit dem Zug von einem Bahnhof, der aussieht wie eine ultrafancy U-Bahn-Station, einfach mal 3 km in den Berg hinein! 🚂
 Das haben wir wieder mal nicht erwartet!
+
+Und dann sind wir noch mal 2 km im Berg herum spaziert und haben so viele Stalaktiten, Stalakmiten und Stalaknaten gesehen, wie man sich es nicht mal vorstellen kann. 
+"Vorhänge" die aussehen wie Prosciutto, Tropfsteine, die die Form von an Giggal (BY: Huhn; AUT: Hendl) ausschauen. 
+Riesige Formen, die über Hunderttausende von Jahren entstanden sind und hier sogar noch in unterschiedlichen Fraben. 
+Es war ziemlich genial und noch dazu wars wunderbare 10°C kühl.
+
+{{< info >}}
+**Die Königin der Unterwelt - die Tropfsteinhöhle von Postojna**
+Wir haben ziemlich viele Infos bekommen - hier eine kleine Auswahl:
+- sie ist die längste touristisch genutzte Höhle in Europa.
+- Wir befinden uns in einer Karstlandschaft, das ist vereinfacht gesagt Kalkgestein, dass durch Errosion mit Wasser geformt wurde.
+- Der Fluss Pivka hat also über Jahrtausende hinweg Kalk gelöst und miteführter Sand, Kies, oder Geröll haben ihres dazu beigetragen das Höhlensystem zu formen.
+- Später fließt das gleiche Wasser als Lublijanica durch Leibach.
+- Wegen tektonischer Hebung/Senkung hat sich das Wasser immer neue Wege gesucht. Darum gibt es mittlerweile 3 Stockwerke: Ganz oben, wo die Höhlen mittlerweile nicht mehr begehbar sind. Im mittleren Stockwerk befindet sich heute die begehbare Höhle und ganz unten fließt immer noch der Pivka Fluss!
+- und wie kommen jetzt die Topfsteine in die ausgespülte Höhle? - Durch verdammt viele Tropfen, die sich ihren Weg durch den Kalkstein bahnen, dort Sedimente lösen und in der Höhle als Tropfen wieder abgeben. 
+- Es gibt speziell hässliche Grottenolme in der Höhle (Wurmartige, blinde, greisliche Viecher - aber trotzdem voi spannend, dass die da unten leben können!)
+
+{{< /info >}}
 
 > 🚧 **TODO:** Bilder Höhle von Postojna einfügen
