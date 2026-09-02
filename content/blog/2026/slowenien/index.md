@@ -6,12 +6,12 @@ toc: true
 draft: true
 ---
 
-Lignano, Bibione, Poreč, Rovinj – eh ois voi schee – aber geht der klassische Urlaub im Süden auch mit a bissl weniger Sonnenbrand und Ölsardinen-Feeling? – Challenge accepted!
+Lignano, Bibione, Poreč, Rovinj – eh ois voi schee – aber geht der klassische Urlaub im Süden auch mit a bissl weniger Sonnenbrand und Ölsardinen-Feeling? Challenge accepted!
 {.lead}
 
 Wieder einmal waren wir viel zu spät dran, um einen richtigen Plan aufzustellen, wohin wir fahren, was wir gerne unternehmen möchten und wo wir überhaupt schlafen werden.
 Aber genau das ist doch auch das Besondere am Reisen: Einfach eine grobe Idee im Kopf haben, wo es hingeht, einfach mal los düsen und sich ein bisschen treiben lassen.
-Naja – und dann einfach dort bleiben, wo es einem gefällt.
+Naja, und dann einfach dort bleiben, wo es einem gefällt.
 {.lead}
 
 {{< box >}}
@@ -19,62 +19,62 @@ Naja – und dann einfach dort bleiben, wo es einem gefällt.
 
 - **Start:** Montag, 24. August – wir besuchen Karins Verwandte in Kärnten 🇦🇹. Danach ist alles offen.
 - **Ende:** Mittwoch, 2. September – irgendwo in der Steiermark, weil Donnerstag und Freitag gibt's noch einen Österreich-Bonus beim Erstkommunionsausflug mit Karins Nichte.
-- **Mögliche Ziele:** Slowenien 🇸🇮, Soča-Tal, Bleder See, Triest 🇮🇹, Istrien, Ljubljana – es gibt vieles, das wir uns anschauen können.
+- **Mögliche Ziele:** Slowenien 🇸🇮, Soča-Tal, Bleder See (🇸🇮: Blejsko jezero), Triest 🇮🇹, Istrien, Ljubljana – es gibt vieles, das wir uns anschauen können.
 {{< /box >}}
 
 Let's go!
 
 ## Kein Tagebuch dieses Mal
 
-Aus verschiedenen Gründen sind unsere Köpfe im Moment ziemlich voll (🇦🇹: bummvoi), darum nehmen wir uns vor, nicht jeden Tag voigas unterwegs zu sein, sondern zwischendurch auch einfach mal gemütlich a Biachi zum Lesen (Spoiler: Zitat von Blaz, unserem Host: „I was wondering if you are still alive, because you were so quiet yesterday!“).
+Aus verschiedenen Gründen sind unsere Köpfe im Moment ziemlich voll (🇦🇹: bummvoi), darum nehmen wir uns vor, nicht jeden Tag voigas unterwegs zu sein, sondern zwischendurch auch einfach mal gemütlich a Biachi zum Lesen (Spoiler: Zitat von Blaž, unserem Host: „I was wondering if you are still alive, because you were so quiet yesterday!“).
 Naja, darum gibt's dieses Mal keinen ganz so detaillierten Reisebericht, was wir an jedem einzelnen Tag gemacht haben, aber einen Auszug aus unseren schönsten Erlebnissen!
-– Viel Spaß beim Lesen!
+Viel Spaß beim Lesen!
 
 ## Von Kärnten ins Wippachtal
 
-Nachdem wir uns von Karins Verwandten so richtig haben verwöhnen lassen – Danke für alles!!! – haben wir uns entschieden, noch für eine Nacht in Österreich zu bleiben und in Kärnten zu schlafen – dort gibt's a geiles Frühstück und wir können danach den Weg zu unserer ersten Bude (im Wippachtal) so richtig zelebrieren.
-Steff ist vorab schon a bissl auf der Karte herumgefahren und hat eine richtig coole Route herausgesucht inkl. historischem Zwischenstopp bei Schützengräben aus dem Ersten Weltkrieg, einer ziemlich beeindruckenden Passstraße (Spoiler: zum Glück hat Steff die Route ausgesucht ;-)) und einem unfassbar blauen Fluss.
+Nachdem wir uns von Karins Verwandten so richtig haben verwöhnen lassen – Danke für alles!!! – haben wir uns entschieden, noch für eine Nacht in Österreich zu bleiben und in Kärnten zu schlafen – dort gibt's a geiles Frühstück und wir können danach den Weg zu unserer ersten Bude (im Wippachtal, 🇸🇮: Vipavska dolina) so richtig zelebrieren.
+Steff ist vorab schon a bissl auf der Karte herumgefahren und hat eine richtig coole Route herausgesucht inkl. historischem Zwischenstopp bei Schützengräben aus dem Ersten Weltkrieg, einer ziemlich beeindruckenden Passstraße (Spoiler: zum Glück hat Steff die Route ausgesucht 😉) und einem unfassbar blauen Fluss.
 
 Bevor wir uns aber wirklich auf den Weg machen, brauchen wir – ihr könnt es euch bestimmt schon denken – a bissl was zum broudln – eh klar!
-Steff ist der Beisl-Finder, darum wirft er kurzerhand einen Blick auf die Karte und findet natürlich den genialsten Bäcker im ganzen Ort (Feistritz an der Gail) – Karin war zwar ultimativ verwirrt vor der Tür – das Ding hat eher ausgeschaut wie ein Eingang in irgendeinen Hinterhof – aber drinnen – alter Falter – da hat es herrlich nach allen möglichen süßen Leckereien geduftet und eine richtig liebe Dame hat uns aufgeklärt, mit wie vielen unterschiedlichen Füllungen sie ihre Teilchen – selbstverständlich selbst! – bestückt.
-Und die Dinger, so wie auch das Brot, das wir uns eingekauft haben, waren der Hammer! DANKE – Beisl-Finder Steff – you rock (natürlich auch die Bäckerei)!
+Steff ist der Beisl-Finder, darum wirft er kurzerhand einen Blick auf die Karte und findet natürlich den [genialsten Bäcker](https://maps.app.goo.gl/Jv2AMHYUV1s7Xt2B7) im ganzen Ort (Feistritz an der Gail). Karin war zwar ultimativ verwirrt vor der Tür – das Ding hat eher ausgeschaut wie ein Eingang in irgendeinen Hinterhof –, aber drinnen (alter Falter!) hat es herrlich nach allen möglichen süßen Leckereien geduftet und eine richtig liebe Dame hat uns aufgeklärt, mit wie vielen unterschiedlichen Füllungen sie ihre Teilchen – selbstverständlich selbst! – bestückt.
+Und die Dinger, so wie auch das Brot, das wir uns eingekauft haben, waren der Hammer! DANKE, Beisl-Finder Steff – you rock (natürlich auch die Bäckerei)!
 
 > 🚧 **TODO:** Bilder Bäckerei / Route einfügen
 
 Danach geht's ab über die italienische Grenze nach Tarvis 🇮🇹, wo wir aber gleich Richtung Slowenien 🇸🇮 abbiegen.
-Wir merken schon aufgrund der Straßenführung bzw. -beschaffenheit und dem Fahrstil der anderen Autofahrer:innen, dass wir nimmer in AUT sind… schon a bissl spannend immer wieder… und auch die Vegetation ist echt schon anders! – So schön, wenn man einfach mit wachem Auge durch eine noch unbekannte Region cruised!
+Wir merken schon aufgrund der Straßenführung bzw. -beschaffenheit und dem Fahrstil der anderen Autofahrer:innen, dass wir nimmer in Österreich sind… schon a bissl spannend immer wieder… und auch die Vegetation ist echt schon anders! So schön, wenn man einfach mit wachem Auge durch eine noch unbekannte Region fährt!
 
 ## Schützengräben aus dem Ersten Weltkrieg
 
 Unser erster Halt ist also ein Schützengraben aus dem Ersten Weltkrieg.
 
-Irgendwo im Wald – nicht weit von dem alten Grenzstein, der noch vor dem Ersten Weltkrieg (TODO: Jahr prüfen) die Grenze zwischen Österreich und Ungarn markiert hat – befinden sich noch ziemlich gut erhaltene Schützengräben im Wald, bzw. sie wurden einmal restauriert.
+Irgendwo im Wald – nicht weit von dem alten Grenzstein, der noch vor dem Ersten Weltkrieg (**TODO**: Jahr prüfen) die Grenze zwischen Österreich 🇦🇹 und Ungarn 🇭🇺 markiert hat – befinden sich noch ziemlich gut erhaltene Schützengräben im Wald, bzw. sie wurden einmal restauriert.
 Wir wären zwar fast vorbeibrennt, weil es nur eine recht unscheinbare Tafel dort gab, aber wir haben den Spot trotzdem gefunden.
 
 Schon erstaunlich, wie solche Orte dann irgendwann einfach „lost places“ werden… sie sind zwar einfach dort und sozusagen Zeugen einer echt schlimmen Zeit, aber keiner hat sie mehr so richtig am Schirm und keiner schert sich so richtig drum. Für uns aber doch voll beeindruckend.
-An dem Tag war das Wetter ned wirklich so guat und im Wald hots ziemlich gfeichtelt und so Nebelschwaden sind herumgezogen.
-Wir zwei Knaller watscheln einfach mal durch den Schützengraben und versuchen uns vorzustellen, wie das damals so gewesen sein muss! – echt gruselig! (Und wir haben auch einen passenden Sound zum Thema: Soldier of Heaven – Sabaton.)
+An dem Tag war das Wetter ned wirklich so guat und im Wald hots ziemlich gfeichtelt und so Nebelschwaden sind herumgezogen. 🌫️
+Wir zwei Knaller watscheln einfach mal durch den Schützengraben und versuchen uns vorzustellen, wie das damals so gewesen sein muss! Echt gruselig! 😰 (Und wir haben auch einen passenden Sound zum Thema: [Soldier of Heaven – Sabaton](https://youtu.be/LYI3eegIJlI?si=tuEW7Z3qkT3ufntP). 🎧)
 
 Den schon erwähnten Grenzstein haben wir natürlich auch noch angeschaut inkl. verfallener Truppenunterkünfte – zumindest mutmaßen wir, dass es solche sind.
 
 > 🚧 **TODO:** Bilder Schützengraben / Grenzstein einfügen
 
-Auch wenn wir nach solchen Spots schon immer a wengal bedrückt sind, finden wir es wichtig, sich auch solche Dinge anzuschauen – Erinnerungskultur sozusagen.
+Auch wenn wir nach solchen Orten schon immer a wengal bedrückt sind, finden wir es wichtig, sich auch solche Dinge anzuschauen – Erinnerungskultur sozusagen. 🕯️
 
 ## Über den Mangart – die höchste Passstraße Sloweniens
 
-Dann geht's aber weiter zur höchsten Passstraße Sloweniens, dem Mangartsko sedlo.
-Der Weg und die Region ist echt schön, und wir haben ja wirklich Zeit – darum entscheiden wir uns, trotz dem nicht ganz so schönen Wetter, ganz rauf zu fahren.
+Dann geht's aber weiter zur höchsten Passstraße Sloweniens, dem [Mangartsko sedlo](https://mapy.com/s/gobejovula). 🏔️
+Der Weg und die Region ist echt schön, und wir haben ja wirklich Zeit, darum entscheiden wir uns, trotz dem nicht ganz so schönen Wetter, ganz rauf zu fahren.
 ZUM GLÜCK war das Wetter eher bescheiden und damit kaum andere Menschen unterwegs!!!!
-Karin ist am Steuer und fährt einfach mal recht unbedarft los. Es dauert nicht lange und es wird echt eng, die Straße schlängelt sich zunächst durch den Wald, es gibt immer wieder Ausweichbuchten, aber bald wird's noch enger und wir fahren in Tunnels, natürlich ohne Licht, und wir fahren gefühlt eine Felswand hinauf! Im Ernst – des war die Straße der Hölle! – Steff wurde immer leiser und hatte spätestens, als wir auf eine fette Felswand zufahren, echt a bissl Schiss – Zitat Steff: „I bin a Waidler und koa Gams!“ … naja, Karin kommt zwar aus dem gebirgigen Pongau und hat schon einiges erlebt, aber das hat ihr auch nimmer taugt – aber sie blieb stark und hat den Pass bezwungen! – Juhuu!
-Sche woas trotzdem (als wir wieder unten waren ;-)).
+Karin ist am Steuer und fährt einfach mal recht unbedarft los. Es dauert nicht lange und es wird echt eng, die Straße schlängelt sich zunächst durch den Wald, es gibt immer wieder Ausweichbuchten, aber bald wird's noch enger und wir fahren in Tunnels, natürlich ohne Licht, und wir fahren gefühlt eine Felswand hinauf! Im Ernst, des war die Straße der Hölle! 😱 Steff wurde immer leiser und hatte spätestens, als wir auf eine fette Felswand zufahren, echt a bissl Schiss 😨. Zitat Steff: „I bin a Waidler und koa Gams!“ 🐐 Naja, Karin kommt zwar aus dem gebirgigen Pongau und hat schon einiges erlebt, aber das hat ihr auch nimmer taugt. Aber sie blieb stark und hat den Pass bezwungen! Juhuu! 🙌
+Sche woas trotzdem (als wir wieder unten waren 😮‍💨😉).
 
 > 🚧 **TODO:** Bilder Mangart-Passstraße einfügen
 
 ## An der Soča
 
-Naja, und dann waren wir noch an der Soča! – Der Fluss ist bekannt für's Kajaken – völlig zurecht.
-Es waren zwar schon drölf andere Touris mit uns unterwegs, als wir zur Hängebrücke spazierten, aber es hat sich trotzdem gelohnt! – Unfassbar, wie blau das Wasser dort ist!
+Naja, und dann waren wir noch an der Soča! Der Fluss ist bekannt für's Kajaken 🛶, völlig zurecht.
+Es waren zwar schon drölf andere Touris 📸 mit uns unterwegs, als wir zur Hängebrücke spazierten, aber es hat sich trotzdem gelohnt! Unfassbar, wie blau das Wasser dort ist!
 Und die ersten Bienenbeuten haben wir auch gesehen! 🐝
 
 > 🚧 **TODO:** Bilder Soča / Hängebrücke einfügen
@@ -84,93 +84,106 @@ Am Abend kamen wir dann ziemlich entspannt in unserer ersten Unterkunft im Wippa
 ## Triest
 
 Obwohl wir uns zunächst gedacht haben, dass wir es am nächsten Tag gemütlich angehen lassen, waren wir natürlich neugierig und haben uns doch schon wieder auf den Weg gemacht – so weit is jo nimmer bis noch Italien! 🇮🇹
-Auf geht's nach Triest – wir wollen nachschauen, ob die Stadt wirklich so ausschaut, als hätte man Wien genommen und einfach an die Adria verpflanzt!
-Wir kommen vom Norden und fahren ein Stückerl die Küstenstraße entlang! – schon ziemlich nice, finden wir!
-Weil wir uns schon irgendwie denken können, dass wir zwei bildschirmbraune Helden es nicht ewig lange in der wahrscheinlich brennhoaßn Stadt (das Schild am Stadtanfang hat ernsthaft +36 °C angezeigt) aushalten, rollern wir unser Auto zum Hafen zu einem Parkplatz und lassen uns von dort aus einfach durch die Stadt treiben.
-btw. Autofahren in Italien ist pain… De typies reden nicht nur so schnell und hektisch, sondern die machen das einfach auch auf der Straße.
-Weil Karin so tapfer am Berg gefahren ist, darf sich aber diesmal Steff mit den erschwerten Bedingungen auseinandersetzen.
-Naja – aber Triest war schon wirklich schön! – Geheimtipp von Karin: Probierts des Feigeneis im Beislfinder-Eisladen – unfassbar guat!
+Auf geht's nach Triest: Wir wollen nachschauen, ob die Stadt wirklich so ausschaut, als hätte man Wien genommen und einfach an die Adria verpflanzt!
+Wir kommen vom Norden und fahren ein Stückerl die Küstenstraße entlang – schon ziemlich nice, finden wir!
+Weil wir uns schon irgendwie denken können, dass wir zwei bildschirmbraune Helden es nicht ewig lange in der wahrscheinlich brennhoaßn Stadt (das Schild am Stadtanfang hat ernsthaft +36 °C angezeigt 🥵) aushalten, rollern wir unser Auto zum Hafen zu einem Parkplatz und lassen uns von dort aus einfach durch die Stadt treiben.
+Übrigens, Autofahren in Italien ist echt ein Krampf… 😤 Die Typen reden nicht nur so schnell und hektisch, sondern die machen das einfach auch auf der Straße.
+Weil Karin so tapfer am Berg gefahren ist, darf sich aber diesmal Steff mit den erschwerten Bedingungen auseinandersetzen. 😮‍💨🚗
+Naja, aber Triest war schon wirklich schön! Geheimtipp von Karin: Probierts des Feigeneis im [Beislfinder-Eisladen](https://maps.app.goo.gl/Av9zU7R2FjqjXQ1s8) – unfassbar guat!
 
-> 🚧 **TODO:** Link Eisladen einfügen
->
 > 🚧 **TODO:** Bilder Triest einfügen
 
 {{< info >}}
-**Info für Gscheithaferl:** Geschichte von Triest – Kaffeekultur, Österreich-Ungarn usw.
+**Was hat Wien mit Triest zu tun?**
 
-🚧 **TODO:** ausformulieren
+Triest 🇮🇹 war ab 1719 [Freihafen der Habsburgermonarchie](https://de.wikipedia.org/wiki/Geschichte_Triests) – und damit *der* Hafen, über den der Kaffee ins Reich kam: gelöscht, verzollt und weiter nach Wien 🇦🇹, Prag 🇨🇿 und Budapest 🇭🇺. Die Stadt wurde zum Handels- und Röstzentrum; [illy](https://de.wikipedia.org/wiki/Illycaff%C3%A8) etwa, eine der bekanntesten Espresso-Röstereien Italiens, wurde 1933 hier gegründet und sitzt bis heute da.
+
+An dieser Adria-Route hing also auch die [Wiener Kaffeehauskultur](https://de.wikipedia.org/wiki/Wiener_Kaffeehaus), die seit 2011 immaterielles UNESCO-Kulturerbe ist. Umgekehrt bestellt man in Triest bis heute anders als im Rest Italiens – „nero“ für den Espresso, „capo in b“ für den kleinen Milchkaffee im Glas.
 {{< /info >}}
+
+Wir haben probiert einen „nero“ zu bestellen und wurden prompt nicht verstanden… Naja!
 
 ## Piran
 
-Weil wir es aber dann wirklich nicht lange in der Stadt ausgehalten haben, ging's weiter entlang der Küste nach Piran, denn ja, auch Slowenien 🇸🇮 hat eine Küste – mal schauen, was die so kann!
-Nachdem Karin ihren einzigen Job als Beifahrerin ver*** hat – sie hat keinen gscheiten Parkplatz gefunden –, sind wir einfach gleich an die westlichste Spitze von Slowenien gedüst und dieses Mal spitzenmäßig vorbereitet zu einem Parkplatz.
-Zum Glück, denn Piran ist eine gaaaanz alte Ortschaft und Autos müssen draußen bleiben – saucool finden wir und machen uns zu Fuß auf den Weg!
-Auch hier is es fetzheiß, aber es ist auch ziemlich cool, mit der Kirche oben am Hügel, wo man aber gleich auf zwei Seiten zum Meer sieht.
-Man hört überall Musik.
+Weil wir es aber dann wirklich nicht lange in der Stadt ausgehalten haben, ging's weiter entlang der Küste nach Piran, denn ja, auch Slowenien 🇸🇮 hat eine Küste – mal schauen, was die so kann! 🏖️
+Nachdem Karin ihren einzigen Job als Beifahrerin versch****n hat – sie hat keinen gscheiten Parkplatz gefunden 😬 –, sind wir einfach gleich an die westlichste Spitze von Slowenien gedüst und dieses Mal spitzenmäßig vorbereitet zu einem Parkplatz.
+Zum Glück, denn Piran ist eine gaaaanz alte Ortschaft und Autos müssen draußen bleiben – saucool finden wir und machen uns zu Fuß auf den Weg! 🚶‍♀️🚶
+Auch hier is es fetzheiß 🥵, aber es ist auch ziemlich cool, mit der Kirche oben am Hügel ⛪, wo man aber gleich auf zwei Seiten zum Meer sieht.
+Man hört überall Musik. 🎶
 Die engen Gasserl sind super spannend und liab und wir verstehen schon irgendwie, dass es sich hier gut aushalten lässt.
-Wir spazieren den Strand entlang, wo sich wieder mal drölf andere Touristen in der Sonne und im Meer tummeln, und entscheiden uns, dass wir uns einfach wieder mal recht azyklisch ein frühes Abendessen gönnen… nice!
-Die Slowenen sind schon voll entspannt und total nett.
-Es erinnert uns schon ein bisschen an die Urlaube früher in Italien oder Kroatien 🇭🇷, aber irgendwie ist es alles ein bisschen entspannter.
+Wir spazieren den Strand entlang, wo sich wieder mal drölf andere Touristen in der Sonne und im Meer tummeln, und entscheiden uns, dass wir uns einfach wieder mal recht azyklisch ein frühes Abendessen gönnen… nice! 🍽️
+Die Slowenen sind schon voll entspannt und total nett. 😌
+Es erinnert uns schon ein bisschen an die Urlaube früher in Italien 🇮🇹 oder Kroatien 🇭🇷, aber irgendwie ist es alles ein bisschen entspannter.
 
 > 🚧 **TODO:** Bilder Piran einfügen
 
-Damit wir unsere Badesachen nicht ganz umsonst mitgschleppt haben, hüpft Karin dann doch auch noch in ihre Badesachen und schmeißt sich ins Meer.
-Aber ab jetzt weiß sie: hmmm… a wenn i das früher echt ziemlich gern hatte, einfach am Strand zu flaken und wenn's mir zu warm wird ins Wasser zu springen, i mag des echt nimmer!
+Damit wir unsere Badesachen nicht ganz umsonst mitgschleppt haben, hüpft Karin dann doch auch noch in ihre Badesachen und schmeißt sich ins Meer. 🏊‍♀️
+Aber ab jetzt weiß sie: hmmm… a wenn i das früher echt ziemlich gern hatte, einfach am Strand zu flaken und wenn's mir zu warm wird ins Wasser zu springen, i mag des echt nimmer! 🙅‍♀️
 
-1. Warum sind da so viele Menschen, verdammt?
-2. Wääähhh, es fischelt do oba schon a bissl, oder?
-3. Des is ma echt z'soizig! – und meine Haut klebt danach so greislich – und btw. warum riach i jetzt wia a Fiisch?
-4. Wos gspia i do eigentlich die ganze Zeit im Wasser? – Do sind keine Pflanzen – sand des Quallen? Wäääähhh, Panik, i mag hier wieder raus!
+1. Warum sind da so viele Menschen, verdammt? 👨‍👩‍👧‍👦😤🫠
+2. Wääähhh, es fischelt do oba schon a bissl, oder? 🐟👃🤢
+3. Des is ma echt z'soizig! 🧂 Und meine Haut klebt danach so greislich. 😖 Und btw. warum riach i jetzt wia a Fiisch? 🐠
+4. Wos gspia i do eigentlich die ganze Zeit im Wasser? 🌿❓ Do sind keine Pflanzen – sand des Quallen? 🪼 Wäääähhh, Panik, i mag hier wieder raus! 😱🏃‍♀️💨
 
-jou… jetzt weiß sie es wenigstens! – Aber sie war drinnen!
+jou… jetzt weiß sie es wenigstens! Aber sie war drinnen! 😅💪
 
 {{< info >}}
-**Funfact:** Die Grenze zwischen Kroatien und Slowenien ist hier nicht gaaaanz geklärt, darum ist der Verlauf etwas schräg…
+**Warum ist die Seegrenze hier so schräg?**
 
-🚧 **TODO:** Details / Quelle ergänzen
+Seit dem Zerfall Jugoslawiens 1991 streiten Slowenien und Kroatien um den Grenzverlauf in der [Bucht von Piran](https://de.wikipedia.org/wiki/Bucht_von_Piran). Sloweniens Küste ist nur rund 46 km lang – das Land beansprucht fast die ganze Bucht plus einen Korridor durch fremde Hoheitsgewässer bis in die offene Adria, während Kroatien sie in der Mitte teilen will.
+
+2009 einigte man sich auf ein internationales [Schiedsgericht in Den Haag](https://pca-cpa.org/en/cases/3/). Dessen Spruch von 2017 sprach Slowenien rund drei Viertel der Bucht und den Zugang zur Hochsee zu – doch nachdem ein Abhörskandal einen slowenischen Schiedsrichter belastet hatte, stieg Kroatien aus dem Verfahren aus und erkennt das Urteil bis heute nicht an. Die Grenze bleibt also in der Praxis ungeklärt – und der Kartenverlauf entsprechend krumm.
 {{< /info >}}
 
-## Park Postojnska Jama 
+## Park Postojnska jama
+
 Für einen wirklich abwechslungsreichen Urlaub gehören natürlich auch zünftige Touristenattraktionen dazu.
-Der Park Postojnska Jama mit der Burg Predjama und der Höhle von Postojna gehören definitiv dazu. 
-Wobei wir zwei Knallers schon auch zugeben müssen, dass wir nicht wirklich wussten, was uns da erwartet und auch nicht dachten, dass dort so viele Leute sein könnten... 
+Der Park Postojnska jama mit der Burg Predjama und der Höhle von Postojna gehört definitiv dazu.
+Wobei wir zwei Knallers schon auch zugeben müssen, dass wir nicht wirklich wussten, was uns da erwartet, und auch nicht dachten, dass dort so viele Leute sein könnten… 😳
 Naja, auch schön, wenn man so unbedarft in etwas Spannendes hineinstolpert.
 
-Los ging's schon mal mit der Anreise, denn natürlich haben wir Google Maps vertraut und landeten auf einer hübschen Schotterpiste, die sich zunächst als schöne Asphalt-Straße getarnt hat!
-Aber mei - Karin kenn die Oimwegerl ja von ihrer Heimat 😉⛰️.
-Wird scho schief gehen - die Höhlenburg Predjama haben wir zwar fast so lange nicht erahnen können, wie damals den Dettifoss in Island, aber wir haben sie gefunden!
-UND: Auch hier hat es uns einmal mehr geholfen ein bisserl azyklisch unterwegs zu sein und sozusagen gegen den Strom zu laufen.
-Wir starteten nämlich wahrscheinlich eher untypisch mit der Burg, wo wir zwar einen schon halbvollen Parkplatz vorfanden, aber es war eigentlich super erträglich.  
-An der Kasse waren zunächst leicht überfordert, weil es so viele verschiedene Optionen gab und die junge Frau nicht ganz so motiviert war uns alles zu erklären, oder vl. wollte sie einfach nur schnell machen, weil die Schlange hinter uns länger wurde 🫣.
-Schließlich haben wir uns dann aber für das Kombiticket für die Höhlenburg und mit zeitlichem Puffer danach (wir wollen ja auch evtl. noch Broudeln dazwischen) die Tropfsteinhöhle.
+Los ging's schon mal mit der Anreise, denn natürlich haben wir Google Maps vertraut 🗺️ und landeten auf einer hübschen Schotterpiste, die sich zunächst als schöne Asphaltstraße getarnt hat!
+Aber mei, Karin kennt die Oimwegerl ja von ihrer Heimat 😉⛰️.
+Wird scho schief gehen. Die Höhlenburg Predjama haben wir zwar fast so lange nicht erahnen können wie damals den Dettifoss in Island, aber wir haben sie gefunden!
+UND: Auch hier hat es uns einmal mehr geholfen, ein bisserl azyklisch unterwegs zu sein und sozusagen gegen den Strom zu laufen.
+Wir starteten nämlich wahrscheinlich eher untypisch mit der Burg, wo wir zwar einen schon halbvollen Parkplatz vorfanden, aber es war eigentlich super erträglich.
+An der Kasse waren wir zunächst leicht überfordert, weil es so viele verschiedene Optionen gab und die junge Frau nicht ganz so motiviert war, uns alles zu erklären 😒 – oder vielleicht wollte sie einfach nur schnell machen, weil die Schlange hinter uns länger wurde 🫣.
+Schließlich haben wir uns dann aber für das Kombiticket entschieden: zuerst die Höhlenburg und – mit zeitlichem Puffer dazwischen (wir wollen ja evtl. noch broudeln) – danach die Tropfsteinhöhle.
 
 ### Burg Predjama
+
 Nichtsahnend starten wir Richtung Burg, laden uns den Audio-Guide herunter und erwarten uns eigentlich nicht ganz so viel.
-Wir haben schon viele Burgen gesehen und oft gleicht ja wirklich eine der anderen...
-... und dann kam die Höhlenburg! 🏰
-Zum Glück hatten wir einiges an zeitlichen Puffer, denn wir haben die Burg ziemlich zelebriert und uns gemütlichst alles angeschaut!
-- 3 Stockwerke Felsenburg
-- ausgeklügelte Wasserleitungen die das Wasser aus dem Karst in die Burg leitet
-- Die Klassiker: Speisesaal, Kapelle, Folterkammer,...
-- ziemlich coole Terassen direkt in der Felswand
-- Zugbrücke zur alten Höhlenburg
-- Die Überbleibsel der alten Höhlenburg, wo Gänge durch den Karst immer noch durch die Felsen in naheliegende Dörfer führen (diese sind leider nicht mehr zugänglich - wobei Karin hätt sich da eh niemals durchgetraut...)
+Wir haben schon viele Burgen gesehen und oft gleicht ja wirklich eine der anderen…
+… und dann kam die Höhlenburg! 🏰
+Zum Glück hatten wir einiges an zeitlichem Puffer, denn wir haben die Burg ziemlich zelebriert und uns gemütlichst alles angeschaut!
+
+- 3 Stockwerke Felsenburg 🏰
+- ausgeklügelte Wasserleitungen, die das Wasser aus dem Karst in die Burg leiten 💧
+- die Klassiker: Speisesaal 🍖, Kapelle ⛪, Folterkammer ⛓️ …
+- ziemlich coole Terrassen direkt in der Felswand 🧗
+- Zugbrücke zur alten Höhlenburg 🌉
+- die Überbleibsel der alten Höhlenburg, wo Gänge durch den Karst immer noch durch die Felsen in naheliegende Dörfer führen 🕳️ (diese sind leider nicht mehr zugänglich – wobei Karin sich da eh niemals durchgetraut hätt … 🙅‍♀️)
 
 {{< box >}}
-🚧 **TODO:** Details zu Höhlenburg einfügen/ Quelle ergänzen
+🚧 **TODO:** Details zu Höhlenburg einfügen / Quelle ergänzen
+
 - wie lange bewohnt
 - Geschichte mit dem Erasmus und den frischen Kirschen
 
 {{< /box >}}
 
+> 🚧 **TODO:** Bilder Burg Predjama / Höhlenburg einfügen
+
 ### Höhle von Postojna
-Schon in der Burg haben wir gemerkt, dass wir eher langsame Burgbesucher sind - wir wurden immer mal wieder von anderen Leuten überholt. 
-Aber uns ist das ja wurscht... wir haben keinen Stress.
-Erst als wir wieder aus der Burg raus sind und am Parkplatz kapieren, wie viele Leute da unterwegs sind - wieder einmal alles bummvoi...
-Und es war dann auch schwer den Weg wieder hochzufahren, weil manche Leute echt so unfassbar intelligent sind, dass sie in der Spitzkehre anfangen zum Überholen - #Darwinaward.
-So richtig klar wurde es uns aber erst bei der Tropfsteinhöhle, dass wir jetzt echt in einer Hochburg sind (die sich aber wirklich gelohnt hat!) 
-Der Parkplatz dort war fetzgroß und fetzvoll!
-Wir kommen zum Vorplatz zum Eingang der Höhle, wo wir gleich mal in vier verschiedene Gruppen eingeteilt werden - je nach Sprache! (Slowenisch, Italienisch, Deutsch und ein bissl Englisch ist hier ganz normal!)
-Und dann fahren wir mit dem Zug von einer ultra fancy U-Bahn gleichen Bahnhof einfach mal 5 km in den Berg hinein!!!
+
+Schon in der Burg haben wir gemerkt, dass wir eher langsame Burgbesucher sind: Wir wurden immer mal wieder von anderen Leuten überholt.
+Aber uns ist das ja wurscht… wir haben keinen Stress.
+Erst als wir wieder aus der Burg raus sind und am Parkplatz kapieren, wie viele Leute da unterwegs sind – wieder einmal alles bummvoi…
+Und es war dann auch schwer, den Weg wieder hochzufahren, weil manche Leute echt so unfassbar intelligent sind, dass sie in der Spitzkehre anfangen zum Überholen – [#Darwinaward](https://de.wikipedia.org/wiki/Darwin_Awards). 🤦
+So richtig klar wurde es uns aber erst bei der Tropfsteinhöhle, dass wir jetzt echt in einer Hochburg sind (die sich aber wirklich gelohnt hat!).
+Der Parkplatz dort war fetzgroß und fetzvoll! 🅿️
+Wir kommen zum Vorplatz beim Eingang der Höhle, wo wir gleich mal in vier verschiedene Gruppen eingeteilt werden – je nach Sprache! (Slowenisch 🇸🇮, Italienisch 🇮🇹, Deutsch 🇩🇪 und a bissl Englisch 🇬🇧 – das ist hier ganz normal!)
+Und dann fahren wir mit dem Zug von einem Bahnhof, der aussieht wie eine ultrafancy U-Bahn-Station, einfach mal 3 km in den Berg hinein! 🚂
 Das haben wir wieder mal nicht erwartet!
+
+> 🚧 **TODO:** Bilder Höhle von Postojna einfügen
