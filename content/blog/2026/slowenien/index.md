@@ -188,7 +188,7 @@ Zum Glück hatten wir einiges an zeitlichem Puffer, denn wir haben die Burg ziem
 {{< info >}}
 **Die Räubergeschichte zur Burg**
 
-Die [Höhlenburg Predjama](https://de.wikipedia.org/wiki/H%C3%B6hlenburg_Predjama) klebt seit dem 13. Jahrhundert in einer rund 123 m hohen Felswand; ihr heutiges Renaissance-Gesicht bekam sie 1570 unter den Freiherren von Cobenzl. Bewohnt wurde sie bis ins 19. Jahrhundert – zuletzt von den Fürsten Windisch-Graetz –, heute ist sie Museum und laut Guinness-Buch die größte Höhlenburg der Welt.
+Die [Höhlenburg Predjama](https://de.wikipedia.org/wiki/H%C3%B6hlenburg_Predjama) klebt seit dem 13. Jahrhundert in einer rund 123 m hohen Felswand; ihr heutiges Renaissance-Gesicht bekam sie 1570 unter den Freiherren von Cobenzl. Bewohnt wurde sie bis ins 19. Jahrhundert – zuletzt von den Fürsten Windisch-Graetz –, heute ist sie Museum und steht im *Guinness-Buch der Rekorde* als größte Höhlenburg der Welt.
 
 Berühmt ist sie für den Raubritter [Erasmus von Lueg](https://de.wikipedia.org/wiki/Erasmus_Lueger): 1484 wurde er über ein Jahr lang von den kaiserlichen Truppen des Hauptmanns von Triest belagert – konnte sich über einen geheimen Gang durch den Karst aber weiter mit Nachschub versorgen und bewarf die Belagerer zum Spott sogar mit gebratenem Fleisch und frischen Kirschen 🍒. Der Legende nach verriet ihn schließlich ein Diener, und Erasmus wurde ausgerechnet am Abort 💩 von einer Steinkugel 🪨 erschlagen. Hinter der Burg zieht sich ein rund 14 km langes Höhlensystem mit großer Fledermauskolonie in den Berg 🦇.
 {{< /info >}}
