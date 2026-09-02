@@ -14,10 +14,13 @@
     </header>
     
     {{ if and (.Params.toc) (ne .TableOfContents "") }}
-      <nav class="table-of-contents">
-        {{ .TableOfContents }}
+      {{/* Hugo wraps the list in its own <nav id="TableOfContents">; drop it so
+           the TOC is a single navigation landmark with a real accessible name. */}}
+      {{ $toc := .TableOfContents | string | replaceRE `(?s)\s*<nav id="TableOfContents">(.*)</nav>\s*` "$1" }}
+      <nav class="table-of-contents" aria-labelledby="toc-heading">
+        <p id="toc-heading" class="toc-title">Inhalt</p>
+        {{ $toc | safeHTML }}
       </nav>
-      <hr>
     {{ end }}
 
     {{ .Content }}

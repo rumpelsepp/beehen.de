@@ -18,9 +18,6 @@ breadcrumb = false
 blogAsHome = true
 # Zielformat, in das der fig-Shortcode Bilder konvertiert
 imageFormat = 'webp'
-# Breite (px) der verlinkten "gross ansehen"-Variante im fig-Shortcode.
-# Ohne diesen Eintrag nutzt das Template 2000.
-imageLinkWidth = 2000
 
 
 [menus]

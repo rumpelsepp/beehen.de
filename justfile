@@ -4,7 +4,7 @@ npm-build:
     npm run build
 
 build: npm-build
-    {{ hugo }} build
+    {{ hugo }} build --cleanDestinationDir
 
 serve: npm-build
     {{ hugo }} server --buildDrafts
