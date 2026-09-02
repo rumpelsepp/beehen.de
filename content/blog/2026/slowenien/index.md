@@ -157,6 +157,8 @@ Wir haben schon viele Burgen gesehen und oft gleicht ja wirklich eine der andere
 … und dann kam die Höhlenburg! 🏰
 Zum Glück hatten wir einiges an zeitlichem Puffer, denn wir haben die Burg ziemlich zelebriert und uns gemütlichst alles angeschaut!
 
+{{< fig src="IMG_20260828_110158.jpg" >}}
+
 - 3 Stockwerke Felsenburg 🏰
 - ausgeklügelte Wasserleitungen, die das Wasser aus dem Karst in die Burg leiten 💧
 - die Klassiker: Speisesaal 🍖, Kapelle ⛪, Folterkammer ⛓️ …
@@ -186,10 +188,10 @@ Wir kommen zum Vorplatz beim Eingang der Höhle, wo wir gleich mal in vier versc
 Und dann fahren wir mit dem Zug von einem Bahnhof, der aussieht wie eine ultrafancy U-Bahn-Station, einfach mal 3 km in den Berg hinein! 🚂
 Das haben wir wieder mal nicht erwartet!
 
-Und dann sind wir noch mal 2 km im Berg herum spaziert und haben so viele Stalaktiten, Stalakmiten und Stalaknaten gesehen, wie man sich es nicht mal vorstellen kann. 
-"Vorhänge" die aussehen wie Prosciutto, Tropfsteine, die die Form von an Giggal (BY: Huhn; AUT: Hendl) ausschauen. 
-Riesige Formen, die über Hunderttausende von Jahren entstanden sind und hier sogar noch in unterschiedlichen Fraben. 
-Es war ziemlich genial und noch dazu wars wunderbare 10°C kühl.
+Und dann sind wir noch mal 2 km im Berg herum spaziert und haben so viele [Stalaktiten](https://de.wikipedia.org/wiki/Stalaktit), [Stalagmiten](https://de.wikipedia.org/wiki/Stalagmit) und [Stalagnaten](https://de.wikipedia.org/wiki/Stalagnat) gesehen, wie man sich es nicht mal vorstellen kann. 🤯
+"Vorhänge", die aussehen wie Prosciutto 🍖, Tropfsteine, die wie ein Giggal (🇩🇪: Huhn; 🇦🇹: Hendl) ausschauen.
+Riesige Formen, die über Hunderttausende von Jahren entstanden sind und hier sogar noch in unterschiedlichen Farben.
+Es war ziemlich genial und noch dazu wars wunderbare 10 °C kühl. ❄️
 
 {{< info >}}
 **Die Königin der Unterwelt – die Tropfsteinhöhle von Postojna**
@@ -205,31 +207,34 @@ Quelle: [Höhlen von Postojna – Wikipedia](https://de.wikipedia.org/wiki/H%C3%
 
 > 🚧 **TODO:** Bilder Höhle von Postojna einfügen
 
-## Ljubliana - Laibach
-Ganz im Hummel-Hen Stil haben wir die Hauptstadt von Slowenien besucht.
+## Ljubljana – Laibach
+
+Ganz im Hummel-Hen-Stil haben wir die Hauptstadt Sloweniens besucht.
 Wie das geht?
 
-1) Einfach losfahren - Richtung Zentrum Ljubliana - Steff war ja eh schon mal da und versucht ein bestimmtes Gebäude wieder zu finden. (Hat er nicht - aber wir haben einfach so a ähnliches genommen 🤪)
-2) Kurz vor knapp einen adequaten Parkplatz, der nicht in der Sonne ist ansteuern (immerhin haben wir a paar Lebensmittel dabei).
-3) Mit genügend Wasser ausgerüstet dort hin spazieren, wo es schön aussieht, wo es evtl. einen Hügel mit guter Aussicht gibt und uns treiben lassen.
+1. Einfach losfahren – Richtung Zentrum Ljubljana. Steff war ja eh schon mal da und versucht, ein bestimmtes Gebäude wiederzufinden (hat er nicht – aber wir haben einfach so a ähnliches genommen 🤪).
+2. Kurz vor knapp einen adäquaten Parkplatz ansteuern, der nicht in der Sonne steht (immerhin haben wir a paar Lebensmittel dabei).
+3. Mit genügend Wasser ausgerüstet dorthin spazieren, wo es schön aussieht und wo es evtl. einen Hügel mit guter Aussicht gibt – und uns treiben lassen.
 
-In diesem Fall hat's wieder mal wirklich gut funktioniert. 
-Ljubliana ist eine echt schöne und aus unserer Sicht lebenswerte Stadt!
-Viele öffentliche und stark belebte Plätze (inkl. gratis öffentlicher Toiletten, die sogar noch ziemlich sauber sind), ein großer Teil der Altstadt ist einfach mal FuZo!!! - sooo angenehm, mega viele einladende Beiseln und wirklich nette Menschen.
+In diesem Fall hat's wieder mal wirklich gut funktioniert.
+Ljubljana ist eine echt schöne und aus unserer Sicht lebenswerte Stadt!
+Viele öffentliche, stark belebte Plätze (inkl. gratis öffentlicher Toiletten, die sogar noch ziemlich sauber sind), ein großer Teil der Altstadt ist einfach mal FuZo!!! Sooo angenehm, mega viele einladende Beisln und wirklich nette Menschen.
+
 Unsere erste Anlaufstelle: der Wochenmarkt! 🍅🌶️🫑🫒🍉
-Hawidere - so viel Obst und Gemüse auf einem Haufen und alles schaut einfach nur zum anbeißen aus! 
-Wir konnten nicht widerstehen und haben uns ein paar Sachen mitgenommen, damit wir uns in unserer nächsten Unterkunft wieder was kochen können...
-Es hat sich gelohnt - wir werden die Tomaten die wir in diesem Urlaub gefuttert haben wirklich vermissen!
-Wie es sich für Imker gehört, haben wir natürlich auch einen lokalen Imker interviewed und ihm a bissl was abgekauft, damit wir auch kosten können, wie der hier so schmeckt (Wir wissen jetzt: Kastanienhonig ist nicht unser favorite! - für Karin schmeckt der einfach nur nach Waschmittel, sogar in einer Sauce!). 
-Und wir haben ihm ein kleines Flascherl Honigschnapps abgekauft.
-Zitat Steff: ach des kriagn ma scho irgendwie weiter. Zur Not verkochman irgendwie! 
-(Info: am Abend war der weg! Des Zeug war anders guat! - Wir müssen herausfinden, wie wir den mit unserem Honig nachbasteln können!!!)
+Hawidere – so viel Obst und Gemüse auf einem Haufen, und alles schaut einfach nur zum Anbeißen aus!
+Wir konnten nicht widerstehen und haben uns ein paar Sachen mitgenommen, damit wir uns in unserer nächsten Unterkunft wieder was kochen können …
+Es hat sich gelohnt – die Tomaten, die wir in diesem Urlaub gefuttert haben, werden wir wirklich vermissen!
 
-Nachdem SchusselSteff leider seine Sonnenbrille verloren hat, haben wir unsere Route am Markt noch 3x abgelatscht, bevor wir aufgegeben haben, uns ein Essen gegönnt haben und dann eine neue Brille eingekauft haben - schaut guat aus oder?
+Wie es sich für Imker gehört, haben wir natürlich auch einen lokalen Imker ausgefragt und ihm a bissl was abgekauft, damit wir kosten können, wie der Honig hier so schmeckt. 🍯 (Wir wissen jetzt: Kastanienhonig ist nicht unser Favorit – für Karin schmeckt der einfach nur nach Waschmittel, sogar in einer Sauce!)
+Dazu haben wir ihm noch ein kleines Flascherl Honigschnaps abgekauft.
+Zitat Steff: „Ach, des kriagn ma scho irgendwie weiter. Zur Not verkochma's irgendwie!“
+(Info: Am Abend war der weg! 🥃 Des Zeug war anders guat! Wir müssen herausfinden, wie wir den mit unserem Honig nachbasteln können!!!)
 
-🚧 **TODO:** Bild von der neuen Brille einfügen
+Nachdem Schussel-Steff leider seine Sonnenbrille verloren hat, haben wir unsere Route am Markt noch 3× abgelatscht, bevor wir aufgegeben, uns ein Essen gegönnt und dann eine neue Brille eingekauft haben – schaut guat aus, oder? 🕶️
 
-Neu bebrillt und beeist haben wir dann noch den Hügel der lokalen Burg erklommen um einen Rundumblick zu haben! - Schön wars!
+> 🚧 **TODO:** Bild von der neuen Brille einfügen
+
+Neu bebrillt und beeist haben wir dann noch den Hügel der lokalen Burg erklommen, um einen Rundumblick zu haben. Schön wars! 🌄
 
 ## Karst – wenn das Wasser einfach verschwindet
 
