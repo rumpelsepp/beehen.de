@@ -24,9 +24,6 @@ hugo.linux
 .venv
 
 /.hugo_build.lock
-/static/*.js
-/static/*.map
-/static/*.css
-/static/*.woff
-/static/*.woff2
+# esbuild output (bundled from npm deps), fingerprinted + published by Hugo
+/assets/gen/
 /node_modules
