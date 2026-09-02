@@ -130,3 +130,48 @@ jou… jetzt weiß sie es wenigstens! – Aber sie war drinnen!
 
 🚧 **TODO:** Details / Quelle ergänzen
 {{< /info >}}
+
+## Park Postojnska Jama 
+Für einen wirklich abwechslungsreichen Urlaub gehören natürlich auch zünftige Touristenattraktionen dazu.
+Der Park Postojnska Jama mit der Burg Predjama und der Höhle von Postojna gehören definitiv dazu. 
+Wobei wir zwei Knallers schon auch zugeben müssen, dass wir nicht wirklich wussten, was uns da erwartet und auch nicht dachten, dass dort so viele Leute sein könnten... 
+Naja, auch schön, wenn man so unbedarft in etwas Spannendes hineinstolpert.
+
+Los ging's schon mal mit der Anreise, denn natürlich haben wir Google Maps vertraut und landeten auf einer hübschen Schotterpiste, die sich zunächst als schöne Asphalt-Straße getarnt hat!
+Aber mei - Karin kenn die Oimwegerl ja von ihrer Heimat 😉⛰️.
+Wird scho schief gehen - die Höhlenburg Predjama haben wir zwar fast so lange nicht erahnen können, wie damals den Dettifoss in Island, aber wir haben sie gefunden!
+UND: Auch hier hat es uns einmal mehr geholfen ein bisserl azyklisch unterwegs zu sein und sozusagen gegen den Strom zu laufen.
+Wir starteten nämlich wahrscheinlich eher untypisch mit der Burg, wo wir zwar einen schon halbvollen Parkplatz vorfanden, aber es war eigentlich super erträglich.  
+An der Kasse waren zunächst leicht überfordert, weil es so viele verschiedene Optionen gab und die junge Frau nicht ganz so motiviert war uns alles zu erklären, oder vl. wollte sie einfach nur schnell machen, weil die Schlange hinter uns länger wurde 🫣.
+Schließlich haben wir uns dann aber für das Kombiticket für die Höhlenburg und mit zeitlichem Puffer danach (wir wollen ja auch evtl. noch Broudeln dazwischen) die Tropfsteinhöhle.
+
+### Burg Predjama
+Nichtsahnend starten wir Richtung Burg, laden uns den Audio-Guide herunter und erwarten uns eigentlich nicht ganz so viel.
+Wir haben schon viele Burgen gesehen und oft gleicht ja wirklich eine der anderen...
+... und dann kam die Höhlenburg! 🏰
+Zum Glück hatten wir einiges an zeitlichen Puffer, denn wir haben die Burg ziemlich zelebriert und uns gemütlichst alles angeschaut!
+- 3 Stockwerke Felsenburg
+- ausgeklügelte Wasserleitungen die das Wasser aus dem Karst in die Burg leitet
+- Die Klassiker: Speisesaal, Kapelle, Folterkammer,...
+- ziemlich coole Terassen direkt in der Felswand
+- Zugbrücke zur alten Höhlenburg
+- Die Überbleibsel der alten Höhlenburg, wo Gänge durch den Karst immer noch durch die Felsen in naheliegende Dörfer führen (diese sind leider nicht mehr zugänglich - wobei Karin hätt sich da eh niemals durchgetraut...)
+
+{{< info >}}
+🚧 **TODO:** Details zu Höhlenburg einfügen/ Quelle ergänzen
+- wie lange bewohnt
+- Geschichte mit dem Erasmus und den frischen Kirschen
+
+{{< /info >}}
+
+### Höhle von Postojna
+Schon in der Burg haben wir gemerkt, dass wir eher langsame Burgbesucher sind - wir wurden immer mal wieder von anderen Leuten überholt. 
+Aber uns ist das ja wurscht... wir haben keinen Stress.
+Erst als wir wieder aus der Burg raus sind und am Parkplatz kapieren, wie viele Leute da unterwegs sind - wieder einmal alles bummvoi...
+Und es war dann auch schwer den Weg wieder hochzufahren, weil manche Leute echt so unfassbar intelligent sind, dass sie in der Spitzkehre anfangen zum Überholen - #Darwinaward.
+So richtig klar wurde es uns aber erst bei der Tropfsteinhöhle, dass wir jetzt echt in einer Hochburg sind (die sich aber wirklich gelohnt hat!) 
+Der Parkplatz dort war fetzgroß und fetzvoll!
+Wir kommen zum Vorplatz zum Eingang der Höhle, wo wir gleich mal in vier verschiedene Gruppen eingeteilt werden - je nach Sprache! (Slowenisch, Italienisch, Deutsch und ein bissl Englisch ist hier ganz normal!)
+Und dann fahren wir mit dem Zug von einer ultra fancy U-Bahn gleichen Bahnhof einfach mal 5 km in den Berg hinein!!!
+Das haben wir wieder mal nicht erwartet!
+
