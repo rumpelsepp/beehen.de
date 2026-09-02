@@ -1,6 +1,6 @@
 ---
 title: "Urlaub im Süden – Sommer, Sonne, Sonnenschein"
-date: 2026-09-04
+date: 2026-09-01
 tags: ["slowenien", "jugoslawien"]
 toc: true
 draft: true
@@ -304,3 +304,5 @@ Richtig wirr wird's dann hier:
 - **Seen kommen und gehen.** Der [Zirknitzer See](https://de.wikipedia.org/wiki/Cerkni%C5%A1ko_jezero) ist im Winter der größte See Sloweniens und im Sommer eine Wiese, auf der Kühe grasen – das Wasser läuft durch Löcher im Seeboden ab.
 - **Oben ist es staubtrocken.** Weil der Regen sofort im Untergrund versickert, gibt es an der Oberfläche kaum Bäche und nur dünnen Boden. Die Leute hier waren früher auf Regenwasser-Zisternen angewiesen.
 - Dazu überall **Dolinen** (Trichter im Boden), zerfurchte Kalkplatten und Einsturzlöcher – der Untergrund ist quasi ein Schweizer Käse. 🧀
+
+{{< fig src="IMG_20260901_143242_PANO.jpg" >}}
