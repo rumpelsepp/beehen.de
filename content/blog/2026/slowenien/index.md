@@ -205,6 +205,32 @@ Quelle: [Höhlen von Postojna – Wikipedia](https://de.wikipedia.org/wiki/H%C3%
 
 > 🚧 **TODO:** Bilder Höhle von Postojna einfügen
 
+## Ljubliana - Laibach
+Ganz im Hummel-Hen Stil haben wir die Hauptstadt von Slowenien besucht.
+Wie das geht?
+
+1) Einfach losfahren - Richtung Zentrum Ljubliana - Steff war ja eh schon mal da und versucht ein bestimmtes Gebäude wieder zu finden. (Hat er nicht - aber wir haben einfach so a ähnliches genommen 🤪)
+2) Kurz vor knapp einen adequaten Parkplatz, der nicht in der Sonne ist ansteuern (immerhin haben wir a paar Lebensmittel dabei).
+3) Mit genügend Wasser ausgerüstet dort hin spazieren, wo es schön aussieht, wo es evtl. einen Hügel mit guter Aussicht gibt und uns treiben lassen.
+
+In diesem Fall hat's wieder mal wirklich gut funktioniert. 
+Ljubliana ist eine echt schöne und aus unserer Sicht lebenswerte Stadt!
+Viele öffentliche und stark belebte Plätze (inkl. gratis öffentlicher Toiletten, die sogar noch ziemlich sauber sind), ein großer Teil der Altstadt ist einfach mal FuZo!!! - sooo angenehm, mega viele einladende Beiseln und wirklich nette Menschen.
+Unsere erste Anlaufstelle: der Wochenmarkt! 🍅🌶️🫑🫒🍉
+Hawidere - so viel Obst und Gemüse auf einem Haufen und alles schaut einfach nur zum anbeißen aus! 
+Wir konnten nicht widerstehen und haben uns ein paar Sachen mitgenommen, damit wir uns in unserer nächsten Unterkunft wieder was kochen können...
+Es hat sich gelohnt - wir werden die Tomaten die wir in diesem Urlaub gefuttert haben wirklich vermissen!
+Wie es sich für Imker gehört, haben wir natürlich auch einen lokalen Imker interviewed und ihm a bissl was abgekauft, damit wir auch kosten können, wie der hier so schmeckt (Wir wissen jetzt: Kastanienhonig ist nicht unser favorite! - für Karin schmeckt der einfach nur nach Waschmittel, sogar in einer Sauce!). 
+Und wir haben ihm ein kleines Flascherl Honigschnapps abgekauft.
+Zitat Steff: ach des kriagn ma scho irgendwie weiter. Zur Not verkochman irgendwie! 
+(Info: am Abend war der weg! Des Zeug war anders guat! - Wir müssen herausfinden, wie wir den mit unserem Honig nachbasteln können!!!)
+
+Nachdem SchusselSteff leider seine Sonnenbrille verloren hat, haben wir unsere Route am Markt noch 3x abgelatscht, bevor wir aufgegeben haben, uns ein Essen gegönnt haben und dann eine neue Brille eingekauft haben - schaut guat aus oder?
+
+🚧 **TODO:** Bild von der neuen Brille einfügen
+
+Neu bebrillt und beeist haben wir dann noch den Hügel der lokalen Burg erklommen um einen Rundumblick zu haben! - Schön wars!
+
 ## Karst – wenn das Wasser einfach verschwindet
 
 Spätestens in der Höhle ist uns klar geworden: Die ganze Ecke hier ist nicht *irgendein* Karst – sie ist *der* Karst. Das Kalkstein-Plateau zwischen Ljubljana, Triest und dem Meer heißt auf Slowenisch [Kras](https://de.wikipedia.org/wiki/Karst_(S%C3%BCdeuropa)), auf Italienisch *Carso*, auf Deutsch *Karst* – und hat weltweit allen ähnlichen Landschaften den Namen gegeben.
