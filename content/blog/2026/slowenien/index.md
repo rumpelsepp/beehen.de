@@ -79,7 +79,7 @@ Und die ersten Bienenbeuten haben wir auch gesehen! 🐝
 
 > 🚧 **TODO:** Bilder Soča / Hängebrücke einfügen
 
-Am Abend kamen wir dann ziemlich entspannt in unserer ersten Unterkunft im Wippachtal an…
+Am Abend kamen wir dann ziemlich entspannt in unserer [ersten Unterkunft](https://www.airbnb.de/rooms/51489481) im Wippachtal an…
 
 ## Triest
 
@@ -164,13 +164,13 @@ Zum Glück hatten wir einiges an zeitlichem Puffer, denn wir haben die Burg ziem
 - Zugbrücke zur alten Höhlenburg 🌉
 - die Überbleibsel der alten Höhlenburg, wo Gänge durch den Karst immer noch durch die Felsen in naheliegende Dörfer führen 🕳️ (diese sind leider nicht mehr zugänglich – wobei Karin sich da eh niemals durchgetraut hätt … 🙅‍♀️)
 
-{{< box >}}
-🚧 **TODO:** Details zu Höhlenburg einfügen / Quelle ergänzen
+{{< info >}}
+**Die Räubergeschichte zur Burg**
 
-- wie lange bewohnt
-- Geschichte mit dem Erasmus und den frischen Kirschen
+Die [Höhlenburg Predjama](https://de.wikipedia.org/wiki/H%C3%B6hlenburg_Predjama) klebt seit dem 13. Jahrhundert in einer rund 123 m hohen Felswand; ihr heutiges Renaissance-Gesicht bekam sie 1570 unter den Freiherren von Cobenzl. Bewohnt wurde sie bis ins 19. Jahrhundert – zuletzt von den Fürsten Windisch-Graetz –, heute ist sie Museum und laut Guinness-Buch die größte Höhlenburg der Welt.
 
-{{< /box >}}
+Berühmt ist sie für den Raubritter [Erasmus von Lueg](https://de.wikipedia.org/wiki/Erasmus_Lueger): 1484 wurde er über ein Jahr lang von den kaiserlichen Truppen des Hauptmanns von Triest belagert – konnte sich über einen geheimen Gang durch den Karst aber weiter mit Nachschub versorgen und bewarf die Belagerer zum Spott sogar mit gebratenem Fleisch und frischen Kirschen 🍒. Der Legende nach verriet ihn schließlich ein Diener, und Erasmus wurde ausgerechnet am Abort 💩 von einer Steinkugel 🪨 erschlagen. Hinter der Burg zieht sich ein rund 14 km langes Höhlensystem mit großer Fledermauskolonie in den Berg 🦇.
+{{< /info >}}
 
 > 🚧 **TODO:** Bilder Burg Predjama / Höhlenburg einfügen
 
@@ -205,3 +205,31 @@ Wir haben ziemlich viele Infos bekommen - hier eine kleine Auswahl:
 {{< /info >}}
 
 > 🚧 **TODO:** Bilder Höhle von Postojna einfügen
+
+## Karst – wenn das Wasser einfach verschwindet
+
+Spätestens in der Höhle ist uns klar geworden: Die ganze Ecke hier ist nicht *irgendein* Karst – sie ist *der* Karst. Das Kalkstein-Plateau zwischen Ljubljana, Triest und dem Meer heißt auf Slowenisch [Kras](https://de.wikipedia.org/wiki/Karst_(S%C3%BCdeuropa)), auf Italienisch *Carso*, auf Deutsch *Karst* – und hat weltweit allen ähnlichen Landschaften den Namen gegeben.
+
+Das Prinzip ist simpel: Regenwasser ist ein ganz kleines bisschen sauer und löst über Jahrtausende den Kalk auf.
+Es entstehen Ritzen, Röhren und Hohlräume – und irgendwann ganze Höhlensysteme mit Tropfsteinen, so wie in Postojna (das übrigens die Pivka in den Berg gefräst hat, bevor sie selbst prompt untertaucht).
+
+{{< info >}}
+**Kohlensäureverwitterung – die Chemie dahinter**
+
+„Ein bisschen sauer“ heißt konkret: Regenwasser nimmt CO₂ auf – ein wenig aus der Luft, vor allem aber aus dem Boden, wo Wurzeln und Mikroben ordentlich CO₂ produzieren. Es bildet sich Kohlensäure, und die verwandelt den schwer löslichen Kalk (Calciumcarbonat) in wasserlösliches Calciumhydrogencarbonat:
+
+CO₂ + H₂O + CaCO₃ ⇌ Ca(HCO₃)₂
+
+Der Doppelpfeil ist der Clou: Die Reaktion läuft in beide Richtungen. Wo das Wasser wieder CO₂ verliert – etwa als Tropfen an einer Höhlendecke –, fällt der Kalk erneut aus; genau so wachsen Stalaktiten und Stalagmiten.
+
+Wie viel Kalk das Wasser lösen kann, hängt außerdem von der Temperatur ab: Je kälter das Wasser, desto mehr CO₂ bleibt darin gelöst und desto mehr Kalk kann es angreifen. Kühles Sicker- und Schmelzwasser wirkt deshalb besonders stark. Einen zusätzlichen Schub gibt die *Mischungskorrosion* – fließen zwei für sich schon kalkgesättigte, aber unterschiedlich CO₂-reiche Wässer zusammen, wird die Mischung wieder „hungrig“, sodass Höhlen selbst tief unter dem Karstwasserspiegel weiterwachsen, wo längst kein frisches CO₂ mehr ankommt.
+
+Quellen: [Kohlensäureverwitterung](https://de.wikipedia.org/wiki/Kohlens%C3%A4ureverwitterung) und [Mischungskorrosion](https://de.wikipedia.org/wiki/Mischungskorrosion), Wikipedia
+{{< /info >}}
+
+Richtig wirr wird's dann hier:
+
+- **Flüsse hören einfach auf.** Die [Reka](https://de.wikipedia.org/wiki/Reka_(Fluss)) verschwindet bei den [Škocjan-Höhlen](https://de.wikipedia.org/wiki/H%C3%B6hlen_von_%C5%A0kocjan) im Boden und kommt erst rund 35 km später in Italien als *Timavo* wieder heraus. Wo das Wasser dazwischen genau langfließt, hat man erst nach und nach – teils mit Färbeversuchen – herausbekommen.
+- **Seen kommen und gehen.** Der [Zirknitzer See](https://de.wikipedia.org/wiki/Cerkni%C5%A1ko_jezero) ist im Winter der größte See Sloweniens und im Sommer eine Wiese, auf der Kühe grasen – das Wasser läuft durch Löcher im Seeboden ab.
+- **Oben ist es staubtrocken.** Weil der Regen sofort im Untergrund versickert, gibt es an der Oberfläche kaum Bäche und nur dünnen Boden. Die Leute hier waren früher auf Regenwasser-Zisternen angewiesen.
+- Dazu überall **Dolinen** (Trichter im Boden), zerfurchte Kalkplatten und Einsturzlöcher – der Untergrund ist quasi ein Schweizer Käse. 🧀
