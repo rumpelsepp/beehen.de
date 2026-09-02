@@ -15,7 +15,8 @@ async function runBuild() {
       },
       outdir: 'static',
       bundle: true,
-      sourcemap: true,
+      // Sourcemaps only for local `--watch`; keep them out of the deployed site.
+      sourcemap: isWatchMode ? 'linked' : false,
       minify: true,
       target: 'es2024',
       format: 'esm',

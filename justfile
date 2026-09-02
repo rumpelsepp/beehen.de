@@ -18,5 +18,5 @@ clean:
 podman-pull:
     podman pull ghcr.io/gohugoio/hugo:latest
 
-check-links:
-    lychee content/*
+check-links: build
+    lychee --offline --include-fragments public

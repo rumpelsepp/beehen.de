@@ -1,5 +1,6 @@
 baseURL = 'https://beehen.de'
 defaultContentLanguage = 'de-de'
+locale = 'de-DE'
 timeZone = "Europe/Berlin"
 enableEmoji = true
 enableRobotsTXT = true
