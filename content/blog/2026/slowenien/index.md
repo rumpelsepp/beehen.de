@@ -1,5 +1,5 @@
 ---
-title: "Urlaub im Süden – Sommer, Sonne, Sonnenschein"
+title: "Urlaub im Süden: Sommer, Sonne, Sonnenschein"
 date: 2026-09-03
 tags: ["slowenien", "jugoslawien"]
 toc: true
