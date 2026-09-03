@@ -47,6 +47,6 @@ Das ist der Ort, wo der Dampfer 1912 zum letzten Mal angelegt hat und 123 irisch
 {{< fig src="1000027795.jpg" >}}
 {{< fig src="1000027798.jpg" >}}
 
-Der Plan für den restlichen Abend: [Caccio e Pepe]({{< ref "blog/2024/bratislava/index.md#spaghetti-cacio-e-pepe" >}}) und Bierli in unserer Bude bei da Una in der „fully equipped kitchen“ 🎉.
+Der Plan für den restlichen Abend: [Caccio e Pepe]({{< relref "blog/2024/bratislava/index.md#spaghetti-cacio-e-pepe" >}}) und Bierli in unserer Bude bei da Una in der „fully equipped kitchen“ 🎉.
 Aber halt: Wo kochen wir jetzt eigentlich unsere Nudeln? Es gibt weder Topf noch Herd? Wo haben wir hingeguckt? 😅
 Egal, es gibt noch genug Toast 🍞 mit Honig 🍯! Das tut's auch ☀️.
