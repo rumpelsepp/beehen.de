@@ -1,9 +1,9 @@
 ---
 title: "Urlaub im Süden – Sommer, Sonne, Sonnenschein"
-date: 2026-09-01
+date: 2026-09-03
 tags: ["slowenien", "jugoslawien"]
 toc: true
-draft: true
+image: "IMG_20260826_154709.jpg"
 ---
 
 Lignano, Bibione, Poreč, Rovinj – eh ois voi schee – aber geht der klassische Urlaub im Süden auch mit a bissl weniger Sonnenbrand und Ölsardinen-Feeling? Challenge accepted!
@@ -79,7 +79,8 @@ Sche woas trotzdem (als wir wieder unten waren 😮‍💨😉).
 {{< fig src="IMG_20260825_105245.jpg" >}}
 {{< fig src="IMG_20260825_111816.jpg" >}}
 
-> 🚧 **TODO:** Bilder Mangart-Passstraße einfügen
+{{< fig src="IMG_20260825_105232.jpg" >}}
+{{< fig src="IMG_20260825_105439.jpg" >}}
 
 ## An der Soča
 
@@ -117,6 +118,9 @@ An dieser Adria-Route hing also auch die [Wiener Kaffeehauskultur](https://de.wi
 {{< /info >}}
 
 Wir haben probiert einen „nero“ zu bestellen und wurden prompt nicht verstanden… Naja!
+Aber dafür gab's zum Kaffee sehr geile Bruschette!
+
+{{< fig src="IMG_20260826_120450.jpg" >}}
 
 ## Piran
 
@@ -145,6 +149,8 @@ Aber ab jetzt weiß sie: hmmm… a wenn i das früher echt ziemlich gern hatte, 
 4. Wos gspia i do eigentlich die ganze Zeit im Wasser? 🌿❓ Do sind keine Pflanzen – sand des Quallen? 🪼 Wäääähhh, Panik, i mag hier wieder raus! 😱🏃‍♀️💨
 
 jou… jetzt weiß sie es wenigstens! Aber sie war drinnen! 😅💪
+
+{{< fig src="IMG_20260826_164414.jpg" >}}
 
 {{< info >}}
 **Warum ist die Seegrenze hier so schräg?**
@@ -176,7 +182,7 @@ Wir haben schon viele Burgen gesehen und oft gleicht ja wirklich eine der andere
 … und dann kam die Höhlenburg! 🏰
 Zum Glück hatten wir einiges an zeitlichem Puffer, denn wir haben die Burg ziemlich zelebriert und uns gemütlichst alles angeschaut!
 
-{{< fig src="IMG_20260828_110158.jpg" >}}
+{{< fig src="IMG_20260828_110204.jpg" >}}
 
 - 3 Stockwerke Felsenburg 🏰
 - ausgeklügelte Wasserleitungen, die das Wasser aus dem Karst in die Burg leiten 💧
@@ -214,6 +220,8 @@ Der Parkplatz dort war fetzgroß und fetzvoll! 🅿️
 Wir kommen zum Vorplatz beim Eingang der Höhle, wo wir gleich mal in vier verschiedene Gruppen eingeteilt werden – je nach Sprache! (Slowenisch 🇸🇮, Italienisch 🇮🇹, Deutsch 🇩🇪 und a bissl Englisch 🇬🇧 – das ist hier ganz normal!)
 Und dann fahren wir mit dem Zug von einem Bahnhof, der aussieht wie eine ultrafancy U-Bahn-Station, einfach mal 3 km in den Berg hinein! 🚂
 Das haben wir wieder mal nicht erwartet!
+
+{{< fig src=IMG_20260828_143118.jpg >}}
 
 Und dann sind wir noch mal 2 km im Berg herum spaziert und haben so viele [Stalaktiten](https://de.wikipedia.org/wiki/Stalaktit), [Stalagmiten](https://de.wikipedia.org/wiki/Stalagmit) und [Stalagnaten](https://de.wikipedia.org/wiki/Stalagnat) gesehen, wie man sich es nicht mal vorstellen kann. 🤯
 "Vorhänge", die aussehen wie Prosciutto 🍖, Tropfsteine, die wie ein Giggal (🇩🇪: Huhn; 🇦🇹: Hendl) ausschauen.
@@ -325,11 +333,3 @@ Richtig wirr wird's dann hier:
      🚧 BILDER ZUM EINSORTIEREN – fig-Tags von hier an die richtige Stelle schieben,
      danach diesen Block löschen. Kommentar = Aufnahmezeitpunkt aus dem Dateinamen.
      ============================================================ -->
-
-<!-- Di 26.08., 12:04 -->
-{{< fig src="IMG_20260826_120450.jpg" >}}
-<!-- Di 26.08., 12:38 -->
-{{< fig src="IMG_20260826_123827.jpg" >}}
-<!-- Di 26.08., 16:44 -->
-{{< fig src="IMG_20260826_164414.jpg" >}}
-<!-- Fr 28.08., 12:36 -->
