@@ -60,7 +60,7 @@ Wir wären zwar fast vorbeibrennt, weil es nur eine recht unscheinbare Tafel dor
 
 Schon erstaunlich, wie solche Orte dann irgendwann einfach „lost places“ werden… sie sind zwar einfach dort und sozusagen Zeugen einer echt schlimmen Zeit, aber keiner hat sie mehr so richtig am Schirm und keiner schert sich so richtig drum. Für uns aber doch voll beeindruckend.
 An dem Tag war das Wetter ned wirklich so guat und im Wald hots ziemlich gfeichtelt und so Nebelschwaden sind herumgezogen. 🌫️
-Wir zwei Knaller watscheln einfach mal durch den Schützengraben und versuchen uns vorzustellen, wie das damals so gewesen sein muss! Echt gruselig! 😰 (Wir haben auch einen passenden Sound zum Thema: [Soldier of Heaven – Sabaton](https://youtu.be/LYI3eegIJlI?si=tuEW7Z3qkT3ufntP). 🎧)
+Wir zwei Knaller watscheln einfach mal durch den Schützengraben und versuchen uns vorzustellen, wie das damals so gewesen sein muss! Echt gruselig! 😰 (Wir haben auch einen passenden Sound zum Thema: [Soldier of Heaven – Sabaton](https://youtu.be/LYI3eegIJlI?si=tuEW7Z3qkT3ufntP) 🎧)
 
 Den schon erwähnten Grenzstein haben wir natürlich auch noch angeschaut inkl. verfallener Truppenunterkünfte – zumindest mutmaßen wir, dass es solche sind.
 
@@ -195,6 +195,14 @@ Berühmt ist sie für den Raubritter [Erasmus von Lueg](https://de.wikipedia.org
 
 > 🚧 **TODO:** Bilder Burg Predjama / Höhlenburg einfügen
 
+Nachdem Erasmus von Lueg auf dem Abort sein Ende gefunden hatte, hat seine Liebste ihm zu Gedenken an der nahe gelegenen kleinen Kirche eine Linde gepflanzt.
+Die Linde ist mittlerweile an die 500 Jahre alt und hat bereits einiges, wie z. B. Brände, überstanden.
+Dementsprechend lädiert schaut der Stamm mittlerweile aus, aber die Krone schaut für einen Amateur gesund aus.
+Eine Hinweistafel nahe des Baumes erzählte uns, dass über die Jahre einige Anstrengungen unternommen wurden, um den Stamm zu entlasten.
+Beispielsweise wurde die Krone etwas zurückgeschnitten um das Gewicht auf den Stamm zu reduzieren.
+
+{{< fig src="IMG_20260828_123655.jpg" >}}
+
 ### Höhle von Postojna
 
 Schon in der Burg haben wir gemerkt, dass wir eher langsame Burgbesucher sind: Wir wurden immer mal wieder von anderen Leuten überholt.
@@ -255,27 +263,35 @@ Nachdem Schussel-Steff leider seine Sonnenbrille verloren hat, haben wir unsere 
 
 Neu bebrillt und beeist haben wir dann noch den Hügel der lokalen Burg erklommen, um einen Rundumblick zu haben. Schön wars! 🌄
 
-## Die Geschichte von Blaz und seinem kleinen Paradies
-Nachdem wir festgestellt haben, dass es uns direkt am Meer eigentlich zu heiß ist, war es eigentlich klar, dass unsere nächste Bude wieder a bissl weiter Richtung Berge sein darf.
-Wir sind auf der Karte herumgefahren und haben uns gedacht: hmmmm irgendwas zwischen Ljublijana und Maribor wär doch gut, dann können wir am Schluss ein feines Ringerl machen. 
-Gesagt - getan: am Freitag haben wir gebucht und am Samstag sind wir nach unserem Besuch in Ljublijana angereist und etwas erschöpft angekommen.
-Blaz (zu Deutsch: Blasius) hat uns schon ganz neugierig erwartet (wir hatten zwar gehofft, dass wir einfach einen unspektakulären self-check-in machen können, aber in diesem Fall war es tatsächlich total nett).
-Denn wie wir erfahren haben, hat Blaz und seine Frau das Appartement ursprünglich für die Tochter hergerichtet (mit total viel Herzblut und eigener Arbeit), die aber seit kurzem bei ihrem Partner lebt. 
-Dafür hatten jetzt wir das Vergnügen in dieser der Geschichte entsprechend unfassbar schönen Bude zu wohnen (btw: die beiden machen das jetzt seit 4! Wochen 🧐). 
+## Die Geschichte von Blaž und seinem kleinen Paradies
+
+Nachdem wir festgestellt haben, dass es uns direkt am Meer eigentlich zu heiß ist 🥵, war klar, dass unsere nächste Bude wieder a bissl weiter Richtung Berge sein darf.
+Wir sind auf der Karte herumgefahren und haben uns gedacht: hmmmm, irgendwas zwischen Ljubljana und Maribor (Marburg an der Drau) wär doch gut, dann können wir am Schluss ein feines Ringerl machen.
+Gesagt, getan: Am Freitag haben wir gebucht, und am Samstag sind wir nach unserem Besuch in Ljubljana angereist und etwas erschöpft angekommen.
+Blaž (zu Deutsch: Blasius) hat uns schon ganz neugierig erwartet.
+Wir hatten zwar gehofft, dass wir einfach einen unspektakulären Self-Check-in machen können, aber in diesem Fall war es tatsächlich total nett.
+Denn wie wir erfahren haben, haben Blaž und seine Frau das Appartement ursprünglich für die Tochter hergerichtet (mit total viel Herzblut und eigener Arbeit), die aber seit Kurzem bei ihrem Partner lebt.
+Dafür hatten jetzt wir das Vergnügen, in dieser – der Geschichte entsprechend – unfassbar schönen Bude zu wohnen (die beiden machen das übrigens erst seit gut vier Wochen 🧐).
 Aber überzeugt euch selbst:
 
-🚧 **TODO:** Bild von Bude einfügen
+> 🚧 **TODO:** Bild von Bude einfügen
 
-Wir haben es einfach nur gefeiert und genossen!
-Darum haben wir uns am Sonntag einfach nur in den Garten gepflanzt, mit einem Buch und haben gelesen und später drinnen Catan gespielt (Wir lieben die Duell Version!)
-Zitat von Blaz am nächsten Tag: I was wondering if you were still alive, because you have been so quiet!
+Wir haben es einfach nur gefeiert und genossen! 🥳
+Darum haben wir uns am Sonntag einfach nur in den Garten gepflanzt, mit einem Buch gelesen 📖 und später drinnen Catan gespielt 🎲 (wir lieben die Duell-Version!).
+Zitat von Blaž am nächsten Tag: „I was wondering if you are still alive, because you were so quiet yesterday!“ 😅
 
-Blaz und seine Frau sind total liebe Hosts. 
-Wir wurden ganz unkompliziert zu einem Grillabend eingeladen, dabei bekocht und ehrlicherweise mit alkoholischen Getränken abgefüllt (wobei, das geht bei uns zwei relativ schnell). 
-An diesem Tag haben sie noch zwei weitere Gäste aufgenommen, die bei einem Bekannten gestrandet waren, wo sie nicht ganz so happy mit der Anfahrt zur Unterkunft waren.
-Aber alles kein Problem...
-So kam es, dass Menschen aus 5 Nationen (Slowenien, Dänemark, Iran, Deutschland, Österreich) und unterschiedichen Generationen einen gemeinsamen einen ziemlich unvergesslichen Abend gemeinsam verbrachten.
-Schon spannend welche Gespräche sich dabei so entwickeln.
+Blaž und seine Frau sind total liebe Hosts.
+Wir wurden ganz unkompliziert zu einem Grillabend eingeladen 🔥, dabei bekocht und ehrlicherweise mit alkoholischen Getränken abgefüllt 🍷 (das geht bei uns zwei eh relativ schnell).
+An diesem Tag haben sie noch zwei weitere Gäste aufgenommen, die bei einem Bekannten gestrandet waren, weil sie mit der Anfahrt zu ihrer eigentlichen Unterkunft nicht ganz so happy waren.
+Aber alles kein Problem …
+So kam es, dass sechs Menschen aus fünf Nationen (Slowenien 🇸🇮, Dänemark 🇩🇰, Iran 🇮🇷, Deutschland 🇩🇪 und Österreich 🇦🇹) und aus unterschiedlichen Generationen einen ziemlich unvergesslichen Abend miteinander verbrachten.
+Schon spannend, welche Gespräche sich dabei so entwickeln…
+
+An unserem letzten Tag bei Blaž haben wir einen kleinen großen Spaziergang zur gegenüberliegenden Talseite unternommen und uns eine Burgruine angeschaut. 🏰
+Oben angekommen hatten wir einen super Ausblick über die ganze Gegend! 😍
+Blažs Paradies ist übrigens auch auf dem Panoramafoto zu sehen 😉.
+
+{{< fig src="IMG_20260901_143242_PANO.jpg" >}}
 
 ## Karst – wenn das Wasser einfach verschwindet
 
@@ -305,4 +321,15 @@ Richtig wirr wird's dann hier:
 - **Oben ist es staubtrocken.** Weil der Regen sofort im Untergrund versickert, gibt es an der Oberfläche kaum Bäche und nur dünnen Boden. Die Leute hier waren früher auf Regenwasser-Zisternen angewiesen.
 - Dazu überall **Dolinen** (Trichter im Boden), zerfurchte Kalkplatten und Einsturzlöcher – der Untergrund ist quasi ein Schweizer Käse. 🧀
 
-{{< fig src="IMG_20260901_143242_PANO.jpg" >}}
+<!-- ============================================================
+     🚧 BILDER ZUM EINSORTIEREN – fig-Tags von hier an die richtige Stelle schieben,
+     danach diesen Block löschen. Kommentar = Aufnahmezeitpunkt aus dem Dateinamen.
+     ============================================================ -->
+
+<!-- Di 26.08., 12:04 -->
+{{< fig src="IMG_20260826_120450.jpg" >}}
+<!-- Di 26.08., 12:38 -->
+{{< fig src="IMG_20260826_123827.jpg" >}}
+<!-- Di 26.08., 16:44 -->
+{{< fig src="IMG_20260826_164414.jpg" >}}
+<!-- Fr 28.08., 12:36 -->
