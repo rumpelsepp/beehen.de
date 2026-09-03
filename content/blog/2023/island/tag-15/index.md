@@ -46,13 +46,13 @@ Aus unserem Freund Wikipedia: [**Vulkan**](https://de.wikipedia.org/wiki/Vulkan)
 Es gibt nach aktuellem Stand ca. 1500 aktive[^1] Vulkane an der Erdoberfläche, die in den Geowissenschaften in verschiedene Typen eingeteilt werden.
 Die vulkanischen Formen, die wir bisher auf unserer Reise kennengelernt haben sind: 
 
-* [**Geysir**](https://de.wikipedia.org/wiki/Geysir): [Großer Geysir](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Geysir) und [Stokkur](https://de.wikipedia.org/wiki/Haukadalur), gesehen an [Tag 2]({{< ref "/blog/2023/island/tag-2" >}})
-* [**Thermalquellen**](https://de.wikipedia.org/wiki/Thermalquelle): gesehn an [Tag 3]({{< ref "/blog/2023/island/tag-3" >}})
-* [**Aschekegel**](https://de.wikipedia.org/wiki/Schlacken-_und_Aschenkegel#Schlackenkegel):  [Hverfjall](https://de.wikipedia.org/wiki/Hverfjall), gesehen am [Tag 12]({{< ref "/blog/2023/island/tag-12" >}})
-* [**Maar**](https://de.wikipedia.org/wiki/Maar): [Víti (Krafla)](https://de.wikipedia.org/wiki/V%C3%ADti_(Krafla)), gesehen am [Tag 12]({{< ref "/blog/2023/island/tag-12" >}})
-* [**Lavafeld**](https://de.wikipedia.org/wiki/Lavafeld): [Dimmuborgir](https://de.wikipedia.org/wiki/Dimmuborgir), gesehen am [Tag 12]({{< ref "/blog/2023/island/tag-12" >}})
+* [**Geysir**](https://de.wikipedia.org/wiki/Geysir): [Großer Geysir](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Geysir) und [Stokkur](https://de.wikipedia.org/wiki/Haukadalur), gesehen an [Tag 2]({{< relref "/blog/2023/island/tag-2" >}})
+* [**Thermalquellen**](https://de.wikipedia.org/wiki/Thermalquelle): gesehn an [Tag 3]({{< relref "/blog/2023/island/tag-3" >}})
+* [**Aschekegel**](https://de.wikipedia.org/wiki/Schlacken-_und_Aschenkegel#Schlackenkegel):  [Hverfjall](https://de.wikipedia.org/wiki/Hverfjall), gesehen am [Tag 12]({{< relref "/blog/2023/island/tag-12" >}})
+* [**Maar**](https://de.wikipedia.org/wiki/Maar): [Víti (Krafla)](https://de.wikipedia.org/wiki/V%C3%ADti_(Krafla)), gesehen am [Tag 12]({{< relref "/blog/2023/island/tag-12" >}})
+* [**Lavafeld**](https://de.wikipedia.org/wiki/Lavafeld): [Dimmuborgir](https://de.wikipedia.org/wiki/Dimmuborgir), gesehen am [Tag 12]({{< relref "/blog/2023/island/tag-12" >}})
 * [**Stratovulkan**](https://de.wikipedia.org/wiki/Schichtvulkan): [Snæfellsnes](https://de.wikipedia.org/wiki/Sn%C3%A6fellsnes) (dieser Artikel)
-* [**Pseudokrater**](https://de.wikipedia.org/wiki/Pseudokrater): gesehen am [Tag 12]({{< ref "/blog/2023/island/tag-12" >}})
+* [**Pseudokrater**](https://de.wikipedia.org/wiki/Pseudokrater): gesehen am [Tag 12]({{< relref "/blog/2023/island/tag-12" >}})
 * [**Schweißschlackekegel**](https://de.wikipedia.org/wiki/Schlacken-_und_Aschenkegel#Schwei%C3%9Fschlackenkegel): [Eldborg](https://de.wikipedia.org/wiki/Hnappadalur#Eldborg_%C3%AD_Hnappadal) (aus zeitlichen Gründen haben wir den leider nicht mehr angefahren… 😞)
 
 [^1]: Geologen bezeichnen einen Vulkan als aktiv, wenn er in den letzten 10000 Jahren einmal ausgebrochen ist.
