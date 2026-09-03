@@ -296,26 +296,29 @@ So kam es, dass sechs Menschen aus fünf Nationen (Slowenien 🇸🇮, Dänemark
 Schon spannend, welche Gespräche sich dabei so entwickeln…
 
 Selbstverständlich hat Blaž uns auch zahlreiche Tipps gegeben, was wir in der Gegend so unternehmen können.
-Einer davon war  der Baumwipfelpfad Pohorje 🚧 **TODO:** Link einfügen! - oder wie wir es nennen: des Baumei (also nicht Salzburgerisch für kleiner Baum sondern Baum + Ei:🌲🥚).
+Einer davon war der Baumwipfelpfad Pohorje – oder wie wir es nennen: des Baumei (also nicht Salzburgerisch für kleiner Baum, sondern Baum + Ei: 🌲🥚).
+
+> 🚧 **TODO:** Link zum Baumwipfelpfad Pohorje einfügen
+
 Wir geben wieder mal unser Ziel ins Navi ein und düsen los!
-Spätestens jetzt lernen wir: vertraue dem Navi in Slowenien einfach nicht - des checkt einfach nicht, wie die Straßen beschaffen sind und du fährst dann nur über Stock und Stein & hoffst, dass dir niemand mit 100 Sachen entgegen kommt 🏎️. 
-Naja zurück hammas dann selbst sinnvoller gesteuert, aber ein Abenteuer war es trotzdem!
+Spätestens jetzt lernen wir: Vertraue dem Navi in Slowenien einfach nicht – des checkt nicht, wie die Straßen beschaffen sind, und du fährst dann nur über Stock und Stein und hoffst, dass dir niemand mit 100 Sachen entgegenkommt 🏎️.
+Naja, zurück hamma's dann selbst sinnvoller gesteuert, aber ein Abenteuer war es trotzdem!
 
-Zurück zum 🌲🥚: Dort wo im Winter ein Schi Gebiet ist, kann man im Sommer auch das 🌲🥚besuchen und bekommt dafür eine tolle Aussicht über die Region!
-Funfact: die Slowenen sind nicht die ersten die auf so eine Idee kommen.
-Steffs geschulter Blick hat sofort erkannt: "Des hom Waidler gspaxt!"
-Es gibt also mehrere von den 🌲🥚: Das erste davon steht - ihr könnt es sicher erraten... im Bayerischen Wald. Dann gibts noch welche auf Rügen, im Schwarzwald, in der Slowakei, im Elsass, im Salzkammergut, auf Usedom...
-Ach wenn wir a bissl sch*** das integrierte Trampolin im Turm zu verwenden, finden wir die Idee schon wirklich cool und haben das 🌲🥚 sehr genossen!
+Zurück zum 🌲🥚: Dort, wo im Winter ein Schigebiet ist, kann man im Sommer auch das 🌲🥚 besuchen und bekommt dafür eine tolle Aussicht über die Region!
+Funfact: Die Slowenen sind nicht die Ersten, die auf so eine Idee kommen.
+Steffs geschulter Blick hat sofort erkannt: „Des hom Waidler gspaxt!“
+Es gibt also mehrere von den 🌲🥚: Das erste davon steht – ihr könnt es sicher erraten – im Bayerischen Wald. Dann gibt's noch welche auf Rügen, im Schwarzwald, in der Slowakei, im Elsass, im Salzkammergut, auf Usedom …
+Auch wenn wir uns a bissl sch***, das integrierte Trampolin im Turm zu verwenden, finden wir die Idee schon wirklich cool und haben das 🌲🥚 sehr genossen!
 
-🚧 **TODO:** Bilder einfügen
+> 🚧 **TODO:** Bilder einfügen
 
-Hier oben haben wir wirklich regionales Essen genossen - hui war das viel... aber die Schwammerl waren schon herrlich!
+Hier oben haben wir wirklich regionales Essen genossen – hui, war das viel! Aber die Schwammerl waren schon herrlich!
 
-🚧 **TODO:** Bilder einfügen
+> 🚧 **TODO:** Bilder einfügen
 
-Und dann haben wir noch einen sehr notwendingen Verdauungsspaziergang gemacht!
+Danach haben wir noch einen sehr notwendigen Verdauungsspaziergang gemacht!
 
-🚧 **TODO:** Bilder einfügen
+> 🚧 **TODO:** Bilder einfügen
 
 An unserem letzten Tag bei Blaž haben wir einen kleinen großen Spaziergang zur gegenüberliegenden Talseite unternommen und uns eine Burgruine angeschaut. 🏰
 Oben angekommen hatten wir einen super Ausblick über die ganze Gegend! 😍
