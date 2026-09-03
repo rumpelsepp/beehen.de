@@ -163,7 +163,7 @@ Naja, auch schön, wenn man so unbedarft in etwas Spannendes hineinstolpert.
 
 Los ging's schon mal mit der Anreise, denn natürlich haben wir Google Maps vertraut 🗺️ und landeten auf einer hübschen Schotterpiste, die sich zunächst als schöne Asphaltstraße getarnt hat!
 Aber mei, Karin kennt die Oimwegerl ja von ihrer Heimat 😉⛰️.
-Wird scho schief gehen. Die Höhlenburg Predjama haben wir zwar fast so lange nicht erahnen können wie damals den Dettifoss in Island, aber wir haben sie gefunden!
+Wird scho schief gehen. Die Höhlenburg Predjama haben wir zwar fast so lange nicht erahnen können wie damals den [Dettifoss]({{< ref "/blog/2023/island/tag-11" >}}) in Island, aber wir haben sie gefunden!
 UND: Auch hier hat es uns einmal mehr geholfen, ein bisserl azyklisch unterwegs zu sein und sozusagen gegen den Strom zu laufen.
 Wir starteten nämlich wahrscheinlich eher untypisch mit der Burg, wo wir zwar einen schon halbvollen Parkplatz vorfanden, aber es war eigentlich super erträglich.
 An der Kasse waren wir zunächst leicht überfordert, weil es so viele verschiedene Optionen gab und die junge Frau nicht ganz so motiviert war, uns alles zu erklären 😒 – oder vielleicht wollte sie einfach nur schnell machen, weil die Schlange hinter uns länger wurde 🫣.
