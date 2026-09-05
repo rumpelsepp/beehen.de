@@ -1,11 +1,16 @@
 {{- /*
   Local override of Hugo's embedded _funcs/get-page-images.html.
 
-  Identical to the built-in, except that an auto-discovered *featured*
-  image resource (feature/cover/thumbnail) is downscaled to the Open
-  Graph reference size (1200x630) instead of being served at full
-  resolution. opengraph.html, twitter_cards.html and schema.html all
-  consume this helper, so they pick up the resized URL automatically.
+  Identical to the built-in, except the auto-discovered image:
+  - resolves the *same* front-matter `image` parameter the home page's
+    post cards use (layouts/home.html), defaulting to "feature.jpg" —
+    so OG/Twitter/schema show the same picture as the site itself does.
+  - downscales it to the Open Graph reference size (1200x630) instead of
+    serving it at full resolution.
+  - falls back to the site favicon (same resource head.html uses for the
+    <link rel="icon">) when a page has no featured image at all.
+  opengraph.html, twitter_cards.html and schema.html all consume this
+  helper, so they pick up the resized URL automatically.
 
   Images set explicitly via the `images` front-matter parameter or the
   site `params.images` are left untouched.
@@ -13,19 +18,22 @@
 {{- $imgs := slice }}
 {{- $imgParams := .Params.images }}
 {{- $resources := .Resources.ByType "image" -}}
-{{/* Find featured image resources if the images parameter is empty. */}}
+{{/* Find the page's featured image (or fall back to the favicon) if the images parameter is empty. */}}
 {{- if not $imgParams }}
-	{{- $featured := $resources.GetMatch "*feature*" -}}
-	{{- if not $featured }}{{ $featured = $resources.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
-	{{- with $featured }}
-		{{- $og := . -}}
-		{{- if reflect.IsImageResourceProcessable . -}}
-			{{- $og = (.Filter images.AutoOrient).Process "fill 1200x630 q80" -}}
+	{{- $featured := $resources.GetMatch (.Param "image" | default "feature.jpg") -}}
+	{{- $og := "" -}}
+	{{- if and $featured (reflect.IsImageResourceProcessable $featured) -}}
+		{{- $og = ($featured.Filter images.AutoOrient).Process "fill 1200x630 q80" -}}
+	{{- else -}}
+		{{- with resources.Get "favicon.png" -}}
+			{{- $og = .Resize "1200x jpg q80" -}}
 		{{- end -}}
+	{{- end -}}
+	{{- with $og }}
 		{{- $imgs = $imgs | append (dict
-			"Image" $og
-			"RelPermalink" $og.RelPermalink
-			"Permalink" $og.Permalink
+			"Image" .
+			"RelPermalink" .RelPermalink
+			"Permalink" .Permalink
 			)
 		}}
 	{{- end }}
