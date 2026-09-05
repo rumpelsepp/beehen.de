@@ -88,13 +88,14 @@ Es waren zwar schon drölf andere Touris 📸 mit uns unterwegs, als wir zur Hä
 Und die ersten Bienenbeuten haben wir auch gesehen! 🐝
 
 {{< fig src="IMG_20260825_141259.jpg" >}}
+{{< fig src="IMG_20260825_143353.jpg" >}}
 {{< fig src="IMG_20260825_144039.jpg" >}}
 
 Am Abend kamen wir dann ziemlich entspannt in unserer [ersten Unterkunft](https://www.airbnb.de/rooms/51489481) im Wippachtal an…
 
 ## Triest
 
-{{< fig src="IMG_20260826_113714.jpg" >}}
+{{< fig src="IMG_20260826_104816.jpg" >}}
 
 Obwohl wir uns zunächst gedacht haben, dass wir es am nächsten Tag gemütlich angehen lassen, waren wir natürlich neugierig und haben uns doch schon wieder auf den Weg gemacht – so weit is jo nimmer bis noch Italien! 🇮🇹
 Auf geht's nach Triest: Wir wollen nachschauen, ob die Stadt wirklich so ausschaut, als hätte man Wien genommen und einfach an die Adria verpflanzt!
@@ -104,9 +105,9 @@ Weil wir uns schon irgendwie denken können, dass wir zwei bildschirmbraune Held
 Weil Karin so tapfer am Berg gefahren ist, darf sich aber diesmal Steff mit den erschwerten Bedingungen auseinandersetzen. 😮‍💨🚗
 Naja, aber Triest war schon wirklich schön! Geheimtipp von Karin: Probierts des Feigeneis im [Beislfinder-Eisladen](https://maps.app.goo.gl/Av9zU7R2FjqjXQ1s8) – unfassbar guat!
 
+{{< fig src="IMG_20260826_113714.jpg" >}}
+{{< fig src="IMG_20260826_113735.jpg" >}}
 {{< fig src="IMG_20260826_123834.jpg" >}}
-
-> 🚧 **TODO:** Bilder Triest einfügen
 
 {{< info >}}
 **Was hat Wien mit Triest zu tun?**
@@ -136,8 +137,7 @@ Es erinnert uns schon ein bisschen an die Urlaube früher in Italien 🇮🇹 od
 {{< fig src="IMG_20260826_154709.jpg" >}}
 {{< fig src="IMG_20260826_154854.jpg" >}}
 {{< fig src="IMG_20260826_184726.jpg" >}}
-
-> 🚧 **TODO:** Bilder Piran einfügen
+{{< fig src="IMG_20260826_154132.jpg" >}}
 
 Damit wir unsere Badesachen nicht ganz umsonst mitgschleppt haben, hüpft Karin dann doch auch noch in ihre Badesachen und schmeißt sich ins Meer. 🏊‍♀️
 Aber ab jetzt weiß sie: hmmm… a wenn i das früher echt ziemlich gern hatte, einfach am Strand zu flaken und wenn's mir zu warm wird ins Wasser zu springen, i mag des echt nimmer! 🙅‍♀️
@@ -150,6 +150,10 @@ Aber ab jetzt weiß sie: hmmm… a wenn i das früher echt ziemlich gern hatte, 
 jou… jetzt weiß sie es wenigstens! Aber sie war drinnen! 😅💪
 
 {{< fig src="IMG_20260826_164414.jpg" >}}
+
+Zum Abschluss gab's dann noch eine lokale Fischplatte… 😋
+
+{{< fig src="IMG_20260826_171304.jpg" >}}
 
 {{< info >}}
 **Warum ist die Seegrenze hier so schräg?**
@@ -386,7 +390,14 @@ Richtig wirr wird's dann hier:
 - **Oben ist es staubtrocken.** Weil der Regen sofort im Untergrund versickert, gibt es an der Oberfläche kaum Bäche und nur dünnen Boden. Die Leute hier waren früher auf Regenwasser-Zisternen angewiesen.
 - Dazu überall **Dolinen** (Trichter im Boden), zerfurchte Kalkplatten und Einsturzlöcher – der Untergrund ist quasi ein Schweizer Käse. 🧀
 
-
 ### Graz
 
 > 🚧 **TODO:** Ein Absatz zu Graz
+
+{{< fig src="IMG_20260826_183654.jpg" >}}
+{{< fig src="IMG_20260828_121908.jpg" >}}
+{{< fig src="IMG_20260828_143118.jpg" >}}
+
+### St. Johann im Pongau
+
+> 🚧 **TODO:** Ein Absatz zur Liechtensteinklamm
