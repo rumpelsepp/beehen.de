@@ -54,7 +54,7 @@ Unser erster Halt ist also ein [Schützengraben aus dem Ersten Weltkrieg](https:
 {{< fig src="IMG_20260825_093210.jpg" >}}
 {{< fig src="IMG_20260825_094315.jpg" >}}
 
-Irgendwo im Wald – nicht weit von dem [alten Grenzstein](https://maps.app.goo.gl/BNUPc6ZNythVbDuf7), der noch 1887 vor dem Ersten Weltkrieg die Grenze zwischen Österreich 🇦🇹 und Ungarn 🇭🇺 markiert hat – befinden sich noch ziemlich gut erhaltene Schützengräben im Wald, bzw. sie wurden einmal restauriert.
+Irgendwo im Wald – nicht weit von dem [alten Grenzstein](https://maps.app.goo.gl/BNUPc6ZNythVbDuf7), der noch 1887 vor dem Ersten Weltkrieg die Grenze zwischen Österreich-Ungarn und Italien markiert hat – befinden sich noch ziemlich gut erhaltene Schützengräben im Wald, bzw. sie wurden einmal restauriert.
 Wir wären zwar fast vorbeibrennt, weil es nur eine recht unscheinbare Tafel dort gab, aber wir haben den Spot trotzdem gefunden.
 
 {{< fig src="IMG_20260825_095719.jpg" >}}
