@@ -39,7 +39,9 @@ Bevor wir uns aber wirklich auf den Weg machen, brauchen wir – ihr könnt es e
 Steff ist der Beisl-Finder, darum wirft er kurzerhand einen Blick auf die Karte und findet natürlich den [genialsten Bäcker](https://maps.app.goo.gl/Jv2AMHYUV1s7Xt2B7) im ganzen Ort (Feistritz an der Gail). Karin war zwar ultimativ verwirrt vor der Tür – das Ding hat eher ausgeschaut wie ein Eingang in irgendeinen Hinterhof –, aber drinnen (alter Falter!) hat es herrlich nach allen möglichen süßen Leckereien geduftet und eine richtig liebe Dame hat uns aufgeklärt, mit wie vielen unterschiedlichen Füllungen sie ihre Teilchen – selbstverständlich selbst! – bestückt.
 Und die Dinger, so wie auch das Brot, das wir uns eingekauft haben, waren der Hammer! DANKE, Beisl-Finder Steff – you rock (natürlich auch die Bäckerei)!
 
-> 🚧 **TODO:** Bilder Bäckerei / Route einfügen
+<div style="display: flex; justify-content: center;">
+<iframe style="border:none" src="https://mapy.com/s/pajolamano" width="700" height="466" frameborder="0"></iframe>
+</div>
 
 Danach geht's ab über die italienische Grenze nach Tarvis 🇮🇹, wo wir aber gleich Richtung Slowenien 🇸🇮 abbiegen.
 Wir merken schon aufgrund der Straßenführung bzw. -beschaffenheit und dem Fahrstil der anderen Autofahrer:innen, dass wir nimmer in Österreich sind… schon a bissl spannend immer wieder… und auch die Vegetation ist echt schon anders! So schön, wenn man einfach mit wachem Auge durch eine noch unbekannte Region fährt!
@@ -63,9 +65,6 @@ An dem Tag war das Wetter ned wirklich so guat und im Wald hots ziemlich gfeicht
 Wir zwei Knaller watscheln einfach mal durch den Schützengraben und versuchen uns vorzustellen, wie das damals so gewesen sein muss! Echt gruselig! 😰 (Wir haben auch einen passenden Sound zum Thema: [Soldier of Heaven – Sabaton](https://youtu.be/LYI3eegIJlI?si=tuEW7Z3qkT3ufntP) 🎧)
 
 Den schon erwähnten Grenzstein haben wir natürlich auch noch angeschaut inkl. verfallener Truppenunterkünfte – zumindest mutmaßen wir, dass es solche sind.
-
-> 🚧 **TODO:** Truppenunterkünfte, Fotos
-
 Auch wenn wir nach solchen Orten schon immer a wengal bedrückt sind, finden wir es wichtig, sich auch solche Dinge anzuschauen – Erinnerungskultur sozusagen. 🕯️
 
 ## Über den Mangart – die höchste Passstraße Sloweniens
@@ -76,11 +75,11 @@ ZUM GLÜCK war das Wetter eher bescheiden und damit kaum andere Menschen unterwe
 Karin ist am Steuer und fährt einfach mal recht unbedarft los. Es dauert nicht lange und es wird echt eng, die Straße schlängelt sich zunächst durch den Wald, es gibt immer wieder Ausweichbuchten, aber bald wird's noch enger und wir fahren in Tunnels, natürlich ohne Licht, und wir fahren gefühlt eine Felswand hinauf! Im Ernst, des war die Straße der Hölle! 😱 Steff wurde immer leiser und hatte spätestens, als wir auf eine fette Felswand zufahren, echt a bissl Schiss 😨. Zitat Steff: „I bin a Waidler und koa Gams!“ 🐐 Naja, Karin kommt zwar aus dem gebirgigen Pongau und hat schon einiges erlebt, aber das hat ihr auch nimmer taugt. Aber sie blieb stark und hat den Pass bezwungen! Juhuu! 🙌
 Sche woas trotzdem (als wir wieder unten waren 😮‍💨😉).
 
-{{< fig src="IMG_20260825_105245.jpg" >}}
-{{< fig src="IMG_20260825_111816.jpg" >}}
-
 {{< fig src="IMG_20260825_105232.jpg" >}}
+{{< fig src="IMG_20260825_105245.jpg" >}}
+{{< fig src="IMG_20260825_105435.jpg" >}}
 {{< fig src="IMG_20260825_105439.jpg" >}}
+{{< fig src="IMG_20260825_111816.jpg" >}}
 
 ## An der Soča
 
@@ -183,6 +182,8 @@ Wir haben schon viele Burgen gesehen und oft gleicht ja wirklich eine der andere
 Zum Glück hatten wir einiges an zeitlichem Puffer, denn wir haben die Burg ziemlich zelebriert und uns gemütlichst alles angeschaut!
 
 {{< fig src="IMG_20260828_110204.jpg" >}}
+{{< fig src="IMG_20260828_122642.jpg" >}}
+{{< fig src="IMG_20260828_120053.jpg" >}}
 
 - 3 Stockwerke Felsenburg 🏰
 - ausgeklügelte Wasserleitungen, die das Wasser aus dem Karst in die Burg leiten 💧
@@ -198,8 +199,6 @@ Die [Höhlenburg Predjama](https://de.wikipedia.org/wiki/H%C3%B6hlenburg_Predjam
 
 Berühmt ist sie für den Raubritter [Erasmus von Lueg](https://de.wikipedia.org/wiki/Erasmus_Lueger): 1484 wurde er über ein Jahr lang von den kaiserlichen Truppen des Hauptmanns von Triest belagert – konnte sich über einen geheimen Gang durch den Karst aber weiter mit Nachschub versorgen und bewarf die Belagerer zum Spott sogar mit gebratenem Fleisch und frischen Kirschen 🍒. Der Legende nach verriet ihn schließlich ein Diener, und Erasmus wurde ausgerechnet am Abort 💩 von einer Steinkugel 🪨 erschlagen. Hinter der Burg zieht sich ein rund 14 km langes Höhlensystem mit großer Fledermauskolonie in den Berg 🦇.
 {{< /info >}}
-
-> 🚧 **TODO:** Bilder Burg Predjama / Höhlenburg einfügen
 
 Nachdem Erasmus von Lueg auf dem Abort sein Ende gefunden hatte, hat seine Liebste ihm zu Gedenken an der nahe gelegenen kleinen Kirche eine Linde gepflanzt.
 Die Linde ist mittlerweile an die 500 Jahre alt und hat bereits einiges, wie z. B. Brände, überstanden.
@@ -221,7 +220,9 @@ Wir kommen zum Vorplatz beim Eingang der Höhle, wo wir gleich mal in vier versc
 Und dann fahren wir mit dem Zug von einem Bahnhof, der aussieht wie eine ultrafancy U-Bahn-Station, einfach mal 3 km in den Berg hinein! 🚂
 Das haben wir wieder mal nicht erwartet!
 
-{{< fig src=IMG_20260828_143118.jpg >}}
+{{< fig src="IMG_20260828_142225.jpg" >}}
+{{< fig src="IMG_20260828_142257.jpg" >}}
+{{< fig src="IMG_20260828_150852.jpg" >}}
 
 Und dann sind wir noch mal 2 km im Berg herum spaziert und haben so viele [Stalaktiten](https://de.wikipedia.org/wiki/Stalaktit), [Stalagmiten](https://de.wikipedia.org/wiki/Stalagmit) und [Stalagnaten](https://de.wikipedia.org/wiki/Stalagnat) gesehen, wie man sich es nicht mal vorstellen kann. 🤯
 "Vorhänge", die aussehen wie Prosciutto 🍖, Tropfsteine, die wie ein Giggal (🇩🇪: Huhn; 🇦🇹: Hendl) ausschauen.
@@ -240,8 +241,6 @@ In den Wasserläufen der Höhle lebt außerdem der Grottenolm: ein wurmförmiges
 Quelle: [Höhlen von Postojna – Wikipedia](https://de.wikipedia.org/wiki/H%C3%B6hlen_von_Postojna)
 {{< /info >}}
 
-> 🚧 **TODO:** Bilder Höhle von Postojna einfügen
-
 ## Ljubljana – Laibach
 
 Ganz im Hummel-Hen-Stil haben wir die Hauptstadt Sloweniens besucht.
@@ -251,27 +250,38 @@ Wie das geht?
 2. Kurz vor knapp einen adäquaten Parkplatz ansteuern, der nicht in der Sonne steht (immerhin haben wir a paar Lebensmittel dabei).
 3. Mit genügend Wasser ausgerüstet dorthin spazieren, wo es schön aussieht und wo es evtl. einen Hügel mit guter Aussicht gibt – und uns treiben lassen.
 
+{{< fig src="IMG_20260829_110603.jpg" >}}
+{{< fig src="IMG_20260829_112941.jpg" >}}
+{{< fig src="IMG_20260829_114239.jpg" >}}
+
 In diesem Fall hat's wieder mal wirklich gut funktioniert.
 Ljubljana ist eine echt schöne und aus unserer Sicht lebenswerte Stadt!
 Viele öffentliche, stark belebte Plätze (inkl. gratis öffentlicher Toiletten, die sogar noch ziemlich sauber sind), ein großer Teil der Altstadt ist einfach mal FuZo!!! Sooo angenehm, mega viele einladende Beisln und wirklich nette Menschen.
+
+{{< fig src="IMG_20260829_160959.jpg" >}}
 
 Unsere erste Anlaufstelle: der Wochenmarkt! 🍅🌶️🫑🫒🍉
 Hawidere – so viel Obst und Gemüse auf einem Haufen, und alles schaut einfach nur zum Anbeißen aus!
 Wir konnten nicht widerstehen und haben uns ein paar Sachen mitgenommen, damit wir uns in unserer nächsten Unterkunft wieder was kochen können …
 Es hat sich gelohnt – die Tomaten, die wir in diesem Urlaub gefuttert haben, werden wir wirklich vermissen!
 
-Wie es sich für Imker gehört, haben wir natürlich auch einen lokalen Imker ausgefragt und ihm a bissl was abgekauft, damit wir kosten können, wie der Honig hier so schmeckt. 🍯 (Wir wissen jetzt: Kastanienhonig ist nicht unser Favorit – für Karin schmeckt der einfach nur nach Waschmittel, sogar in einer Sauce!)
+Wie es sich für [Imker](https://bienensteff.de) gehört, haben wir natürlich auch einen lokalen Imker ausgefragt und ihm a bissl was abgekauft, damit wir kosten können, wie der Honig hier so schmeckt. 🍯 (Wir wissen jetzt: Kastanienhonig ist nicht unser Favorit – für Karin schmeckt der einfach nur nach Waschmittel, sogar in einer Sauce!)
 Dazu haben wir ihm noch ein kleines Flascherl Honigschnaps abgekauft.
 Zitat Steff: „Ach, des kriagn ma scho irgendwie weiter. Zur Not verkochma's irgendwie!“
 (Info: Am Abend war der weg! 🥃 Des Zeug war anders guat! Wir müssen herausfinden, wie wir den mit unserem Honig nachbasteln können!!!)
 
+{{< fig src="IMG_20260829_203259.jpg" >}}
+
 Nachdem Schussel-Steff leider seine Sonnenbrille verloren hat, haben wir unsere Route am Markt noch 3× abgelatscht, bevor wir aufgegeben, uns ein Essen gegönnt und dann eine neue Brille eingekauft haben – schaut guat aus, oder? 🕶️
 
-> 🚧 **TODO:** Bild von der neuen Brille einfügen
+{{< fig src="IMG_20260829_143411.jpg" >}}
 
-Neu bebrillt und beeist haben wir dann noch den Hügel der lokalen Burg erklommen, um einen Rundumblick zu haben. Schön wars! 🌄
+Neu bebrillt und beeist haben wir dann noch den Hügel der lokalen Burg erklommen, um einen Rundumblick zu haben. Schön wars!
 
-## Die Geschichte von Blaž und seinem kleinen Paradies
+{{< fig src="IMG_20260829_154212.jpg" >}}
+{{< fig src="IMG_20260829_165832.jpg" >}}
+
+## Blaž und sein kleines Paradies
 
 Nachdem wir festgestellt haben, dass es uns direkt am Meer eigentlich zu heiß ist 🥵, war klar, dass unsere nächste Bude wieder a bissl weiter Richtung Berge sein darf.
 Wir sind auf der Karte herumgefahren und haben uns gedacht: hmmmm, irgendwas zwischen Ljubljana und Maribor (Marburg an der Drau) wär doch gut, dann können wir am Schluss ein feines Ringerl machen.
@@ -282,11 +292,17 @@ Denn wie wir erfahren haben, haben Blaž und seine Frau das Appartement ursprün
 Dafür hatten jetzt wir das Vergnügen, in dieser – der Geschichte entsprechend – unfassbar schönen Bude zu wohnen (die beiden machen das übrigens erst seit gut vier Wochen 🧐).
 Aber überzeugt euch selbst:
 
-> 🚧 **TODO:** Bild von Bude einfügen
+{{< fig src="IMG_20260830_110618.jpg" >}}
+{{< fig src="IMG_20260902_093316.jpg" >}}
+{{< fig src="IMG_20260831_185504.jpg" >}}
+{{< fig src="IMG_20260902_093243_PANO.jpg" >}}
 
 Wir haben es einfach nur gefeiert und genossen! 🥳
 Darum haben wir uns am Sonntag einfach nur in den Garten gepflanzt, mit einem Buch gelesen 📖 und später drinnen Catan gespielt 🎲 (wir lieben die Duell-Version!).
 Zitat von Blaž am nächsten Tag: „I was wondering if you are still alive, because you were so quiet yesterday!“ 😅
+
+{{< fig src="IMG_20260829_194401.jpg" >}}
+{{< fig src="IMG_20260829_194448.jpg" >}}
 
 Blaž und seine Frau sind total liebe Hosts.
 Wir wurden ganz unkompliziert zu einem Grillabend eingeladen 🔥, dabei bekocht und ehrlicherweise mit alkoholischen Getränken abgefüllt 🍷 (das geht bei uns zwei eh relativ schnell).
@@ -296,10 +312,7 @@ So kam es, dass sechs Menschen aus fünf Nationen (Slowenien 🇸🇮, Dänemark
 Schon spannend, welche Gespräche sich dabei so entwickeln…
 
 Selbstverständlich hat Blaž uns auch zahlreiche Tipps gegeben, was wir in der Gegend so unternehmen können.
-Einer davon war der Baumwipfelpfad Pohorje – oder wie wir es nennen: des Baumei (also nicht Salzburgerisch für kleiner Baum, sondern Baum + Ei: 🌲🥚).
-
-> 🚧 **TODO:** Link zum Baumwipfelpfad Pohorje einfügen
-
+Einer davon war der [Baumwipfelpfad Pohorje](https://www.rogla-pohorje.si/de/entdecken/2019090313232066/der-baumwipfelpfad-pohorje-auf-rogla) – oder wie wir es nennen: des Baumei (also nicht Salzburgerisch für kleiner Baum, sondern Baum + Ei: 🌲🥚).
 Wir geben wieder mal unser Ziel ins Navi ein und düsen los!
 Spätestens jetzt lernen wir: Vertraue dem Navi in Slowenien einfach nicht – des checkt nicht, wie die Straßen beschaffen sind, und du fährst dann nur über Stock und Stein und hoffst, dass dir niemand mit 100 Sachen entgegenkommt 🏎️.
 Naja, zurück hamma's dann selbst sinnvoller gesteuert, aber ein Abenteuer war es trotzdem!
@@ -307,26 +320,45 @@ Naja, zurück hamma's dann selbst sinnvoller gesteuert, aber ein Abenteuer war e
 Zurück zum 🌲🥚: Dort, wo im Winter ein Schigebiet ist, kann man im Sommer auch das 🌲🥚 besuchen und bekommt dafür eine tolle Aussicht über die Region!
 Funfact: Die Slowenen sind nicht die Ersten, die auf so eine Idee kommen.
 Steffs geschulter Blick hat sofort erkannt: „Des hom Waidler gspaxt!“
-Es gibt also mehrere von den 🌲🥚: Das erste davon steht – ihr könnt es sicher erraten – im Bayerischen Wald. Dann gibt's noch welche auf Rügen, im Schwarzwald, in der Slowakei, im Elsass, im Salzkammergut, auf Usedom …
-Auch wenn wir uns a bissl sch***, das integrierte Trampolin im Turm zu verwenden, finden wir die Idee schon wirklich cool und haben das 🌲🥚 sehr genossen!
+Es gibt also mehrere von den 🌲🥚: Das erste davon steht – ihr könnt es sicher erraten – im [Bayerischen Wald](https://www.nationalpark-ferienland-bayerischer-wald.de/baumwipfelpfad/). Dann gibt's noch welche auf [Rügen](https://treetop-walks.com/ruegen/), im [Schwarzwald](https://www.baumwipfelpfad.de/baumwipfelpfad-schwarzwald), in der [Slowakei](https://bachledka.sk/en), im [Elsass](https://www.baumwipfelpfad.de/baumwipfelpfad-elsass-frankreich), im [Salzkammergut](https://www.salzkammergut.at/oesterreich-poi/detail/430022848/baumwipfelpfad-salzkammergut.html), auf [Usedom](https://treetop-walks.com/usedom/) …
 
-> 🚧 **TODO:** Bilder einfügen
+{{< fig src="IMG_20260831_122421.jpg" >}}
+{{< fig src="IMG_20260831_122501.jpg" >}}
+
+Auch wenn wir uns a bissl in die Hose sch*****, das integrierte Trampolin im Turm zu verwenden, finden wir die Idee schon wirklich cool und haben das 🌲🥚 sehr genossen!
+
+{{< fig src="IMG_20260831_123534.jpg" >}}
+{{< fig src="IMG_20260831_123701.jpg" >}}
+{{< fig src="IMG_20260831_125220.jpg" >}}
+{{< fig src="IMG_20260831_125806.jpg" >}}
 
 Hier oben haben wir wirklich regionales Essen genossen – hui, war das viel! Aber die Schwammerl waren schon herrlich!
 
-> 🚧 **TODO:** Bilder einfügen
+{{< fig src="IMG_20260831_133800.jpg" >}}
+{{< fig src="IMG_20260831_135110.jpg" >}}
 
 Danach haben wir noch einen sehr notwendigen Verdauungsspaziergang gemacht!
 
-> 🚧 **TODO:** Bilder einfügen
+{{< fig src="IMG_20260831_150225.jpg" >}}
+{{< fig src="IMG_20260831_151026.jpg" >}}
 
-An unserem letzten Tag bei Blaž haben wir einen kleinen großen Spaziergang zur gegenüberliegenden Talseite unternommen und uns eine Burgruine angeschaut. 🏰
+An unserem letzten Tag bei Blaž haben wir einen kleinen großen Spaziergang durch den Ort und zur gegenüberliegenden Talseite unternommen und uns eine [Burgruine](https://maps.app.goo.gl/PKshDZ19fLSaj7Ln9) angeschaut. 🏰
 Oben angekommen hatten wir einen super Ausblick über die ganze Gegend! 😍
 Blažs Paradies ist übrigens auch auf dem Panoramafoto zu sehen 😉.
 
+{{< fig src="IMG_20260901_124752.jpg" >}}
 {{< fig src="IMG_20260901_143242_PANO.jpg" >}}
 
-## Karst – wenn das Wasser einfach verschwindet
+## Fazit
+
+> 🚧 **TODO:** Fazit schreiben
+
+<div style="display: flex; justify-content: center;">
+<iframe style="border:none" src="https://mapy.com/s/genulabuge" width="700" height="466" frameborder="0"></iframe>
+</div>
+
+## Addendum
+### Karst – wenn das Wasser einfach verschwindet
 
 Spätestens in der Höhle ist uns klar geworden: Die ganze Ecke hier ist nicht *irgendein* Karst – sie ist *der* Karst. Das Kalkstein-Plateau zwischen Ljubljana, Triest und dem Meer heißt auf Slowenisch [Kras](https://de.wikipedia.org/wiki/Karst_(S%C3%BCdeuropa)), auf Italienisch *Carso*, auf Deutsch *Karst* – und hat weltweit allen ähnlichen Landschaften den Namen gegeben.
 
@@ -354,7 +386,7 @@ Richtig wirr wird's dann hier:
 - **Oben ist es staubtrocken.** Weil der Regen sofort im Untergrund versickert, gibt es an der Oberfläche kaum Bäche und nur dünnen Boden. Die Leute hier waren früher auf Regenwasser-Zisternen angewiesen.
 - Dazu überall **Dolinen** (Trichter im Boden), zerfurchte Kalkplatten und Einsturzlöcher – der Untergrund ist quasi ein Schweizer Käse. 🧀
 
-<!-- ============================================================
-     🚧 BILDER ZUM EINSORTIEREN – fig-Tags von hier an die richtige Stelle schieben,
-     danach diesen Block löschen. Kommentar = Aufnahmezeitpunkt aus dem Dateinamen.
-     ============================================================ -->
+
+### Graz
+
+> 🚧 **TODO:** Ein Absatz zu Graz
