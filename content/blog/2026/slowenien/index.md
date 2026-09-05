@@ -129,15 +129,18 @@ Nachdem Karin ihren einzigen Job als Beifahrerin versch****n hat – sie hat kei
 Zum Glück, denn Piran ist eine gaaaanz alte Ortschaft und Autos müssen draußen bleiben – saucool finden wir und machen uns zu Fuß auf den Weg! 🚶‍♀️🚶
 Auch hier is es fetzheiß 🥵, aber es ist auch ziemlich cool, mit der Kirche oben am Hügel ⛪, wo man aber gleich auf zwei Seiten zum Meer sieht.
 Man hört überall Musik. 🎶
+
+{{< fig src="IMG_20260826_154709.jpg" >}}
+{{< fig src="IMG_20260826_154854.jpg" >}}
+
 Die engen Gasserl sind super spannend und liab und wir verstehen schon irgendwie, dass es sich hier gut aushalten lässt.
 Wir spazieren den Strand entlang, wo sich wieder mal drölf andere Touristen in der Sonne und im Meer tummeln, und entscheiden uns, dass wir uns einfach wieder mal recht azyklisch ein frühes Abendessen gönnen… nice! 🍽️
 Die Slowenen sind schon voll entspannt und total nett. 😌
 Es erinnert uns schon ein bisschen an die Urlaube früher in Italien 🇮🇹 oder Kroatien 🇭🇷, aber irgendwie ist es alles ein bisschen entspannter.
 
-{{< fig src="IMG_20260826_154709.jpg" >}}
-{{< fig src="IMG_20260826_154854.jpg" >}}
 {{< fig src="IMG_20260826_184726.jpg" >}}
 {{< fig src="IMG_20260826_154132.jpg" >}}
+{{< fig src="IMG_20260826_183654.jpg" >}}
 
 Damit wir unsere Badesachen nicht ganz umsonst mitgschleppt haben, hüpft Karin dann doch auch noch in ihre Badesachen und schmeißt sich ins Meer. 🏊‍♀️
 Aber ab jetzt weiß sie: hmmm… a wenn i das früher echt ziemlich gern hatte, einfach am Strand zu flaken und wenn's mir zu warm wird ins Wasser zu springen, i mag des echt nimmer! 🙅‍♀️
@@ -188,6 +191,7 @@ Zum Glück hatten wir einiges an zeitlichem Puffer, denn wir haben die Burg ziem
 {{< fig src="IMG_20260828_110204.jpg" >}}
 {{< fig src="IMG_20260828_122642.jpg" >}}
 {{< fig src="IMG_20260828_120053.jpg" >}}
+{{< fig src="IMG_20260828_121908.jpg" >}}
 
 - 3 Stockwerke Felsenburg 🏰
 - ausgeklügelte Wasserleitungen, die das Wasser aus dem Karst in die Burg leiten 💧
@@ -224,8 +228,8 @@ Wir kommen zum Vorplatz beim Eingang der Höhle, wo wir gleich mal in vier versc
 Und dann fahren wir mit dem Zug von einem Bahnhof, der aussieht wie eine ultrafancy U-Bahn-Station, einfach mal 3 km in den Berg hinein! 🚂
 Das haben wir wieder mal nicht erwartet!
 
-{{< fig src="IMG_20260828_142225.jpg" >}}
 {{< fig src="IMG_20260828_142257.jpg" >}}
+{{< fig src="IMG_20260828_143118.jpg" >}}
 {{< fig src="IMG_20260828_150852.jpg" >}}
 
 Und dann sind wir noch mal 2 km im Berg herum spaziert und haben so viele [Stalaktiten](https://de.wikipedia.org/wiki/Stalaktit), [Stalagmiten](https://de.wikipedia.org/wiki/Stalagmit) und [Stalagnaten](https://de.wikipedia.org/wiki/Stalagnat) gesehen, wie man sich es nicht mal vorstellen kann. 🤯
@@ -394,9 +398,6 @@ Richtig wirr wird's dann hier:
 
 > 🚧 **TODO:** Ein Absatz zu Graz
 
-{{< fig src="IMG_20260826_183654.jpg" >}}
-{{< fig src="IMG_20260828_121908.jpg" >}}
-{{< fig src="IMG_20260828_143118.jpg" >}}
 
 ### St. Johann im Pongau
 
