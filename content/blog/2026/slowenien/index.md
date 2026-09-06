@@ -88,6 +88,7 @@ Es waren zwar schon drölf andere Touris 📸 mit uns unterwegs, als wir zur Hä
 Und die ersten Bienenbeuten haben wir auch gesehen! 🐝
 
 {{< fig src="IMG_20260825_141259.jpg" >}}
+{{< fig src="IMG_20260825_142442.jpg" >}}
 {{< fig src="IMG_20260825_143353.jpg" >}}
 {{< fig src="IMG_20260825_144039.jpg" >}}
 
