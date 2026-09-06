@@ -18,6 +18,9 @@ breadcrumb = false
 blogAsHome = true
 # Zielformat, in das der fig-Shortcode Bilder konvertiert
 imageFormat = 'webp'
+# GPS-Koordinaten (Exif/XMP) unter fig-Bildern anzeigen, verlinkt zu OpenStreetMap.
+# Braucht den GPS-Ausschluss aus [imaging.meta].fields entfernt (siehe unten).
+imageGeotags = true
 
 
 [menus]
@@ -56,6 +59,11 @@ weight = 20
     quality = 85
     # 0-6, hoeher = bessere Kompression bei langsamerem Encode (einmalig, dank Cache)
     method = 6
+
+  [imaging.meta]
+    # Hugo-Default, aber ohne den GPS-Ausschluss: .Meta.Lat/.Long fuer den
+    # fig-Geotag (imageGeotags). Aendern invalidiert den Bild-Cache.
+    fields = ['! *{Exif,Exposure[MPB],Contrast,Resolution,Sharp,JPEG,Metering,Sensing,Saturation,ColorSpace,Flash,WhiteBalance}*']
 
 [markup]
   [markup.goldmark]
