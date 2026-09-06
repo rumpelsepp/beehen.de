@@ -26,4 +26,10 @@ hugo.linux
 /.hugo_build.lock
 # esbuild output (bundled from npm deps), fingerprinted + published by Hugo
 /assets/gen/
+# guard: bundler output must land in assets/gen/, never in static/
+/static/*.js
+/static/*.css
+/static/*.map
+/static/*.woff
+/static/*.woff2
 /node_modules

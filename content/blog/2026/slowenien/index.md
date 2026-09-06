@@ -1,7 +1,7 @@
 ---
 title: "Urlaub im Süden: Sommer, Sonne, Sonnenschein"
 date: 2026-09-05
-tags: ["slowenien", "jugoslawien"]
+tags: ["slowenien", "jugoslawien", "balkan"]
 toc: true
 image: "IMG_20260826_154709.jpg"
 ---
@@ -135,6 +135,9 @@ Man hört überall Musik. 🎶
 
 Die engen Gasserl sind super spannend und liab und wir verstehen schon irgendwie, dass es sich hier gut aushalten lässt.
 Wir spazieren den Strand entlang, wo sich wieder mal drölf andere Touristen in der Sonne und im Meer tummeln, und entscheiden uns, dass wir uns einfach wieder mal recht azyklisch ein frühes Abendessen gönnen… nice! 🍽️
+
+{{< fig src="IMG_20260826_171304.jpg" >}}
+
 Die Slowenen sind schon voll entspannt und total nett. 😌
 Es erinnert uns schon ein bisschen an die Urlaube früher in Italien 🇮🇹 oder Kroatien 🇭🇷, aber irgendwie ist es alles ein bisschen entspannter.
 
@@ -153,10 +156,6 @@ Aber ab jetzt weiß sie: hmmm… a wenn i das früher echt ziemlich gern hatte, 
 jou… jetzt weiß sie es wenigstens! Aber sie war drinnen! 😅💪
 
 {{< fig src="IMG_20260826_164414.jpg" >}}
-
-Zum Abschluss gab's dann noch eine lokale Fischplatte… 😋
-
-{{< fig src="IMG_20260826_171304.jpg" >}}
 
 {{< info >}}
 **Warum ist die Seegrenze hier so schräg?**
@@ -240,11 +239,16 @@ Es war ziemlich genial und noch dazu wars wunderbare 10 °C kühl. ❄️
 {{< info >}}
 **Die Königin der Unterwelt – die Tropfsteinhöhle von Postojna**
 
-Postojna gilt mit rund 24 km Gesamtlänge als die längste touristisch erschlossene Höhle Europas. Gegraben hat sie der Fluss Pivka: Über Jahrtausende hat er den Kalk gelöst, mitgeführter Sand, Kies und Geröll haben wie Schmirgelpapier nachgeholfen. Weiter unten taucht dasselbe Wasser mehrfach ab und wieder auf und erreicht über etliche Umwege als Ljubljanica schließlich die Hauptstadt Ljubljana.
+Postojna gilt mit rund 24 km Gesamtlänge als die längste touristisch erschlossene Höhle Europas.
+Gegraben hat sie der Fluss Pivka: Über Jahrtausende hat er den Kalk gelöst, mitgeführter Sand, Kies und Geröll haben wie Schmirgelpapier nachgeholfen.
+Weiter unten taucht dasselbe Wasser mehrfach ab und wieder auf und erreicht über etliche Umwege als Ljubljanica schließlich die Hauptstadt Ljubljana.
 
-Weil sich das Land tektonisch hebt, hat sich der Fluss immer wieder tiefer eingegraben. Deshalb liegt die Höhle heute in drei „Stockwerken“: ganz oben die ältesten, längst trockenen und nicht mehr zugänglichen Gänge, in der Mitte die begehbare Schauhöhle – und ganz unten rauscht noch immer die Pivka. Die Tropfsteine steuert jeder einzelne Wassertropfen bei, der von oben durch den Fels sickert, dabei Kalk aufnimmt und ihn in der Höhle wieder absetzt.
+Weil sich das Land tektonisch hebt, hat sich der Fluss immer wieder tiefer eingegraben.
+Deshalb liegt die Höhle heute in drei „Stockwerken“: ganz oben die ältesten, längst trockenen und nicht mehr zugänglichen Gänge, in der Mitte die begehbare Schauhöhle – und ganz unten rauscht noch immer die Pivka.
+Zu den Tropfsteinen trägt jeder einzelne Wassertropfen bei, der von oben durch den Fels sickert, dabei Kalk aufnimmt und ihn in der Höhle wieder absetzt.
 
-In den Wasserläufen der Höhle lebt außerdem der Grottenolm: ein wurmförmiges, blindes, ziemlich greisliches Amphibium, das im Dauerdunkel jahrelang ohne Nahrung auskommt und erstaunlich alt wird. Hässlich – aber schon beeindruckend, dass da unten überhaupt etwas lebt.
+In den Wasserläufen der Höhle lebt außerdem der Grottenolm: ein wurmförmiges, blindes, ziemlich greisliches Amphibium, das im Dauerdunkel jahrelang ohne Nahrung auskommt und erstaunlich alt wird.
+Hässlich – aber schon beeindruckend, dass da unten überhaupt etwas lebt.
 
 Quelle: [Höhlen von Postojna – Wikipedia](https://de.wikipedia.org/wiki/H%C3%B6hlen_von_Postojna)
 {{< /info >}}
@@ -259,8 +263,6 @@ Wie das geht?
 3. Mit genügend Wasser ausgerüstet dorthin spazieren, wo es schön aussieht und wo es evtl. einen Hügel mit guter Aussicht gibt – und uns treiben lassen.
 
 {{< fig src="IMG_20260829_110603.jpg" >}}
-{{< fig src="IMG_20260829_112941.jpg" >}}
-{{< fig src="IMG_20260829_114239.jpg" >}}
 
 In diesem Fall hat's wieder mal wirklich gut funktioniert.
 Ljubljana ist eine echt schöne und aus unserer Sicht lebenswerte Stadt!
@@ -272,6 +274,9 @@ Unsere erste Anlaufstelle: der Wochenmarkt! 🍅🌶️🫑🫒🍉
 Hawidere – so viel Obst und Gemüse auf einem Haufen, und alles schaut einfach nur zum Anbeißen aus!
 Wir konnten nicht widerstehen und haben uns ein paar Sachen mitgenommen, damit wir uns in unserer nächsten Unterkunft wieder was kochen können …
 Es hat sich gelohnt – die Tomaten, die wir in diesem Urlaub gefuttert haben, werden wir wirklich vermissen!
+
+{{< fig src="IMG_20260829_112941.jpg" >}}
+{{< fig src="IMG_20260829_114239.jpg" >}}
 
 Wie es sich für [Imker](https://bienensteff.de) gehört, haben wir natürlich auch einen lokalen Imker ausgefragt und ihm a bissl was abgekauft, damit wir kosten können, wie der Honig hier so schmeckt. 🍯 (Wir wissen jetzt: Kastanienhonig ist nicht unser Favorit – für Karin schmeckt der einfach nur nach Waschmittel, sogar in einer Sauce!)
 Dazu haben wir ihm noch ein kleines Flascherl Honigschnaps abgekauft.
@@ -306,7 +311,7 @@ Aber überzeugt euch selbst:
 {{< fig src="IMG_20260902_093243_PANO.jpg" >}}
 
 Wir haben es einfach nur gefeiert und genossen! 🥳
-Darum haben wir uns am Sonntag einfach nur in den Garten gepflanzt, mit einem Buch gelesen 📖 und später drinnen Catan gespielt 🎲 (wir lieben die Duell-Version!).
+Darum haben wir uns am Sonntag einfach nur in den Garten gepflanzt, in einem Buch gelesen 📖 und später drinnen Catan gespielt 🎲 (wir lieben die Duell-Version!).
 Zitat von Blaž am nächsten Tag: „I was wondering if you are still alive, because you were so quiet yesterday!“ 😅
 
 {{< fig src="IMG_20260829_194401.jpg" >}}

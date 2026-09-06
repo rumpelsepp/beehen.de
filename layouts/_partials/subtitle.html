@@ -12,4 +12,4 @@
     {{- end -}}
     {{- $subtitle = printf `%s <i class="bi bi-tag"></i> %s` $subtitle (delimit $links " ") -}}
 {{- end -}}
-{{- $subtitle | safeHTML -}}
+{{- printf `<span class="entry-meta">%s</span>` $subtitle | safeHTML -}}

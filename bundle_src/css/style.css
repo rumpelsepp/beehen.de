@@ -10,3 +10,12 @@
 #site-footer .footer-bottom a {
     color: inherit;
 }
+
+/* Article prev/next nav: Bootstrap's .btn-light border is near-invisible on
+   the warm page background — give the buttons a defined black edge. */
+.article-nav .btn {
+    --bs-btn-border-color: var(--color-ink);
+    --bs-btn-hover-border-color: var(--color-ink);
+    --bs-btn-active-border-color: var(--color-ink);
+    --bs-btn-disabled-border-color: var(--color-ink);
+}
