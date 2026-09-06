@@ -67,4 +67,4 @@ sein als Musik?… Genau… die Person die schmettert sucht den Soundtrack
 aus und voziagt si auf’s stille Örtchen… und die anderen hören einfach
 a guate Musi… Sabaton oder Iron Maiden eignen sich dafür hervorragend.
 
-{{< youtube id="3MRSLSQdelI" >}}
+Unser Soundtrack der Wahl war übrigens [Sabaton – The Attack of the Dead Men](https://www.youtube.com/watch?v=3MRSLSQdelI). 🎧
