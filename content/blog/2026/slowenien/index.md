@@ -407,11 +407,33 @@ Richtig wirr wird's dann hier:
 - **Oben ist es staubtrocken.** Weil der Regen sofort im Untergrund versickert, gibt es an der Oberfläche kaum Bäche und nur dünnen Boden. Die Leute hier waren früher auf Regenwasser-Zisternen angewiesen.
 - Dazu überall **Dolinen** (Trichter im Boden), zerfurchte Kalkplatten und Einsturzlöcher – der Untergrund ist quasi ein Schweizer Käse. 🧀
 
-### Graz
+## Österreich-Bonus
+
+Wir haben dieses Mal unseren Urlaub in Österreich gestartet, also im Pongau, wo Karin ursprünglich herkommt!
+Auch wenn man's manchmal ned ganz so am Schirm hat, wie schön es daheim eigentlich ist und wenn man dann a bissl grumpig ist, weil überall so viele Menschen sind, oder die Straßen wieder mal bummvoi und verstopft sind, wegen Durchreise oder An- und Abreise, ist es doch eigentlich auch ziemlich cool dort, zumindest a bissl, daheim zu sein, wo andere Urlaub machen.
+Darum möchten wir euch natürlich auch nicht unsere Ausflüge im Pongau bzw. den Erstkommunions-Ausflug in die Steiermark vorenthalten
+
+### Steiermark - Graz
 
 > 🚧 **TODO:** Ein Absatz zu Graz
+
 
 
 ### St. Johann im Pongau
 
 > 🚧 **TODO:** Ein Absatz zur Liechtensteinklamm
+Die Liechtensteinklamm ist ein beliebtes Ausflugsziel in St. Johann im Pongau. 
+Wir wissen: antizyklisch am Weg zu sein lohnt sich!
+Darum starten wir am Sonntag vor unserem Slowenien-Urlaub recht spät (17:00 Uhr) noch in die Liechtensteinklamm.
+Super Entscheidung - es is nix mehr los und wir haben die Klamm quasi für uns alleine!
+Karin war da natürlich schon öfter, denn das ist sozusagen ein fixer Ausflug für alle Kinder in der Region!
+ABER: so wie sie heute aussieht, hat Karin (und ihre Mama - wir haben sie kurzerhand einfach mitgeschleppt!) noch nicht gesehen. 
+2017 gab es nämlich einen massiven Felssturz (https://salzburg.orf.at/v2/news/stories/2846034/) und es war eine Zeit lang unklar, wie bzw. ob der Zugang in die Klamm wieder erschlossen werden kann.
+Es brauchte wohl ziemlich viele kluge Köpfe, die sich die Lösung ausgedacht haben, denn jetzt gibt es einfach mal eine Helix-Rampe, die das kaputte Stück des Weges jetzt ersetzt.
+Und so schauts aus: 
+
+> 🚧 **TODO:** Fotos einfügen
+
+Wir finden es ist schon richtig cool dort und immer wieder einen kühlen Ausflug wert! ;-)
+
+> 🚧 **TODO:** Gescheithaferl einfügen
