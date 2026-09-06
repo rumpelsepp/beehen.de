@@ -1,7 +1,7 @@
 ---
 title: "Tag 1: Éire — Ein neues Abenteuer"
 date: 2024-07-22T22:13:16+02:00
-tags: ["irland", "reisetag"]
+tags: ["irland", "kerry"]
 draft: false
 ---
 

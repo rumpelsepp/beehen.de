@@ -1,7 +1,7 @@
 ---
 title: "Tag 3: Ein Trip nach Cork"
 date: 2024-07-24T22:13:16+02:00
-tags: ["irland", "cork", "stadt"]
+tags: ["irland", "kerry", "cork"]
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Tag 4: Leute — mir ist schlecht!"
 date: 2023-08-02T22:13:16+02:00
-tags: ["island", "reykjavik", "wale"]
+tags: ["island", "reykjavik"]
 draft: false
 ---
 

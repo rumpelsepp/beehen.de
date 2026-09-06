@@ -1,7 +1,7 @@
 ---
 title: "Tag 4: Ring of Kerry, die volle Experience!"
 date: 2024-07-25T22:13:16+02:00
-tags: ["irland"]
+tags: ["irland", "kerry"]
 ---
 
 Nach noch mehr Honigbrot 🍯 zum Frühstück, geht es bei fast tollem Wetter 🌦️ auf zum [Derrynane Beach](https://maps.app.goo.gl/Ytsm8zRrbq79wwYa8).

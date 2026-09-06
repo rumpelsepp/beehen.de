@@ -1,7 +1,7 @@
 ---
 title: "Tag 6: I kenn da a Abkürzung…"
 date: 2023-08-04T22:13:16+02:00
-tags: ["island", "westfjords", "hittn"]
+tags: ["island", "westfjords"]
 ---
 
 Ganz ehrlich – wir waren total geflashed von unserer genialen

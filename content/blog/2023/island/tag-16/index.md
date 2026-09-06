@@ -1,7 +1,7 @@
 ---
 title: 'Tag 16: Ein perfekter Tag zum Nix-tun, Bloggen und Sauna gehen!'
 date: 2023-08-14T22:13:16+02:00
-tags: ["island", "chillen"]
+tags: ["island", "snaefellsnes"]
 ---
 
 Bestimmt fragt ihr euch, wann wir diesen Blog immer so geschrieben haben! - Naja, eigentlich immer so zwischen drinnen! Aus diesem Grund sind wir auch immer ein paar Tage hinterher - SORRY dafür! Diesen zweiten Ruhetag in unserer genialen Hütte haben wir genutzt, um erstens einfach zu entspannen und zweitens, um unseren Blog ein wenig weiter zu bringen. 

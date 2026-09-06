@@ -1,7 +1,7 @@
 ---
 title: "Tag 5: Reisetag -- Mal schauen was Helga in den Bergen der Westfjorde so drauf hat"
 date: 2023-08-03T22:13:16+02:00
-tags: ["island", "westfjords", "hittn", "reisetag"]
+tags: ["island", "westfjords"]
 draft: false
 ---
 

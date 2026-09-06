@@ -1,7 +1,7 @@
 ---
 title: 'Tag 12: Vulkanismus 🌋 at its best'
 date: 2023-08-10T22:13:16+02:00
-tags: ["island", "myvatn", "vulkan"]
+tags: ["island", "myvatn"]
 ---
 *Vulkanismus 🌋 at its best - oder „Oh mein Gott! Hoits enk bitte d'Nosn 👃 zua! 😁”*
 
