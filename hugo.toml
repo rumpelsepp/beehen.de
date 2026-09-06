@@ -36,6 +36,11 @@ weight = 20
   pageRef = '/impressum'
   weight = 10
 
+[[menus.footer]]
+  name = 'bienensteff.de'
+  url = 'https://bienensteff.de'
+  weight = 20
+
 [privacy]
   [privacy.youtube]
     disable = false

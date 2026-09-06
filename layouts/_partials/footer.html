@@ -18,10 +18,14 @@
     <nav class="footer-col" aria-label="Footer">
       <ul>
         {{- range . }}
+          {{- $external := and (strings.HasPrefix .URL "http") (not (strings.HasPrefix .URL site.BaseURL)) }}
           <li>
             <a href="{{ .URL }}"
+              {{- if $external }} rel="external noopener noreferrer" target="_blank"{{ end }}
               {{- if $.IsMenuCurrent .Menu . }} class="active" aria-current="page"{{ end -}}
-            >{{ .Name }}</a>
+            >{{ .Name }}
+              {{- if $external }}<span class="visually-hidden"> (externer Link, öffnet in neuem Tab)</span>{{ end -}}
+            </a>
           </li>
         {{- end }}
       </ul>
