@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../bundle_src/css/style.css"],
-  "sourcesContent": ["/* Site-specific overrides on top of the bienensteff theme. */\n\n/* Footer: give the stacked blocks (brand / menu / copyright) some air.\n   The theme only spaces them when the .footer-grid columns are present,\n   which this site's footer doesn't use. */\n#site-footer .footer-col {\n    margin-bottom: 2rem;\n}\n\n#site-footer .footer-bottom a {\n    color: inherit;\n}\n"],
-  "mappings": "AAKA,CAAC,YAAY,CAAC,WACV,cAAe,IACnB,CAEA,CAJC,YAIY,CAAC,cAAc,EACxB,MAAO,OACX",
-  "names": []
-}

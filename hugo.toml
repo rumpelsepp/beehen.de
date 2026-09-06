@@ -22,6 +22,11 @@ imageFormat = 'webp'
 
 [menus]
 [[menus.main]]
+name = 'Über uns'
+pageRef = '/über-uns'
+weight = 10
+
+[[menus.main]]
 name = '#tags'
 pageRef = '/tags'
 weight = 20
