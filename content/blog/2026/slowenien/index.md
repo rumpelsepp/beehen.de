@@ -409,31 +409,72 @@ Richtig wirr wird's dann hier:
 
 ## Österreich-Bonus
 
-Wir haben dieses Mal unseren Urlaub in Österreich gestartet, also im Pongau, wo Karin ursprünglich herkommt!
-Auch wenn man's manchmal ned ganz so am Schirm hat, wie schön es daheim eigentlich ist und wenn man dann a bissl grumpig ist, weil überall so viele Menschen sind, oder die Straßen wieder mal bummvoi und verstopft sind, wegen Durchreise oder An- und Abreise, ist es doch eigentlich auch ziemlich cool dort, zumindest a bissl, daheim zu sein, wo andere Urlaub machen.
-Darum möchten wir euch natürlich auch nicht unsere Ausflüge im Pongau bzw. den Erstkommunions-Ausflug in die Steiermark vorenthalten
+Wir haben unseren Urlaub dieses Mal in Österreich 🇦🇹 gestartet – im Pongau, wo Karin ursprünglich herkommt!
+Klar, manchmal hat man gar nicht so am Schirm, wie schön es daheim eigentlich ist.
+Wenn dann überall so viele Leute unterwegs sind und die Straßen wegen der Durchreise wieder mal bummvoi und verstopft sind, wird man schon a bissl grantig 😤.
+Aber eigentlich ist es ziemlich cool, dort daheim zu sein, wo andere Urlaub machen.
+Darum möchten wir euch unsere Ausflüge im Pongau und den Erstkommunionsausflug in die Steiermark natürlich nicht vorenthalten.
 
-### Steiermark - Graz
+### Steiermark – Graz
 
-> 🚧 **TODO:** Ein Absatz zu Graz
+Zum Abschluss haben wir noch a bissl Steiermark eingesammelt – und die kann kulinarisch echt was: [steirisches Kürbiskernöl](https://de.wikipedia.org/wiki/Steirisches_K%C3%BCrbiskern%C3%B6l), Wein aus der Südsteiermark, gemütliche Buschenschänke und Schokolade von [Zotter](https://www.zotter.at/) bei Riegersburg. 🍫 Wer's lieber aktiv mag, heizt am [Wilden Berg](https://www.derwildeberg.at/de) in Mautern mit dem Mountain-Kart den Hang hinunter.
 
+{{< fig src="IMG_20260904_103120.jpg" >}}
 
+Graz selbst ist eine richtig schöne Stadt: Der [Uhrturm](https://de.wikipedia.org/wiki/Uhrturm_(Graz)) thront über der Altstadt, vom Schloßberg geht's über die [längste Indoor-Rutsche der Welt](https://www.graztourismus.at/de/sightseeing-kultur/sehenswuerdigkeiten/schlossbergrutsche_shg_1525) (175 m durch den Berg 🛝) wieder runter, und auf dem Rückweg haben wir natürlich noch bei [„Die Eisperle“](https://www.eisperle.at/) ein unfassbar guates Eis konsultiert. 🍦
+
+{{< fig src="IMG_20260904_102854_PANO.jpg" >}}
+{{< fig src="IMG_20260904_102923_PANO.jpg" >}}
+{{< fig src="IMG_20260904_103120.jpg" >}}
+
+Traditionsreiches Handwerk gibt's auch: In [Piber](https://de.wikipedia.org/wiki/Bundesgest%C3%BCt_Piber) bei Köflach steht das Bundesgestüt, das die [Lipizzaner](https://de.wikipedia.org/wiki/Lipizzaner) für die Wiener Spanische Hofreitschule züchtet. 🐴
+Was wir dort nett und lustig fanden: Die alten Herren Hengste, die keine Zähne mehr haben und entsprechend Probleme beim beißen haben, bekommen auf dem Gestüt "Gatsch im Kübel" serviert. 🤩
+
+{{< fig src="IMG_20260904_142048.jpg" >}}
+
+{{< info >}}
+**Die Lipizzaner: ein Pferd wandert aus**
+
+Die Lipizzaner sind eine barocke, meist schimmelweiße Pferderasse mit spanischen, arabischen und neapolitanischen Wurzeln.
+Als Fohlen kommen sie dunkel zur Welt und werden erst über die Jahre weiß.
+Gezüchtet wurden sie von Anfang an für den Hof der Habsburger, allen voran für die Spanische Hofreitschule in Wien.
+
+Angefangen hat alles 1580, als [Erzherzog Karl II. von Innerösterreich](https://de.wikipedia.org/wiki/Karl_II._(Inner%C3%B6sterreich)) im damals österreichischen Lipica (heute Slowenien 🇸🇮) ein Hofgestüt gründete – daher der Name.
+Bis zum Ersten Weltkrieg wurde fast ausschließlich dort gezüchtet. Mit dem Zerfall der Monarchie kam Lipica zu Italien, die kaiserliche Herde wurde aufgeteilt:
+Der österreichische Anteil übersiedelte 1920 nach Piber.
+Seither ist Piber das Nachfolgegestüt des alten Hofgestüts und der einzige Züchter für die Hofreitschule.
+
+Quellen: [Lipizzaner](https://de.wikipedia.org/wiki/Lipizzaner) und [Bundesgestüt Piber](https://de.wikipedia.org/wiki/Bundesgest%C3%BCt_Piber) – Wikipedia; [Kobilarna Lipica](https://www.lipica.si/de)
+{{< /info >}}
 
 ### St. Johann im Pongau
 
-> 🚧 **TODO:** Ein Absatz zur Liechtensteinklamm
-Die Liechtensteinklamm ist ein beliebtes Ausflugsziel in St. Johann im Pongau. 
+Die [Liechtensteinklamm](https://www.liechtensteinklamm.info/) ist ein beliebtes Ausflugsziel in St. Johann im Pongau. 
 Wir wissen: antizyklisch am Weg zu sein lohnt sich!
-Darum starten wir am Sonntag vor unserem Slowenien-Urlaub recht spät (17:00 Uhr) noch in die Liechtensteinklamm.
+Darum starten wir am Sonntag vor unserem Slowenien-Urlaub recht spät (17:00 Uhr 🕔) noch in die Liechtensteinklamm.
 Super Entscheidung - es is nix mehr los und wir haben die Klamm quasi für uns alleine!
 Karin war da natürlich schon öfter, denn das ist sozusagen ein fixer Ausflug für alle Kinder in der Region!
 ABER: so wie sie heute aussieht, hat Karin (und ihre Mama - wir haben sie kurzerhand einfach mitgeschleppt!) noch nicht gesehen. 
-2017 gab es nämlich einen massiven Felssturz (https://salzburg.orf.at/v2/news/stories/2846034/) und es war eine Zeit lang unklar, wie bzw. ob der Zugang in die Klamm wieder erschlossen werden kann.
+2017 gab es nämlich einen massiven [Felssturz](https://salzburg.orf.at/v2/news/stories/2846034/) 🪨 und es war eine Zeit lang unklar, wie bzw. ob der Zugang in die Klamm wieder erschlossen werden kann.
 Es brauchte wohl ziemlich viele kluge Köpfe, die sich die Lösung ausgedacht haben, denn jetzt gibt es einfach mal eine Helix-Rampe, die das kaputte Stück des Weges jetzt ersetzt.
-Und so schauts aus: 
 
-> 🚧 **TODO:** Fotos einfügen
+{{< fig src="IMG_20260823_180731.jpg" >}}
+{{< fig src="IMG_20260823_180745.jpg" >}}
 
-Wir finden es ist schon richtig cool dort und immer wieder einen kühlen Ausflug wert! ;-)
+Wir finden es ist schon richtig cool dort und immer wieder einen kühlen Ausflug wert! 😉
 
-> 🚧 **TODO:** Gescheithaferl einfügen
+{{< info >}}
+**Wie kommt Liechtenstein in den Pongau?**
+
+Mit dem Fürstentum hat der Name nur mittelbar zu tun: 1875 ging dem Pongauer Alpenverein beim Bau der Stege das Geld aus, und [Fürst Johann II. von Liechtenstein](https://de.wikipedia.org/wiki/Johann_II._(Liechtenstein)) – mit Jagdschloss in Großarl – finanzierte die Fertigstellung 1876.
+Seither trägt die Klamm seinen Namen.
+
+Gleiches Motiv wie der Karst in Slowenien, anderer Mechanismus: Im Kras löst kohlensäurehaltiges Wasser den Kalk *chemisch* auf, es entstehen Höhlen und die Flüsse verschwinden unter Tag.
+Die Liechtensteinklamm ist reine *Mechanik* – der Großarler Bach sägt sich mit Geröll in den harten „Klammkalk“.
+Dazu ist sie geologisch blutjung: Die eiszeitlichen Gletscher räumten das Salzachtal tief aus, das Großarltal blieb als *Hängetal* hoch oben zurück, und der Bach musste sich diese Stufe in wenigen Jahrtausenden hinunterschneiden – das Wasser bleibt dabei sichtbar, nur in einem wenige Meter breiten, fast 300 m tiefen Schlitz.
+
+Touristisch ist die Klamm ein Selbstläufer: rund 100.000 Besucher im Jahr, Eintritt, offen von Mai bis Oktober.
+Nach dem Felssturz 2017 war sie drei Jahre gesperrt; seit 2020 führt die stählerne „Helix“-Wendeltreppe über das zerstörte Wegstück.
+
+Quellen: [Liechtensteinklamm – Wikipedia](https://de.wikipedia.org/wiki/Liechtensteinklamm) und [Liechtensteinklamm – Salzburgwiki](https://www.sn.at/wiki/Liechtensteinklamm)
+{{< /info >}}
