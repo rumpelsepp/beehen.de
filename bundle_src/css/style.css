@@ -19,3 +19,48 @@
     --bs-btn-active-border-color: var(--color-ink);
     --bs-btn-disabled-border-color: var(--color-ink);
 }
+
+/* /tags — tag cloud. layouts/taxonomy.html sets --w (0…1, log-scaled by post
+   count) on each <li>; size and prominence follow from it. */
+.tag-cloud {
+    list-style: none;
+    margin: 1.75rem 0 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.7rem 1.1rem;
+    text-align: left;
+    hyphens: none;
+}
+
+.tag-cloud li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.2em;
+}
+
+.tag-cloud a {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: calc(0.9rem + var(--w, 0) * 1.55rem);
+    line-height: 1.1;
+    color: var(--color-ink);
+    text-decoration: none;
+    opacity: calc(0.55 + var(--w, 0) * 0.45);
+    transition: color 0.12s ease, opacity 0.12s ease;
+}
+
+.tag-cloud a:hover,
+.tag-cloud a:focus-visible {
+    color: var(--color-accent);
+    opacity: 1;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+}
+
+.tag-cloud .count {
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: var(--color-ink-muted);
+}

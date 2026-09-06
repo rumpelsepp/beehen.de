@@ -1,0 +1,27 @@
+{{ define "content" }}
+  {{ .Content }}
+
+  {{- $terms := .Data.Terms.Alphabetical }}
+  {{- with $terms }}
+    {{- /* frequency range, for the logarithmic size scale */ -}}
+    {{- $min := (index . 0).Count }}
+    {{- $max := (index . 0).Count }}
+    {{- range . }}
+      {{- if lt .Count $min }}{{ $min = .Count }}{{ end }}
+      {{- if gt .Count $max }}{{ $max = .Count }}{{ end }}
+    {{- end }}
+    {{- $lmin := math.Log (math.Max $min 1) }}
+    {{- $lmax := math.Log (math.Max $max 1) }}
+    {{- $span := cond (gt $lmax $lmin) (sub $lmax $lmin) 1.0 }}
+
+    <ul class="tag-cloud">
+      {{- range . }}
+        {{- $w := div (sub (math.Log (math.Max .Count 1)) $lmin) $span }}
+        <li style="--w:{{ printf "%.3f" $w }}">
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+          <span class="count">{{ .Count }}</span>
+        </li>
+      {{- end }}
+    </ul>
+  {{- end }}
+{{ end }}
