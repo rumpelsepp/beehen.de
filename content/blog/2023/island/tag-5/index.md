@@ -48,4 +48,4 @@ rough!“ - Aber Steff, der Herr der rocky roads hats gedeixelt!
 
 Aber Karin hat's auch geschafft die Straße zu fahren, nur am Schluss hatte sich Karin kurz in die Hose gemacht :shit:, sodass Steff vor Schreck das Video beendet hat… Aber Karin ist trotz voller Hose heile bis vor die Haustüre gefahren! :muscle:
 
-{{< youtube id="fZNtP2S-kUg" >}}
+{{< video id="fZNtP2S-kUg" >}}

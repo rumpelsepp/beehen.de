@@ -1,6 +1,6 @@
 #!/usr/bin/env -S uv run --script
 # /// script
-# requires-python = ">=3.12"
+# requires-python = ">=3.14"
 # dependencies = []
 # ///
 """Preprocess raw video clips inside Hugo page bundles for web delivery.
@@ -94,9 +94,35 @@ def encode_webm(raw_path: Path, out_path: Path, crf: int, max_width: int) -> Non
     )
 
 
+def probe_duration(path: Path) -> float:
+    result = subprocess.run(
+        [
+            "ffprobe", "-v", "error",
+            "-show_entries", "format=duration",
+            "-of", "default=noprint_wrappers=1:nokey=1",
+            str(path),
+        ],
+        capture_output=True,
+        text=True,
+    )
+    try:
+        return float(result.stdout.strip())
+    except ValueError:
+        return 0.0
+
+
 def extract_poster(raw_path: Path, out_path: Path) -> None:
+    # Seek past a possible fade-in / black intro (~20 % in, clamped to 2–10 s),
+    # then let ffmpeg's thumbnail filter pick the most representative frame there.
+    duration = probe_duration(raw_path)
+    seek = min(max(duration * 0.2, 2.0), 10.0) if duration else 3.0
     run_ffmpeg(
-        ["-i", str(raw_path), "-vf", "thumbnail,scale=1280:-2", "-frames:v", "1"],
+        [
+            "-ss", f"{seek:.2f}",
+            "-i", str(raw_path),
+            "-vf", "thumbnail=n=200,scale=1280:-2",
+            "-frames:v", "1",
+        ],
         out_path,
     )
 

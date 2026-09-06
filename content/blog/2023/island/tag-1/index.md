@@ -50,7 +50,7 @@ random aus irgendwelchen Löchern und Spalten. Meistens merkt man schon
 am leckeren Geruch nach „Eierdampf“ dass es bald wieder soweit sein
 wird!
 
-{{< youtube id="OUdz7lndC1s" >}}
+{{< video id="20240804" >}}
 
 Danach haben wir eine kleine Wanderung zur Klippe gemacht, die mit Moos und Gras
 bewachsen ist und von so weißem Zeugs bedeckt war. Die Aussicht von der

@@ -88,7 +88,7 @@ Wir sind zunächst über eine echt beeindruckende Lava-Landschaft gefahren! Der 
 
 Wir dachten schon, da will uns einer verarschen - der Wasserfall is sicher pinschig (:de: mickrig) und fetzklein, sonst würden wir ihn ja schon sehen... und dann:
 
-{{< youtube id="YHMOojnWHrk" >}}
+{{< video id="YHMOojnWHrk" >}}
 
 jap... der war echt fett! Und den Steff hats dann auch noch sauber obgschifft! 🌧️💦
 
@@ -104,4 +104,4 @@ jap... der war echt fett! Und den Steff hats dann auch noch sauber obgschifft! �
 
 {{< fig src="IMG_20230809_181905.jpg" >}}
 {{< fig src="IMG_20230809_181913.jpg" >}}
-{{< youtube id="AOjd6qyaL0s" >}}
+{{< video id="AOjd6qyaL0s" >}}

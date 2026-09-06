@@ -45,7 +45,7 @@ waren so ziemlich alleine unterwegs. Nur eine Isländerin mit Hund haben
 wir getroffen, die selbst die Ruhe im Tal und die Tatsache, dass man
 hier die Aktivität in der Erde spüren und hören kann feierte.
 
-{{< youtube id="PZlmWvm8yCs" >}}
+{{< video id="PZlmWvm8yCs" >}}
 
 Bald gab’s
 keinen richtigen Weg mehr und Beschreibungen wie: „Aus der Ferne sehen
@@ -54,11 +54,11 @@ waren nicht mehr wirklich hilfreich (Wir haben das Haus auch nicht mit
 viel Fantasie erkannt!).
 
 {{< fig src="IMG_20230801_174503.jpg" >}}
-{{<youtube id="eOagQFWGB4Q">}}
+{{< video id="eOagQFWGB4Q" >}}
 
 Wir haben es aber geschafft und es war wirklich
 genial! Auch wenn wir nasse Füße hatten und das eine oder andere Mal auf
 einen falschen Hügel rannten, um den Weg wieder zu finden.
 
 {{< fig src="IMG_20230801_175655.jpg" >}}
-{{<youtube id="4DY-u8W10g0">}}
+{{< video id="4DY-u8W10g0" >}}
