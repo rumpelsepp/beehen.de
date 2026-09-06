@@ -1,7 +1,7 @@
 ---
 title: "Urlaub im Süden: Sommer, Sonne, Sonnenschein"
 date: 2026-09-05
-tags: ["slowenien", "jugoslawien", "balkan"]
+tags: ["slowenien", "italien", "krain", "istrien"]
 toc: true
 image: "IMG_20260826_154709.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tag 8: Lasst uns einen Roadtrip durch die Westfjorde machen"
 date: 2023-08-06T22:13:16+02:00
-tags: ["island", "westfjords", "reisetag", "roadtrip", "wale"]
+tags: ["island", "westfjords"]
 draft: false
 ---
 

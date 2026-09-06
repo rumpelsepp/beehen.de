@@ -1,7 +1,7 @@
 ---
 title: 'Tag 15: Die Umrundung von Snæfellsnes'
 date: 2023-08-13T22:13:16+02:00
-tags: ["island", "gletscher"]
+tags: ["island", "snaefellsnes"]
 ---
 
 *Neuer Tag - Neues Glück: Was darf dafür nicht fehlen? Natürlich Sandwiches und mindestens ein Wasserfall! 😈*

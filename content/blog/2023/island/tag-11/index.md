@@ -1,7 +1,7 @@
 ---
 title: "Tag 11: Wir fahren zum östlichsten Punkt unserer Reise - Wo isn jetz eigentlich der blede Wossafoi?" 
 date: 2023-08-09T22:13:16+02:00
-tags: ["island", "myvatn", "wasserfall"]
+tags: ["island", "myvatn"]
 draft: false
 ---
 

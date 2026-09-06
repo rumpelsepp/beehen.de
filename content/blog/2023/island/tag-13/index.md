@@ -1,7 +1,7 @@
 ---
 title: 'Tag 13: Eine neue Location wartet auf uns: Die Hazienda 🙃'
 date: 2023-08-11T22:13:16+02:00
-tags: ["island", "hazienda", "chillen"]
+tags: ["island", "snaefellsnes"]
 ---
 ## Eckdaten der Reise
 
