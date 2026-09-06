@@ -10,7 +10,7 @@ Una, unsere Airbnb Hostin war echt wahnsinnig lieb.
 Sie hat nicht nur auf uns gewartet und nachgefragt, ob wir uns eh nicht verirrt hätten, sondern sie hat uns einfach mal mit voll viel lecker Frühstück versorgt… 
 DANKE Una für die schöne Unterkunft.
 
-{{< fig src="20240725_184038~2.jpg" >}}
+{{< fig src="IMG_20240725_184038.jpg" >}}
 
 Am zweiten Tag haben wir uns für ein bisserl Bewegung bzw. eine [Etappe des Ring of Kerry](https://www.komoot.com/de-de/smarttour/e1027160994/torc-mountain-der-owengarrif-river-killarney-national-park?ref=wdd) entschieden.
 Wie es sich für echte Alpen-Bewohner:innen gehört, haben wir uns nicht nur den [Tork Waterfall](https://maps.app.goo.gl/2vhMxYPxpqsFHebi9) in Sandalen angeschaut, sondern waren ganz oben am Gipfel und teilten uns die wunderschöne Aussicht über Killarney mit, naja, ca. 10 Mio. Mücken. 🥳😎
@@ -21,10 +21,10 @@ Am Rückweg bekam Karin die zweite Chance bei unserem fahrbaren Untersatz, dem H
 Zum Glück wurde beim [Ladies View](https://maps.app.goo.gl/wZfGrmpqc1GALh337) wieder getauscht…
 Die grandios engen Straßen mit Linksverkehr werden von lebensmüden Busfahrern befahren. 🤬
 
-{{< fig src="1000024167.jpg" >}}
-{{< fig src="1000024173.jpg" >}}
+{{< fig src="IMG_20240723_113640.jpg" >}}
+{{< fig src="IMG_20240723_125043.jpg" >}}
 {{< fig src="feature.jpg" >}}
-{{< fig src="1000024188.jpg" >}}
+{{< fig src="IMG_20240723_163900.jpg" >}}
 
 {{< info >}}
 Der **Ring of Kerry** ([irisch](https://de.wikipedia.org/wiki/Irische_Sprache) Mórchuaird Chiarraí) ist eine 179 km lange [Panoramaküstenstraße](https://de.wikipedia.org/wiki/Ferienstra%C3%9Fe) im [County Kerry](https://de.wikipedia.org/wiki/County_Kerry) im Südwesten [Irlands](https://de.wikipedia.org/wiki/Irland).
@@ -39,7 +39,7 @@ _schamlos aus Wikipedia kopiert: https://de.wikipedia.org/wiki/Ring_of_Kerry_
 Steff musste in gleich zwei (2!!) Kleidungsgeschäften noch ein bissl leiden (ca. 10 min) bevor wir im [Pub O Donnabhain's](https://maps.app.goo.gl/jmWTveQ7LiNm2LcVA) Burger + Fish 'n' Chips futtern konnten.
 In diesem Pub hat Angela an diesem Tag gelernt, dass ein half pint ihren „Durscht“ nit löschen kann und trank Steff und Karin einfach mal mit ganzen 1,5 Pints unter'n Tisch!
 
-{{< fig src="1000024291.jpg" >}}
+{{< fig src="IMG_20240723_175753.jpg" >}}
 
 {{< info >}}
 Ein Pint in Großbritannien und Irland entspricht 0,5683 Liter.

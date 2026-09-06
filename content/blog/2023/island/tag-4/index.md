@@ -11,7 +11,7 @@ Tag in Reykjavik. Es kann ja nicht sein, dass wir hier wohnen und nicht
 zumindest die wichtigsten Sehenswürdigkeiten besuchen. Wir starten
 unseren Spaziergang durch die Stadt bei der **Hallgrímskirkja**:
 
-{{< fig src="kirche.jpg" >}}
+{{< fig src="IMG_20230802_182659.jpg" >}}
 
 {{< info >}}
 -   Nach gut 40-jähriger Bauzeit wurde die Kirche 1986 fertiggestellt
@@ -31,7 +31,7 @@ aber in Wirklichkeit brutal kratzig sind… Weiter ging es über die
 Rainbow Street. Bereits 2015 wurde diese Straße angemalt, um Reykjavík
 Pride zu feiern. 
 
-{{< fig src="regenbogen.jpg" >}}
+{{< fig src="IMG_20230802_114749.jpg" >}}
 
 Mittlerweile ist die Farbe permanent dort. Wie die
 Stadträtin Dóra Björt Guðjónsdottir sagt: „Es ist wunderbar, dass der
@@ -47,8 +47,8 @@ Eventuell war das ganze auch ein Versuch Karin zu beruhigen und sie auf
 das Boot zu bringen, das wir als nächstes auf unserer Tagestour hatten.
 Es ging ab zum **whale watching**. 
 
-{{< fig src="qualle.jpg" >}}
-{{< fig src="kueste.jpg" >}}
+{{< fig src="IMG_20230802_125828.jpg" >}}
+{{< fig src="IMG_20230802_162353.jpg" >}}
 
 Es war ein wunderbarer Tag mit viel
 Sonnenschein und guten Chancen die Wale zu sehen. Wir hatten Glück, wir haben gleich mehrere Zwergwale (aka. minke whales) gesehen 🐳.
@@ -76,22 +76,22 @@ Sonnenschein und guten Chancen die Wale zu sehen. Wir hatten Glück, wir haben g
     aber für ein Mysterium, denn gerochen haben wir nix!
 {{< /info >}}
 
-{{< fig src="heck.jpg" >}}
+{{< fig src="IMG_20230802_135943.jpg" >}}
 
 Nachdem wir erfolgreich Wale beobachtet hatten, war uns allen schlecht!
 Am sicheren hinteren, bzw. unteren Ende des Bootes haben wir es zwar
 tief gefroren aber speibfrei in den Hafen geschafft.
 
-{{< fig src="bier.jpg" >}}
-{{< fig src="burger.jpg" >}}
-{{< fig src="plokkari.jpg" >}}
+{{< fig src="IMG_20230802_170023.jpg" >}}
+{{< fig src="IMG_20230802_170520.jpg" >}}
+{{< fig src="IMG_20230802_170515.jpg" >}}
 
 Dort haben wir
 unseren Spaziergang fortgesetzt und uns noch Fischburger, traditionelles
 Plokkari und Bier für umgerechnet 10€ gegönnt 🤑.
 
-{{< fig src="see.jpg" >}}
-{{< fig src="haus.jpg" >}}
+{{< fig src="IMG_20230802_180856.jpg" >}}
+{{< fig src="IMG_20230802_182139.jpg" >}}
 
 ## Plokkari zum Nachkochen
 

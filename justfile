@@ -20,3 +20,6 @@ podman-pull:
 
 check-links: build
     lychee --offline --include-fragments public
+
+preprocess-video:
+    ./scripts/vidpre.py --webm content

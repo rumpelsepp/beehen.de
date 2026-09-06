@@ -22,8 +22,8 @@ wieder schließt. Für uns sah die Erdoberfläche ein bisschen so aus als
 würde ein Laib Brot aufbrechen, oder wie es der Steff sagen würde – „Wie
 a Brezn, die aufreißt!“
 
-{{< fig src="schlucht1.jpg" >}}
-{{< fig src="schlucht2.jpg" >}}
+{{< fig src="IMG_20230731_122931.jpg" >}}
+{{< fig src="IMG_20230731_123535.jpg" >}}
 
 Wir haben uns die Zeit genommen und haben den Weg zu den bekannten Spots
 wandernd genossen. Bei **Langistígur**, oder dem *The Walk of Death*
@@ -33,7 +33,7 @@ Thrones* wurden hier gedreht, sondern es wurden auch in Wirklichkeit
 zahlreiche Exekutionen durchgeführt – Ertränken, Erhängen, Verbrennen,
 Köpfen… alles war dabei.
 
-{{< fig src="felsbibbal.jpg" >}}
+{{< fig src="IMG_20230731_151154.jpg" >}}
 
 Aber bei uns ging es ein bisschen friedlicher zu. Wir haben am
 Wasserfall gechillt und „broudlt“ (🇦🇹: gejausnet) und auch ein paar
@@ -41,7 +41,7 @@ hübsche Fotos gemacht. Zwar waren wir nicht so hübsch wie unsere
 asiatische Kollegin im Pünktchenkleid, aber wir haben es immerhin ohne
 unsere Unterhose herzuzeigen auf den Felsen geschafft! 😁
 
-{{< fig src="wasserfall.jpg" >}}
+{{< fig src="IMG_20230731_130947.jpg" >}}
 
 Zu guter Letzt haben wir noch die Aussicht zum **Pingvallavatn** beim
 Besucherzentrum bei einem Kaffee bewundert. Nachdem uns unser
@@ -49,13 +49,13 @@ Reiseführer schon gestern verarscht hat, haben wir beschlossen, wir
 nehmen denselben Weg zurück und setzen die Fahrt über den Golden Circle
 fort.
 
-{{< fig src="pingsee.jpg" >}}
+{{< fig src="IMG_20230731_135930.jpg" >}}
 
 ## Nächster Halt: **Bruáráfoss**
 
 „He da ist ein Schild! - Sollma des mal auschecken?“
 
-{{< fig src="bruarafoss.jpg" >}}
+{{< fig src="IMG_20230731_165115.jpg" >}}
 
 Natürlich haben wir das gemacht! - Zum ersten Mal hat Karin die Helga
 über eine F-Road gejagt! - Das hat echt Spaß gemacht!
@@ -88,7 +88,7 @@ der Druck zu groß, steigt Dampf abrupt nach oben, dehnt sich immer
 weiter aus, reißt darüber stehendes Wasser mit sich, und es kommt zu
 einer explosionsartigen Verdampfung.
 
-{{< fig src="vater-geysir.jpg" >}}
+{{< fig src="IMG_20230731_182146.jpg" >}}
 
 *Übrigens*: der Vater der Geysire – **Stórigeysir** – war lange völlig
 inaktiv. Seit einem Erdbeben im Jahr 2000 überrascht er aber hin und
@@ -101,7 +101,7 @@ ist das seit 1992 in Island verboten.
 
 ## Nächster Halt: **Gullfoss** – der große Bruder von Bruáráfoss
 
-{{< fig src="gullfoss.jpg" >}}
+{{< fig src="IMG_20230731_185723.jpg" >}}
 {{< youtube id="ZS5hL33fv28" >}}
 
 Dank der mutigen Bauerstochter Sigríður Tómasdóttir die erfolgreich
@@ -133,4 +133,4 @@ Bei dem nachfolgenden YouTube Video musste ich mit eigener Hintergrundmusik nach
 
 {{< youtube id="89AlrPXKycQ" >}}
 
-{{< fig src="f-road-fail.jpg" >}}
+{{< fig src="IMG_20230731_194731.jpg" >}}

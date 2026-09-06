@@ -1,7 +1,7 @@
 ---
 title: "Tag 1: Wo zum Deifi schloft unser Autovermieter herum?"
 date: 2023-07-30T22:13:16+02:00
-post_image: helga.jpg
+post_image: IMG_20230730_123638.jpg
 tags: ["island", "reykjavik"]
 draft: false
 ---
@@ -23,7 +23,7 @@ Schlange anstellen sollen…
 Aber Ende gut – alles Gut! — Wir haben unsere Helga auf Zeit adoptiert!
 🫶😉
 
-{{< fig src="helga.jpg" caption="unser fahrbarer Untersatz" >}}
+{{< fig src="IMG_20230730_123638.jpg" caption="unser fahrbarer Untersatz" >}}
 
 Nun konnte es los gehen. Wir entschlossen uns die Halbinsel
 **Reykjanes** die Rauchhalbinsel zu erkunden, bevor wir in
@@ -39,8 +39,8 @@ Hier sehen wir zum ersten Mal ganz deutlich die Kontinentalschlucht, ein
 Lavalandschaft, der von einer Brücke (ohne sichtbare Funktion – hübsch
 wars trotzdem) überspannt wird.
 
-{{< fig src="verwerfung1.jpg" >}}
-{{< fig src="verwerfung2.jpg" >}}
+{{< fig src="IMG_20230730_125556.jpg" >}}
+{{< fig src="IMG_20230730_125034.jpg" >}}
 
 ## Nächster Halt: **Valahnúkur Reykjanes — Ist das eigentlich Vogelkacke?**
 
@@ -59,7 +59,7 @@ Klippe aus war einfach der Wahnsinn!
 Und wir haben herausgefunden, was das weiße Zeugs ist… Da nisten einfach
 100e Möwen… 💩
 
-{{< fig src="moewen.jpg" >}}
+{{< fig src="IMG_20230730_140919.jpg" >}}
 
 Zu guter Letzt haben wir gelernt, dass einst ein Leuchtturmwächter ein
 Bad nahe der Klippe errichtete. Dort war das Wasser früher ein bisschen
@@ -68,8 +68,8 @@ Sommer in Zelten — eines für Mädels und eines für Jungs. Es wurde
 gemeinsam in den Zelten gekocht und die Kids konnten im Pool baden —
 Sommercamp auf Isländisch also.
 
-{{< fig src="leuchtturm.jpg" >}}
-{{< fig src="bad.jpg" >}}
+{{< fig src="IMG_20230730_150736.jpg" >}}
+{{< fig src="IMG_20230730_150324.jpg" >}}
 
 ## Last „almost“ stop: **Fagradalsfjall** — Sag mal trollt uns der Reiseführer?
 

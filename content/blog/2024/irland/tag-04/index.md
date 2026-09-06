@@ -24,16 +24,16 @@ Super cool fanden wir die Kombination aus Steilküste zum Atlantik hin und die s
 Irgendwie special, diese akustische Kombination von ge-muhe und schreienden Möwen.
 Im Westen haben wir auch noch den schönen Ausblick zu den [Skellig Rocks](https://de.wikipedia.org/wiki/Skellig_Michael), einem von nur drei UNESCO Welterbe spots in Irland. 
 
-{{< fig src="1000024523.jpg" >}}
-{{< fig src="1000024535.jpg" >}}
+{{< fig src="IMG_20240725_093037.jpg" >}}
+{{< fig src="IMG_20240725_115135.jpg" >}}
 {{< fig src="feature.jpg" >}}
-{{< fig src="1000024548.jpg" >}}
-{{< fig src="1000024551.jpg" >}}
-{{< fig src="1000024556.jpg" >}}
-{{< fig src="1000024565.jpg" >}}
-{{< fig src="1000027948.jpg" >}}
-{{< fig src="1000027957.jpg" >}}
-{{< fig src="1000027982.jpg" >}}
+{{< fig src="IMG_20240725_120624.jpg" >}}
+{{< fig src="IMG_20240725_122644.jpg" >}}
+{{< fig src="IMG_20240725_135720.jpg" >}}
+{{< fig src="IMG_20240725_141831.jpg" >}}
+{{< fig src="IMG_20240725_121518.jpg" >}}
+{{< fig src="IMG_20240725_123327.jpg" >}}
+{{< fig src="IMG_20240725_135157.jpg" >}}
 
 Weils so schön dort war, haben wir dort auch gleich wieder lokales Essen genossen (Guinness and Beef Stew, frisch gefangener Lachs und Seafood Chowder) bevor wir den Ring of Kerry zu Ende gefahren sind.
 
@@ -41,6 +41,6 @@ Weils so schön dort war, haben wir dort auch gleich wieder lokales Essen genoss
 Der [**Ring of Kerry**](https://de.wikipedia.org/wiki/Ring_of_Kerry) (irisch Mórchuaird Chiarraí) ist eine 179,0 km lange [Panoramaküstenstraße](https://de.wikipedia.org/wiki/Ferienstra%C3%9Fe) im [County Kerry](https://de.wikipedia.org/wiki/County_Kerry) im Südwesten Irlands. Busse und Lkw dürfen den Ring wegen der Enge der Straßen nur in einer Richtung (gegen den Uhrzeigersinn) der irischen Nationalstraße 70 befahren. Die N70 führt um die [Iveragh-Halbinsel](https://de.wikipedia.org/wiki/Iveragh-Halbinsel) entweder küstennah oder direkt die Küste entlang von [Kenmare](https://de.wikipedia.org/wiki/Kenmare) über [Waterville](https://de.wikipedia.org/wiki/An_Coire%C3%A1n_(Kerry)) nach [Killorglin](https://de.wikipedia.org/wiki/Killorglin); dann landeinwärts über [Killarney](https://de.wikipedia.org/wiki/Killarney) und wieder nach Kenmare. Eine Wanderversion dieser Straße stellt der Fernwanderweg [Kerry Way](https://de.wikipedia.org/wiki/Kerry_Way) dar. 
 {{< /info >}}
 
-{{< fig src="1000028016.jpg" >}}
-{{< fig src="1000028017.jpg" >}}
-{{< fig src="1000024567.jpg" >}}
+{{< fig src="IMG_20240725_151701.jpg" >}}
+{{< fig src="IMG_20240725_151712.jpg" >}}
+{{< fig src="IMG_20240725_151649.jpg" >}}
