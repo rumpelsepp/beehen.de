@@ -21,10 +21,10 @@ Der Name kommt von der einstigen Abgrenzung zum Irish Market, nämlich ein Heisl
 Trotz vieler vergangener Jahre inklusive Feuer blieb die viktorianische Architektur von Sir John Benson (1862) erhalten.
 
 {{< fig src="feature.jpg" >}}
-{{< fig src="1000024361.jpg" >}}
-{{< fig src="1000024362.jpg" >}}
-{{< fig src="1000027712.jpg" >}}
-{{< fig src="1000027763.jpg" >}}
+{{< fig src="IMG_20240724_115830.jpg" >}}
+{{< fig src="IMG_20240724_120203.jpg" >}}
+{{< fig src="IMG_20240724_124519.jpg" >}}
+{{< fig src="IMG_20240724_152011.jpg" >}}
 
 Danach spazieren wir quer durch die Stadt.
 Ehrlicherweise latschen Angela und Karin einfach Steff hinterher, weil sie hier heillos die Orientierung verloren haben.
@@ -33,19 +33,19 @@ Ja, Karin fällt die Auswahl immer eher schwer, darum gibt es eine Ein-Buch-Poli
 Nach unserem lecker Essen (Fish 'n' Chips, Knoblauchbrot für 3 Tage) geht es auf den [Patrick's Hill](https://maps.app.goo.gl/LsMC9vZs4v6osqi26)…
 Coole Aussicht!
 
-{{< fig src="1000024364.jpg" >}}
-{{< fig src="1000024370.jpg" >}}
-{{< fig src="1000024374.jpg" >}}
+{{< fig src="IMG_20240724_130937.jpg" >}}
+{{< fig src="IMG_20240724_141759.jpg" >}}
+{{< fig src="IMG_20240724_142919.jpg" >}}
 
 Zum Abschluss des Tages geben wir uns noch das Titanic Memorial in [Cobh](https://de.wikipedia.org/wiki/Cobh).
 Das ist der Ort, wo der Dampfer 1912 zum letzten Mal angelegt hat und 123 irische Passagiere zugestiegen sind.
 
 {{< fig src="IMG_20240724_163934.jpg" >}}
-{{< fig src="1000024379.jpg" >}}
-{{< fig src="1000027799.jpg" >}}
-{{< fig src="1000027783.jpg" >}}
-{{< fig src="1000027795.jpg" >}}
-{{< fig src="1000027798.jpg" >}}
+{{< fig src="IMG_20240724_162726.jpg" >}}
+{{< fig src="IMG_20240724_165033.jpg" >}}
+{{< fig src="IMG_20240724_163302.jpg" >}}
+{{< fig src="IMG_20240724_164256.jpg" >}}
+{{< fig src="IMG_20240724_164814.jpg" >}}
 
 Der Plan für den restlichen Abend: [Caccio e Pepe]({{< relref "blog/2024/bratislava/index.md#spaghetti-cacio-e-pepe" >}}) und Bierli in unserer Bude bei da Una in der „fully equipped kitchen“ 🎉.
 Aber halt: Wo kochen wir jetzt eigentlich unsere Nudeln? Es gibt weder Topf noch Herd? Wo haben wir hingeguckt? 😅
