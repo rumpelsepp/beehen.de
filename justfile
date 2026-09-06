@@ -9,7 +9,7 @@ build: npm-build
 serve: npm-build
     {{ hugo }} server --buildDrafts
 
-deploy: build
+deploy: preprocess-video build
     rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 
 clean:
@@ -22,4 +22,4 @@ check-links: build
     lychee --offline --include-fragments public
 
 preprocess-video:
-    ./scripts/vidpre.py --webm content
+    ./scripts/vidpre.py content

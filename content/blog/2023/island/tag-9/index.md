@@ -23,8 +23,8 @@ Die isländische Landschaft ist schon echt etwas Besonderes - man hat das Gefüh
 {{< fig src="IMG_20230807_145204.jpg" >}}
 {{< fig src="IMG_20230807_160131.jpg" >}}
 {{< fig src="IMG_20230807_155839.jpg" >}}
-{{< youtube id="u4Uze4POAyM" >}}
-{{< youtube id="G4ucao8qF-s" >}}
+{{< video id="u4Uze4POAyM" >}}
+{{< video id="G4ucao8qF-s" >}}
 
 {{< info >}}
 - Goðafoss bedeutet so viel wie „Fall der Götter“: Diesen Namen erhielt der Wasserfall im Jahr 1000, als sich Þorgeir Ljósvetningagoði zum Christentum bekannte und seine heidnischen Götterstatuen in den Wasserfall warf. 

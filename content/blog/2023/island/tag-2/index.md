@@ -102,7 +102,7 @@ ist das seit 1992 in Island verboten.
 ## Nächster Halt: **Gullfoss** – der große Bruder von Bruáráfoss
 
 {{< fig src="IMG_20230731_185723.jpg" >}}
-{{< youtube id="ZS5hL33fv28" >}}
+{{< video id="ZS5hL33fv28" >}}
 
 Dank der mutigen Bauerstochter Sigríður Tómasdóttir die erfolgreich
 einen erbitterten Rechtsstreit gegen britische Spekulanten führte, die
@@ -129,8 +129,8 @@ Nordwesten:
 -   Schau einfach was die anderen machen!
 
 Naja, wir mussten relativ schnell wieder umkehren, weil uns ein Fluss den Weg versperrte… 
-Bei dem nachfolgenden YouTube Video musste ich mit eigener Hintergrundmusik nachhelfen, weil mein Musikwunsch AC/DC — Highway to Hell von YouTube einfach mal geblockt wurde.
+Bei dem nachfolgenden Video musste ich mit eigener Hintergrundmusik nachhelfen, weil mein Musikwunsch AC/DC — Highway to Hell von YouTube einfach mal geblockt wurde.
 
-{{< youtube id="89AlrPXKycQ" >}}
+{{< video src="froad-fail" >}}
 
 {{< fig src="IMG_20230731_194731.jpg" >}}

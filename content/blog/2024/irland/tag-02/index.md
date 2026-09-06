@@ -15,7 +15,7 @@ DANKE Una für die schöne Unterkunft.
 Am zweiten Tag haben wir uns für ein bisserl Bewegung bzw. eine [Etappe des Ring of Kerry](https://www.komoot.com/de-de/smarttour/e1027160994/torc-mountain-der-owengarrif-river-killarney-national-park?ref=wdd) entschieden.
 Wie es sich für echte Alpen-Bewohner:innen gehört, haben wir uns nicht nur den [Tork Waterfall](https://maps.app.goo.gl/2vhMxYPxpqsFHebi9) in Sandalen angeschaut, sondern waren ganz oben am Gipfel und teilten uns die wunderschöne Aussicht über Killarney mit, naja, ca. 10 Mio. Mücken. 🥳😎
 
-{{< youtube "xw_IUpFLAIU?si=6HQol_lGICRy9dRe" >}}
+{{< video id="xw_IUpFLAIU" >}}
 
 Am Rückweg bekam Karin die zweite Chance bei unserem fahrbaren Untersatz, dem Hubert aka. Hubsi.
 Zum Glück wurde beim [Ladies View](https://maps.app.goo.gl/wZfGrmpqc1GALh337) wieder getauscht…

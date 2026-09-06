@@ -24,6 +24,15 @@ hugo.linux
 .venv
 
 /.hugo_build.lock
+
+# Web videos: scripts/vidpre.py builds <name>.mp4 + <name>-poster.jpg from the
+# committed <name>.raw.<ext> source (done in CI). Legacy VID_*.mp4 stay tracked.
+/content/**/*-poster.jpg
+/content/**/*.webm
+/content/**/*.mp4
+!/content/**/*.raw.*
+!/content/**/VID_*.mp4
+
 # esbuild output (bundled from npm deps), fingerprinted + published by Hugo
 /assets/gen/
 # guard: bundler output must land in assets/gen/, never in static/

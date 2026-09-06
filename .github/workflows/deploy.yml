@@ -21,6 +21,8 @@ jobs:
         uses: actions/setup-node@v6
       - name: Setup just
         uses: extractions/setup-just@v4
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v10
       - name: Cache Hugo image resources
         uses: actions/cache@v4
         with:
@@ -28,6 +30,22 @@ jobs:
           key: hugo-resources-${{ github.run_id }}
           restore-keys: |
             hugo-resources-
+      - name: Cache preprocessed videos
+        uses: actions/cache@v4
+        with:
+          path: |
+            content/**/*.mp4
+            content/**/*.webm
+            content/**/*-poster.jpg
+            !content/**/*.raw.*
+            !content/**/VID_*.mp4
+          key: videos-${{ hashFiles('content/**/*.raw.*') }}
+      - name: Build videos
+        run: |
+          # cache-restored outputs count as fresh: make raws the oldest so
+          # vidpre.py only encodes what the cache is missing.
+          find content -name '*.raw.*' -exec touch -d @0 {} + 2>/dev/null || true
+          just preprocess-video
       - name: Install npm deps
         run: npm ci
       - name: Install SSH key
