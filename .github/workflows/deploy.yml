@@ -26,6 +26,11 @@ jobs:
         uses: extractions/setup-just@v4
       - name: Setup uv
         uses: astral-sh/setup-uv@v10.0.1
+        with:
+          # vidpre.py is a PEP 723 script with no deps and no pyproject.toml —
+          # nothing to cache, so skip the cache step and its "never invalidated"
+          # warning.
+          enable-cache: false
       - name: Setup ffmpeg
         uses: FedericoCarboni/setup-ffmpeg@v3
         with:
