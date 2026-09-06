@@ -420,7 +420,7 @@ Darum möchten wir euch unsere Ausflüge im Pongau und den Erstkommunionsausflug
 
 Zum Abschluss haben wir noch a bissl Steiermark eingesammelt – und die kann kulinarisch echt was: [steirisches Kürbiskernöl](https://de.wikipedia.org/wiki/Steirisches_K%C3%BCrbiskern%C3%B6l), Wein aus der Südsteiermark, gemütliche Buschenschänke und Schokolade von [Zotter](https://www.zotter.at/) bei Riegersburg. 🍫 Wer's lieber aktiv mag, heizt am [Wilden Berg](https://www.derwildeberg.at/de) in Mautern mit dem Mountain-Kart den Hang hinunter.
 
-{{< fig src="IMG_20260904_103120.jpg" >}}
+{{< fig src="IMG_20260903_101709.jpg" >}}
 
 Graz selbst ist eine richtig schöne Stadt: Der [Uhrturm](https://de.wikipedia.org/wiki/Uhrturm_(Graz)) thront über der Altstadt, vom Schloßberg geht's über die [längste Indoor-Rutsche der Welt](https://www.graztourismus.at/de/sightseeing-kultur/sehenswuerdigkeiten/schlossbergrutsche_shg_1525) (175 m durch den Berg 🛝) wieder runter, und auf dem Rückweg haben wir natürlich noch bei [„Die Eisperle“](https://www.eisperle.at/) ein unfassbar guates Eis konsultiert. 🍦
 
