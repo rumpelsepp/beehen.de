@@ -365,6 +365,15 @@ Blažs Paradies ist übrigens auch auf dem Panoramafoto zu sehen 😉.
 ## Fazit
 
 > 🚧 **TODO:** Fazit schreiben
+Slowenien hat uns total überrascht!
+Des woa fost a bissl kloa, weil wir uns vorab gar nicht so viel mit dem Land beschäftigt haben.
+Insgesamt war es eine super geniale und faszinierende Reise!
+Das Land ist gebirgiger, als wir es uns vorgestellt hatten, die Leute sind unfassbar entspannt und nett. 
+Es ist nicht untypisch, dass die Leute einfach mal 3 verschiedene Sprachen sprechen.
+1x hat Karin einfach vergessen, dass wir mit dem Kellner auf Englisch gesprochen hatten und zahlt auf Deutsch.
+Der Kellner macht ganz natürlich mit und es fällt uns erst danach auf, was passiert ist. 
+Zitat Steff: "Wann hast'n du überhaupt gemerkt, dass der Deutsch kann?"
+Wir kommen gerne wieder, weils uns wirklich gefallen hat und würden gerne noch mehr über die Geschichte und die Zusammenhänge mit Österreich lernen.
 
 <div style="display: flex; justify-content: center;">
 <iframe style="border:none" src="https://mapy.com/s/genulabuge" width="700" height="466" frameborder="0"></iframe>
