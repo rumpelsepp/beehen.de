@@ -53,15 +53,11 @@ weight = 20
     privacyEnhanced = true
 
 [imaging]
-  # Fallback-Qualitaet fuer Formate ohne eigenen Block (z. B. jpeg)
-  quality = 92
+  # Wie bienensteff.de: verlustbehaftete Qualitaet fuer verkleinerte Bilder
+  # (WebP ueber die fig-/image-Partials). Um 80 ist optisch nicht von
+  # hoeheren Werten zu unterscheiden, die Dateien sind aber deutlich kleiner.
+  quality = 80
   resampleFilter = "Lanczos"
-
-  [imaging.webp]
-    # Fuers Web praktisch verlustfrei wahrnehmbar, deutlich kleiner als 97
-    quality = 85
-    # 0-6, hoeher = bessere Kompression bei langsamerem Encode (einmalig, dank Cache)
-    method = 6
 
   [imaging.meta]
     # Hugo-Default, aber ohne den GPS-Ausschluss: .Meta.Lat/.Long fuer den
