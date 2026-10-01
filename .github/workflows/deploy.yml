@@ -25,7 +25,7 @@ jobs:
       - name: List LFS objects
         run: git lfs ls-files --long | cut -d' ' -f1 | sort > .lfs-objects
       - name: Cache LFS objects
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: .git/lfs
           key: lfs-${{ hashFiles('.lfs-objects') }}
@@ -46,7 +46,7 @@ jobs:
       # exist (source images, imaging config, templates), so a new cache is
       # only uploaded when that changes; otherwise the last one is reused.
       - name: Cache Hugo image resources
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: resources/_gen
           key: hugo-resources-${{ hashFiles('.lfs-objects', 'hugo.toml', 'layouts/**', 'themes/bienensteff/layouts/**') }}
