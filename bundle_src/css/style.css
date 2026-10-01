@@ -46,7 +46,7 @@
     font-size: calc(0.9rem + var(--w, 0) * 1.55rem);
     line-height: 1.1;
     color: var(--color-ink);
-    text-decoration: none;
+    text-decoration-line: none;
     opacity: calc(0.55 + var(--w, 0) * 0.45);
     transition: color 0.12s ease, opacity 0.12s ease;
 }
@@ -55,8 +55,7 @@
 .tag-cloud a:focus-visible {
     color: var(--color-accent);
     opacity: 1;
-    text-decoration: underline;
-    text-underline-offset: 0.15em;
+    text-decoration-line: underline;
 }
 
 .tag-cloud .count {
