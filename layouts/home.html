@@ -19,7 +19,9 @@
 
   {{ .Content }}
 
-  <div class="row">
+  {{/* g-4 spaces the cards, h-100 stretches each card to the height of
+       its row so neighbours line up regardless of text length. */}}
+  <div class="row g-4">
     {{ range where site.RegularPages "Section" "blog" }}
       {{ $title := .Title }}
       {{ if .Draft }}
@@ -35,7 +37,7 @@
       {{ end }}
       <div class="col-md-6">
         {{ partial "card.html" (dict
-          "cardClass" "mb-4"
+          "cardClass" "h-100"
           "title" $title
           "subtitle" (partial "subtitle.html" .)
           "content" (partial "inline/gallery/card-content.html" .)
