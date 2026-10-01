@@ -3,13 +3,14 @@ hugo := "./scripts/hugo"
 npm-build:
     npm run build
 
-build: npm-build
-    {{ hugo }} build --cleanDestinationDir
+# --gc drops image variants nothing references any more from resources/_gen
+build: clean npm-build
+    {{ hugo }} build --gc
 
 serve: npm-build
     {{ hugo }} server --buildDrafts
 
-deploy: preprocess-video build
+deploy: build
     rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 
 clean:
@@ -21,5 +22,7 @@ podman-pull:
 check-links: build
     lychee --offline --include-fragments public
 
+# Encode <name>.raw.<ext> into <name>.mp4 + poster. Run after adding a raw
+# video and commit the results -- CI does not encode videos.
 preprocess-video:
     ./scripts/vidpre.py content

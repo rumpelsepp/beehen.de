@@ -5,6 +5,11 @@ on:
       - master
   workflow_dispatch:
 
+# A newer push supersedes a deploy that is still running.
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -37,40 +42,16 @@ jobs:
         uses: actions/setup-node@v6
       - name: Setup just
         uses: extractions/setup-just@v4
-      - name: Setup uv
-        uses: astral-sh/setup-uv@v10.0.1
-        with:
-          # vidpre.py is a PEP 723 script with no deps and no pyproject.toml —
-          # nothing to cache, so skip the cache step and its "never invalidated"
-          # warning.
-          enable-cache: false
-      - name: Setup ffmpeg
-        uses: FedericoCarboni/setup-ffmpeg@v3
-        with:
-          ffmpeg-version: release
+      # Resized images. The key covers everything that decides which variants
+      # exist (source images, imaging config, templates), so a new cache is
+      # only uploaded when that changes; otherwise the last one is reused.
       - name: Cache Hugo image resources
         uses: actions/cache@v4
         with:
           path: resources/_gen
-          key: hugo-resources-${{ github.run_id }}
+          key: hugo-resources-${{ hashFiles('.lfs-objects', 'hugo.toml', 'layouts/**', 'themes/bienensteff/layouts/**') }}
           restore-keys: |
             hugo-resources-
-      - name: Cache preprocessed videos
-        uses: actions/cache@v4
-        with:
-          path: |
-            content/**/*.mp4
-            content/**/*.webm
-            content/**/*-poster.jpg
-            !content/**/*.raw.*
-            !content/**/VID_*.mp4
-          key: videos-${{ hashFiles('content/**/*.raw.*') }}
-      - name: Build videos
-        run: |
-          # cache-restored outputs count as fresh: make raws the oldest so
-          # vidpre.py only encodes what the cache is missing.
-          find content -name '*.raw.*' -exec touch -d @0 {} + 2>/dev/null || true
-          just preprocess-video
       - name: Install npm deps
         run: npm ci
       - name: Install SSH key
