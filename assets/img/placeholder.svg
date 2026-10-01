@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Platzhalterbild: Berglandschaft mit Wanderweg">
+  <!-- Platzhalter fuer Beitraege ohne eigenes Beitragsbild (layouts/home.html).
+       Farben folgen den Design-Tokens des Themes (color-bg, color-ink,
+       color-accent). -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9e2d3"/>
+      <stop offset="1" stop-color="#faf8f4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="600" fill="url(#sky)"/>
+
+  <!-- Sonne -->
+  <circle cx="590" cy="170" r="92" fill="#f3d9a4" opacity="0.45"/>
+  <circle cx="590" cy="170" r="58" fill="#eebf6b"/>
+
+  <!-- Voegel -->
+  <g fill="none" stroke="#6b6154" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 132q12-12 22 0q10-12 22 0"/>
+    <path d="M262 98q9-9 16 0q7-9 16 0"/>
+  </g>
+
+  <!-- Ferne Bergkette -->
+  <path d="M0 372 L96 286 L158 330 L262 214 L352 312 L432 252 L528 344 L628 268 L716 332 L800 290 V600 H0Z" fill="#c9c8b4"/>
+  <!-- Schneefelder -->
+  <path d="M262 214 L300 256 L276 250 L258 268 L238 242Z" fill="#faf8f4"/>
+  <path d="M432 252 L462 281 L440 276 L426 290 L412 267Z" fill="#faf8f4"/>
+
+  <!-- Mittlere Bergkette -->
+  <path d="M0 438 L118 350 L214 414 L334 322 L452 420 L556 366 L676 432 L800 372 V600 H0Z" fill="#8a9a74"/>
+
+  <!-- Huegel im Vordergrund -->
+  <path d="M0 492 C140 430 268 452 400 488 C528 522 664 462 800 474 V600 H0Z" fill="#4b6b3a"/>
+  <path d="M0 548 C180 508 330 540 470 556 C600 570 708 540 800 532 V600 H0Z" fill="#3a5430"/>
+
+  <!-- Wanderweg (wie ein GPX-Track) mit Ziel-Pin -->
+  <path d="M148 600 C190 560 300 566 318 532 C334 502 248 498 286 470 C316 448 380 452 404 430"
+        fill="none" stroke="#faf8f4" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 14"/>
+  <g transform="translate(404 386)">
+    <path d="M0 44 C-16 22 -24 12 -24 -2 A24 24 0 1 1 24 -2 C24 12 16 22 0 44Z" fill="#26231d"/>
+    <circle cy="-2" r="9" fill="#faf8f4"/>
+  </g>
+</svg>

@@ -26,8 +26,13 @@
         {{ $title = printf "✍️ %s" $title }}
       {{ end }}
 
-      {{/* card.html looks the image up in the page bundle and renders it
-           responsively; posts without one simply get a card without image. */}}
+      {{/* card.html looks the image up in the page bundle (else in assets/)
+           and renders it responsively; posts without a feature image get
+           the placeholder so all cards line up. */}}
+      {{ $image := .Param "image" | default "feature.jpg" }}
+      {{ if not (.Resources.GetMatch $image) }}
+        {{ $image = "img/placeholder.svg" }}
+      {{ end }}
       <div class="col-md-6">
         {{ partial "card.html" (dict
           "cardClass" "mb-4"
@@ -35,7 +40,7 @@
           "subtitle" (partial "subtitle.html" .)
           "content" (partial "inline/gallery/card-content.html" .)
           "url" .RelPermalink
-          "image" (.Param "image" | default "feature.jpg")
+          "image" $image
           "page" .
         ) }}
       </div>
