@@ -53,16 +53,25 @@ weight = 20
     privacyEnhanced = true
 
 [imaging]
+  resampleFilter = "Lanczos"
+
   # Wie bienensteff.de: verlustbehaftete Qualitaet fuer verkleinerte Bilder
   # (WebP ueber die fig-/image-Partials). Um 80 ist optisch nicht von
   # hoeheren Werten zu unterscheiden, die Dateien sind aber deutlich kleiner.
-  quality = 80
-  resampleFilter = "Lanczos"
+  # Pro Format gesetzt, das globale imaging.quality ist seit Hugo 0.163
+  # deprecated.
+  [imaging.webp]
+    quality = 80
+
+  [imaging.jpeg]
+    quality = 80
 
   [imaging.meta]
     # Hugo-Default, aber ohne den GPS-Ausschluss: .Meta.Lat/.Long fuer den
     # fig-Geotag (imageGeotags). Aendern invalidiert den Bild-Cache.
-    fields = ['! *{Exif,Exposure[MPB],Contrast,Resolution,Sharp,JPEG,Metering,Sensing,Saturation,ColorSpace,Flash,WhiteBalance}*']
+    # Zusaetzlich ohne ComponentsConfiguration: das Feld ist in den
+    # Panorama-Bildern (*_PANO.jpg) kaputt und erzeugt sonst je Bild ein WARN.
+    fields = ['! *{Exif,Exposure[MPB],Contrast,Resolution,Sharp,JPEG,Metering,Sensing,Saturation,ColorSpace,Flash,WhiteBalance,Components}*']
 
 [markup]
   [markup.goldmark]
