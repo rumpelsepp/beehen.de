@@ -10,7 +10,7 @@
   <header>
     <h1>{{ .Title }}</h1>
   </header>
-  
+
   {{ with .Params.Description }}
       <p class="lead">
         {{ . }}
@@ -19,36 +19,27 @@
 
   {{ .Content }}
 
-  {{ range $i, $p := (where .Site.RegularPages "Section" "blog") }}
-    {{ if eq (mod $i 2) 0 }}
-      <div class="row">
-    {{ end }}
-    
-    {{ $title := $p.Title }}
-    {{ if $p.Draft }}
-        {{ $title = printf "✍️ %s" $title  | safeHTML }}
-    {{ end }}
-    
-    {{ $context := dict
-      "cardClass" "mb-4"
-      "title" $title
-      "subtitle" (partial "subtitle.html" $p)
-      "content" (partial "inline/gallery/card-content.html" $p)
-      "url" $p.RelPermalink
-    }}
+  <div class="row">
+    {{ range where site.RegularPages "Section" "blog" }}
+      {{ $title := .Title }}
+      {{ if .Draft }}
+        {{ $title = printf "✍️ %s" $title }}
+      {{ end }}
 
-    {{ with $p.Resources.GetMatch (default "feature.jpg" ($p.Param "image")) }}
-      {{ $card := (.Filter images.AutoOrient).Resize "800x webp" }}
-      {{ $context = merge $context (dict "image" $card.RelPermalink) }}
-    {{ end }}
-
-    <div class="col-md-6">
-      {{ partial "card.html" $context }}
-    </div>
-
-    {{ if or (eq (mod (add $i 1) 2) 0) (eq (add $i 1) (len (where .Site.RegularPages "Section" "blog"))) }}
+      {{/* card.html looks the image up in the page bundle and renders it
+           responsively; posts without one simply get a card without image. */}}
+      <div class="col-md-6">
+        {{ partial "card.html" (dict
+          "cardClass" "mb-4"
+          "title" $title
+          "subtitle" (partial "subtitle.html" .)
+          "content" (partial "inline/gallery/card-content.html" .)
+          "url" .RelPermalink
+          "image" (.Param "image" | default "feature.jpg")
+          "page" .
+        ) }}
       </div>
     {{ end }}
-  {{ end }}
+  </div>
 </article>
 {{ end }}

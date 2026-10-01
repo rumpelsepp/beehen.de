@@ -2,6 +2,7 @@
     "cardClass" ((.Get "card_class") | default "mb-3")
     "header" (.Get "header" | default "💡 Infos für Gscheidhaferl… 🤓")
     "image" (.Get "image")
+    "page" .Page
     "title" (.Get "title")
     "subtitle" (.Get "subtitle")
     "content" (.Inner | markdownify)

@@ -1,6 +1,6 @@
 {{ define "_partials/inline/related-list.html" }}
   <ul>
-    {{ range $i, $p := . }}
+    {{ range . }}
       <li>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
@@ -8,12 +8,10 @@
   </ul>
 {{ end }}
 
-{{ with $related := .Site.RegularPages.Related . | first 5}}
-  {{ $context := dict
+{{ with site.RegularPages.Related . | first 5 }}
+  {{ partial "card.html" (dict
     "cardClass" "mt-4 mb-4"
     "header" "Ähnliche Artikel"
     "content" (partial "inline/related-list.html" .)
-  }}
-
-  {{ partial "card.html" $context }}
+  ) }}
 {{ end }}

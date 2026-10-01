@@ -16,8 +16,6 @@ Idempotent: Ueberspringt Dateien, deren Output juenger ist als die Rohdatei.
 Gedacht als Pre-Build-Schritt vor `hugo build` (siehe justfile).
 """
 
-from __future__ import annotations
-
 import argparse
 import logging
 import shutil
@@ -27,13 +25,13 @@ from pathlib import Path
 RAW_SUFFIX = ".raw"
 RAW_EXTENSIONS = {".mov", ".mp4", ".mkv", ".avi", ".m4v"}
 
-log = logging.getLogger("preprocess_video")
+log = logging.getLogger("vidpre")
 
 
 def find_raw_videos(root: Path) -> list[Path]:
     return sorted(
         p
-        for p in root.rglob(f"*{RAW_SUFFIX}*")
+        for p in root.rglob(f"*{RAW_SUFFIX}.*")
         if p.is_file() and p.suffix.lower() in RAW_EXTENSIONS
     )
 
@@ -57,6 +55,7 @@ def run_ffmpeg(args: list[str], out_path: Path) -> None:
     result = subprocess.run(
         ["ffmpeg", "-y", "-loglevel", "error", *args, str(out_path)],
         capture_output=True,
+        check=False,
         text=True,
     )
     if result.returncode != 0:
@@ -103,6 +102,7 @@ def probe_duration(path: Path) -> float:
             str(path),
         ],
         capture_output=True,
+        check=False,
         text=True,
     )
     try:
@@ -173,8 +173,9 @@ def main() -> None:
         format="%(levelname)s: %(message)s",
     )
 
-    if not shutil.which("ffmpeg"):
-        raise SystemExit("ffmpeg nicht gefunden. `sudo dnf install ffmpeg` o.ae.")
+    for tool in ("ffmpeg", "ffprobe"):
+        if not shutil.which(tool):
+            raise SystemExit(f"{tool} nicht gefunden. `sudo dnf install ffmpeg` o.ae.")
 
     raw_videos = find_raw_videos(args.root)
     if not raw_videos:
