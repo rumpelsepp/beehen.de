@@ -13,7 +13,8 @@ Konvention: In jedem Page-Bundle liegt die Rohdatei als `<name>.raw.<ext>`
     <name>-poster.jpg   Posterframe fuer <video poster="...">
 
 Idempotent: Ueberspringt Dateien, deren Output juenger ist als die Rohdatei.
-Gedacht als Pre-Build-Schritt vor `hugo build` (siehe justfile).
+Lokal nach dem Hinzufuegen eines Rohvideos ausfuehren (`just
+preprocess-video`) und die Ergebnisse einchecken; die CI encodiert nicht.
 """
 
 import argparse
