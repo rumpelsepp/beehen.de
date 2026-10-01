@@ -1,29 +1,15 @@
-# Generated files by hugo
-.vscode
-/public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo_stats.json
-
-# Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
-
-# Temporary lock file while building
+/public
+/node_modules
+/resources
 /.hugo_build.lock
-*Zone.Identifier
+# esbuild output (bundled from npm deps), fingerprinted + published by Hugo
+/assets/gen/
 
-# Office
-~$*
-*.~*
-
-# Python
 .mypy_cache
 .ruff_cache
-.venv
+__pycache__
 
-/.hugo_build.lock
+.vscode
 
 # Web videos: scripts/vidpre.py builds <name>.mp4 + <name>-poster.jpg from the
 # committed <name>.raw.<ext> source (done in CI). Legacy VID_*.mp4 stay tracked.
@@ -32,13 +18,3 @@ hugo.linux
 /content/**/*.mp4
 !/content/**/*.raw.*
 !/content/**/VID_*.mp4
-
-# esbuild output (bundled from npm deps), fingerprinted + published by Hugo
-/assets/gen/
-# guard: bundler output must land in assets/gen/, never in static/
-/static/*.js
-/static/*.css
-/static/*.map
-/static/*.woff
-/static/*.woff2
-/node_modules
