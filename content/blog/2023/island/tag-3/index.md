@@ -1,6 +1,7 @@
 ---
 title: "Tag 3: Die Wanderung durchs dampfende Tal"
 date: 2023-08-01T22:13:16+02:00
+author: Karin
 tags: ["Island", "Reykjavik"]
 draft: false
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Urlaub im Süden: Sommer, Sonne, Sonnenschein"
 date: 2026-09-05
+author: Karin
 tags: ["Slowenien", "Italien", "Krain", "Istrien"]
 toc: true
 image: "IMG_20260826_154709.jpg"

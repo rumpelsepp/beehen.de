@@ -1,6 +1,7 @@
 ---
 title: "Tag 9: Auf zur Mama"
 date: 2023-08-07T22:13:16+02:00
+author: Karin
 tags: ["Island", "Mývatn"]
 draft: false
 ---

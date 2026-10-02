@@ -1,6 +1,7 @@
 ---
 title: "Eine kleine Geburtstagsreise nach Bratislava"
 date: 2024-03-17T16:00:16+01:00
+author: Karin
 tags: ["Slowakei", "Bratislava"]
 draft: false
 ---

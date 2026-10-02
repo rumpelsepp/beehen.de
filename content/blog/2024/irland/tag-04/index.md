@@ -1,6 +1,7 @@
 ---
 title: "Tag 4: Ring of Kerry, die volle Experience!"
 date: 2024-07-25T22:13:16+02:00
+author: Karin
 tags: ["Irland", "Kerry"]
 ---
 

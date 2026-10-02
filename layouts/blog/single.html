@@ -9,7 +9,7 @@
         <hgroup>
             <h1 {{ if .Draft }}class="draft" {{ end }}>{{ $.Title }}</h1>
 
-            <p class="text-secondary">{{ partial "subtitle.html" . }}</p>
+            <p class="text-secondary">{{ partial "subtitle.html" (dict "page" . "author" true) }}</p>
         </hgroup>
     </header>
     

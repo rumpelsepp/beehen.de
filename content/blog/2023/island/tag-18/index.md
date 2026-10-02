@@ -1,6 +1,7 @@
 ---
 title: 'Tag 18: Schwarzer Strand, Lava ohne Ende und Diamond Beach'
 date: 2023-08-16T22:13:16+02:00
+author: Karin
 tags: ["Island"]
 ---
 

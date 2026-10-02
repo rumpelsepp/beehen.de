@@ -1,6 +1,7 @@
 ---
 title: 'Tag 16: Ein perfekter Tag zum Nix-tun, Bloggen und Sauna gehen!'
 date: 2023-08-14T22:13:16+02:00
+author: Karin
 tags: ["Island", "Snæfellsnes"]
 ---
 
