@@ -23,7 +23,7 @@ Schlange anstellen sollen…
 Aber Ende gut – alles Gut! — Wir haben unsere Helga auf Zeit adoptiert!
 🫶😉
 
-{{< fig src="IMG_20230730_123638.jpg" caption="unser fahrbarer Untersatz" >}}
+{{< fig src="IMG_20230730_123638.jpg" alt="Silberner Dacia Duster mit offener Fahrertür auf einem Schotterparkplatz unter grauem Himmel" caption="unser fahrbarer Untersatz" >}}
 
 Nun konnte es los gehen. Wir entschlossen uns die Halbinsel
 **Reykjanes** die Rauchhalbinsel zu erkunden, bevor wir in
@@ -39,8 +39,8 @@ Hier sehen wir zum ersten Mal ganz deutlich die Kontinentalschlucht, ein
 Lavalandschaft, der von einer Brücke (ohne sichtbare Funktion – hübsch
 wars trotzdem) überspannt wird.
 
-{{< fig src="IMG_20230730_125556.jpg" >}}
-{{< fig src="IMG_20230730_125034.jpg" >}}
+{{< fig src="IMG_20230730_125556.jpg" alt="Alfagjá: breite Schlucht mit schwarzem Sand zwischen dunklen Lavawänden" >}}
+{{< fig src="IMG_20230730_125034.jpg" alt="Ein Mann balanciert mit ausgebreiteten Armen auf einem Lavafelsen, im Hintergrund die Brücke über die Schlucht" >}}
 
 ## Nächster Halt: **Valahnúkur Reykjanes — Ist das eigentlich Vogelkacke?**
 
@@ -59,7 +59,7 @@ Klippe aus war einfach der Wahnsinn!
 Und wir haben herausgefunden, was das weiße Zeugs ist… Da nisten einfach
 100e Möwen… 💩
 
-{{< fig src="IMG_20230730_140919.jpg" >}}
+{{< fig src="IMG_20230730_140919.jpg" alt="Steilklippe am Valahnúkur mit weiß gesprenkelten Felsen und zwei Felsnadeln im Meer" >}}
 
 Zu guter Letzt haben wir gelernt, dass einst ein Leuchtturmwächter ein
 Bad nahe der Klippe errichtete. Dort war das Wasser früher ein bisschen
@@ -68,8 +68,8 @@ Sommer in Zelten — eines für Mädels und eines für Jungs. Es wurde
 gemeinsam in den Zelten gekocht und die Kids konnten im Pool baden —
 Sommercamp auf Isländisch also.
 
-{{< fig src="IMG_20230730_150736.jpg" >}}
-{{< fig src="IMG_20230730_150324.jpg" >}}
+{{< fig src="IMG_20230730_150736.jpg" alt="Leuchtturm auf einem grünen Hügel hinter einem mit Moos und Flechten bewachsenen Lavafeld" >}}
+{{< fig src="IMG_20230730_150324.jpg" alt="Flacher Teich zwischen Wiese und dunklem Lavagestein unter Wolken" >}}
 
 ## Last „almost“ stop: **Fagradalsfjall** — Sag mal trollt uns der Reiseführer?
 

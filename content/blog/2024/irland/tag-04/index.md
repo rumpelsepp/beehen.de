@@ -24,16 +24,16 @@ Super cool fanden wir die Kombination aus Steilküste zum Atlantik hin und die s
 Irgendwie special, diese akustische Kombination von ge-muhe und schreienden Möwen.
 Im Westen haben wir auch noch den schönen Ausblick zu den [Skellig Rocks](https://de.wikipedia.org/wiki/Skellig_Michael), einem von nur drei UNESCO Welterbe spots in Irland. 
 
-{{< fig src="IMG_20240725_093037.jpg" >}}
-{{< fig src="IMG_20240725_115135.jpg" >}}
-{{< fig src="feature.jpg" >}}
-{{< fig src="IMG_20240725_120624.jpg" >}}
-{{< fig src="IMG_20240725_122644.jpg" >}}
-{{< fig src="IMG_20240725_135720.jpg" >}}
-{{< fig src="IMG_20240725_141831.jpg" >}}
-{{< fig src="IMG_20240725_121518.jpg" >}}
-{{< fig src="IMG_20240725_123327.jpg" >}}
-{{< fig src="IMG_20240725_135157.jpg" >}}
+{{< fig src="IMG_20240725_093037.jpg" alt="Kleine Bucht mit Booten zwischen bewaldeten Ufern unter grauem Himmel" >}}
+{{< fig src="IMG_20240725_115135.jpg" alt="Leerer Sandstrand bei Ebbe mit Inseln im Hintergrund" >}}
+{{< fig src="feature.jpg" alt="In den Sand geschrieben: Éire 24 mit einem Kleeblatt" >}}
+{{< fig src="IMG_20240725_120624.jpg" alt="Eine Person springt mit ausgebreiteten Armen am Strand in die Luft" >}}
+{{< fig src="IMG_20240725_122644.jpg" alt="Felsen und Sandflächen bei Ebbe, dahinter Dünen und wolkenverhangene Hügel" >}}
+{{< fig src="IMG_20240725_135720.jpg" alt="Steilküste mit schräg geschichteten Felsen und vorgelagerter Insel unter blauem Himmel" >}}
+{{< fig src="IMG_20240725_141831.jpg" alt="Hohe grüne Klippen fallen steil ins Meer ab" >}}
+{{< fig src="IMG_20240725_121518.jpg" alt="Selfie von oben: drei gut gelaunte Personen am Strand" >}}
+{{< fig src="IMG_20240725_123327.jpg" alt="Eine Person steht auf einem runden Felsen am Strand, von hinten gesehen" >}}
+{{< fig src="IMG_20240725_135157.jpg" alt="Selfie von uns beiden mit Mütze und Stirnband an den Klippen" >}}
 
 Weils so schön dort war, haben wir dort auch gleich wieder lokales Essen genossen (Guinness and Beef Stew, frisch gefangener Lachs und Seafood Chowder) bevor wir den Ring of Kerry zu Ende gefahren sind.
 
@@ -41,6 +41,6 @@ Weils so schön dort war, haben wir dort auch gleich wieder lokales Essen genoss
 Der [**Ring of Kerry**](https://de.wikipedia.org/wiki/Ring_of_Kerry) (irisch Mórchuaird Chiarraí) ist eine 179,0 km lange [Panoramaküstenstraße](https://de.wikipedia.org/wiki/Ferienstra%C3%9Fe) im [County Kerry](https://de.wikipedia.org/wiki/County_Kerry) im Südwesten Irlands. Busse und Lkw dürfen den Ring wegen der Enge der Straßen nur in einer Richtung (gegen den Uhrzeigersinn) der irischen Nationalstraße 70 befahren. Die N70 führt um die [Iveragh-Halbinsel](https://de.wikipedia.org/wiki/Iveragh-Halbinsel) entweder küstennah oder direkt die Küste entlang von [Kenmare](https://de.wikipedia.org/wiki/Kenmare) über [Waterville](https://de.wikipedia.org/wiki/An_Coire%C3%A1n_(Kerry)) nach [Killorglin](https://de.wikipedia.org/wiki/Killorglin); dann landeinwärts über [Killarney](https://de.wikipedia.org/wiki/Killarney) und wieder nach Kenmare. Eine Wanderversion dieser Straße stellt der Fernwanderweg [Kerry Way](https://de.wikipedia.org/wiki/Kerry_Way) dar. 
 {{< /info >}}
 
-{{< fig src="IMG_20240725_151701.jpg" >}}
-{{< fig src="IMG_20240725_151712.jpg" >}}
-{{< fig src="IMG_20240725_151649.jpg" >}}
+{{< fig src="IMG_20240725_151701.jpg" alt="Gebratener Lachs mit Garnelen, grünem Gemüse und heller Sauce" >}}
+{{< fig src="IMG_20240725_151712.jpg" alt="Schüssel mit cremiger Fischsuppe" >}}
+{{< fig src="IMG_20240725_151649.jpg" alt="Rindfleischeintopf mit Karotten und Erdäpfelpüree" >}}

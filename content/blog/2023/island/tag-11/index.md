@@ -7,7 +7,7 @@ draft: false
 
 Diese Nacht konnte Steff nicht gut einschlafen, deswegen hat er sich aufgrund der nördlichen geographischen Lage von Island 🇮🇸 ein bisschen mit dem Thema Dämmerung 🌇 beschäftigt und er schreibt hier einen kleinen Exkurs. Am Ort unserer Unterkunft — [HX93+J5 Skútustaðir](https://goo.gl/maps/wodC15sJrDwM6qhr7) — sah es am 09.08.2023 um 00:38 Uhr in der Nacht so aus:
 
-{{< fig src="IMG_20230809_003829.jpg" >}}
+{{< fig src="IMG_20230809_003829.jpg" alt="Fast dunkle Landschaft kurz nach Mitternacht, am Horizont ein heller Streifen Dämmerlicht" >}}
 
 Nach einer längeren Recherche, Diskussionen und [dieser Webseite](https://www.timeanddate.de/sonne/@2627574) sind wir zum Schluss gekommen, dass das obige Foto die **nautische Dämmerung** zeigt.
 
@@ -19,7 +19,7 @@ Ein bisschen [Wikipedia](https://de.wikipedia.org/wiki/D%C3%A4mmerung) Zauberei:
 Es wird generell zwischen *drei* Dämmerungsphasen unterschieden. Im Bezugssystem eines Beobachters auf der Erde unterscheiden sie sich in dem Winkel, in dem die Mitte der Sonnenscheibe unter dem Horizont steht. Nachfolgend eine kleine Grafik zum Ausklappen.
 
 {{< details summary="Dämmerungsphasen" >}}
-{{< figure src="Twilight_subcategories_de.svg" attr="wikipedia/Dämmerung" attrlink="https://de.wikipedia.org/wiki/D%C3%A4mmerung#/media/Datei:Twilight_subcategories_de.svg" >}}
+{{< figure src="Twilight_subcategories_de.svg" alt="Grafik zu den Dämmerungsphasen: unter dem Horizont folgen bürgerliche Dämmerung bis 6 Grad, nautische bis 12 Grad und astronomische bis 18 Grad, darunter beginnt die Nacht" attr="wikipedia/Dämmerung" attrlink="https://de.wikipedia.org/wiki/D%C3%A4mmerung#/media/Datei:Twilight_subcategories_de.svg" >}}
 {{< /details >}}
 
 * **Bürgerliche Dämmerung** (Tiefenwinkel bis 6°): Lesen im Freien möglich
@@ -29,13 +29,13 @@ Es wird generell zwischen *drei* Dämmerungsphasen unterschieden. Im Bezugssyste
 Je weiter nördlich man sich auf der Erdhalbkugel befindet, desto flacher ist der Einfallswinkel der Sonne. Folglich dauern die Dämmerungsphasen mit kleinem Winkel immer länger und die Nachtphase (Tiefenwinkel > 18°) wird immer kürzer.
 
 {{< details summary="Dauer der Dämmerungsphasen" >}}
-{{< figure src="Daemmerung.png" attr="wikipedia/Dämmerung" attrlink="https://de.wikipedia.org/wiki/D%C3%A4mmerung#/media/Datei:Daemmerung.png" >}}
+{{< figure src="Daemmerung.png" alt="Schema: Je flacher die Sonne unter den Horizont sinkt, desto länger braucht sie durch die Dämmerungszonen bei 6, 12 und 18 Grad" attr="wikipedia/Dämmerung" attrlink="https://de.wikipedia.org/wiki/D%C3%A4mmerung#/media/Datei:Daemmerung.png" >}}
 {{< /details >}}
 
 In Steffs Heimatstadt [Grafenau](https://www.grafenau.de) findet zur Sonnwende am 21.06. keine Nachtphase statt. Der Tiefenwinkel der Sonne bleibt unter 18° und es findet nur die astronomische Dämmerung statt.
 
 {{< details summary="Mitternachtsdämmerung in Europa zur Sonnwende um Mitternacht" >}}
-{{< figure src="Mitternachtsdämmerung_Europa.svg" attr="wikipedia/Dämmerung" attrlink="https://de.wikipedia.org/wiki/D%C3%A4mmerung#/media/Datei:Mitternachtsd%C3%A4mmerung_Europa.svg" >}}
+{{< figure src="Mitternachtsdämmerung_Europa.svg" alt="Europakarte zur Mitternachtsdämmerung am 21. Juni: Island liegt im Band der durchgehenden bürgerlichen Dämmerung, weiter südlich folgen nautische und astronomische Dämmerung und erst in Südeuropa dunkle Nacht" attr="wikipedia/Dämmerung" attrlink="https://de.wikipedia.org/wiki/D%C3%A4mmerung#/media/Datei:Mitternachtsd%C3%A4mmerung_Europa.svg" >}}
 {{< /details >}}
 {{< /info >}}
 
@@ -56,12 +56,12 @@ Gestern hat Helga gechillt, darum darf sie heute mal wieder rollen 🚙. Wir hab
 
 Das war die perfekte Distanz, die mit Steffs kratzendem Hals heute machbar war 🤒. Diesmal war der Reiseführer auch ziemlich akkurat und de Wanderung 🥾 war wirklich fein.
 
-{{< fig src="IMG_20230809_125454.jpg" >}}
-{{< fig src="IMG_20230809_132313.jpg" >}}
-{{< fig src="IMG_20230809_132701.jpg" >}}
-{{< fig src="IMG_20230809_132919.jpg" >}}
-{{< fig src="IMG_20230809_133434.jpg" >}}
-{{< fig src="IMG_20230809_134143.jpg" >}}
+{{< fig src="IMG_20230809_125454.jpg" alt="Schlucht mit hohen dunklen Basaltsäulen und einem kleinen Wasserfall über Geröll" >}}
+{{< fig src="IMG_20230809_132313.jpg" alt="Der graue Gletscherfluss fließt durch die Schlucht Stuðlagil mit ihren Basaltsäulenwänden" >}}
+{{< fig src="IMG_20230809_132701.jpg" alt="Blick in die Schlucht mit Basaltsäulen an beiden Ufern und einer Felsinsel im Fluss" >}}
+{{< fig src="IMG_20230809_132919.jpg" alt="Insel aus sechseckigen Basaltsäulen im milchig-grauen Fluss" >}}
+{{< fig src="IMG_20230809_133434.jpg" alt="Wand aus senkrechten Basaltsäulen über dem Fluss, oben eine Aussichtsplattform" >}}
+{{< fig src="IMG_20230809_134143.jpg" alt="Große helle Felsblöcke über dem Fluss, gegenüber Basaltsäulen" >}}
 
 {{< info >}}
 Basaltsäulen sand schon wirklich spezial! - Wir haben bis jetzt noch keine ernsthaft befriedigende Antwort darauf gefunden, wie die Dinger eigentlich wirklich entstehen (Wir liefern nach, sobald wir mehr wissen!)
@@ -84,7 +84,7 @@ Ehrlicherweise müssen wir zugeben, auf das was dort kam waren wir nicht gut vor
 
 Wir sind zunächst über eine echt beeindruckende Lava-Landschaft gefahren! Der Fluss hat es echt spannend gemacht... wir sind sicher 15 min irgendwo im nirgendwo herumgefahren... Kein Anzeichen von einem Wasserfall! - Wirklich nicht! Danach sind wir weiter durch diese krasse Landschaft gestapft... 
 
-{{< fig src="IMG_20230809_173105.jpg" >}}
+{{< fig src="IMG_20230809_173105.jpg" alt="Karge graue Steinwüste, vorne steht ein Mann mit Mütze, eine Person in roter Jacke geht voraus" >}}
 
 Wir dachten schon, da will uns einer verarschen - der Wasserfall is sicher pinschig (:de: mickrig) und fetzklein, sonst würden wir ihn ja schon sehen... und dann:
 
@@ -102,6 +102,6 @@ jap... der war echt fett! Und den Steff hats dann auch noch sauber obgschifft! �
 
 ... Ein Stückchen weiter oben im Flusslauf gibt es dann noch den Selfoss, der nicht ganz so riesig ist, aber trotzdem sehr beeindruckend. Steff hat sich lieber in die trockene Helga 🚗 begeben, um sich aufzuwärmen 🥶 und um mit seiner Mama 👪 zu telefonieren 📱. Aber Eva und Karin haben sich das volle Spektakel gegönnt.
 
-{{< fig src="IMG_20230809_181905.jpg" >}}
-{{< fig src="IMG_20230809_181913.jpg" >}}
+{{< fig src="IMG_20230809_181905.jpg" alt="Wasserfall am Dettifoss: der Fluss stürzt in eine Schlucht mit senkrechten Basaltwänden, Gischt steigt auf" >}}
+{{< fig src="IMG_20230809_181913.jpg" alt="Selfie von zwei Frauen in dicken Jacken vor dem Wasserfall" >}}
 {{< video id="AOjd6qyaL0s" >}}

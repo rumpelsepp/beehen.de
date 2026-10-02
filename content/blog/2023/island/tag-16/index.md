@@ -8,7 +8,7 @@ Bestimmt fragt ihr euch, wann wir diesen Blog immer so geschrieben haben! - Naja
 
 So sieht das für gewöhnlich aus:
 
-{{< fig src="IMG_20230814_141611.jpg" >}}
+{{< fig src="IMG_20230814_141611.jpg" alt="Ein Mann sitzt mit Laptop und Tablet auf dem Sofa, auf dem Tisch eine Bierflasche" >}}
 
 Die Rollenverteilung dabei war eigentlich ziemlich sofort klar:
 
@@ -31,12 +31,12 @@ Wir wussten ja schon im Voraus, dass Lebensmittel, oder sogar Essen gehen in Isl
 
 Daher haben wir einfach selbst unsere Kochkünste unter Beweis gestellt — überzeugt euch selbst:
 
-{{< fig src="IMG_20230803_202133.jpg" >}}
-{{< fig src="IMG_20230804_083517.jpg" >}}
-{{< fig src="IMG_20230804_191723.jpg" >}}
-{{< fig src="IMG_20230807_214329.jpg" >}}
-{{< fig src="IMG_20230811_210450.jpg" >}}
-{{< fig src="IMG_20230811_212217.jpg" >}}
-{{< fig src="IMG_20230814_143046.jpg" >}}
-{{< fig src="IMG_20230814_212148.jpg" >}}
-{{< fig src="IMG_20230816_221904.jpg" >}}
+{{< fig src="IMG_20230803_202133.jpg" alt="Zwei Personen essen am Tisch in der Holzhütte, in der Mitte ein Topf mit Tomatensauce" >}}
+{{< fig src="IMG_20230804_083517.jpg" alt="Müsli mit Apfelstücken, Trauben und Milch in einem blau gemusterten Teller" >}}
+{{< fig src="IMG_20230804_191723.jpg" alt="Gemüsecurry mit Karfiol und Couscous" >}}
+{{< fig src="IMG_20230807_214329.jpg" alt="Burger mit Salat, Tomate und Gurke auf einem gemusterten Teller" >}}
+{{< fig src="IMG_20230811_210450.jpg" alt="Zwei Personen schneiden gemeinsam Gemüse an der Kücheninsel des Holzhauses" >}}
+{{< fig src="IMG_20230811_212217.jpg" alt="Kartoffelscheiben mit Kräutern in einem schwarzen Emailtopf" >}}
+{{< fig src="IMG_20230814_143046.jpg" alt="Zwei Kaffeetassen neben einer dunklen Vase auf dem Tisch" >}}
+{{< fig src="IMG_20230814_212148.jpg" alt="Überbackene Toasts auf einem Teller am Fenster" >}}
+{{< fig src="IMG_20230816_221904.jpg" alt="Spaghetti in Tomatensauce mit gehackter Petersilie und Zwiebeln in der Pfanne" >}}

@@ -44,22 +44,22 @@ Es gibt folgende Kategorien:
 Da wir bei unserer whale watching Tour sehr aufmerksam waren, haben wir es hier gleich ganz selbstständig geschafft ein Exemplar zu identifizieren. Eva so ganz unbeeindruckt und cool vom Rücksitz: „He… i hab grad an Wal gseng”… und wir haben ihn alle gefunden er hat einige Fontänen in die Luft gepustet! Aber gerochen haben wir immer noch nix!
 
 
-{{<fig src="IMG_20230806_113837.jpg">}}
-{{<fig src="IMG_20230806_114030.jpg">}}
-{{<fig src="IMG_20230806_115459.jpg">}}
-{{<fig src="IMG_20230806_125333.jpg">}}
-{{<fig src="IMG_20230806_131324.jpg">}}
-{{<fig src="IMG_20230806_132010.jpg">}}
-{{<fig src="IMG_20230806_133052.jpg">}}
-{{<fig src="IMG_20230806_140006.jpg">}}
-{{<fig src="IMG_20230806_141451.jpg">}}
-{{<fig src="IMG_20230806_144753.jpg">}}
-{{<fig src="IMG_20230806_150925.jpg">}}
-{{<fig src="IMG_20230806_152546.jpg">}}
-{{<fig src="IMG_20230806_163610.jpg">}}
-{{<fig src="IMG_20230806_165558.jpg">}}
-{{<fig src="IMG_20230807_104152.jpg">}}
-{{<fig src="IMG_20230807_130304.jpg">}}
+{{<fig src="IMG_20230806_113837.jpg" alt="Spiegelglatter Fjord, in dem sich die Wolken spiegeln, über die Leitplanke fotografiert">}}
+{{<fig src="IMG_20230806_114030.jpg" alt="Küstenstraße am Fjord entlang, aus dem Auto fotografiert">}}
+{{<fig src="IMG_20230806_115459.jpg" alt="Ruhiger Fjord mit schneebedeckten Bergen am anderen Ufer">}}
+{{<fig src="IMG_20230806_125333.jpg" alt="Steil abfallender Tafelberg am tiefblauen Fjord">}}
+{{<fig src="IMG_20230806_131324.jpg" alt="Kleiner Hafen mit Fischerbooten, vorne ein Schotterweg und Steinblöcke">}}
+{{<fig src="IMG_20230806_132010.jpg" alt="Straße biegt um eine dunkle Felswand, aus dem Auto fotografiert">}}
+{{<fig src="IMG_20230806_133052.jpg" alt="Fjord mit einem Ort am anderen Ufer zwischen steilen Berghängen">}}
+{{<fig src="IMG_20230806_140006.jpg" alt="Fahrt durch einen orange beleuchteten Tunnel">}}
+{{<fig src="IMG_20230806_141451.jpg" alt="Zwei Personen machen Brotzeit an einem Picknicktisch am Fjord, dahinter spitze Berge">}}
+{{<fig src="IMG_20230806_144753.jpg" alt="Das Auto steht auf einer Schotterstraße zwischen zwei Tafelbergen">}}
+{{<fig src="IMG_20230806_150925.jpg" alt="Flaches Wasser mit Tang und Steinen am Fjordende, in dem sich die Wolken spiegeln">}}
+{{<fig src="IMG_20230806_152546.jpg" alt="Schotterstraße führt auf einen breiten Wasserfall zu, der in Stufen über einen Hang fällt">}}
+{{<fig src="IMG_20230806_163610.jpg" alt="Fjord im Gegenlicht unter dunklen Wolken">}}
+{{<fig src="IMG_20230806_165558.jpg" alt="Straße über eine karge Hochebene mit gelben Leitpfosten, aus dem Auto fotografiert">}}
+{{<fig src="IMG_20230807_104152.jpg" alt="Staubiges Autoheck, in den Schmutz geschrieben: Helga on Tour mit einem Herz">}}
+{{<fig src="IMG_20230807_130304.jpg" alt="Kleine blaue Enzianblüten auf steinigem Boden">}}
 
 Die Fahrt hat sich wirklich gelohnt. Auch, wenn es anstrengend war - es hat auch wirklich Spaß gemacht. In der letzten Fahrstunde waren wir letztlich dann zwar nicht mehr ganz so begeistert vom drölften Fjord oder von der drölften Schotterstraße, aber wir sind gesund und munter bei unserem Hostel angekommen. Dort haben wir polnische 🇵🇱 Mitreisende getroffen die ihre Fertignudeln anbrennen ließen … und wir haben den trüben Hot Pot mit einem tschechischen 🇨🇿 Reisebus geteilt… Es war ein notwendiger Zwischenstopp im Hostel, denn bis nach Mývatn hätten wir es nicht mehr geschafft. Grundsätzlich war auch alles ok mit dem Hostel (sauber, alles da was man braucht), aber wir haben uns auch alle auf unsere nächste Unterkunft gefreut!
 

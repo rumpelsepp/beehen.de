@@ -19,12 +19,12 @@ Lieblingsspot ist immer noch die Hittn – jede weitere Location muss sich
 wohl mit ihr vergleichen – aber die Küstenstraße bis zum
 **Krossneslaug** war wirklich genial:
 
-{{< fig src="IMG_20230805_151824.jpg" >}}
-{{< fig src="IMG_20230805_152401.jpg" >}}
-{{< fig src="IMG_20230805_153159.jpg" >}}
-{{< fig src="IMG_20230805_153326.jpg" >}}
-{{< fig src="IMG_20230805_153509.jpg" >}}
-{{< fig src="IMG_20230805_173821.jpg" >}}
+{{< fig src="IMG_20230805_151824.jpg" alt="Fjord unter blauem Himmel, über dem Wasser hängt ein Nebelband vor den Bergen" >}}
+{{< fig src="IMG_20230805_152401.jpg" alt="Schotterstraße führt hinunter zu einem tiefblauen Fjord zwischen Tafelbergen" >}}
+{{< fig src="IMG_20230805_153159.jpg" alt="Verrostetes Schiffswrack und ein alter Tank auf einer Wiese am Fjord" >}}
+{{< fig src="IMG_20230805_153326.jpg" alt="Alte, völlig verrostete Zapfsäule vor einem Gebäude" >}}
+{{< fig src="IMG_20230805_153509.jpg" alt="Kleiner Ort mit Fabrikgebäuden am Strand unter einer steilen Felswand" >}}
+{{< fig src="IMG_20230805_173821.jpg" alt="Steiniger Strand mit Brandung unter grauem Himmel" >}}
 
 Neben der wunderschönen Landschaft, kamen wir auch an einer
 stillgelegten Heringsfabrik vorbei. Dort, in [Djúpavík](https://de.wikipedia.org/wiki/Dj%C3%BApav%C3%ADk)[^1] arbeiteten zu Hochzeiten
@@ -36,7 +36,7 @@ zeugen noch von der Zeit bevor es nicht mehr genug Fische gab…
 
 [^1]: [WCWQ+2VX Djúpavík](https://goo.gl/maps/JzKtxDjKewRchaoS9) 
 
-{{< fig src="IMG_20230805_163138.jpg" >}}
+{{< fig src="IMG_20230805_163138.jpg" alt="Krossneslaug: türkises Schwimmbecken direkt am Strand, dahinter das graue Meer mit Brandung" >}}
 
 Fast am Ende der Straße kamen wir dann zu unserem Ziel:
 **Krossneslaug**. Das ist eine warme Quelle, wo man einfach direkt neben

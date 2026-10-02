@@ -23,7 +23,7 @@ Menschen die auf Ponys reiten - a gmahde Wiesn! - Abgesehen von der
 massiven Muckal-Population (🇩🇪: Mücken), die uns beim Aufstieg das Atmen schwer
 machte war alles Top!
 
-{{< fig src="IMG_20230801_133416.jpg" >}}
+{{< fig src="IMG_20230801_133416.jpg" alt="Wasserfall in einer Schlucht zwischen bunten, kahlen Berghängen" >}}
 
 Top motiviert kamen wir dann zum Bachlauf des **Reykjadalsá** wo schon
 viele im warmen Wasser hockten. Schlau wie wir sind, gingen wir bis zum
@@ -31,14 +31,14 @@ Ende ganz oben durch, weil – do is jo niemand! - … Jou – je weiter oben
 am Bachlauf, desto heißer das Wasser! Dort oben hätten wir Würschtel
 kochen können und sie hätten einen Reißverschluss bekommen… 🌭
 
-{{< fig src="IMG_20230801_150446.jpg" >}}
+{{< fig src="IMG_20230801_150446.jpg" alt="Dampfender Bach mit Holzstegen, im Hintergrund Badende und grüne Hügel" >}}
 
 Aber wir haben noch eine geeignete Stelle für uns gefunden.
 
 Nach dem badeln und a bissi broudln, haben wir uns entschieden, dass wir
 unsere Tour fortsetzen wollen – klang ja ganz easy in der Beschreibung…
 
-{{< fig src="IMG_20230801_160718.jpg" >}}
+{{< fig src="IMG_20230801_160718.jpg" alt="Zwei Wanderer gehen über eine Wiese auf ein Tal mit rötlich-bunten Hängen zu" >}}
 
 Naja… es war auf jeden Fall wunderschön und es war ein Abenteuer. Wir
 waren so ziemlich alleine unterwegs. Nur eine Isländerin mit Hund haben
@@ -53,12 +53,12 @@ wir rechts oberhalb einen riesigen Felsen, der wie ein Haus aussieht.“
 waren nicht mehr wirklich hilfreich (Wir haben das Haus auch nicht mit
 viel Fantasie erkannt!).
 
-{{< fig src="IMG_20230801_174503.jpg" >}}
+{{< fig src="IMG_20230801_174503.jpg" alt="Bach schlängelt sich durch ein grünes Tal vor hellen, bunten Bergen" >}}
 {{< video id="eOagQFWGB4Q" >}}
 
 Wir haben es aber geschafft und es war wirklich
 genial! Auch wenn wir nasse Füße hatten und das eine oder andere Mal auf
 einen falschen Hügel rannten, um den Weg wieder zu finden.
 
-{{< fig src="IMG_20230801_175655.jpg" >}}
+{{< fig src="IMG_20230801_175655.jpg" alt="Dampfschwaden steigen aus einem grünen Hang auf" >}}
 {{< video id="4DY-u8W10g0" >}}

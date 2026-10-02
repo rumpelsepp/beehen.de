@@ -20,11 +20,11 @@ Der [English Market](https://www.corkcity.ie/en/english-market/) an der Grand Pa
 Der Name kommt von der einstigen Abgrenzung zum Irish Market, nämlich ein Heisl weiter.
 Trotz vieler vergangener Jahre inklusive Feuer blieb die viktorianische Architektur von Sir John Benson (1862) erhalten.
 
-{{< fig src="feature.jpg" >}}
-{{< fig src="IMG_20240724_115830.jpg" >}}
-{{< fig src="IMG_20240724_120203.jpg" >}}
-{{< fig src="IMG_20240724_124519.jpg" >}}
-{{< fig src="IMG_20240724_152011.jpg" >}}
+{{< fig src="feature.jpg" alt="Eingang des English Market in Cork mit dunklem Schild über Schaufenstern" >}}
+{{< fig src="IMG_20240724_115830.jpg" alt="Marktgang im English Market mit Ständen links und rechts unter einer gewölbten Decke" >}}
+{{< fig src="IMG_20240724_120203.jpg" alt="Marktstand mit einer Reihe von Honiggläsern, darüber rot-weiße Wimpel" >}}
+{{< fig src="IMG_20240724_124519.jpg" alt="Schmale Gasse in Cork mit bunten Geschäftsfassaden" >}}
+{{< fig src="IMG_20240724_152011.jpg" alt="Backsteingebäude und zwei spitze Kirchtürme unter grauem Himmel" >}}
 
 Danach spazieren wir quer durch die Stadt.
 Ehrlicherweise latschen Angela und Karin einfach Steff hinterher, weil sie hier heillos die Orientierung verloren haben.
@@ -33,19 +33,19 @@ Ja, Karin fällt die Auswahl immer eher schwer, darum gibt es eine Ein-Buch-Poli
 Nach unserem lecker Essen (Fish 'n' Chips, Knoblauchbrot für 3 Tage) geht es auf den [Patrick's Hill](https://maps.app.goo.gl/LsMC9vZs4v6osqi26)…
 Coole Aussicht!
 
-{{< fig src="IMG_20240724_130937.jpg" >}}
-{{< fig src="IMG_20240724_141759.jpg" >}}
-{{< fig src="IMG_20240724_142919.jpg" >}}
+{{< fig src="IMG_20240724_130937.jpg" alt="Fish and Chips mit Erbsenpüree und Sauce Tartare" >}}
+{{< fig src="IMG_20240724_141759.jpg" alt="Blick vom Patrick's Hill über die Dächer von Cork unter grauen Wolken" >}}
+{{< fig src="IMG_20240724_142919.jpg" alt="Blick über eine Wiese auf die Häuser und Kirchtürme von Cork" >}}
 
 Zum Abschluss des Tages geben wir uns noch das Titanic Memorial in [Cobh](https://de.wikipedia.org/wiki/Cobh).
 Das ist der Ort, wo der Dampfer 1912 zum letzten Mal angelegt hat und 123 irische Passagiere zugestiegen sind.
 
-{{< fig src="IMG_20240724_163934.jpg" >}}
-{{< fig src="IMG_20240724_162726.jpg" >}}
-{{< fig src="IMG_20240724_165033.jpg" >}}
-{{< fig src="IMG_20240724_163302.jpg" >}}
-{{< fig src="IMG_20240724_164256.jpg" >}}
-{{< fig src="IMG_20240724_164814.jpg" >}}
+{{< fig src="IMG_20240724_163934.jpg" alt="Selfie von uns beiden, Wange an Wange" >}}
+{{< fig src="IMG_20240724_162726.jpg" alt="Promenade am Wasser in Cobh mit der Bodenaufschrift Titanic 1912" >}}
+{{< fig src="IMG_20240724_165033.jpg" alt="Bunte Häuserzeile am Hang über der Bucht von Cobh" >}}
+{{< fig src="IMG_20240724_163302.jpg" alt="Violette Blütendolde in der Hand vor einem Blumenbeet" >}}
+{{< fig src="IMG_20240724_164256.jpg" alt="Selfie mit Grimasse und erhobenem Zeigefinger am Geländer über der Bucht" >}}
+{{< fig src="IMG_20240724_164814.jpg" alt="Rosa Hortensien und gelbe Blumen vor der grauen Bucht" >}}
 
 Der Plan für den restlichen Abend: [Caccio e Pepe]({{< relref "blog/2024/bratislava/index.md#spaghetti-cacio-e-pepe" >}}) und Bierli in unserer Bude bei da Una in der „fully equipped kitchen“ 🎉.
 Aber halt: Wo kochen wir jetzt eigentlich unsere Nudeln? Es gibt weder Topf noch Herd? Wo haben wir hingeguckt? 😅

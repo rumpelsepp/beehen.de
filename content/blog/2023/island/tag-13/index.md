@@ -17,14 +17,14 @@ Da wir einen wieder recht langen Weg vor uns haben, machen wir heute nicht so vi
 
 Zugegeben, das hatten wir schon! Aber dieses Foto von der Helga, nachdem wir durch einen Mückenschwarm in Mývatn gefahren sind, können wir euch einfach nicht vorenthalten. Karin so zu Steff, der gerade fährt: "Was geht denn jetzt ab? - Regnet es?" ... Nein hat es nicht... es waren 1000e Mücken, die gegen die Windschutzscheibe bzw. den Kühlergrill knallten. 
 
-{{< fig src="IMG_20230811_102606.jpg" >}}
-{{< fig src="IMG_20230811_131127.jpg" >}}
+{{< fig src="IMG_20230811_102606.jpg" alt="Das staubige Auto an der Zapfsäule einer Tankstelle" >}}
+{{< fig src="IMG_20230811_131127.jpg" alt="Kühlergrill und Nummernschild des Autos, übersät mit toten Mücken" >}}
 
 ## "Trigame Schafe" - Schaferl die in wilder Dreisamkeit zusammenleben
 
 Jetzt mal ehrlich: in Island laufen einfach überall Schafe herum! Ü B E R A L L! Manchmal mussten wir schon eine kurze Vollbremsung einlegen, weil ein Suizidschaf auf der Straße unterwegs war. Aber die nehmen das wirklich alles sehr gechillt. Uns ist recht bald aufgefallen, dass die Schafe hier, anders als bei uns daheim, nicht in großen Herden unterwegs sind sondern - *OBACHT subjektive Beobachtung bzw. grobe Verallgemeinerung* - immer in 3er Grüppchen unterwegs sind. Wir wissen nicht ganz genau, warum die jetzt wirklich immer zu dritt unterwegs sind, aber vielleicht liegt es daran, dass Islandschafe ein Gen haben, das Mehrlingsgeburten begünstigt - Zwillinge sind die Regel! - Vielleicht waren also immer Mama und zwei Junge unterwegs...
 
-{{< fig src="IMG_20230815_180416.jpg" >}}
+{{< fig src="IMG_20230815_180416.jpg" alt="Schmaler Wasserfall an einer Felswand über einem üppig grünen Hang mit Engelwurz" >}}
 
 {{< info >}}
 Was wir aber herausgefunden haben:
@@ -72,10 +72,10 @@ Wikipedia schreibt im [Island Artikel](https://de.wikipedia.org/wiki/Island):
 
 Hans (Ja wir haben ihn schon "zitiert") hat uns vom jährlichen [Fischfest in Dalvik](https://www.fiskidagurinnmikli.is/is/moya/page/english) erzählt, das genau an unserem Reisetag beginnt.  Leider war der große Fischsuppen-Abend ein bisschen zu spät für uns: Hier melden sich viele Familien freiwillig zum Fischsuppe-Kochen, bekommen dann unter Umständen eine überdimensionale Menge Fisch von der lokalen Fischfabrik zur Verfügung gestellt. Abends darf JEDER von Haus zu Haus gehen und Fischsuppe futtern!
 
-{{< fig src="IMG_20230811_135846.jpg" >}}
-{{< fig src="IMG_20230811_140550.jpg" >}}
-{{< fig src="IMG_20230811_143441.jpg" >}}
-{{< fig src="IMG_20230811_151219.jpg" >}}
+{{< fig src="IMG_20230811_135846.jpg" alt="Tiefblauer Fjord mit Steinmole, am anderen Ufer schneebedeckte Berge" >}}
+{{< fig src="IMG_20230811_140550.jpg" alt="Eine Person sitzt auf einer übergroßen weißen Bank vor einem Haus in Dalvík" >}}
+{{< fig src="IMG_20230811_143441.jpg" alt="Cappuccino mit Milchschaummuster von oben" >}}
+{{< fig src="IMG_20230811_151219.jpg" alt="Selfie zu dritt mit einem Sechserträger Bier in einer Menschenmenge beim Fischfest" >}}
 
 Wir wollten uns das Dörfchen aber trotzdem anschauen! Es war schon sehr viel los und es war reger Betrieb im ganzen Ort (Luftballons aufhängen, Bühne aufbauen, Stellplatz am Campingplatz suchen)... und mittendrin läuft uns der Hans über den Weg! - Wir haben gemeinsam einen Kaffee im traditionellen lokalen Kaffi getrunken und einen Bier-Geheimtipp bekommen. Außerdem haben wir einen weiteren insider Tipp zum Überqueren einer Furt bekommen.
 

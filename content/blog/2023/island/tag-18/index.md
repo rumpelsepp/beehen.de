@@ -21,15 +21,15 @@ Hier sehen wir erneut ein wunderbares Schauspiel der Natur! Einen schwarzen Sand
 
 Das klingt jetzt alles richtig gefährlich... aber es war schon auch einfach nur schön!
 
-{{< fig src="IMG_20230816_121051.jpg" >}}
-{{< fig src="IMG_20230816_121707.jpg" >}}
-{{< fig src="IMG_20230816_121718.jpg" >}}
-{{< fig src="IMG_20230816_121749.jpg" >}}
-{{< fig src="IMG_20230816_122952.jpg" >}}
-{{< fig src="IMG_20230816_123711.jpg" >}}
-{{< fig src="IMG_20230816_123813.jpg" >}}
-{{< fig src="IMG_20230816_123953.jpg" >}}
-{{< fig src="IMG_20230816_124207.jpg" >}}
+{{< fig src="IMG_20230816_121051.jpg" alt="Viele Besucher gehen auf dem Weg zum Strand Reynisfjara" >}}
+{{< fig src="IMG_20230816_121707.jpg" alt="Eine Person fotografiert am schwarzen Sandstrand die Felsnadeln Reynisdrangar im Meer" >}}
+{{< fig src="IMG_20230816_121718.jpg" alt="Schwarzer Sandstrand Reynisfjara mit den Felsnadeln Reynisdrangar im Gegenlicht" >}}
+{{< fig src="IMG_20230816_121749.jpg" alt="Wand aus Basaltsäulen mit einer Höhle am Strand, davor viele Besucher" >}}
+{{< fig src="IMG_20230816_122952.jpg" alt="Schatten zweier Personen im schwarzen Sand, die mit den Armen ein Herz formen" >}}
+{{< fig src="IMG_20230816_123711.jpg" alt="Brandung umspült einen Felsblock am schwarzen Strand, dahinter eine Felsnadel" >}}
+{{< fig src="IMG_20230816_123813.jpg" alt="Selfie von zwei lachenden Frauen, die auf die Felsnadel im Meer zeigen" >}}
+{{< fig src="IMG_20230816_123953.jpg" alt="Silhouette einer Person, die auf einem Felsen stehend die Felsnadel fotografiert" >}}
+{{< fig src="IMG_20230816_124207.jpg" alt="Die Felsnadeln Reynisdrangar ragen hinter rund geschliffenen Felsblöcken aus dem Meer" >}}
 
 
 Ein besonderes Highlight hier war tatsächlich die Kolonie der Papageitaucher! Diese lustigen, relativ kleinen Gesellen wohnen nämlich in der Klippe und es sind echt sauviele dort! Man könnte einfach stundenlang da sitzen und ihnen beim Jagen zusehen. Es schaut einfach superlustig aus, wie die a bissl botschat (:flag_de: tollpatschig) dahin flattern, denn eigentlich sind sie bessere Schwimmer als Flieger.
@@ -78,17 +78,17 @@ Wir hatten das Glück, dass wir genau beim Wechsel von Ebbe zu Flut dort ankamen
 
 ... Umgekehrt zieht die Ebbe die Eisberge von der Lagune hinaus und spült Eisbrocken an den Strand. Diese schauen dann wirklich hübsch, wie kleine/große Diamanten aus. Daher der Name: **Diamond Beach**.
 
-{{< fig src="IMG_20230816_160140.jpg" >}}
-{{< fig src="IMG_20230816_161155.jpg" >}}
-{{< fig src="IMG_20230816_161953.jpg" >}}
-{{< fig src="IMG_20230816_162021.jpg" >}}
-{{< fig src="IMG_20230816_162045.jpg" >}}
-{{< fig src="IMG_20230816_162118.jpg" >}}
-{{< fig src="IMG_20230816_163447.jpg" >}}
-{{< fig src="IMG_20230816_163704.jpg" >}}
-{{< fig src="IMG_20230816_163730.jpg" >}}
-{{< fig src="IMG_20230816_170951.jpg" >}}
-{{< fig src="IMG_20230816_171233.jpg" >}}
+{{< fig src="IMG_20230816_160140.jpg" alt="Gletscherlagune Jökulsárlón mit treibenden weiß-blauen Eisbergen" >}}
+{{< fig src="IMG_20230816_161155.jpg" alt="Viele kleine Eisschollen und Eisberge auf der türkisen Gletscherlagune" >}}
+{{< fig src="IMG_20230816_161953.jpg" alt="Klarer Eisbrocken glitzert am dunklen Kiesufer der Lagune im Gegenlicht" >}}
+{{< fig src="IMG_20230816_162021.jpg" alt="Eisbrocken am Ufer, dahinter größere blaue Eisberge auf dem Wasser" >}}
+{{< fig src="IMG_20230816_162045.jpg" alt="Zwei Hände halten ein glasklares Stück Gletschereis" >}}
+{{< fig src="IMG_20230816_162118.jpg" alt="Ein Schlauchboot mit Besuchern fährt zwischen den Eisbergen über die Lagune" >}}
+{{< fig src="IMG_20230816_163447.jpg" alt="Einzelner Eisbrocken am Kiesufer, das Wasser glitzert in der Sonne" >}}
+{{< fig src="IMG_20230816_163704.jpg" alt="Eisstücke am steinigen Ufer, im Hintergrund eine Reihe von Eisbergen vor den Bergen" >}}
+{{< fig src="IMG_20230816_163730.jpg" alt="Klare Eisbrocken zwischen runden Kieseln am Wasser" >}}
+{{< fig src="IMG_20230816_170951.jpg" alt="Kanal zwischen Lagune und Meer mit Steinschüttung, dahinter eine Brücke und Berge" >}}
+{{< fig src="IMG_20230816_171233.jpg" alt="Schwarzer Strand Diamond Beach mit Besuchern, vorne große helle Felsblöcke" >}}
 
 ## Darwin Award bzw. verrückte Touristen
 
