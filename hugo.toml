@@ -24,6 +24,11 @@ imageFormat = 'webp'
 # GPS-Koordinaten (Exif/XMP) unter fig-Bildern anzeigen, verlinkt zu OpenStreetMap.
 # Braucht den GPS-Ausschluss aus [imaging.meta].fields entfernt (siehe unten).
 imageGeotags = true
+# Kontaktblock im Footer (layouts/_partials/footer.html), Markdown.
+contact = """Dr. Stefan Tatschner
+
+<i class="bi bi-envelope" aria-hidden="true"></i> [stefan.tatschner@mailbox.org](mailto:stefan.tatschner@mailbox.org)
+"""
 
 
 [menus]
@@ -37,25 +42,26 @@ name = '#Tags'
 pageRef = '/tags'
 weight = 20
 
-[[menus.footer]]
+# Footer: je ein Menue pro Spalte, siehe layouts/_partials/footer.html.
+[[menus.footerExternalLinks]]
+  name = 'bienensteff.de'
+  url = 'https://bienensteff.de'
+  weight = 10
+
+[[menus.footerExternalLinks]]
+  name = 'sensing-the-world.de'
+  url = 'https://sensing-the-world.de/'
+  weight = 20
+
+[[menus.footerLegal]]
   name = 'Impressum'
   pageRef = '/impressum'
   weight = 10
 
-[[menus.footer]]
+[[menus.footerLegal]]
   name = 'Datenschutz'
   pageRef = '/datenschutz'
-  weight = 15
-
-[[menus.footer]]
-  name = 'bienensteff.de'
-  url = 'https://bienensteff.de'
   weight = 20
-
-[[menus.footer]]
-  name = 'sensing-the-world.de/'
-  url = 'https://sensing-the-world.de/'
-  weight = 30
 
 [privacy]
   [privacy.youtube]

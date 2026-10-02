@@ -1,10 +1,10 @@
 {{- /*
-  Local override of the theme's footer partial.
+  Local override of the theme's footer partial, laid out like the ones of
+  bienensteff.de and almstueberlmusi.at: brand line, then the columns of
+  .footer-grid (styled by the theme's main.css) with the two footer menus
+  and the contact, below them the licence line.
 
-  The theme stylesheet (bundle_src/css/main.css) styles a structured footer
-  via .footer-inner / .footer-brand / .footer-col / .footer-bottom, but the
-  theme's own footer.html only emits a bare inline menu — so #site-footer
-  rendered as an unpadded dark strip. This markup matches the existing CSS.
+  The contact is params.contact from hugo.toml.
 */ -}}
 <div class="footer-inner container">
   <div class="footer-brand">
@@ -15,8 +15,22 @@
   </div>
 
   {{/* The theme's menu partial marks external entries (link.html). */}}
-  <div class="footer-col">
-    {{ partial "menu-stock.html" (dict "menuID" "footer" "label" "Footer" "page" .) }}
+  <div class="footer-grid">
+    <div class="footer-col">
+      <h2 class="footer-title">Externe Links</h2>
+      {{ partial "menu-stock.html" (dict "menuID" "footerexternallinks" "label" "Externe Links" "page" .) }}
+    </div>
+    <div class="footer-col">
+      <h2 class="footer-title">Rechtliches</h2>
+      {{ partial "menu-stock.html" (dict "menuID" "footerlegal" "label" "Rechtliches" "page" .) }}
+    </div>
+
+    {{- with site.Params.contact }}
+      <div class="footer-col">
+        <h2 class="footer-title">Kontakt</h2>
+        <address>{{ . | markdownify }}</address>
+      </div>
+    {{- end }}
   </div>
 
   <div class="footer-bottom">
