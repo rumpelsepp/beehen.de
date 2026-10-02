@@ -43,20 +43,26 @@ Steff kann keine Wasserfälle mehr sehen und kümmert sich liebevoll um das Aben
 Nur eine halbe Stunde entfernt waren wieder einmal eine Reihe von Wasserfällen zu finden. Diese befinden sich an der Südwestecke des Eyjafjallajökull. Jo stimmt! Des is der Vulkan der 2010 ausgebrochen is! Fost a bissl arg wie nahe des ois in Island so is!
 Wir haben es erfolgreich verdrängt und haben die Wasserfälle auf spezielle Art und Weise erkundet! Denn den **Seljalandsfoss** kann man "hintergehen" also hinterm Wasserfall herumlatschen. Den **Gljúfurárfoss** mussten wir suchen, denn der fällt wirklich in eine Höhle und ist von außen zunächst nur zu hören und nicht zu sehen. Nachdem wir in eine falsche Spalte gelatscht sind - wir vermuten, da kam auch einmal Wasser runter, so wie die Felswände dort aussahen - haben wir die richtige Spalte gefunden... 
 
-{{< fig src="IMG_20230815_110947.jpg" alt="Ein Mann mit Mütze befestigt von außen die Kamera an der Windschutzscheibe" >}}
-{{< fig src="IMG_20230815_113645.jpg" alt="Der Fahrer mit Sonnenbrille am Lenkrad, durch das Fenster weite Landschaft" >}}
-{{< fig src="IMG_20230815_115819.jpg" alt="Steinwüste im Hochland, am Horizont Gletscherzungen unter dunklen Wolken" >}}
-{{< fig src="IMG_20230815_115833.jpg" alt="Das Auto steht auf einer Schotterpiste mitten in der Steinwüste" >}}
-{{< fig src="IMG_20230815_115839.jpg" alt="Endlose Geröllebene mit dunklen Bergen unter Wolken" >}}
-{{< fig src="IMG_20230815_121545.jpg" alt="Panorama-Spaß: dieselbe Person in blauer Jacke steht viermal in der Steinwüste" >}}
-{{< fig src="IMG_20230815_121809.jpg" alt="Panorama-Spaß: dieselbe Person in gelber Jacke steht viermal in der Steinwüste vor dem Gletscher" >}}
-{{< fig src="IMG_20230815_175152.jpg" alt="Seljalandsfoss stürzt von einer überhängenden Felswand in ein Becken" >}}
-{{< fig src="IMG_20230815_175410.jpg" alt="Blick von der Seite hinter den Wasservorhang des Seljalandsfoss" >}}
-{{< fig src="IMG_20230815_180353.jpg" alt="Selfie von zwei durchnässten Frauen in Regenjacken, eine macht das Peace-Zeichen" >}}
-{{< fig src="IMG_20230815_181521.jpg" alt="Eine Person im Regenmantel steht in einer engen Felsschlucht und schaut nach oben" >}}
-{{< fig src="IMG_20230815_181531.jpg" alt="Selfie von zwei Frauen in der moosbewachsenen Schlucht" >}}
-{{< fig src="IMG_20230815_181739.jpg" alt="Gljúfurárfoss: der Wasserfall fällt versteckt hinter einer schmalen, moosbewachsenen Felsspalte" >}}
-{{< fig src="IMG_20230815_182704.jpg" alt="Eingang zur Felsspalte des Gljúfurárfoss mit Besuchern und einem Warnschild" >}}
+{{< gallery >}}
+IMG_20230815_110947.jpg | Ein Mann mit Mütze befestigt von außen die Kamera an der Windschutzscheibe
+IMG_20230815_113645.jpg | Der Fahrer mit Sonnenbrille am Lenkrad, durch das Fenster weite Landschaft
+IMG_20230815_115819.jpg | Steinwüste im Hochland, am Horizont Gletscherzungen unter dunklen Wolken
+IMG_20230815_115833.jpg | Das Auto steht auf einer Schotterpiste mitten in der Steinwüste
+IMG_20230815_115839.jpg | Endlose Geröllebene mit dunklen Bergen unter Wolken
+{{< /gallery >}}
+
+{{< fig src="IMG_20230815_121545.jpg" alt="Panorama-Spaß: dieselbe Person in blauer Jacke steht viermal in der Steinwüste" pano=true >}}
+{{< fig src="IMG_20230815_121809.jpg" alt="Panorama-Spaß: dieselbe Person in gelber Jacke steht viermal in der Steinwüste vor dem Gletscher" pano=true >}}
+
+{{< gallery >}}
+IMG_20230815_175152.jpg | Seljalandsfoss stürzt von einer überhängenden Felswand in ein Becken
+IMG_20230815_175410.jpg | Blick von der Seite hinter den Wasservorhang des Seljalandsfoss
+IMG_20230815_180353.jpg | Selfie von zwei durchnässten Frauen in Regenjacken, eine macht das Peace-Zeichen
+IMG_20230815_181521.jpg | Eine Person im Regenmantel steht in einer engen Felsschlucht und schaut nach oben
+IMG_20230815_181531.jpg | Selfie von zwei Frauen in der moosbewachsenen Schlucht
+IMG_20230815_181739.jpg | Gljúfurárfoss: der Wasserfall fällt versteckt hinter einer schmalen, moosbewachsenen Felsspalte
+IMG_20230815_182704.jpg | Eingang zur Felsspalte des Gljúfurárfoss mit Besuchern und einem Warnschild
+{{< /gallery >}}
 
 
 ### Sidestory

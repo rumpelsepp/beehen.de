@@ -60,16 +60,18 @@ Die vulkanischen Formen, die wir bisher auf unserer Reise kennengelernt haben si
 
 Eva und Karin waren motiviert für die Wanderung durch das Lavafeld und haben die wunderschöne Gegend genossen und waren immer wieder beeindruckt, wie klar hier der Vulkanismus zu sehen ist.
 
-{{< fig src="IMG_20230813_140222.jpg" alt="Felsbogen aus dunklem Basalt im tiefblauen Meer bei Arnarstapi" >}}
-{{< fig src="IMG_20230813_141038.jpg" alt="Felsküste im Gegenlicht, das Meer glitzert in der Sonne" >}}
-{{< fig src="IMG_20230813_141642.jpg" alt="Kegelförmiger Berg über einer Wiese, dahinter die Schneekuppe des Snæfellsjökull" >}}
-{{< fig src="IMG_20230813_142103.jpg" alt="Zerklüftete Lavaküste mit grünen Polstern, im Hintergrund der kegelförmige Berg und der Gletscher" >}}
-{{< fig src="IMG_20230813_142119.jpg" alt="Schroffe Lavaklippen mit einer Felsnadel im Meer" >}}
-{{< fig src="IMG_20230813_143349.jpg" alt="Einzelne Felsnadel ragt aus dem tiefblauen Meer" >}}
-{{< fig src="IMG_20230813_145024.jpg" alt="Zackige Lavafelsen an einer schmalen Bucht" >}}
-{{< fig src="IMG_20230813_145033.jpg" alt="Moosbewachsenes Lavafeld, am Horizont der schneebedeckte Snæfellsjökull" >}}
-{{< fig src="IMG_20230813_150740.jpg" alt="Steilwand aus fächerförmig angeordneten Basaltsäulen über einem Kieselstrand" >}}
-{{< fig src="IMG_20230813_150813.jpg" alt="Kleine Bucht mit Brandung zwischen dunklen Felsen" >}}
+{{< gallery >}}
+IMG_20230813_140222.jpg | Felsbogen aus dunklem Basalt im tiefblauen Meer bei Arnarstapi
+IMG_20230813_141038.jpg | Felsküste im Gegenlicht, das Meer glitzert in der Sonne
+IMG_20230813_141642.jpg | Kegelförmiger Berg über einer Wiese, dahinter die Schneekuppe des Snæfellsjökull
+IMG_20230813_142103.jpg | Zerklüftete Lavaküste mit grünen Polstern, im Hintergrund der kegelförmige Berg und der Gletscher
+IMG_20230813_142119.jpg | Schroffe Lavaklippen mit einer Felsnadel im Meer
+IMG_20230813_143349.jpg | Einzelne Felsnadel ragt aus dem tiefblauen Meer
+IMG_20230813_145024.jpg | Zackige Lavafelsen an einer schmalen Bucht
+IMG_20230813_145033.jpg | Moosbewachsenes Lavafeld, am Horizont der schneebedeckte Snæfellsjökull
+IMG_20230813_150740.jpg | Steilwand aus fächerförmig angeordneten Basaltsäulen über einem Kieselstrand
+IMG_20230813_150813.jpg | Kleine Bucht mit Brandung zwischen dunklen Felsen
+{{< /gallery >}}
 
 ## Zwei kleine Sidestories
 
@@ -89,18 +91,22 @@ Steff ging an dieser Stelle schon voll ab, um all das, was er gelernt hat auch a
 
 > 🚧 **TODO:** Emoji für die nasse Hose ergänzen
 
-{{< fig src="IMG_20230813_163434.jpg" alt="Blick durch einen Felsspalt auf den Gletscher" >}}
-{{< fig src="IMG_20230813_164016.jpg" alt="Weiter schwarzer Kieselstrand Djúpalónssandur im Gegenlicht" >}}
-{{< fig src="IMG_20230813_164024.jpg" alt="Schwarzer Kiesstrand, dahinter der Snæfellsjökull mit Schneeresten" >}}
-{{< fig src="IMG_20230813_164608.jpg" alt="Selfie von zwei lachenden Frauen am Wasser in der Brandung" >}}
-{{< fig src="IMG_20230813_164622.jpg" alt="Schaumige Welle läuft über schwarze Kieselsteine, am Rand ein nackter Fuß" >}}
+{{< gallery >}}
+IMG_20230813_163434.jpg | Blick durch einen Felsspalt auf den Gletscher
+IMG_20230813_164016.jpg | Weiter schwarzer Kieselstrand Djúpalónssandur im Gegenlicht
+IMG_20230813_164024.jpg | Schwarzer Kiesstrand, dahinter der Snæfellsjökull mit Schneeresten
+IMG_20230813_164608.jpg | Selfie von zwei lachenden Frauen am Wasser in der Brandung
+IMG_20230813_164622.jpg | Schaumige Welle läuft über schwarze Kieselsteine, am Rand ein nackter Fuß
+{{< /gallery >}}
 
 Nachdem wir hier wieder ausgiebig gebroudlt haben - und nach der Erkenntnis: Zefix, de Zeit hier vergeht wirklich viel zu schnell! - Ging es weiter und Steff brachte uns zum nächsten Spot: dem **Svöðufoss**. Hier gibt es gleichzeitig die Nordseite des Snæfellsjökull inkl. Gletscher + Wasserfall zu sehen. **Großartig** finden Eva und Karin! Steff hat auch schon davon geträumt 😉...
 
-{{< fig src="IMG_20230813_180831.jpg" alt="Selfie von zwei Frauen mit Sonnenbrillen im Wind, eine macht das Peace-Zeichen, hinten der Gletscher" >}}
-{{< fig src="IMG_20230813_181446.jpg" alt="Wasserfall stürzt über eine Basaltwand, davor ein Bach zwischen Felsbrocken" >}}
-{{< fig src="IMG_20230813_182002.jpg" alt="Grüne Ebene mit einem kleinen Wasserfall, darüber die weiße Kuppe des Snæfellsjökull" >}}
-{{< fig src="IMG_20230813_182840.jpg" alt="Spiegelung in der Autoscheibe: eine Person fotografiert die schlafende Mitfahrerin mit Nackenkissen" >}}
+{{< gallery >}}
+IMG_20230813_180831.jpg | Selfie von zwei Frauen mit Sonnenbrillen im Wind, eine macht das Peace-Zeichen, hinten der Gletscher
+IMG_20230813_181446.jpg | Wasserfall stürzt über eine Basaltwand, davor ein Bach zwischen Felsbrocken
+IMG_20230813_182002.jpg | Grüne Ebene mit einem kleinen Wasserfall, darüber die weiße Kuppe des Snæfellsjökull
+IMG_20230813_182840.jpg | Spiegelung in der Autoscheibe: eine Person fotografiert die schlafende Mitfahrerin mit Nackenkissen
+{{< /gallery >}}
 
 Danach waren wir bereit für die Heimreise zur Hazienda. Dort gabs noch Kürbisnudeln und Sauna!
 

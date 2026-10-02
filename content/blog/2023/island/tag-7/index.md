@@ -19,12 +19,14 @@ Lieblingsspot ist immer noch die Hittn – jede weitere Location muss sich
 wohl mit ihr vergleichen – aber die Küstenstraße bis zum
 **Krossneslaug** war wirklich genial:
 
-{{< fig src="IMG_20230805_151824.jpg" alt="Fjord unter blauem Himmel, über dem Wasser hängt ein Nebelband vor den Bergen" >}}
-{{< fig src="IMG_20230805_152401.jpg" alt="Schotterstraße führt hinunter zu einem tiefblauen Fjord zwischen Tafelbergen" >}}
-{{< fig src="IMG_20230805_153159.jpg" alt="Verrostetes Schiffswrack und ein alter Tank auf einer Wiese am Fjord" >}}
-{{< fig src="IMG_20230805_153326.jpg" alt="Alte, völlig verrostete Zapfsäule vor einem Gebäude" >}}
-{{< fig src="IMG_20230805_153509.jpg" alt="Kleiner Ort mit Fabrikgebäuden am Strand unter einer steilen Felswand" >}}
-{{< fig src="IMG_20230805_173821.jpg" alt="Steiniger Strand mit Brandung unter grauem Himmel" >}}
+{{< gallery >}}
+IMG_20230805_151824.jpg | Fjord unter blauem Himmel, über dem Wasser hängt ein Nebelband vor den Bergen
+IMG_20230805_152401.jpg | Schotterstraße führt hinunter zu einem tiefblauen Fjord zwischen Tafelbergen
+IMG_20230805_153159.jpg | Verrostetes Schiffswrack und ein alter Tank auf einer Wiese am Fjord
+IMG_20230805_153326.jpg | Alte, völlig verrostete Zapfsäule vor einem Gebäude
+IMG_20230805_153509.jpg | Kleiner Ort mit Fabrikgebäuden am Strand unter einer steilen Felswand
+IMG_20230805_173821.jpg | Steiniger Strand mit Brandung unter grauem Himmel
+{{< /gallery >}}
 
 Neben der wunderschönen Landschaft, kamen wir auch an einer
 stillgelegten Heringsfabrik vorbei. Dort, in [Djúpavík](https://de.wikipedia.org/wiki/Dj%C3%BApav%C3%ADk)[^1] arbeiteten zu Hochzeiten

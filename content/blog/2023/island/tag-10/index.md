@@ -13,15 +13,19 @@ _**kleine Sidenote:** Mittlerweile haben wir kapiert, dass die Mama eher einer s
 
 Mývatn und seine Umgebung bieten jede Menge Highlights vulkanischen Ursprungs - von brodelnden Schlammtöpfen, über leuchtende Schwefelfelder und riesige erstarrte Lavaströme bis hin zum Ringwallkrater und Pseudokrater ist alles dabei. All das befindet sich rings um einen See mit sattgrünen Inseln 🏝️ und Buchten, wo tausende Vögel leben 🐦.
 
-{{< fig src="IMG_20230808_141511.jpg" alt="Zerklüftete Lavabrocken auf einer Wiese mit gelben Blumen" >}}
-{{< fig src="IMG_20230808_141517.jpg" alt="Eine Person mit heller Mütze blickt von hinten gesehen über die Hügellandschaft auf einen Tafelberg" >}}
-{{< fig src="IMG_20230808_141527.jpg" alt="Blick über eine Blumenwiese auf den Mývatn und einen kegelförmigen Berg" >}}
+{{< gallery >}}
+IMG_20230808_141511.jpg | Zerklüftete Lavabrocken auf einer Wiese mit gelben Blumen
+IMG_20230808_141517.jpg | Eine Person mit heller Mütze blickt von hinten gesehen über die Hügellandschaft auf einen Tafelberg
+IMG_20230808_141527.jpg | Blick über eine Blumenwiese auf den Mývatn und einen kegelförmigen Berg
+{{< /gallery >}}
 
 Gleich neben unserer Unterkunft in **Skútustaðir** befinden sich mehrere Pseudokrater. Die haben wir natürlich gleich erkundet! Die sehen tatsächlich so aus wie kleine, perfekte Minivulkane. So wie ihn wahrscheinlich jedes Kind zeichnen würde - ein perfekter Schildvulkan 🌋 möglicherweise. ABER der Geograph unseres Vertrauens - Hans - hat schon im Vorhinein erklärt wie das wirklich funktioniert:
 
-{{< fig src="IMG_20230808_130808.jpg" alt="Grüne Kratermulden der Pseudokrater am Mývatn, dahinter Tafelberge" >}}
-{{< fig src="IMG_20230808_130822.jpg" alt="Runde, grasbewachsene Pseudokrater am Seeufer unter Quellwolken" >}}
-{{< fig src="IMG_20230808_131407.jpg" alt="Grüne Wiesen und kleine Buchten am Mývatn" >}}
+{{< gallery >}}
+IMG_20230808_130808.jpg | Grüne Kratermulden der Pseudokrater am Mývatn, dahinter Tafelberge
+IMG_20230808_130822.jpg | Runde, grasbewachsene Pseudokrater am Seeufer unter Quellwolken
+IMG_20230808_131407.jpg | Grüne Wiesen und kleine Buchten am Mývatn
+{{< /gallery >}}
 
 {{< info >}}
 **Pseudokrater** entstehen durch Lavaströme, die über einen feuchten Untergrund - wie zum Beispiel flache Seen oder Moore geflossen sind. Durch die Hitze verdampft das Wasser unter der Lava explosionsartig und sprengt 💥 manchmal Krater mit bis zu 300 m Durchmesser in die Landschaft. Darum haben Pseudokrater im Gegensatz zu „richtigen“ Vulkanen 🌋 im Inneren keinen Schlot. - Eigentlich schauen sie von oben ziemlich unspektakulär aus, finden wir! 🫣
@@ -29,15 +33,19 @@ Gleich neben unserer Unterkunft in **Skútustaðir** befinden sich mehrere Pseud
 
 Der Spaziergang durch die Pseudokrater war wirklich schön, aber was uns schnell aufgefallen ist: „Jo leck, warum sind da schon wieder so viele Muckal?“ - Naja, Mývatn heißt zu Deutsch: **„Mückensee“** 🦟! Juhuuu… Im Sommer tauchen sie in großen Schwärmen auf. Es handelt sich vor allem um Zuckmücken und Kriebelmücken. Die Zuckmücken sind harmlos aber ultranervig, wenn sie sich in Augen, Ohren, Mund oder Nase verkriechen. Immerhin stechen sie aber nicht. Bei den Kriebelmücken sind auch nur weiblichen Exemplare Blutsauger 🩸… Gut ist, dass diese Floign (🇩🇪: Fliege) nur 2x pro Jahr schlüpfen (Juni und August) - wir hatten also wieder mal den Jackpot erwischt! 🏆
 
-{{< fig src="IMG_20230808_133508.jpg" alt="Seeufer mit zwei dunklen Kraterhügeln am Mývatn" >}}
-{{< fig src="IMG_20230808_135346.jpg" alt="Dunkler Lavastrand am See unter schweren Wolken" >}}
+{{< gallery >}}
+IMG_20230808_133508.jpg | Seeufer mit zwei dunklen Kraterhügeln am Mývatn
+IMG_20230808_135346.jpg | Dunkler Lavastrand am See unter schweren Wolken
+{{< /gallery >}}
 
 Unsere Unterkunft ist ganz zufällig auch eine Reiterfarm! Darum haben Eva und Karin beschlossen, dass sie das doch einmal probieren möchten - Wenn wir schon mal da sind! Es war echt cool! Wir haben wahnsinnig schnell gelernt und haben es recht schnell geschafft zu tölten! - Wir sind total talentiert haben wir festgestellt! … Okay… die Wahrheit ist: die Buga 🐎 (🇩🇪: Pferd) sind einfach so guatmiatig - sie machen einfach das was das Vorderpferd vormacht und verlassen die Reihe einfach nicht. → Sogar die Mückenplage ertragen sie ganz geduldig! Trotz alledem hatte Steff keine Lust auf Pferde und er blieb lieber daheim 😴. Dafür hat der Blog ein paar Updates bekommen 💻, z.B. die [#tags]({{< relref "/tags" >}}) mit denen man die Artikel jetzt ein kleines bisschen kategorisieren kann. 🎊🥳
 
-{{< fig src="IMG_20230808_145939.jpg" alt="Zwei Personen streicheln im Hausflur einen schwarz-weißen Hund" >}}
-{{< fig src="IMG_20230808_155745.jpg" alt="Gesatteltes braunes Islandpferd am Gatter" >}}
-{{< fig src="IMG_20230808_160324.jpg" alt="Reiterin mit Helm winkt vom Islandpferd vor dem Stall" >}}
-{{< fig src="IMG_20230808_160500.jpg" alt="Reiterin in gelber Hose und oranger Weste auf einem braunen Islandpferd, dahinter weitere Reiter" >}}
+{{< gallery >}}
+IMG_20230808_145939.jpg | Zwei Personen streicheln im Hausflur einen schwarz-weißen Hund
+IMG_20230808_155745.jpg | Gesatteltes braunes Islandpferd am Gatter
+IMG_20230808_160324.jpg | Reiterin mit Helm winkt vom Islandpferd vor dem Stall
+IMG_20230808_160500.jpg | Reiterin in gelber Hose und oranger Weste auf einem braunen Islandpferd, dahinter weitere Reiter
+{{< /gallery >}}
 
 
 {{< info >}}

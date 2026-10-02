@@ -82,10 +82,12 @@ Oben angekommen merken wir - Öha! des is goa nit so kloa des Mannschgerl - eige
 
 Bissl einschüchternd das ganze Ding. Aber es war schon total schön da oben, vor allem die Aussicht! 
 
-{{< fig src="IMG_20240316_105340.jpg" alt="Aussicht über blühende Bäume auf die Stadt Bratislava" >}}
-{{< fig src="IMG_20240316_105719.jpg" alt="Kriegerdenkmal Slavín: hoher Obelisk mit Soldatenfigur über einer Steinterrasse" >}}
-{{< fig src="IMG_20240316_105916.jpg" alt="Selfie von uns beiden vor dem Kriegerdenkmal Slavín" >}}
-{{< fig src="IMG_20240316_110701.jpg" alt="Weiß blühender Baum auf einer Wiese über der Stadt" >}}
+{{< gallery >}}
+IMG_20240316_105340.jpg | Aussicht über blühende Bäume auf die Stadt Bratislava
+IMG_20240316_105719.jpg | Kriegerdenkmal Slavín: hoher Obelisk mit Soldatenfigur über einer Steinterrasse
+IMG_20240316_105916.jpg | Selfie von uns beiden vor dem Kriegerdenkmal Slavín
+IMG_20240316_110701.jpg | Weiß blühender Baum auf einer Wiese über der Stadt
+{{< /gallery >}}
 
 ## Auf zum Geburtstagsbraten!
 
@@ -94,17 +96,21 @@ Gesagt, getan! Wir spazieren dabei noch gemütlich an ein paar coolen Häusern u
 
 Gute Wahl lieber Steff! Wir konnten uns kaum entscheiden welchen Braten wir hier als Geburtstagsspeiserei verzehren sollten. Der Kellner war aber super - Bei allem das wir gefragt haben war seine Antwort mit leuchtenden Augen: "Oh yes! This is a good choice - it is also my favorite!" Natürlich haben wir ihm dann auch vertraut, als es um die Auswahl des Bieres ging... Und so schaute das Ganze dann aus:
 
-{{< fig src="IMG_20240316_122105.jpg" alt="Gulasch mit Knödelscheiben und roten Zwiebeln, dazu ein Bier" >}}
-{{< fig src="IMG_20240316_122106.jpg" alt="Braten mit Röstzwiebeln und Knödeln auf einem Teller" >}}
-{{< fig src="IMG_20240316_120500.jpg" alt="Volles Bierglas mit Brauereilogo von nahe" >}}
+{{< gallery >}}
+IMG_20240316_122105.jpg | Gulasch mit Knödelscheiben und roten Zwiebeln, dazu ein Bier
+IMG_20240316_122106.jpg | Braten mit Röstzwiebeln und Knödeln auf einem Teller
+IMG_20240316_120500.jpg | Volles Bierglas mit Brauereilogo von nahe
+{{< /gallery >}}
 
 Boah Leitl... des war echt sauguat! Mia kinnan verstehn, dass dem seine Augen so gleicht homb!
 Wohl gesättigt und naja... doch a wengal beschwippst vom 6%-igen "Apa" Bier gegen den Durscht gings dann - passend zu unserem Zustand - zur Blauen Kirche **Kostol svätej Alžbety** und am Weg dorthin erlebt Karin aber noch ihre blauen Wunder! In Bratislava gibt es ganz viele kleine Gschäfterl, des fällt richtig auf. Offenbar wird hier noch ganz viel Wert auf traditionelles Handwerk gelegt! Wir hüpfen in genau so ein kleines Gschäfterl; ein Bäcker, wo wir hinter der kleinen Theke einen Holzofen sehen, der mit jeder Menge süßer und brotiger Köstlichkeiten bedingst wird. Das muss natürlich unsere Nachspeise werden - so geil wie das hier riecht!
 
 Karin staunte dann nicht schlecht, als Steff, der si sonst eigentlich so goar ned drum reißt irgendwo zu bestellen, plötzlich das Wort ergreift und zwei Weckerl und a Zimtschleife bestellt! - Wohlgemerkt eine etwas sinnlose Mischung aus Satzfetzen in Slowakisch 🇸🇰 - ähm - Tschechisch 🇨🇿 - ähm - Polnisch 🇵🇱! Und es hat sogar funktioniert! Karin war echt begeistert, als er dann auch noch eine "kleine Reklamation" gemanaged hat. Die Verkäuferin hat nämlich vergessen die Zimtschnecke einzupacken...
 
-{{< fig src="IMG_20240316_133735.jpg" alt="Selfie von uns beiden mit einer Zimtschnecke in der Hand" >}}
-{{< fig src="IMG_20240316_135138.jpg" alt="Die hellblaue Jugendstilkirche St. Elisabeth mit ihrem runden Turm" >}}
+{{< gallery >}}
+IMG_20240316_133735.jpg | Selfie von uns beiden mit einer Zimtschnecke in der Hand
+IMG_20240316_135138.jpg | Die hellblaue Jugendstilkirche St. Elisabeth mit ihrem runden Turm
+{{< /gallery >}}
 
 Nach der blauen Kirche kündigt Karin noch einen großartigen Park an, wo es ein weiteres cooles Denkmal gibt. Wir haben ihn gefunden... aber es war fast a bissl lustig wie - naja - ungroßartig der Park war. ABER wir haben einen Specht beobachtet wie er so spechtlt und Karin hat bei einem kurzen Powernap ihren Damenspitz (🇩🇪: leicht beschwippst) ausgschlafen! Danach hat Steff die Reiseleitung übernommen. He do is jo a Klo!
 
@@ -112,9 +118,11 @@ Nach der blauen Kirche kündigt Karin noch einen großartigen Park an, wo es ein
 
 Wir machen uns also auf den Weg zum **Hlavné námestie** zum Hauptplatz in Bratislava. Der is echt sehenswert! Ziemlich groß, total einladend, viele Bankl, viele Bäume, lustige Skulpturen, Kaffeeheisln, des Goldene Dachl… - Moment! Mia samma doch ned in Innsbruck - Ah des sind a bunte Schindeln! Weils so schön ist, verweilen wir hier a bissl und gönnen uns den drölften Kaffee für heute! ☕🤣
 
-{{< fig src="IMG_20240316_152459.jpg" alt="Gasse mit Blick auf den Turm des Alten Rathauses" >}}
-{{< fig src="IMG_20240316_152450.jpg" alt="Hauptplatz mit dem Alten Rathaus und vielen Spaziergängern" >}}
-{{< fig src="IMG_20240316_155255.jpg" alt="Ein Mann mit blauer Mütze trinkt Kaffee aus einer geblümten Porzellantasse" >}}
+{{< gallery >}}
+IMG_20240316_152459.jpg | Gasse mit Blick auf den Turm des Alten Rathauses
+IMG_20240316_152450.jpg | Hauptplatz mit dem Alten Rathaus und vielen Spaziergängern
+IMG_20240316_155255.jpg | Ein Mann mit blauer Mütze trinkt Kaffee aus einer geblümten Porzellantasse
+{{< /gallery >}}
 
 Da wir gerade eh so viele Fotos machen, kann Karin auch gleich ein "Portrait-Foto" für die Krankenkasse von Steff machen! - Das haben wir seit 2 Monaten ja immer wieder vergessen - hehe (es ist nicht das Foto mit der Kaffeetasse 🤣).
 
@@ -136,8 +144,10 @@ Supersimpel und superlecker! So lieben wir das!
 Erstmal ausschlafen und Kaffee-trinken!
 Danach packen wir unsere 7 Zwetschken (mit "k"!) zam und erkunden das Gebiet südlich der Donau. Das heißt wir spazieren einmal über die Seilbrücke - puhhhh de hat ganz schön gewackelt, aber ziemlich cool dass es eine eigene Ebene für Fußgänger gibt! 🚶
 
-{{< fig src="IMG_20240317_100933.jpg" alt="Eine Person geht auf der Fußgängerebene unter der Brücke über die Donau" >}}
-{{< fig src="IMG_20240317_101434.jpg" alt="Die breite Donau mit Hochhäusern am Ufer unter blauem Himmel" >}}
+{{< gallery >}}
+IMG_20240317_100933.jpg | Eine Person geht auf der Fußgängerebene unter der Brücke über die Donau
+IMG_20240317_101434.jpg | Die breite Donau mit Hochhäusern am Ufer unter blauem Himmel
+{{< /gallery >}}
 
 Auf der anderen Seite angekommen genießen wir noch die Zeit in einem der vielen Parks, direkt an der Donau, wo wir auch checken, wo wohl die ganzen Touri-Bilder der Burg gemacht werden. Natürlich hamma mia auch a paar gemacht… Mit super schönem Vordergrund! 😊
 
@@ -159,8 +169,10 @@ Nachdem ich aufgrund der Verspätung in Salzburg den nächstspäteren Zug Richtu
 Spontan ging es dann über Mühldorf am Inn nach Markt Schwaben, wo ich dann in meiner Not einen [Griechen](https://maps.app.goo.gl/YnDxnE8dtcryotnV9) 🇬🇷 für ein schnelles Abendessen aufgesucht hatte.
 Das Restaurant war schon ziemlich geil…
 
-{{< fig src="IMG_20240317_204910.jpg" alt="Gemischter Salat und ein Brotkorb auf einem gewebten Tischläufer" >}}
-{{< fig src="IMG_20240317_205225.jpg" alt="Gyros mit Pommes, Zwiebeln und Zitrone auf einem Teller" >}}
+{{< gallery >}}
+IMG_20240317_204910.jpg | Gemischter Salat und ein Brotkorb auf einem gewebten Tischläufer
+IMG_20240317_205225.jpg | Gyros mit Pommes, Zwiebeln und Zitrone auf einem Teller
+{{< /gallery >}}
 
 Mit der S- und U-Bahn war ich denn letzten Endes um 2230 Uhr zu Hause anstatt wie angedacht um 1900 Uhr. 😠
 Sänk you for träveling wis Deutsche Bahn!

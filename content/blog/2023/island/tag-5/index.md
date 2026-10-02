@@ -36,11 +36,13 @@ gedacht. Nach einem klitzekleinen Irrtum – wir sind noch einmal
 zurückgefahren, um dann denselben Weg noch 1x zu fahren – haben wir das
 Schild aber gefunden! - Hurra!!
 
-{{< fig src="IMG_20230803_124940.jpg" alt="Selfie zu dritt im Auto, alle gut gelaunt, eine macht das Peace-Zeichen" >}}
-{{< fig src="IMG_20230803_152351.jpg" alt="Selfie zu dritt mit Mützen und Kapuze vor einem kargen Berghang" >}}
-{{< fig src="IMG_20230803_165222.jpg" alt="Verwitterter Holzwegweiser auf einem Steinhaufen über einem Fjord" >}}
-{{< fig src="IMG_20230803_184452.jpg" alt="Kleiner Wasserfall fällt in ein Felsbecken zwischen grünen Hängen" >}}
-{{< fig src="IMG_20230803_184700.jpg" alt="Steinige Küste mit dunklen Basaltfelsen am ruhigen Wasser" >}}
+{{< gallery >}}
+IMG_20230803_124940.jpg | Selfie zu dritt im Auto, alle gut gelaunt, eine macht das Peace-Zeichen
+IMG_20230803_152351.jpg | Selfie zu dritt mit Mützen und Kapuze vor einem kargen Berghang
+IMG_20230803_165222.jpg | Verwitterter Holzwegweiser auf einem Steinhaufen über einem Fjord
+IMG_20230803_184452.jpg | Kleiner Wasserfall fällt in ein Felsbecken zwischen grünen Hängen
+IMG_20230803_184700.jpg | Steinige Küste mit dunklen Basaltfelsen am ruhigen Wasser
+{{< /gallery >}}
 
 Jetzt gab es aber die nächste Herausforderung: In den Worten von Larus,
 dem Gastgeber „The road down to the seaside might be a little bit

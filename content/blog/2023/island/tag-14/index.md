@@ -22,11 +22,13 @@ Irgendwo im Lavafeld mit Blick auf den Langjökull: [99PXP3GP+F9](https://goo.gl
 
 Mittlerweile haben wir schon so viel gesehen und gelernt, dass wir hier tatsächlich Tag 14 + Tag 16 einfach mit Seele baumeln lassen und was man sonst hier noch so anstellen kann (richtig: Sauna und Kochen sind fester Bestandteil) verbringen.
 
-{{< fig src="IMG_20230811_161133.jpg" alt="Gezackter Bergkamm über grünen Hängen unter blauem Himmel" >}}
-{{< fig src="IMG_20230811_201127.jpg" alt="Wohnzimmer des Ferienhauses mit grauem Ecksofa unter einer offenen Holzdecke" >}}
-{{< fig src="IMG_20230812_135040.jpg" alt="Wäsche trocknet auf dem Geländer der Holzterrasse" >}}
-{{< fig src="IMG_20230813_101039.jpg" alt="Eine Person geht auf einem schmalen Pfad durch Birkengebüsch" >}}
-{{< fig src="IMG_20230815_104309.jpg" alt="Wohn- und Essbereich des Holzhauses mit großem Tisch, Sofa und Blick auf die Terrasse" >}}
-{{< fig src="IMG_20230815_105112.jpg" alt="Dunkles Holzhaus mit Terrasse zwischen Birken unter grauem Himmel" >}}
-{{< fig src="IMG_20230815_105746.jpg" alt="Blick durch die Tür ins Schlafzimmer mit holzverkleideten Wänden" >}}
-{{< fig src="IMG_20230815_105813.jpg" alt="Ovaler Wandspiegel im Flur, in dem sich der Wohnraum spiegelt" >}}
+{{< gallery >}}
+IMG_20230811_161133.jpg | Gezackter Bergkamm über grünen Hängen unter blauem Himmel
+IMG_20230811_201127.jpg | Wohnzimmer des Ferienhauses mit grauem Ecksofa unter einer offenen Holzdecke
+IMG_20230812_135040.jpg | Wäsche trocknet auf dem Geländer der Holzterrasse
+IMG_20230813_101039.jpg | Eine Person geht auf einem schmalen Pfad durch Birkengebüsch
+IMG_20230815_104309.jpg | Wohn- und Essbereich des Holzhauses mit großem Tisch, Sofa und Blick auf die Terrasse
+IMG_20230815_105112.jpg | Dunkles Holzhaus mit Terrasse zwischen Birken unter grauem Himmel
+IMG_20230815_105746.jpg | Blick durch die Tür ins Schlafzimmer mit holzverkleideten Wänden
+IMG_20230815_105813.jpg | Ovaler Wandspiegel im Flur, in dem sich der Wohnraum spiegelt
+{{< /gallery >}}

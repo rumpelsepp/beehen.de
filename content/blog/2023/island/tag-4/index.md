@@ -47,8 +47,10 @@ Eventuell war das ganze auch ein Versuch Karin zu beruhigen und sie auf
 das Boot zu bringen, das wir als nächstes auf unserer Tagestour hatten.
 Es ging ab zum **whale watching**. 
 
-{{< fig src="IMG_20230802_125828.jpg" alt="Qualle im türkisgrünen Hafenwasser neben treibendem Seetang" >}}
-{{< fig src="IMG_20230802_162353.jpg" alt="Blick vom Boot über das dunkelblaue Meer auf Berge und eine Wolkenbank am Horizont" >}}
+{{< gallery >}}
+IMG_20230802_125828.jpg | Qualle im türkisgrünen Hafenwasser neben treibendem Seetang
+IMG_20230802_162353.jpg | Blick vom Boot über das dunkelblaue Meer auf Berge und eine Wolkenbank am Horizont
+{{< /gallery >}}
 
 Es war ein wunderbarer Tag mit viel
 Sonnenschein und guten Chancen die Wale zu sehen. Wir hatten Glück, wir haben gleich mehrere Zwergwale (aka. minke whales) gesehen 🐳.
@@ -82,16 +84,20 @@ Nachdem wir erfolgreich Wale beobachtet hatten, war uns allen schlecht!
 Am sicheren hinteren, bzw. unteren Ende des Bootes haben wir es zwar
 tief gefroren aber speibfrei in den Hafen geschafft.
 
-{{< fig src="IMG_20230802_170023.jpg" alt="Zwei Gläser Viking-Bier auf einem Holztisch im Lokal" >}}
-{{< fig src="IMG_20230802_170520.jpg" alt="Fischburger mit Pommes auf einem dunklen Teller" >}}
-{{< fig src="IMG_20230802_170515.jpg" alt="Plokkari, ein cremiges Fischgericht, in einer gusseisernen Pfanne mit dunklem Brot und Butter" >}}
+{{< gallery >}}
+IMG_20230802_170023.jpg | Zwei Gläser Viking-Bier auf einem Holztisch im Lokal
+IMG_20230802_170520.jpg | Fischburger mit Pommes auf einem dunklen Teller
+IMG_20230802_170515.jpg | Plokkari, ein cremiges Fischgericht, in einer gusseisernen Pfanne mit dunklem Brot und Butter
+{{< /gallery >}}
 
 Dort haben wir
 unseren Spaziergang fortgesetzt und uns noch Fischburger, traditionelles
 Plokkari und Bier für umgerechnet 10€ gegönnt 🤑.
 
-{{< fig src="IMG_20230802_180856.jpg" alt="Stadtteich in Reykjavík, in dem sich Himmel und Wolken spiegeln, dahinter Häuser und eine Kirche" >}}
-{{< fig src="IMG_20230802_182139.jpg" alt="Hausgiebel mit großem Wandgemälde: Vögel auf einem Zweig mit gelben Beeren" >}}
+{{< gallery >}}
+IMG_20230802_180856.jpg | Stadtteich in Reykjavík, in dem sich Himmel und Wolken spiegeln, dahinter Häuser und eine Kirche
+IMG_20230802_182139.jpg | Hausgiebel mit großem Wandgemälde: Vögel auf einem Zweig mit gelben Beeren
+{{< /gallery >}}
 
 ## Plokkari zum Nachkochen
 

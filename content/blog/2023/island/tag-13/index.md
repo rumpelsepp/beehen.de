@@ -17,8 +17,10 @@ Da wir einen wieder recht langen Weg vor uns haben, machen wir heute nicht so vi
 
 Zugegeben, das hatten wir schon! Aber dieses Foto von der Helga, nachdem wir durch einen Mückenschwarm in Mývatn gefahren sind, können wir euch einfach nicht vorenthalten. Karin so zu Steff, der gerade fährt: "Was geht denn jetzt ab? - Regnet es?" ... Nein hat es nicht... es waren 1000e Mücken, die gegen die Windschutzscheibe bzw. den Kühlergrill knallten. 
 
-{{< fig src="IMG_20230811_102606.jpg" alt="Das staubige Auto an der Zapfsäule einer Tankstelle" >}}
-{{< fig src="IMG_20230811_131127.jpg" alt="Kühlergrill und Nummernschild des Autos, übersät mit toten Mücken" >}}
+{{< gallery >}}
+IMG_20230811_102606.jpg | Das staubige Auto an der Zapfsäule einer Tankstelle
+IMG_20230811_131127.jpg | Kühlergrill und Nummernschild des Autos, übersät mit toten Mücken
+{{< /gallery >}}
 
 ## "Trigame Schafe" - Schaferl die in wilder Dreisamkeit zusammenleben
 
@@ -72,10 +74,12 @@ Wikipedia schreibt im [Island Artikel](https://de.wikipedia.org/wiki/Island):
 
 Hans (Ja wir haben ihn schon "zitiert") hat uns vom jährlichen [Fischfest in Dalvik](https://www.fiskidagurinnmikli.is/is/moya/page/english) erzählt, das genau an unserem Reisetag beginnt.  Leider war der große Fischsuppen-Abend ein bisschen zu spät für uns: Hier melden sich viele Familien freiwillig zum Fischsuppe-Kochen, bekommen dann unter Umständen eine überdimensionale Menge Fisch von der lokalen Fischfabrik zur Verfügung gestellt. Abends darf JEDER von Haus zu Haus gehen und Fischsuppe futtern!
 
-{{< fig src="IMG_20230811_135846.jpg" alt="Tiefblauer Fjord mit Steinmole, am anderen Ufer schneebedeckte Berge" >}}
-{{< fig src="IMG_20230811_140550.jpg" alt="Eine Person sitzt auf einer übergroßen weißen Bank vor einem Haus in Dalvík" >}}
-{{< fig src="IMG_20230811_143441.jpg" alt="Cappuccino mit Milchschaummuster von oben" >}}
-{{< fig src="IMG_20230811_151219.jpg" alt="Selfie zu dritt mit einem Sechserträger Bier in einer Menschenmenge beim Fischfest" >}}
+{{< gallery >}}
+IMG_20230811_135846.jpg | Tiefblauer Fjord mit Steinmole, am anderen Ufer schneebedeckte Berge
+IMG_20230811_140550.jpg | Eine Person sitzt auf einer übergroßen weißen Bank vor einem Haus in Dalvík
+IMG_20230811_143441.jpg | Cappuccino mit Milchschaummuster von oben
+IMG_20230811_151219.jpg | Selfie zu dritt mit einem Sechserträger Bier in einer Menschenmenge beim Fischfest
+{{< /gallery >}}
 
 Wir wollten uns das Dörfchen aber trotzdem anschauen! Es war schon sehr viel los und es war reger Betrieb im ganzen Ort (Luftballons aufhängen, Bühne aufbauen, Stellplatz am Campingplatz suchen)... und mittendrin läuft uns der Hans über den Weg! - Wir haben gemeinsam einen Kaffee im traditionellen lokalen Kaffi getrunken und einen Bier-Geheimtipp bekommen. Außerdem haben wir einen weiteren insider Tipp zum Überqueren einer Furt bekommen.
 

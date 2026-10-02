@@ -19,11 +19,13 @@ Nein, das hat nix mit der [Lieblingsband](https://www.youtube.com/watch?v=joEAb_
 
 [^1]: auf eigene Gefahr! 😁
 
-{{< fig src="IMG_20230810_104010.jpg" alt="Weg durch das Lavafeld Dimmuborgir, vorbei an dunklen, bizarr geformten Lavatürmen" >}}
-{{< fig src="IMG_20230810_104829.jpg" alt="Tiefe, schmale Spalte im Boden zwischen Gras und Büschen" >}}
-{{< fig src="IMG_20230810_105152.jpg" alt="Selfie zu dritt vor einem Felsentor aus Lava" >}}
-{{< fig src="IMG_20230810_110916.jpg" alt="Lavabrocken und Birkengebüsch in Dimmuborgir, dahinter der dunkle Hang eines Kraters" >}}
-{{< fig src="IMG_20230810_134339.jpg" alt="Blick aus dem Schatten einer Lavawand über das zerklüftete Lavafeld" >}}
+{{< gallery >}}
+IMG_20230810_104010.jpg | Weg durch das Lavafeld Dimmuborgir, vorbei an dunklen, bizarr geformten Lavatürmen
+IMG_20230810_104829.jpg | Tiefe, schmale Spalte im Boden zwischen Gras und Büschen
+IMG_20230810_105152.jpg | Selfie zu dritt vor einem Felsentor aus Lava
+IMG_20230810_110916.jpg | Lavabrocken und Birkengebüsch in Dimmuborgir, dahinter der dunkle Hang eines Kraters
+IMG_20230810_134339.jpg | Blick aus dem Schatten einer Lavawand über das zerklüftete Lavafeld
+{{< /gallery >}}
 
 In Dimmuborgir wohnen außerdem die 13 Weihnachtsgesellen: wir hatten einen netten Plausch mit ihnen... Mehr zu ihrer Geschichte lässt sich z.B. [hier](https://myrsdb.nl/~Thomas/island10/island_info.html) finden. 
 
@@ -31,18 +33,22 @@ In Dimmuborgir wohnen außerdem die 13 Weihnachtsgesellen: wir hatten einen nett
 
 Wie fast immer, haben wir uns an diesem Tag wieder einen der wertvollen Tipps von Freunden, die schon vor uns in Island waren, zu Herzen genommen: "Geh einfach immer 10 min weiter, als alle anderen! - Dann ist es mindestens genauso schön, aber du wirst alleine sein!" - Gesagt - getan. Jedoch haben wir uns heute aufgeteilt - Eva wollte lieber einen ausgedehnten Spaziergang in Dimmuborgir machen. 
 
-{{< fig src="20230810_133209.jpg" alt="Pfad durch eine grüne Senke zwischen dunklen Lavawänden" >}}
-{{< fig src="20230810_133822.jpg" alt="Weg durch schwarzen Sand zwischen Birkenbüschen" >}}
-{{< fig src="20230810_135545.jpg" alt="Weite Ebene aus schwarzem Sand mit grünen Grasinseln" >}}
+{{< gallery >}}
+20230810_133209.jpg | Pfad durch eine grüne Senke zwischen dunklen Lavawänden
+20230810_133822.jpg | Weg durch schwarzen Sand zwischen Birkenbüschen
+20230810_135545.jpg | Weite Ebene aus schwarzem Sand mit grünen Grasinseln
+{{< /gallery >}}
 
 Steff und Karin haben das Gebiet von Dimmuborgir Richtung **Hverfjall** durchwandert und haben den Tuffkrater bestiegen. Wie es sich für so Bergkinder wie uns gehört, haben wir einfach den „difficult trail“ genommen - wir können das ja! - wir haben es auch geschafft, auch wenn es uns sehr überrascht hat, wie rogl (:de: instabil, locker) des Geröll dort war. - Karin wurde immer schneller: „Oida, warum rutscht da einfach alles so daher?“ - Der Rundweg oben um den Krater herum war genial; und auch der „easy trail“, den wir hinunter gingen, war super. Aber es ist schon trotzdem heftig, wie locker das Material ist. Am Hinunterweg wollten wir ein klitzekleines bisschen abkürzen und haben versucht den Weg zu verlassen - Blöde Idee! - Da kommt gleich der halbe Berg runter... Aber wir haben es geschafft und der Weg hat sich wirklich gelohnt!
 
-{{< fig src="IMG_20230810_114631.jpg" alt="Ein Wanderer steht am steilen Schotterhang des Kraters Hverfjall und blickt über die Ebene" >}}
-{{< fig src="IMG_20230810_120532.jpg" alt="Eine Person balanciert in Yoga-Pose auf einem Stein am Kraterrand" >}}
-{{< fig src="IMG_20230810_115924.jpg" alt="Selfie von uns beiden mit Mütze und Stirnband am Kraterrand" >}}
-{{< fig src="IMG_20230810_121046.jpg" alt="Gelb blühende Pflanze und ein Grasbüschel zwischen Lavabrocken am Kraterrand" >}}
-{{< fig src="IMG_20230810_122300.jpg" alt="Blick in den weiten Krater des Hverfjall mit einem kleinen Hügel in der Mitte, dahinter der Mývatn" >}}
-{{< fig src="IMG_20230810_122908.jpg" alt="Karge Hügellandschaft mit aufsteigenden Dampfsäulen in der Ferne" >}}
+{{< gallery >}}
+IMG_20230810_114631.jpg | Ein Wanderer steht am steilen Schotterhang des Kraters Hverfjall und blickt über die Ebene
+IMG_20230810_120532.jpg | Eine Person balanciert in Yoga-Pose auf einem Stein am Kraterrand
+IMG_20230810_115924.jpg | Selfie von uns beiden mit Mütze und Stirnband am Kraterrand
+IMG_20230810_121046.jpg | Gelb blühende Pflanze und ein Grasbüschel zwischen Lavabrocken am Kraterrand
+IMG_20230810_122300.jpg | Blick in den weiten Krater des Hverfjall mit einem kleinen Hügel in der Mitte, dahinter der Mývatn
+IMG_20230810_122908.jpg | Karge Hügellandschaft mit aufsteigenden Dampfsäulen in der Ferne
+{{< /gallery >}}
 
 {{< info >}}
 Danke [Wikipedia](https://de.wikipedia.org/wiki/Hverfjall)!
@@ -62,8 +68,10 @@ Nachdem wir uns wieder getroffen haben und a bissl gebroudlt haben, um uns zu st
 
 Wir fahren weiter und halten nur kurz bei der **endlosen Dusche** an. 
 
-{{< fig src="IMG_20230810_150045.jpg" alt="Eine Person steht mit ausgebreiteten Armen unter der endlosen Dusche, einem Rohr, aus dem ständig warmes Wasser läuft" >}}
-{{< fig src="IMG_20230810_150109~2.jpg" alt="Zwei Personen posieren vor der endlosen Dusche, dahinter das Auto" >}}
+{{< gallery >}}
+IMG_20230810_150045.jpg | Eine Person steht mit ausgebreiteten Armen unter der endlosen Dusche, einem Rohr, aus dem ständig warmes Wasser läuft
+IMG_20230810_150109~2.jpg | Zwei Personen posieren vor der endlosen Dusche, dahinter das Auto
+{{< /gallery >}}
 
 Und dann kommts ganz dicke... Steff so: „Oh Leid - hoits eich d'Nosn zua!“ Karin ist bedient mit Autofahren, aber versucht so wenig wie möglich zu atmen... 2 min später - es stinkt immer noch bestialisch - Steff so: „Boah des riacht aber scha echt streng!“ Der Grund: das **Krafla-Kraftwerk**! 
 
@@ -73,22 +81,28 @@ Das [Geothermalkraftwerk](https://de.wikipedia.org/wiki/Krafla-Kraftwerk) direkt
 **💡 Zum Vergleich**: Das stillgelegte Atomkraftwerk Isar 2 bei Landshut in Niederbayern lieferte 1,4 GW, fast das Zehnfache! Hier kommt die Energie allerdings gratis aus dem Boden - und ja, das Geothermalkraftwerk stinkt bestialisch nach faulen Eiern! 🥚
 {{< /info >}}
 
-{{< fig src="IMG_20230810_150512.jpg" alt="Geothermalkraftwerk Krafla mit Dampfwolke, aus dem Auto fotografiert" >}}
-{{< fig src="IMG_20230810_152300.jpg" alt="Dunkle Hänge mit Rohrleitungen und Dampfschwaden des Kraftwerks" >}}
+{{< gallery >}}
+IMG_20230810_150512.jpg | Geothermalkraftwerk Krafla mit Dampfwolke, aus dem Auto fotografiert
+IMG_20230810_152300.jpg | Dunkle Hänge mit Rohrleitungen und Dampfschwaden des Kraftwerks
+{{< /gallery >}}
 
 Wir sind also diesmal lieber nicht ausgestiegen... des woa uns z'gach! Wir sind ganz schnell weiter zum **Víti-Krater**. Er ist das Resultat einer gewaltigen Explosion zu Beginn des Mývatn-Feuers, ein Ausbruch 1724. Noch 100 Jahre nach dem Ausbruch kochte dieser Schlammtopf. Der Krater hat einen Durchmesser von ca. 300 m und heute liegt am Grund ein grünlich schimmernder See - wunderschön! Von oben sieht man auch das imposante und immer noch dampfende Lavafeld der Leirhnjúkur Spalte.
 
-{{< fig src="IMG_20230810_152243.jpg" alt="Kleiner türkisblauer Kratersee zwischen hellen, schwefelgelben Hängen" >}}
-{{< fig src="IMG_20230810_152559.jpg" alt="Tiefblauer Kratersee Víti von oben, dahinter ein Tafelberg" >}}
-{{< fig src="IMG_20230810_152904.jpg" alt="Der tiefblaue Kratersee Víti füllt den Krater mit seinen braunen Hängen" >}}
+{{< gallery >}}
+IMG_20230810_152243.jpg | Kleiner türkisblauer Kratersee zwischen hellen, schwefelgelben Hängen
+IMG_20230810_152559.jpg | Tiefblauer Kratersee Víti von oben, dahinter ein Tafelberg
+IMG_20230810_152904.jpg | Der tiefblaue Kratersee Víti füllt den Krater mit seinen braunen Hängen
+{{< /gallery >}}
 
 ## Last stop: **Grjótagjá** 
 
 Hier hatten wir die Erkenntnis schlechthin: die Erde ist eigentlich nix anderes, als eine überdimensional große bayerische Brezn 🥨!
 Okay, nein im Ernst, hier ist eine relativ kleine, mit Wasser gefüllte Höhle. Sie befindet sich in einem Bereich, wo flüssiges Gestein nur ca. 2 km unter dem Boden ist. Dadurch ist das Wasser auch sehr warm/heiß und man hat es auch zum Baden genutzt. Da jetzt 2 km nicht grad tief sind und das Gebiet, wie beschrieben, vulkanisch doch recht aktiv ist, ist die Wassertemperatur ziemlich unberechenbar. Daher ist das Baden 🏊 da drinnen mittlerweile auch nicht mehr erlaubt ⛔!
 
-{{< fig src="IMG_20230810_155736.jpg" alt="Eine Person in roter Jacke hockt am klaren, blauen Wasser in der Grotte Grjótagjá" >}}
-{{< fig src="IMG_20230810_155751.jpg" alt="Blaues Wasser in der Grotte Grjótagjá unter wuchtigen Felsblöcken" >}}
+{{< gallery >}}
+IMG_20230810_155736.jpg | Eine Person in roter Jacke hockt am klaren, blauen Wasser in der Grotte Grjótagjá
+IMG_20230810_155751.jpg | Blaues Wasser in der Grotte Grjótagjá unter wuchtigen Felsblöcken
+{{< /gallery >}}
 
 Jo und wos hot des jetzt bitt'sche mit ana Brezn zdoa?
 ... Naja an der Oberfläche reißt einfach die Erde auf! Das schaut dann ungefähr so aus, wie die dicke Seite einer bayerischen Brezn, die schön knusprig ist und aufreißt 🥨. Nur die Butter fehlt! 😆

@@ -10,8 +10,10 @@ tags: ["Island"]
 
 Nach einer wahnsinnig schönen, erlebnisreichen und eindrucksvollen Zeit in Island hilft alles nix - wir müssen uns wieder auf den Weg nach Hause machen! Die Rucksäcke werden wieder Flugzeug tauglich gepackt, nur noch ein kleines Jausnsackerl bleibt draußen und ins Handgepäck kommt nur das, was wir heute bzw. auf der Reise noch brauchen... Wir haben auch gelernt was eigentlich AdBlue ist…
 
-{{< fig src="IMG_20230817_105002.jpg" alt="Selfie zu dritt am vollgepackten Kofferraum, einer reckt die Arme hoch" >}}
-{{< fig src="IMG_20230817_112257.jpg" alt="Ein Mann mit Mütze betankt das Auto an der Zapfsäule" >}}
+{{< gallery >}}
+IMG_20230817_105002.jpg | Selfie zu dritt am vollgepackten Kofferraum, einer reckt die Arme hoch
+IMG_20230817_112257.jpg | Ein Mann mit Mütze betankt das Auto an der Zapfsäule
+{{< /gallery >}}
 
 Eva geht noch einmal Duschen... sie hat ja heute - JUHUUUUUU ein Date mit dem Piloten in Reykjavik! 😏
 
@@ -25,8 +27,10 @@ Steff und Karin vertreten sich gemeinsam die Beine, sehen den Flughafen und WWII
 
 Nach einem wirklich super leckeren Abschlussessen im [ROK](https://goo.gl/maps/YDdKmzG4YnRhDvoL8) fährt uns Steff sicher zum Flughafen in Keflavik, wir geben Helga zurück und stellen uns in die Warteschlange...
 
-{{< fig src="IMG_20230817_184036.jpg" alt="Mehrere kleine Teller mit belegten Broten und Fisch von oben" >}}
-{{< fig src="IMG_20230817_213530.jpg" alt="Warten am Flughafen: ausgestreckte Beine auf dem Gepäck, ein Becher Eis in der Hand und ein Uno-Spiel" >}}
+{{< gallery >}}
+IMG_20230817_184036.jpg | Mehrere kleine Teller mit belegten Broten und Fisch von oben
+IMG_20230817_213530.jpg | Warten am Flughafen: ausgestreckte Beine auf dem Gepäck, ein Becher Eis in der Hand und ein Uno-Spiel
+{{< /gallery >}}
 
 ... stilecht zurück in München: Weißwurschtfrühstück im [Airbräu](https://www.munich-airport.de/airbraeu/de)... das können wir nur empfehlen!
 

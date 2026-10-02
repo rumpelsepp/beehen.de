@@ -39,8 +39,10 @@ Hier sehen wir zum ersten Mal ganz deutlich die Kontinentalschlucht, ein
 Lavalandschaft, der von einer Brücke (ohne sichtbare Funktion – hübsch
 wars trotzdem) überspannt wird.
 
-{{< fig src="IMG_20230730_125556.jpg" alt="Alfagjá: breite Schlucht mit schwarzem Sand zwischen dunklen Lavawänden" >}}
-{{< fig src="IMG_20230730_125034.jpg" alt="Ein Mann balanciert mit ausgebreiteten Armen auf einem Lavafelsen, im Hintergrund die Brücke über die Schlucht" >}}
+{{< gallery >}}
+IMG_20230730_125556.jpg | Alfagjá: breite Schlucht mit schwarzem Sand zwischen dunklen Lavawänden
+IMG_20230730_125034.jpg | Ein Mann balanciert mit ausgebreiteten Armen auf einem Lavafelsen, im Hintergrund die Brücke über die Schlucht
+{{< /gallery >}}
 
 ## Nächster Halt: **Valahnúkur Reykjanes — Ist das eigentlich Vogelkacke?**
 
@@ -68,8 +70,10 @@ Sommer in Zelten — eines für Mädels und eines für Jungs. Es wurde
 gemeinsam in den Zelten gekocht und die Kids konnten im Pool baden —
 Sommercamp auf Isländisch also.
 
-{{< fig src="IMG_20230730_150736.jpg" alt="Leuchtturm auf einem grünen Hügel hinter einem mit Moos und Flechten bewachsenen Lavafeld" >}}
-{{< fig src="IMG_20230730_150324.jpg" alt="Flacher Teich zwischen Wiese und dunklem Lavagestein unter Wolken" >}}
+{{< gallery >}}
+IMG_20230730_150736.jpg | Leuchtturm auf einem grünen Hügel hinter einem mit Moos und Flechten bewachsenen Lavafeld
+IMG_20230730_150324.jpg | Flacher Teich zwischen Wiese und dunklem Lavagestein unter Wolken
+{{< /gallery >}}
 
 ## Last „almost“ stop: **Fagradalsfjall** — Sag mal trollt uns der Reiseführer?
 

@@ -56,12 +56,14 @@ Gestern hat Helga gechillt, darum darf sie heute mal wieder rollen 🚙. Wir hab
 
 Das war die perfekte Distanz, die mit Steffs kratzendem Hals heute machbar war 🤒. Diesmal war der Reiseführer auch ziemlich akkurat und de Wanderung 🥾 war wirklich fein.
 
-{{< fig src="IMG_20230809_125454.jpg" alt="Schlucht mit hohen dunklen Basaltsäulen und einem kleinen Wasserfall über Geröll" >}}
-{{< fig src="IMG_20230809_132313.jpg" alt="Der graue Gletscherfluss fließt durch die Schlucht Stuðlagil mit ihren Basaltsäulenwänden" >}}
-{{< fig src="IMG_20230809_132701.jpg" alt="Blick in die Schlucht mit Basaltsäulen an beiden Ufern und einer Felsinsel im Fluss" >}}
-{{< fig src="IMG_20230809_132919.jpg" alt="Insel aus sechseckigen Basaltsäulen im milchig-grauen Fluss" >}}
-{{< fig src="IMG_20230809_133434.jpg" alt="Wand aus senkrechten Basaltsäulen über dem Fluss, oben eine Aussichtsplattform" >}}
-{{< fig src="IMG_20230809_134143.jpg" alt="Große helle Felsblöcke über dem Fluss, gegenüber Basaltsäulen" >}}
+{{< gallery >}}
+IMG_20230809_125454.jpg | Schlucht mit hohen dunklen Basaltsäulen und einem kleinen Wasserfall über Geröll
+IMG_20230809_132313.jpg | Der graue Gletscherfluss fließt durch die Schlucht Stuðlagil mit ihren Basaltsäulenwänden
+IMG_20230809_132701.jpg | Blick in die Schlucht mit Basaltsäulen an beiden Ufern und einer Felsinsel im Fluss
+IMG_20230809_132919.jpg | Insel aus sechseckigen Basaltsäulen im milchig-grauen Fluss
+IMG_20230809_133434.jpg | Wand aus senkrechten Basaltsäulen über dem Fluss, oben eine Aussichtsplattform
+IMG_20230809_134143.jpg | Große helle Felsblöcke über dem Fluss, gegenüber Basaltsäulen
+{{< /gallery >}}
 
 {{< info >}}
 Basaltsäulen sand schon wirklich spezial! - Wir haben bis jetzt noch keine ernsthaft befriedigende Antwort darauf gefunden, wie die Dinger eigentlich wirklich entstehen (Wir liefern nach, sobald wir mehr wissen!)
@@ -102,6 +104,8 @@ jap... der war echt fett! Und den Steff hats dann auch noch sauber obgschifft! �
 
 ... Ein Stückchen weiter oben im Flusslauf gibt es dann noch den Selfoss, der nicht ganz so riesig ist, aber trotzdem sehr beeindruckend. Steff hat sich lieber in die trockene Helga 🚗 begeben, um sich aufzuwärmen 🥶 und um mit seiner Mama 👪 zu telefonieren 📱. Aber Eva und Karin haben sich das volle Spektakel gegönnt.
 
-{{< fig src="IMG_20230809_181905.jpg" alt="Wasserfall am Dettifoss: der Fluss stürzt in eine Schlucht mit senkrechten Basaltwänden, Gischt steigt auf" >}}
-{{< fig src="IMG_20230809_181913.jpg" alt="Selfie von zwei Frauen in dicken Jacken vor dem Wasserfall" >}}
+{{< gallery >}}
+IMG_20230809_181905.jpg | Wasserfall am Dettifoss: der Fluss stürzt in eine Schlucht mit senkrechten Basaltwänden, Gischt steigt auf
+IMG_20230809_181913.jpg | Selfie von zwei Frauen in dicken Jacken vor dem Wasserfall
+{{< /gallery >}}
 {{< video id="AOjd6qyaL0s" >}}

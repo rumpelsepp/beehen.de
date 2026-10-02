@@ -21,10 +21,12 @@ Am Rückweg bekam Karin die zweite Chance bei unserem fahrbaren Untersatz, dem H
 Zum Glück wurde beim [Ladies View](https://maps.app.goo.gl/wZfGrmpqc1GALh337) wieder getauscht…
 Die grandios engen Straßen mit Linksverkehr werden von lebensmüden Busfahrern befahren. 🤬
 
-{{< fig src="IMG_20240723_113640.jpg" alt="Wasserfall stürzt über bemooste Felsen durch dichten Wald" >}}
-{{< fig src="IMG_20240723_125043.jpg" alt="Bach rauscht über große Felsblöcke zwischen grünen Böschungen" >}}
-{{< fig src="feature.jpg" alt="Blick von oben auf einen See mit vielen bewaldeten Inseln unter grauem Himmel" >}}
-{{< fig src="IMG_20240723_163900.jpg" alt="Kahler toter Baum über einem Tal mit Seen zwischen grünen Bergen" >}}
+{{< gallery >}}
+IMG_20240723_113640.jpg | Wasserfall stürzt über bemooste Felsen durch dichten Wald
+IMG_20240723_125043.jpg | Bach rauscht über große Felsblöcke zwischen grünen Böschungen
+feature.jpg | Blick von oben auf einen See mit vielen bewaldeten Inseln unter grauem Himmel
+IMG_20240723_163900.jpg | Kahler toter Baum über einem Tal mit Seen zwischen grünen Bergen
+{{< /gallery >}}
 
 {{< info >}}
 Der **Ring of Kerry** ([irisch](https://de.wikipedia.org/wiki/Irische_Sprache) Mórchuaird Chiarraí) ist eine 179 km lange [Panoramaküstenstraße](https://de.wikipedia.org/wiki/Ferienstra%C3%9Fe) im [County Kerry](https://de.wikipedia.org/wiki/County_Kerry) im Südwesten [Irlands](https://de.wikipedia.org/wiki/Irland).

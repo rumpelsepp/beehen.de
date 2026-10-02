@@ -43,18 +43,21 @@ Es gibt lokale Schmankerl wie bramboráky (🇩🇪: Kartoffelpuffer, BY: Reiber
 Aber an jeder Ecke findet man hier Baumkuchen, der ja eigentlich aus Ungarn kommt.
 Das hat auch unser Prag-Guide Brandon bestätigt 🤔.
 
-{{< fig src="IMG_20251102_124328.jpg" alt="Selfie von uns beiden mit Wollmützen im Regen vor der gotischen Kathedrale in Pilsen" >}}
-
-{{< fig src="IMG_20251103_101301.jpg" alt="Auslage mit Kolatschen, runden Hefeteilchen mit Topfen und Früchten, davor ein Preisschild" >}}
+{{< gallery >}}
+IMG_20251102_124328.jpg | Selfie von uns beiden mit Wollmützen im Regen vor der gotischen Kathedrale in Pilsen
+IMG_20251103_101301.jpg | Auslage mit Kolatschen, runden Hefeteilchen mit Topfen und Früchten, davor ein Preisschild
+{{< /gallery >}}
 
 Leider war das Wetter an dem Tag a bissl, die Niederbayern würden sagen: "lusad", (🇦🇹: frieselig, greislich), darum sind wir nur kurz durchgeschlendert und haben dann die Richtung zur Brauerei eingeschlagen.
 Dabei haben wir natürlich auch die Stadt ein bisserl auf uns wirken lassen...
 Do is echt überall Kopfsteinpflaster und die Leid fahren an ziemlichen Ruaß zam 🤬?!
 Bei der Brauerei angekommen bekamen wir eine Führung durch die wirklich riesige historische Brauerei inkl. jeder Menge Eindrücke.
 
-{{< fig src="IMG_20251102_143705.jpg" alt="Kupferne Sudkessel im Sudhaus der Pilsner Brauerei" >}}
-{{< fig src="IMG_20251102_145718.jpg" alt="Große offene Holzbottiche im gewölbten Gärkeller" >}}
-{{< fig src="IMG_20251102_150229.jpg" alt="Selfie von uns beiden mit zwei Gläsern Bier vor Holzfässern im Brauereikeller" >}}
+{{< gallery >}}
+IMG_20251102_143705.jpg | Kupferne Sudkessel im Sudhaus der Pilsner Brauerei
+IMG_20251102_145718.jpg | Große offene Holzbottiche im gewölbten Gärkeller
+IMG_20251102_150229.jpg | Selfie von uns beiden mit zwei Gläsern Bier vor Holzfässern im Brauereikeller
+{{< /gallery >}}
 
 <details class="mb-3">
 <summary>Random Brauerei Infos zum Ausklappen</summary>
@@ -126,16 +129,20 @@ Einige unserer Highlights:
 
 [Prager Metronom](https://mapy.com/s/pefovokede) (🇨🇿: Metronom na Letné): Die Kommunisten hatten auf diesem Hügel eine sehr große Stalin Statue errichtet. Dafür brauchten sie so lange, dass Stalin die Fertigstellung nimmer erlebte. Die Prager fanden das Monument eher schräg und haben es kurzerhand wieder abgerissen. Stattdessen wurde auf den Fundamenten der Stalin Statue ein großes Metronom errichtet. Das Metronem steht für den unerbittlichen Lauf der Zeit und als Mahnmal für die Vergangenheit bzw. die verlorene Zeit unter dem sowjetischen Einfluss.
 
-{{< fig src="IMG_20251103_154235.jpg" alt="Eine Person steht mit ausgebreiteten Armen auf einem Baumstumpf am Ufer der Moldau" >}}
-{{< fig src="IMG_20251103_153238.jpg" alt="Die Moldau in der Morgensonne mit Blick auf die Brücken und die Altstadt von Prag" >}}
+{{< gallery >}}
+IMG_20251103_154235.jpg | Eine Person steht mit ausgebreiteten Armen auf einem Baumstumpf am Ufer der Moldau
+IMG_20251103_153238.jpg | Die Moldau in der Morgensonne mit Blick auf die Brücken und die Altstadt von Prag
+{{< /gallery >}}
 
 [Karlsbrücke](https://mapy.com/s/fegedefaca) (🇨🇿: Karlův most): Die Karlsbrücke ist die älteste erhaltene Brücke über den nordwärts fließenden Fluss Moldau und eine der ältesten Steinbrücken Europas. Sie gilt als Wahrzeichen der Stadt Prag.
 Auf einem der Fotos ist die Brücke jeweils im Hintergrund erspähbar… 🙂
 Welche Brücke die Karlsbrücke ist, findet ihr bestimmt selbst heraus. 🧐
 
-{{< fig src="IMG_20251104_120940.jpg" alt="Selfie von uns beiden von unten vor der Fassade des Veitsdoms" >}}
-{{< fig src="IMG_20251104_134610.jpg" alt="Blick durch herbstliche Bäume vom Hügel über die roten Dächer von Prag und die Moldau" >}}
-{{< fig src="IMG_20251104_134955.jpg" alt="Blick zwischen Bäumen hindurch auf die Prager Burg" >}}
+{{< gallery >}}
+IMG_20251104_120940.jpg | Selfie von uns beiden von unten vor der Fassade des Veitsdoms
+IMG_20251104_134610.jpg | Blick durch herbstliche Bäume vom Hügel über die roten Dächer von Prag und die Moldau
+IMG_20251104_134955.jpg | Blick zwischen Bäumen hindurch auf die Prager Burg
+{{< /gallery >}}
 
 [Prager Burg](https://mapy.com/s/dejaruhamo) (🇨🇿: Pražský hrad): Die Prager Burg ist die ehemalige Residenz der Könige von Böhmen im Hradschin (Burgviertel) in der tschechischen Hauptstadt Prag. Mit einer Fläche von fast 70.000 Quadratmetern ist sie die größte geschlossene Burganlage der Welt.
 
@@ -153,8 +160,10 @@ Welche Brücke die Karlsbrücke ist, findet ihr bestimmt selbst heraus. 🧐
 
 [Eurotrip](https://de.wikipedia.org/wiki/Eurotrip): Ein möglicherweise eher furchtbarer Film, wo ein paar Ami-Kids durch Europa reisen. Obwohl im Film die Stadt Prag nicht vorkommt, wurde alles dort gedreht und Städte wie Paris, Amsterdam oder Venedig inszeniert. Das zeigt, wie abwechslungsreich und schön diese Stadt einfach wirklich ist.
 
-{{< fig src="IMG_20251104_114933.jpg" alt="Eine Frau beugt sich mit gezückter Faust über ein Stück Strudel am Kaffeehaustisch" >}}
-{{< fig src="IMG_20251106_145132.jpg" alt="Espresso auf einem Metalltablett, daneben ein Glas Wasser und ein Milchkännchen" >}}
+{{< gallery >}}
+IMG_20251104_114933.jpg | Eine Frau beugt sich mit gezückter Faust über ein Stück Strudel am Kaffeehaustisch
+IMG_20251106_145132.jpg | Espresso auf einem Metalltablett, daneben ein Glas Wasser und ein Milchkännchen
+{{< /gallery >}}
 
 Was ebenfalls extrem spannend ist: Die Österreichische Kaffeekultur mit "Espresso", "Verlängerter" und "Apfelstrudel" gibt es in Prag!
 Wie wir herausgefunden haben liegt es natürlich an den [Habsburgern](https://de.wikipedia.org/wiki/Habsburg), die einmal in Prag unterwegs waren.
@@ -203,37 +212,45 @@ Wir haben mehrere dieser Felsen bewandert:
 
 {{< embed provider="Mapy.com" button="Karte laden" src="https://mapy.com/s/logusevefo" height="600" title="Karte der Wanderungen in der Böhmischen Schweiz" >}}
 
-{{< fig src="IMG_20251106_114743.jpg" alt="Sandsteinfelsen über herbstlichem Wald in der Böhmischen Schweiz" >}}
-{{< fig src="IMG_20251106_115037.jpg" alt="Blick von einer Holzplattform auf Sandsteintürme im Herbstwald" >}}
-{{< fig src="IMG_20251106_115738.jpg" alt="Schmaler dunkler Felsspalt, durch den ein Lichtstreifen fällt" >}}
-{{< fig src="IMG_20251106_115845.jpg" alt="Steile Steintreppe in einer engen Schlucht zwischen Sandsteinwänden" >}}
-{{< fig src="IMG_20251106_121114.jpg" alt="Goldgelbe Lärche leuchtet zwischen dunklen Sandsteinfelsen" >}}
-{{< fig src="IMG_20251106_122117.jpg" alt="Aussicht von einem Felsplateau mit einer kleinen Kiefer über dunstige Hügelketten" >}}
-{{< fig src="IMG_20251106_123836.jpg" alt="Felsentor aus Sandstein im Wald" >}}
-{{< fig src="IMG_20251106_124611.jpg" alt="Frei stehender Sandsteinturm, durch eine Felsöffnung gesehen" >}}
+{{< gallery >}}
+IMG_20251106_114743.jpg | Sandsteinfelsen über herbstlichem Wald in der Böhmischen Schweiz
+IMG_20251106_115037.jpg | Blick von einer Holzplattform auf Sandsteintürme im Herbstwald
+IMG_20251106_115738.jpg | Schmaler dunkler Felsspalt, durch den ein Lichtstreifen fällt
+IMG_20251106_115845.jpg | Steile Steintreppe in einer engen Schlucht zwischen Sandsteinwänden
+IMG_20251106_121114.jpg | Goldgelbe Lärche leuchtet zwischen dunklen Sandsteinfelsen
+IMG_20251106_122117.jpg | Aussicht von einem Felsplateau mit einer kleinen Kiefer über dunstige Hügelketten
+IMG_20251106_123836.jpg | Felsentor aus Sandstein im Wald
+IMG_20251106_124611.jpg | Frei stehender Sandsteinturm, durch eine Felsöffnung gesehen
+{{< /gallery >}}
 
 
 {{< embed provider="Komoot" button="Karte laden" src="https://www.komoot.com/de-de/tour/2672456279/embed?share_token=avF8Ube2Phwiyo5IXeBnNw0hdVXDRwhnSoa0KhTqQceK2jZF3K" href="https://www.komoot.com/de-de/tour/2672456279?share_token=avF8Ube2Phwiyo5IXeBnNw0hdVXDRwhnSoa0KhTqQceK2jZF3K" height="800" title="Wanderung" >}}
 
-{{< fig src="IMG_20251107_103210.jpg" alt="Eine Person steht am Ufer eines Waldsees und blickt ins Gegenlicht" >}}
-{{< fig src="IMG_20251107_104301.jpg" alt="Mächtiger geschichteter Sandsteinfelsen zwischen Kiefern" >}}
-{{< fig src="IMG_20251107_120529.jpg" alt="Fachwerkhäuser unterhalb eines Sandsteinfelsens, davor ein Weg durch die Wiese" >}}
-{{< fig src="IMG_20251107_132628.jpg" alt="Morscher Holzsteg über einen Bach im Herbstwald" >}}
+{{< gallery >}}
+IMG_20251107_103210.jpg | Eine Person steht am Ufer eines Waldsees und blickt ins Gegenlicht
+IMG_20251107_104301.jpg | Mächtiger geschichteter Sandsteinfelsen zwischen Kiefern
+IMG_20251107_120529.jpg | Fachwerkhäuser unterhalb eines Sandsteinfelsens, davor ein Weg durch die Wiese
+IMG_20251107_132628.jpg | Morscher Holzsteg über einen Bach im Herbstwald
+{{< /gallery >}}
 
 {{< embed provider="Komoot" button="Karte laden" src="https://www.komoot.com/de-de/tour/2672482853/embed?share_token=aHzw3fbw42H7oKnfNB2uyoYp0izxr2Z8UpW9KO8J1Q2Q8Wrs40" href="https://www.komoot.com/de-de/tour/2672482853?share_token=aHzw3fbw42H7oKnfNB2uyoYp0izxr2Z8UpW9KO8J1Q2Q8Wrs40" height="800" title="Wanderung" >}}
 
-{{< fig src="IMG_20251108_104529.jpg" alt="Burgturm mit Zinnen auf einem Sandsteinfelsen" >}}
-{{< fig src="IMG_20251108_105944.jpg" alt="Ein Mann macht Brotzeit an einem Holztisch unter herbstlichen Buchen" >}}
-{{< fig src="IMG_20251108_111334.jpg" alt="Selfie von uns beiden mit Mützen und Sonnenbrillen vor Burgmauer und Herbstlaub" >}}
-{{< fig src="IMG_20251108_111759.jpg" alt="Weg zwischen einer hohen Steinmauer und einem Sandsteinfelsen" >}}
-{{< fig src="IMG_20251108_112008.jpg" alt="Burgturm über einer Holzbrücke, von unten gesehen" >}}
+{{< gallery >}}
+IMG_20251108_104529.jpg | Burgturm mit Zinnen auf einem Sandsteinfelsen
+IMG_20251108_105944.jpg | Ein Mann macht Brotzeit an einem Holztisch unter herbstlichen Buchen
+IMG_20251108_111334.jpg | Selfie von uns beiden mit Mützen und Sonnenbrillen vor Burgmauer und Herbstlaub
+IMG_20251108_111759.jpg | Weg zwischen einer hohen Steinmauer und einem Sandsteinfelsen
+IMG_20251108_112008.jpg | Burgturm über einer Holzbrücke, von unten gesehen
+{{< /gallery >}}
 
 Und dann gabs da noch - BASALT! - und zwar richtig schönen Basalt!
 Von der Reise nach [Island]({{< relref "tags/island" >}}) wissen wir: der hat definitiv was mit Vulkanismus zu tun.
 Der [Herrenhaus Felsen](https://mapy.com/s/jegutoneja) ist ein wunderschönes Beispiel dafür.
 
-{{< fig src="IMG_20251106_100751.jpg" alt="Herrenhausfelsen: Wand aus schräg stehenden Basaltsäulen über einem kleinen Teich" >}}
-{{< fig src="IMG_20251106_100250.jpg" alt="Basaltsäulen des Herrenhausfelsens von nahe, sechseckig wie Orgelpfeifen" >}}
+{{< gallery >}}
+IMG_20251106_100751.jpg | Herrenhausfelsen: Wand aus schräg stehenden Basaltsäulen über einem kleinen Teich
+IMG_20251106_100250.jpg | Basaltsäulen des Herrenhausfelsens von nahe, sechseckig wie Orgelpfeifen
+{{< /gallery >}}
 
 ## Ahnenforschung
 
@@ -264,20 +281,23 @@ ABER: Wir konnten möglicherweise einen Teil von Karins Stammbaum bis ca. 1830 r
 Naja - was macht man nun auf den Spuren der eigenen Vorfahren, wenn man in einem Land ist, wo tausende Deutsche vertrieben wurden, man die aktuelle Amtssprache nicht spricht, und man selbst eigentlich gar nicht so recht weiß, was man finden will?
 Wir haben uns dafür entschieden, die beiden wohl wichtigsten Orte für unsere Opas einfach zu besuchen: [Auscha](https://mapy.com/s/bekobenejo) (🇨🇿: Úštěk) und [Saaz](https://mapy.com/s/jebapeleja) (🇨🇿: Žatec).
 
-{{< fig src="IMG_20251106_155316.jpg" alt="Ortsschild von Úštěk, aus dem Auto fotografiert" >}}
-{{< fig src="IMG_20251106_155817.jpg" alt="Marktplatz von Úštěk mit Kopfsteinpflaster und bunten Giebelhäusern" >}}
-{{< fig src="IMG_20251106_160148.jpg" alt="Rosa Bürgerhaus an einer gepflasterten Gasse" >}}
+{{< gallery >}}
+IMG_20251106_155316.jpg | Ortsschild von Úštěk, aus dem Auto fotografiert
+IMG_20251106_155817.jpg | Marktplatz von Úštěk mit Kopfsteinpflaster und bunten Giebelhäusern
+IMG_20251106_160148.jpg | Rosa Bürgerhaus an einer gepflasterten Gasse
+{{< /gallery >}}
 
 Wir sind einfach durch die Orte spaziert und haben die Orte auf uns wirken lassen.
 Die Stimmung ist etwas bedrückend, gerade bei den verfallenen Gebäuden mit zweisprachigen Fassaden wird die Geschichte wieder fast greifbar.
 Wir haben möglicherweise das Elternhaus von Steffs Opa gefunden.
 
-{{< fig src="IMG_20251109_115742.jpg" alt="Ortsschild von Žatec an der Landstraße, aus dem Auto fotografiert" >}}
-{{< fig src="IMG_20251109_123247.jpg" alt="Marktplatz von Žatec mit Rathausturm und historischen Häusern" >}}
-{{< fig src="IMG_20251109_123101.jpg" alt="Alte Ladenfront mit zweisprachiger Aufschrift: Řeznictví Uzenářství, Fleischerei Selcherei" >}}
-
-{{< fig src="IMG_20251109_121400.jpg" alt="Stadttheater von Žatec mit klassizistischer Fassade" >}}
-{{< fig src="IMG_20251109_121304.jpg" alt="Gedenktafel am Stadttheater mit Text auf Tschechisch, Deutsch und Englisch" >}}
+{{< gallery >}}
+IMG_20251109_115742.jpg | Ortsschild von Žatec an der Landstraße, aus dem Auto fotografiert
+IMG_20251109_123247.jpg | Marktplatz von Žatec mit Rathausturm und historischen Häusern
+IMG_20251109_123101.jpg | Alte Ladenfront mit zweisprachiger Aufschrift: Řeznictví Uzenářství, Fleischerei Selcherei
+IMG_20251109_121400.jpg | Stadttheater von Žatec mit klassizistischer Fassade
+IMG_20251109_121304.jpg | Gedenktafel am Stadttheater mit Text auf Tschechisch, Deutsch und Englisch
+{{< /gallery >}}
 
 In Saaz standen wir vor dem Theater, von dem Karins Opa wohl erzählt hat. 
 Und dann waren wir noch auf den beiden Friedhöfen in Auscha und Saaz mit den Namen der Vorfahren im Hinterkopf.
@@ -288,9 +308,11 @@ Auf den Grabsteinen liest man auf diesen Gräbern vermehrt deutsche Namen; sofer
 Inschriften nach 1940 gibt es hier aber kaum. 
 Wirklich heftig.
 
-{{< fig src="IMG_20251109_145646.jpg" alt="Verwilderter alter Friedhof mit efeuüberwucherten Grabsteinen im Herbstlaub" >}}
-{{< fig src="IMG_20251109_150220.jpg" alt="Friedhofsweg unter einem kahlen Baum, rechts gepflegte Gräber mit Blumen" >}}
-{{< fig src="IMG_20251109_150223.jpg" alt="Gräber mit frischen Blumen auf dem Friedhof" >}}
+{{< gallery >}}
+IMG_20251109_145646.jpg | Verwilderter alter Friedhof mit efeuüberwucherten Grabsteinen im Herbstlaub
+IMG_20251109_150220.jpg | Friedhofsweg unter einem kahlen Baum, rechts gepflegte Gräber mit Blumen
+IMG_20251109_150223.jpg | Gräber mit frischen Blumen auf dem Friedhof
+{{< /gallery >}}
 
 Einige Fragen bleiben offen, wie zum Beispiel: Warum landete Steffs Opa nach der Vertreibung in Kulmbach (Oberfranken) und Karins Opa in Radstadt (Pongau)?
 Mittlerweile wurden einige Institution gegründet, die die Vertreibung der Sudetendeutschen thematisieren.

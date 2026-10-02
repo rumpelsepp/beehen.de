@@ -22,8 +22,10 @@ wieder schließt. Für uns sah die Erdoberfläche ein bisschen so aus als
 würde ein Laib Brot aufbrechen, oder wie es der Steff sagen würde – „Wie
 a Brezn, die aufreißt!“
 
-{{< fig src="IMG_20230731_122931.jpg" alt="Þingvellir: aufgerissene Erdspalte zwischen dunklen Felswänden, dazwischen Gras" >}}
-{{< fig src="IMG_20230731_123535.jpg" alt="Wanderer mit Rucksäcken gehen auf einem Weg durch die Schlucht zwischen hohen Felswänden" >}}
+{{< gallery >}}
+IMG_20230731_122931.jpg | Þingvellir: aufgerissene Erdspalte zwischen dunklen Felswänden, dazwischen Gras
+IMG_20230731_123535.jpg | Wanderer mit Rucksäcken gehen auf einem Weg durch die Schlucht zwischen hohen Felswänden
+{{< /gallery >}}
 
 Wir haben uns die Zeit genommen und haben den Weg zu den bekannten Spots
 wandernd genossen. Bei **Langistígur**, oder dem *The Walk of Death*

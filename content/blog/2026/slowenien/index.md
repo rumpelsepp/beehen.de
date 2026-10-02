@@ -48,15 +48,19 @@ Wir merken schon aufgrund der Straßenführung bzw. -beschaffenheit und dem Fahr
 
 Unser erster Halt ist also ein [Schützengraben aus dem Ersten Weltkrieg](https://maps.app.goo.gl/ewPqT6k4TfA4eUQr7).
 
-{{< fig src="IMG_20260825_093105.jpg" alt="Gemauerter Schützengraben aus dem Ersten Weltkrieg zieht sich durch einen nebligen Buchenwald" >}}
-{{< fig src="IMG_20260825_093210.jpg" alt="Blick in den Schützengraben zwischen bemoosten Steinmauern" >}}
-{{< fig src="IMG_20260825_094315.jpg" alt="Schießscharte in einer flechtenbewachsenen Betonmauer mit Blick in den Wald" >}}
+{{< gallery >}}
+IMG_20260825_093105.jpg | Gemauerter Schützengraben aus dem Ersten Weltkrieg zieht sich durch einen nebligen Buchenwald
+IMG_20260825_093210.jpg | Blick in den Schützengraben zwischen bemoosten Steinmauern
+IMG_20260825_094315.jpg | Schießscharte in einer flechtenbewachsenen Betonmauer mit Blick in den Wald
+{{< /gallery >}}
 
 Irgendwo im Wald – nicht weit von dem [alten Grenzstein](https://maps.app.goo.gl/BNUPc6ZNythVbDuf7), der noch 1887 vor dem Ersten Weltkrieg die Grenze zwischen Österreich-Ungarn und Italien markiert hat – befinden sich noch ziemlich gut erhaltene Schützengräben im Wald, bzw. sie wurden einmal restauriert.
 Wir wären zwar fast vorbeibrennt, weil es nur eine recht unscheinbare Tafel dort gab, aber wir haben den Spot trotzdem gefunden.
 
-{{< fig src="IMG_20260825_095719.jpg" alt="Verwitterter Grenzstein auf einem großen Felsblock mit eingemeißeltem Relief" >}}
-{{< fig src="IMG_20260825_095726.jpg" alt="Bronzetafel am Fels zur historischen Grenzmarkierung, auf Italienisch und Deutsch" >}}
+{{< gallery >}}
+IMG_20260825_095719.jpg | Verwitterter Grenzstein auf einem großen Felsblock mit eingemeißeltem Relief
+IMG_20260825_095726.jpg | Bronzetafel am Fels zur historischen Grenzmarkierung, auf Italienisch und Deutsch
+{{< /gallery >}}
 
 Schon erstaunlich, wie solche Orte dann irgendwann einfach „lost places“ werden… sie sind zwar einfach dort und sozusagen Zeugen einer echt schlimmen Zeit, aber keiner hat sie mehr so richtig am Schirm und keiner schert sich so richtig drum. Für uns aber doch voll beeindruckend.
 An dem Tag war das Wetter ned wirklich so guat und im Wald hots ziemlich gfeichtelt und so Nebelschwaden sind herumgezogen. 🌫️
@@ -73,11 +77,13 @@ ZUM GLÜCK war das Wetter eher bescheiden und damit kaum andere Menschen unterwe
 Karin ist am Steuer und fährt einfach mal recht unbedarft los. Es dauert nicht lange und es wird echt eng, die Straße schlängelt sich zunächst durch den Wald, es gibt immer wieder Ausweichbuchten, aber bald wird's noch enger und wir fahren in Tunnels, natürlich ohne Licht, und wir fahren gefühlt eine Felswand hinauf! Im Ernst, des war die Straße der Hölle! 😱 Steff wurde immer leiser und hatte spätestens, als wir auf eine fette Felswand zufahren, echt a bissl Schiss 😨. Zitat Steff: „I bin a Waidler und koa Gams!“ 🐐 Naja, Karin kommt zwar aus dem gebirgigen Pongau und hat schon einiges erlebt, aber das hat ihr auch nimmer taugt. Aber sie blieb stark und hat den Pass bezwungen! Juhuu! 🙌
 Sche woas trotzdem (als wir wieder unten waren 😮‍💨😉).
 
-{{< fig src="IMG_20260825_105232.jpg" alt="Selfie von uns beiden mit Stirnband und Mütze zwischen den Felswänden am Mangart" >}}
-{{< fig src="IMG_20260825_105245.jpg" alt="Kurzer Felstunnel an der gepflasterten Mangartstraße" >}}
-{{< fig src="IMG_20260825_105435.jpg" alt="Schmale Passstraße am Mangart entlang steiler Grashänge unter tiefen Wolken" >}}
-{{< fig src="IMG_20260825_105439.jpg" alt="Eine Person winkt am Rand der schmalen Passstraße unter einer Felswand" >}}
-{{< fig src="IMG_20260825_111816.jpg" alt="Edelweiß wächst in einer Felsritze" >}}
+{{< gallery >}}
+IMG_20260825_105232.jpg | Selfie von uns beiden mit Stirnband und Mütze zwischen den Felswänden am Mangart
+IMG_20260825_105245.jpg | Kurzer Felstunnel an der gepflasterten Mangartstraße
+IMG_20260825_105435.jpg | Schmale Passstraße am Mangart entlang steiler Grashänge unter tiefen Wolken
+IMG_20260825_105439.jpg | Eine Person winkt am Rand der schmalen Passstraße unter einer Felswand
+IMG_20260825_111816.jpg | Edelweiß wächst in einer Felsritze
+{{< /gallery >}}
 
 ## An der Soča
 
@@ -85,10 +91,12 @@ Naja, und dann waren wir noch an der Soča! Der Fluss ist bekannt für's Kajaken
 Es waren zwar schon drölf andere Touris 📸 mit uns unterwegs, als wir zur Hängebrücke spazierten, aber es hat sich trotzdem gelohnt! Unfassbar, wie blau das Wasser dort ist!
 Und die ersten Bienenbeuten haben wir auch gesehen! 🐝
 
-{{< fig src="IMG_20260825_141259.jpg" alt="Steinerne Bogenbrücke über die Schlucht der smaragdgrünen Soča, dahinter Berge in Wolken" >}}
-{{< fig src="IMG_20260825_142442.jpg" alt="Eine Reihe gelber Bienenbeuten auf einer Wiese am Waldrand" >}}
-{{< fig src="IMG_20260825_143353.jpg" alt="Die smaragdgrüne Soča fließt durch eine felsige Schlucht" >}}
-{{< fig src="IMG_20260825_144039.jpg" alt="Glasklares, türkisgrünes Wasser der Soča zwischen hellen Felsblöcken" >}}
+{{< gallery >}}
+IMG_20260825_141259.jpg | Steinerne Bogenbrücke über die Schlucht der smaragdgrünen Soča, dahinter Berge in Wolken
+IMG_20260825_142442.jpg | Eine Reihe gelber Bienenbeuten auf einer Wiese am Waldrand
+IMG_20260825_143353.jpg | Die smaragdgrüne Soča fließt durch eine felsige Schlucht
+IMG_20260825_144039.jpg | Glasklares, türkisgrünes Wasser der Soča zwischen hellen Felsblöcken
+{{< /gallery >}}
 
 Am Abend kamen wir dann ziemlich entspannt in unserer [ersten Unterkunft](https://www.airbnb.de/rooms/51489481) im Wippachtal an…
 
@@ -104,9 +112,11 @@ Weil wir uns schon irgendwie denken können, dass wir zwei bildschirmbraune Held
 Weil Karin so tapfer am Berg gefahren ist, darf sich aber diesmal Steff mit den erschwerten Bedingungen auseinandersetzen. 😮‍💨🚗
 Naja, aber Triest war schon wirklich schön! Geheimtipp von Karin: Probierts des Feigeneis im [Beislfinder-Eisladen](https://maps.app.goo.gl/Av9zU7R2FjqjXQ1s8) – unfassbar guat!
 
-{{< fig src="IMG_20260826_113714.jpg" alt="Die weite Piazza Unità d'Italia in Triest mit dem Rathaus im Sonnenschein" >}}
-{{< fig src="IMG_20260826_113735.jpg" alt="Selfie von uns beiden mit Kappen und Sonnenbrillen auf der Piazza in Triest" >}}
-{{< fig src="IMG_20260826_123834.jpg" alt="Eine Frau mit Kappe und Sonnenbrille hält lachend eine Eistüte in der Hand" >}}
+{{< gallery >}}
+IMG_20260826_113714.jpg | Die weite Piazza Unità d'Italia in Triest mit dem Rathaus im Sonnenschein
+IMG_20260826_113735.jpg | Selfie von uns beiden mit Kappen und Sonnenbrillen auf der Piazza in Triest
+IMG_20260826_123834.jpg | Eine Frau mit Kappe und Sonnenbrille hält lachend eine Eistüte in der Hand
+{{< /gallery >}}
 
 {{< info >}}
 **Was hat Wien mit Triest zu tun?**
@@ -129,8 +139,10 @@ Zum Glück, denn Piran ist eine gaaaanz alte Ortschaft und Autos müssen drauße
 Auch hier is es fetzheiß 🥵, aber es ist auch ziemlich cool, mit der Kirche oben am Hügel ⛪, wo man aber gleich auf zwei Seiten zum Meer sieht.
 Man hört überall Musik. 🎶
 
-{{< fig src="IMG_20260826_154709.jpg" alt="Blick über die roten Dächer von Piran aufs Meer" >}}
-{{< fig src="IMG_20260826_154854.jpg" alt="Tiefblaues Meer mit einem Segelboot vor der Küste von Piran" >}}
+{{< gallery >}}
+IMG_20260826_154709.jpg | Blick über die roten Dächer von Piran aufs Meer
+IMG_20260826_154854.jpg | Tiefblaues Meer mit einem Segelboot vor der Küste von Piran
+{{< /gallery >}}
 
 Die engen Gasserl sind super spannend und liab und wir verstehen schon irgendwie, dass es sich hier gut aushalten lässt.
 Wir spazieren den Strand entlang, wo sich wieder mal drölf andere Touristen in der Sonne und im Meer tummeln, und entscheiden uns, dass wir uns einfach wieder mal recht azyklisch ein frühes Abendessen gönnen… nice! 🍽️
@@ -140,9 +152,11 @@ Wir spazieren den Strand entlang, wo sich wieder mal drölf andere Touristen in 
 Die Slowenen sind schon voll entspannt und total nett. 😌
 Es erinnert uns schon ein bisschen an die Urlaube früher in Italien 🇮🇹 oder Kroatien 🇭🇷, aber irgendwie ist es alles ein bisschen entspannter.
 
-{{< fig src="IMG_20260826_184726.jpg" alt="Uferweg an der Küste bei Piran mit Blick auf eine bewaldete Bucht" >}}
-{{< fig src="IMG_20260826_154132.jpg" alt="Eine Person steht am Geländer des Uferwegs, oben der Kirchturm von Piran" >}}
-{{< fig src="IMG_20260826_183654.jpg" alt="Blick von oben auf die Altstadt von Piran mit ihren roten Dächern und dem Hafen" >}}
+{{< gallery >}}
+IMG_20260826_184726.jpg | Uferweg an der Küste bei Piran mit Blick auf eine bewaldete Bucht
+IMG_20260826_154132.jpg | Eine Person steht am Geländer des Uferwegs, oben der Kirchturm von Piran
+IMG_20260826_183654.jpg | Blick von oben auf die Altstadt von Piran mit ihren roten Dächern und dem Hafen
+{{< /gallery >}}
 
 Damit wir unsere Badesachen nicht ganz umsonst mitgschleppt haben, hüpft Karin dann doch auch noch in ihre Badesachen und schmeißt sich ins Meer. 🏊‍♀️
 Aber ab jetzt weiß sie: hmmm… a wenn i das früher echt ziemlich gern hatte, einfach am Strand zu flaken und wenn's mir zu warm wird ins Wasser zu springen, i mag des echt nimmer! 🙅‍♀️
@@ -186,10 +200,12 @@ Wir haben schon viele Burgen gesehen und oft gleicht ja wirklich eine der andere
 … und dann kam die Höhlenburg! 🏰
 Zum Glück hatten wir einiges an zeitlichem Puffer, denn wir haben die Burg ziemlich zelebriert und uns gemütlichst alles angeschaut!
 
-{{< fig src="IMG_20260828_110204.jpg" alt="Burg Predjama: die weiße Höhlenburg klebt mitten in einer hohen Felswand" >}}
-{{< fig src="IMG_20260828_122642.jpg" alt="Die Fassade der Burg Predjama direkt unter dem Höhlenportal" >}}
-{{< fig src="IMG_20260828_120053.jpg" alt="Blick aus der Burg hinunter auf das Dorf und die grünen Hügel" >}}
-{{< fig src="IMG_20260828_121908.jpg" alt="Schmaler Treppengang zwischen Fels und Mauer im Inneren der Burg" >}}
+{{< gallery >}}
+IMG_20260828_110204.jpg | Burg Predjama: die weiße Höhlenburg klebt mitten in einer hohen Felswand
+IMG_20260828_122642.jpg | Die Fassade der Burg Predjama direkt unter dem Höhlenportal
+IMG_20260828_120053.jpg | Blick aus der Burg hinunter auf das Dorf und die grünen Hügel
+IMG_20260828_121908.jpg | Schmaler Treppengang zwischen Fels und Mauer im Inneren der Burg
+{{< /gallery >}}
 
 - 3 Stockwerke Felsenburg 🏰
 - ausgeklügelte Wasserleitungen, die das Wasser aus dem Karst in die Burg leiten 💧
@@ -226,9 +242,11 @@ Wir kommen zum Vorplatz beim Eingang der Höhle, wo wir gleich mal in vier versc
 Und dann fahren wir mit dem Zug von einem Bahnhof, der aussieht wie eine ultrafancy U-Bahn-Station, einfach mal 3 km in den Berg hinein! 🚂
 Das haben wir wieder mal nicht erwartet!
 
-{{< fig src="IMG_20260828_142257.jpg" alt="Riesiger Tropfstein in der Höhle von Postojna" >}}
-{{< fig src="IMG_20260828_143118.jpg" alt="Höhlenhalle mit unzähligen Stalaktiten und einem beleuchteten Steg" >}}
-{{< fig src="IMG_20260828_150852.jpg" alt="Heller, schneeweißer Stalagmit neben einer mächtigen Tropfsteinsäule" >}}
+{{< gallery >}}
+IMG_20260828_142257.jpg | Riesiger Tropfstein in der Höhle von Postojna
+IMG_20260828_143118.jpg | Höhlenhalle mit unzähligen Stalaktiten und einem beleuchteten Steg
+IMG_20260828_150852.jpg | Heller, schneeweißer Stalagmit neben einer mächtigen Tropfsteinsäule
+{{< /gallery >}}
 
 Und dann sind wir noch mal 2 km im Berg herum spaziert und haben so viele [Stalaktiten](https://de.wikipedia.org/wiki/Stalaktit), [Stalagmiten](https://de.wikipedia.org/wiki/Stalagmit) und [Stalagnaten](https://de.wikipedia.org/wiki/Stalagnat) gesehen, wie man sich es nicht mal vorstellen kann. 🤯
 "Vorhänge", die aussehen wie Prosciutto 🍖, Tropfsteine, die wie ein Giggal (🇩🇪: Huhn; 🇦🇹: Hendl) ausschauen.
@@ -274,8 +292,10 @@ Hawidere – so viel Obst und Gemüse auf einem Haufen, und alles schaut einfach
 Wir konnten nicht widerstehen und haben uns ein paar Sachen mitgenommen, damit wir uns in unserer nächsten Unterkunft wieder was kochen können …
 Es hat sich gelohnt – die Tomaten, die wir in diesem Urlaub gefuttert haben, werden wir wirklich vermissen!
 
-{{< fig src="IMG_20260829_112941.jpg" alt="Marktstände mit Obst und Gemüse unter großen Schirmen" >}}
-{{< fig src="IMG_20260829_114239.jpg" alt="Selfie von uns beiden mit Kappen am Markt, dahinter der Burghügel" >}}
+{{< gallery >}}
+IMG_20260829_112941.jpg | Marktstände mit Obst und Gemüse unter großen Schirmen
+IMG_20260829_114239.jpg | Selfie von uns beiden mit Kappen am Markt, dahinter der Burghügel
+{{< /gallery >}}
 
 Wie es sich für [Imker](https://bienensteff.de) gehört, haben wir natürlich auch einen lokalen Imker ausgefragt und ihm a bissl was abgekauft, damit wir kosten können, wie der Honig hier so schmeckt. 🍯 (Wir wissen jetzt: Kastanienhonig ist nicht unser Favorit – für Karin schmeckt der einfach nur nach Waschmittel, sogar in einer Sauce!)
 Dazu haben wir ihm noch ein kleines Flascherl Honigschnaps abgekauft.
@@ -290,8 +310,10 @@ Nachdem Schussel-Steff leider seine Sonnenbrille verloren hat, haben wir unsere 
 
 Neu bebrillt und beeist haben wir dann noch den Hügel der lokalen Burg erklommen, um einen Rundumblick zu haben. Schön wars!
 
-{{< fig src="IMG_20260829_154212.jpg" alt="Blick vom Burghügel über die Dächer von Ljubljana unter dunklen Wolken" >}}
-{{< fig src="IMG_20260829_165832.jpg" alt="Weiter Platz in Ljubljana mit einem gelben Prachtbau, darüber die Burg auf dem Hügel" >}}
+{{< gallery >}}
+IMG_20260829_154212.jpg | Blick vom Burghügel über die Dächer von Ljubljana unter dunklen Wolken
+IMG_20260829_165832.jpg | Weiter Platz in Ljubljana mit einem gelben Prachtbau, darüber die Burg auf dem Hügel
+{{< /gallery >}}
 
 ## Blaž und sein kleines Paradies
 
@@ -304,17 +326,22 @@ Denn wie wir erfahren haben, haben Blaž und seine Frau das Appartement ursprün
 Dafür hatten jetzt wir das Vergnügen, in dieser – der Geschichte entsprechend – unfassbar schönen Bude zu wohnen (die beiden machen das übrigens erst seit gut vier Wochen 🧐).
 Aber überzeugt euch selbst:
 
-{{< fig src="IMG_20260830_110618.jpg" alt="Garten mit Rasen, Pergola und Blick ins Tal unter wolkenlosem Himmel" >}}
-{{< fig src="IMG_20260902_093316.jpg" alt="Überdachte Terrasse mit Sitzbank, Korbsesseln und einem Weinfass als Tisch" >}}
-{{< fig src="IMG_20260831_185504.jpg" alt="Graue Katze schläft auf der Fußmatte vor der Terrassentür" >}}
-{{< fig src="IMG_20260902_093243_PANO.jpg" alt="Panorama über ein grünes Tal mit Dörfern und bewaldeten Hügeln" >}}
+{{< gallery >}}
+IMG_20260830_110618.jpg | Garten mit Rasen, Pergola und Blick ins Tal unter wolkenlosem Himmel
+IMG_20260902_093316.jpg | Überdachte Terrasse mit Sitzbank, Korbsesseln und einem Weinfass als Tisch
+IMG_20260831_185504.jpg | Graue Katze schläft auf der Fußmatte vor der Terrassentür
+{{< /gallery >}}
+
+{{< fig src="IMG_20260902_093243_PANO.jpg" alt="Panorama über ein grünes Tal mit Dörfern und bewaldeten Hügeln" pano=true >}}
 
 Wir haben es einfach nur gefeiert und genossen! 🥳
 Darum haben wir uns am Sonntag einfach nur in den Garten gepflanzt, in einem Buch gelesen 📖 und später drinnen Catan gespielt 🎲 (wir lieben die Duell-Version!).
 Zitat von Blaž am nächsten Tag: „I was wondering if you are still alive, because you were so quiet yesterday!“ 😅
 
-{{< fig src="IMG_20260829_194401.jpg" alt="Ein Mann beißt mit aufgerissenen Augen in eine riesige Tomate" >}}
-{{< fig src="IMG_20260829_194448.jpg" alt="Gedeckter Tisch mit Tomatensalat, Schinken und Rotwein" >}}
+{{< gallery >}}
+IMG_20260829_194401.jpg | Ein Mann beißt mit aufgerissenen Augen in eine riesige Tomate
+IMG_20260829_194448.jpg | Gedeckter Tisch mit Tomatensalat, Schinken und Rotwein
+{{< /gallery >}}
 
 Blaž und seine Frau sind total liebe Hosts.
 Wir wurden ganz unkompliziert zu einem Grillabend eingeladen 🔥, dabei bekocht und ehrlicherweise mit alkoholischen Getränken abgefüllt 🍷 (das geht bei uns zwei eh relativ schnell).
@@ -334,32 +361,40 @@ Funfact: Die Slowenen sind nicht die Ersten, die auf so eine Idee kommen.
 Steffs geschulter Blick hat sofort erkannt: „Des hom Waidler gspaxt!“
 Es gibt also mehrere von den 🌲🥚: Das erste davon steht – ihr könnt es sicher erraten – im [Bayerischen Wald](https://www.nationalpark-ferienland-bayerischer-wald.de/baumwipfelpfad/). Dann gibt's noch welche auf [Rügen](https://treetop-walks.com/ruegen/), im [Schwarzwald](https://www.baumwipfelpfad.de/baumwipfelpfad-schwarzwald), in der [Slowakei](https://bachledka.sk/en), im [Elsass](https://www.baumwipfelpfad.de/baumwipfelpfad-elsass-frankreich), im [Salzkammergut](https://www.salzkammergut.at/oesterreich-poi/detail/430022848/baumwipfelpfad-salzkammergut.html), auf [Usedom](https://treetop-walks.com/usedom/) …
 
-{{< fig src="IMG_20260831_122421.jpg" alt="Schautafel am Baumwipfelpfad mit einem Foto des eiförmigen Turms im Bayerischen Wald" >}}
-{{< fig src="IMG_20260831_122501.jpg" alt="Reihe von Schautafeln mit Fotos anderer Baumwipfelpfade am Geländer" >}}
+{{< gallery >}}
+IMG_20260831_122421.jpg | Schautafel am Baumwipfelpfad mit einem Foto des eiförmigen Turms im Bayerischen Wald
+IMG_20260831_122501.jpg | Reihe von Schautafeln mit Fotos anderer Baumwipfelpfade am Geländer
+{{< /gallery >}}
 
 Auch wenn wir uns a bissl in die Hose sch*****, das integrierte Trampolin im Turm zu verwenden, finden wir die Idee schon wirklich cool und haben das 🌲🥚 sehr genossen!
 
-{{< fig src="IMG_20260831_123534.jpg" alt="Aussichtsturm des Baumwipfelpfads ragt über die Fichtenwipfel" >}}
-{{< fig src="IMG_20260831_123701.jpg" alt="Der hölzerne Aussichtsturm mit seiner spiralförmigen Rampe von unten" >}}
-{{< fig src="IMG_20260831_125220.jpg" alt="Wegweiser am Geländer: Baumwipfelpfad Bayerischer Wald, 319 km entfernt" >}}
-{{< fig src="IMG_20260831_125806.jpg" alt="Weiter Blick vom Turm über bewaldete Hügelketten bis zum Horizont" >}}
+{{< gallery >}}
+IMG_20260831_123534.jpg | Aussichtsturm des Baumwipfelpfads ragt über die Fichtenwipfel
+IMG_20260831_123701.jpg | Der hölzerne Aussichtsturm mit seiner spiralförmigen Rampe von unten
+IMG_20260831_125220.jpg | Wegweiser am Geländer: Baumwipfelpfad Bayerischer Wald, 319 km entfernt
+IMG_20260831_125806.jpg | Weiter Blick vom Turm über bewaldete Hügelketten bis zum Horizont
+{{< /gallery >}}
 
 Hier oben haben wir wirklich regionales Essen genossen – hui, war das viel! Aber die Schwammerl waren schon herrlich!
 
-{{< fig src="IMG_20260831_133800.jpg" alt="Ein Mann mit Kappe und Sonnenbrille sitzt vor einem Teller Schwammerlsuppe mit Brot" >}}
-{{< fig src="IMG_20260831_135110.jpg" alt="Eintopf in einem kleinen Kupferkessel über einem Teelicht" >}}
+{{< gallery >}}
+IMG_20260831_133800.jpg | Ein Mann mit Kappe und Sonnenbrille sitzt vor einem Teller Schwammerlsuppe mit Brot
+IMG_20260831_135110.jpg | Eintopf in einem kleinen Kupferkessel über einem Teelicht
+{{< /gallery >}}
 
 Danach haben wir noch einen sehr notwendigen Verdauungsspaziergang gemacht!
 
-{{< fig src="IMG_20260831_150225.jpg" alt="Eine Frau geht auf einem Holzbohlenweg durch ein Hochmoor" >}}
-{{< fig src="IMG_20260831_151026.jpg" alt="Zwei windschiefe Bäume auf einer Hochfläche unter dunklen Wolken" >}}
+{{< gallery >}}
+IMG_20260831_150225.jpg | Eine Frau geht auf einem Holzbohlenweg durch ein Hochmoor
+IMG_20260831_151026.jpg | Zwei windschiefe Bäume auf einer Hochfläche unter dunklen Wolken
+{{< /gallery >}}
 
 An unserem letzten Tag bei Blaž haben wir einen kleinen großen Spaziergang durch den Ort und zur gegenüberliegenden Talseite unternommen und uns eine [Burgruine](https://maps.app.goo.gl/PKshDZ19fLSaj7Ln9) angeschaut. 🏰
 Oben angekommen hatten wir einen super Ausblick über die ganze Gegend! 😍
 Blažs Paradies ist übrigens auch auf dem Panoramafoto zu sehen 😉.
 
 {{< fig src="IMG_20260901_124752.jpg" alt="Dorfstraße mit hellen Häusern unter blauem Himmel" >}}
-{{< fig src="IMG_20260901_143242_PANO.jpg" alt="Panorama von einem Felsen über die Stadt und das weite Hügelland" >}}
+{{< fig src="IMG_20260901_143242_PANO.jpg" alt="Panorama von einem Felsen über die Stadt und das weite Hügelland" pano=true >}}
 
 ## Fazit
 
@@ -423,8 +458,10 @@ ABER: so wie sie heute aussieht, hat Karin (und ihre Mama - wir haben sie kurzer
 2017 gab es nämlich einen massiven [Felssturz](https://salzburg.orf.at/v2/news/stories/2846034/) 🪨 und es war eine Zeit lang unklar, wie bzw. ob der Zugang in die Klamm wieder erschlossen werden kann.
 Es brauchte wohl ziemlich viele kluge Köpfe, die sich die Lösung ausgedacht haben, denn jetzt gibt es einfach mal eine Helix-Rampe, die das kaputte Stück des Weges jetzt ersetzt.
 
-{{< fig src="IMG_20260823_180731.jpg" alt="Liechtensteinklamm: enge, glatt geschliffene Felsschlucht mit Wildbach" >}}
-{{< fig src="IMG_20260823_180745.jpg" alt="Selfie zu dritt in der Klamm" >}}
+{{< gallery >}}
+IMG_20260823_180731.jpg | Liechtensteinklamm: enge, glatt geschliffene Felsschlucht mit Wildbach
+IMG_20260823_180745.jpg | Selfie zu dritt in der Klamm
+{{< /gallery >}}
 
 Wir finden es ist schon richtig cool dort und immer wieder einen kühlen Ausflug wert! 😉
 
@@ -452,9 +489,12 @@ Zum Abschluss haben wir noch a bissl Steiermark eingesammelt – und die kann ku
 
 Graz selbst ist eine richtig schöne Stadt: Der [Uhrturm](https://de.wikipedia.org/wiki/Uhrturm_(Graz)) thront über der Altstadt, vom Schloßberg geht's über die [längste Indoor-Rutsche der Welt](https://www.graztourismus.at/de/sightseeing-kultur/sehenswuerdigkeiten/schlossbergrutsche_shg_1525) (175 m durch den Berg 🛝) wieder runter, und auf dem Rückweg haben wir natürlich noch bei [„Die Eisperle“](https://www.eisperle.at/) ein unfassbar guates Eis konsultiert. 🍦
 
-{{< fig src="IMG_20260904_102854_PANO.jpg" alt="Panorama vom Schlossberg über die Dächer von Graz" >}}
-{{< fig src="IMG_20260904_102923_PANO.jpg" alt="Blick vom Schlossberg über die roten Dächer der Grazer Altstadt" >}}
-{{< fig src="IMG_20260904_103120.jpg" alt="Der Grazer Uhrturm mit seinem großen Zifferblatt" >}}
+{{< fig src="IMG_20260904_102854_PANO.jpg" alt="Panorama vom Schlossberg über die Dächer von Graz" pano=true >}}
+
+{{< gallery >}}
+IMG_20260904_102923_PANO.jpg | Blick vom Schlossberg über die roten Dächer der Grazer Altstadt
+IMG_20260904_103120.jpg | Der Grazer Uhrturm mit seinem großen Zifferblatt
+{{< /gallery >}}
 
 Traditionsreiches Handwerk gibt's auch: In [Piber](https://de.wikipedia.org/wiki/Bundesgest%C3%BCt_Piber) bei Köflach steht das Bundesgestüt, das die [Lipizzaner](https://de.wikipedia.org/wiki/Lipizzaner) für die Wiener Spanische Hofreitschule züchtet. 🐴
 Was wir dort nett und lustig fanden: Die alten Herren Hengste, die keine Zähne mehr haben und entsprechend Probleme beim beißen haben, bekommen auf dem Gestüt "Gatsch im Kübel" serviert. 🤩
