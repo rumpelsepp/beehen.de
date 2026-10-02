@@ -31,6 +31,8 @@ Bis zum Heimgarten sind das knapp 1000 Höhenmeter am Stück, am Grat kommen noc
 Mit allen Pausen standen wir gegen 16 Uhr am Herzogstand, waren also rund sechs Stunden unterwegs.
 Runter haben wir es uns dann leicht gemacht und die Herzogstandbahn genommen.
 
+{{< embed provider="Mapy.com" button="Karte laden" src="https://mapy.com/s/namasarana" width="700" height="466" title="Karte der Wanderung vom Walchensee über Heimgarten und Grat zum Herzogstand" >}}
+
 ### Durch den Wald nach oben
 
 Die Wanderung fängt ganz kurz gemütlich an – und dann geht es ziemlich lange einfach nur bergauf.
