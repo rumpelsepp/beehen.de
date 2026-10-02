@@ -1,0 +1,37 @@
+{{- /*
+  Grid of post cards, two to a row: feature image, title, date and tags,
+  and the beginning of the text. Used by the home page and by the pages of
+  the single tags.
+
+  Context: the pages to show.
+*/ -}}
+{{/* g-4 spaces the cards, h-100 stretches each card to the height of
+     its row so neighbours line up regardless of text length. */}}
+<div class="row g-4">
+  {{ range . }}
+    {{ $title := .Title }}
+    {{ if .Draft }}
+      {{ $title = printf "✍️ %s" $title }}
+    {{ end }}
+
+    {{/* card.html looks the image up in the page bundle (else in assets/)
+         and renders it responsively; posts without a feature image get
+         the placeholder so all cards line up. */}}
+    {{ $image := .Param "image" | default "feature.jpg" }}
+    {{ if not (.Resources.GetMatch $image) }}
+      {{ $image = "img/placeholder.svg" }}
+    {{ end }}
+    {{ $text := or .Params.description .Summary | plainify | strings.Truncate 200 }}
+    <div class="col-md-6">
+      {{ partial "card.html" (dict
+        "cardClass" "h-100"
+        "title" $title
+        "subtitle" (partial "subtitle.html" .)
+        "content" (printf "<p>%s</p>" $text)
+        "url" .RelPermalink
+        "image" $image
+        "page" .
+      ) }}
+    </div>
+  {{ end }}
+</div>

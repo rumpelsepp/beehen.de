@@ -1,0 +1,28 @@
+{{- /*
+  Page of a single tag: the posts carrying it, shown like on the home page
+  (_partials/post-grid.html), under a bar that says the list is filtered
+  and offers the way back to all posts.
+*/ -}}
+{{ define "main" }}
+<article class="content">
+  <header>
+    <h1>#{{ .Title }}</h1>
+  </header>
+
+  {{ $n := len .Pages }}
+  <p class="tag-filter">
+    <span class="tag-filter-text">
+      <i class="bi bi-funnel-fill" aria-hidden="true"></i>
+      Gefiltert nach <strong>#{{ .Title }}</strong> – {{ $n }} {{ cond (eq $n 1) "Beitrag" "Beiträge" }}
+    </span>
+    <span class="tag-filter-actions">
+      <a href="{{ .Parent.RelPermalink }}"><i class="bi bi-tags" aria-hidden="true"></i> Alle Tags</a>
+      <a class="tag-filter-clear" href="{{ site.Home.RelPermalink }}"><i class="bi bi-x-lg" aria-hidden="true"></i> Filter aufheben</a>
+    </span>
+  </p>
+
+  {{ .Content }}
+
+  {{ partial "post-grid.html" .Pages }}
+</article>
+{{ end }}

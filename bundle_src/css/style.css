@@ -80,3 +80,35 @@
     font-weight: 400;
     color: var(--color-ink-muted);
 }
+
+/* /tags/<tag> — bar above the posts of a tag (layouts/term.html): says that
+   the list is filtered, with the ways out on the right. */
+.tag-filter {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 0.75rem;
+    margin: 0 0 1.75rem;
+    padding: 0.7rem 1rem;
+    border: 1px solid color-mix(in srgb, var(--color-accent) 30%, transparent);
+    border-radius: var(--radius-lg);
+    background: color-mix(in srgb, var(--color-accent) 10%, var(--color-surface));
+    text-align: left;
+    hyphens: none;
+}
+
+.tag-filter-text .bi {
+    margin-right: 0.3rem;
+    color: var(--color-accent);
+}
+
+.tag-filter-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.25rem;
+    margin-left: auto;
+}
+
+.tag-filter-actions .bi {
+    margin-right: 0.15rem;
+}

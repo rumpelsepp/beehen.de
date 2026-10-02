@@ -1,10 +1,3 @@
-{{- define "_partials/inline/gallery/card-content.html" }}
-  {{ $text := or .Params.description .Summary }}
-  {{ $text = $text | plainify | strings.Truncate 200 }}
-
-  <p>{{ $text }}</p>
-{{- end }}
-
 {{ define "main" }}
 <article class="content">
   <header>
@@ -19,34 +12,6 @@
 
   {{ .Content }}
 
-  {{/* g-4 spaces the cards, h-100 stretches each card to the height of
-       its row so neighbours line up regardless of text length. */}}
-  <div class="row g-4">
-    {{ range where site.RegularPages "Section" "blog" }}
-      {{ $title := .Title }}
-      {{ if .Draft }}
-        {{ $title = printf "✍️ %s" $title }}
-      {{ end }}
-
-      {{/* card.html looks the image up in the page bundle (else in assets/)
-           and renders it responsively; posts without a feature image get
-           the placeholder so all cards line up. */}}
-      {{ $image := .Param "image" | default "feature.jpg" }}
-      {{ if not (.Resources.GetMatch $image) }}
-        {{ $image = "img/placeholder.svg" }}
-      {{ end }}
-      <div class="col-md-6">
-        {{ partial "card.html" (dict
-          "cardClass" "h-100"
-          "title" $title
-          "subtitle" (partial "subtitle.html" .)
-          "content" (partial "inline/gallery/card-content.html" .)
-          "url" .RelPermalink
-          "image" $image
-          "page" .
-        ) }}
-      </div>
-    {{ end }}
-  </div>
+  {{ partial "post-grid.html" (where site.RegularPages "Section" "blog") }}
 </article>
 {{ end }}
