@@ -201,7 +201,7 @@ Wer noch mehr Infos braucht: [Hier](https://www.tyssaer-waende.de/) gibt's noch 
 
 Wir haben mehrere dieser Felsen bewandert:
 
-<iframe style="border:none" src="https://mapy.com/s/logusevefo" width="100%" height="600" frameborder="0"></iframe>
+{{< embed provider="Mapy.com" button="Karte laden" src="https://mapy.com/s/logusevefo" height="600" title="Karte der Wanderungen in der Böhmischen Schweiz" >}}
 
 {{< fig src="IMG_20251106_114743.jpg" alt="Sandsteinfelsen über herbstlichem Wald in der Böhmischen Schweiz" >}}
 {{< fig src="IMG_20251106_115037.jpg" alt="Blick von einer Holzplattform auf Sandsteintürme im Herbstwald" >}}
@@ -213,14 +213,14 @@ Wir haben mehrere dieser Felsen bewandert:
 {{< fig src="IMG_20251106_124611.jpg" alt="Frei stehender Sandsteinturm, durch eine Felsöffnung gesehen" >}}
 
 
-<iframe src="https://www.komoot.com/de-de/tour/2672456279/embed?share_token=avF8Ube2Phwiyo5IXeBnNw0hdVXDRwhnSoa0KhTqQceK2jZF3K" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+{{< embed provider="Komoot" button="Karte laden" src="https://www.komoot.com/de-de/tour/2672456279/embed?share_token=avF8Ube2Phwiyo5IXeBnNw0hdVXDRwhnSoa0KhTqQceK2jZF3K" href="https://www.komoot.com/de-de/tour/2672456279?share_token=avF8Ube2Phwiyo5IXeBnNw0hdVXDRwhnSoa0KhTqQceK2jZF3K" height="800" title="Wanderung" >}}
 
 {{< fig src="IMG_20251107_103210.jpg" alt="Eine Person steht am Ufer eines Waldsees und blickt ins Gegenlicht" >}}
 {{< fig src="IMG_20251107_104301.jpg" alt="Mächtiger geschichteter Sandsteinfelsen zwischen Kiefern" >}}
 {{< fig src="IMG_20251107_120529.jpg" alt="Fachwerkhäuser unterhalb eines Sandsteinfelsens, davor ein Weg durch die Wiese" >}}
 {{< fig src="IMG_20251107_132628.jpg" alt="Morscher Holzsteg über einen Bach im Herbstwald" >}}
 
-<iframe src="https://www.komoot.com/de-de/tour/2672482853/embed?share_token=aHzw3fbw42H7oKnfNB2uyoYp0izxr2Z8UpW9KO8J1Q2Q8Wrs40" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+{{< embed provider="Komoot" button="Karte laden" src="https://www.komoot.com/de-de/tour/2672482853/embed?share_token=aHzw3fbw42H7oKnfNB2uyoYp0izxr2Z8UpW9KO8J1Q2Q8Wrs40" href="https://www.komoot.com/de-de/tour/2672482853?share_token=aHzw3fbw42H7oKnfNB2uyoYp0izxr2Z8UpW9KO8J1Q2Q8Wrs40" height="800" title="Wanderung" >}}
 
 {{< fig src="IMG_20251108_104529.jpg" alt="Burgturm mit Zinnen auf einem Sandsteinfelsen" >}}
 {{< fig src="IMG_20251108_105944.jpg" alt="Ein Mann macht Brotzeit an einem Holztisch unter herbstlichen Buchen" >}}

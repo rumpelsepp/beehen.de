@@ -1,11 +1,17 @@
+{{- /*
+  Interactive map of a GPX track from the page bundle, shown by gpx.studio.
+  Loaded only once the reader asks for it (the theme's embed.html partial).
+*/ -}}
 {{- $gpx := .Page.Resources.GetMatch (.Get "gpx") -}}
 {{- with $gpx -}}
   {{- $state := printf `{"urls": ["%s"]}` .Permalink -}}
-  <iframe src="https://gpx.studio/?state={{ $state }}&embed"
-    title="{{ $.Get `title` | default `Interaktive Karte des GPX-Tracks` }}"
-    width="100%" height="500" loading="lazy" allowfullscreen>
-    {{ partial "link.html" (dict "href" (printf "https://gpx.studio/?state=%s" $state) "text" "Karte auf gpx.studio öffnen") }}
-  </iframe>
+  {{ partial "embed.html" (dict
+    "src" (printf "https://gpx.studio/?state=%s&embed" $state)
+    "href" (printf "https://gpx.studio/?state=%s" $state)
+    "provider" "gpx.studio"
+    "title" ($.Get "title" | default "Interaktive Karte des GPX-Tracks")
+    "button" "Karte laden"
+  ) }}
 {{- else -}}
   {{- warnf "shortcode map: no GPX resource matching %q in %s" ($.Get "gpx") $.Page.Path -}}
 {{- end -}}

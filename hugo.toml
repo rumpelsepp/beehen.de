@@ -43,6 +43,11 @@ weight = 20
   weight = 10
 
 [[menus.footer]]
+  name = 'Datenschutz'
+  pageRef = '/datenschutz'
+  weight = 15
+
+[[menus.footer]]
   name = 'bienensteff.de'
   url = 'https://bienensteff.de'
   weight = 20

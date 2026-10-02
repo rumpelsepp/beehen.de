@@ -39,9 +39,7 @@ Bevor wir uns aber wirklich auf den Weg machen, brauchen wir – ihr könnt es e
 Steff ist der Beisl-Finder, darum wirft er kurzerhand einen Blick auf die Karte und findet natürlich den [genialsten Bäcker](https://maps.app.goo.gl/Jv2AMHYUV1s7Xt2B7) im ganzen Ort (Feistritz an der Gail). Karin war zwar ultimativ verwirrt vor der Tür – das Ding hat eher ausgeschaut wie ein Eingang in irgendeinen Hinterhof –, aber drinnen (alter Falter!) hat es herrlich nach allen möglichen süßen Leckereien geduftet und eine richtig liebe Dame hat uns aufgeklärt, mit wie vielen unterschiedlichen Füllungen sie ihre Teilchen – selbstverständlich selbst! – bestückt.
 Und die Dinger, so wie auch das Brot, das wir uns eingekauft haben, waren der Hammer! DANKE, Beisl-Finder Steff – you rock (natürlich auch die Bäckerei)!
 
-<div style="display: flex; justify-content: center;">
-<iframe style="border:none" src="https://mapy.com/s/pajolamano" width="700" height="466" frameborder="0"></iframe>
-</div>
+{{< embed provider="Mapy.com" button="Karte laden" src="https://mapy.com/s/pajolamano" width="700" height="466" title="Karte der Reiseroute" >}}
 
 Danach geht's ab über die italienische Grenze nach Tarvis 🇮🇹, wo wir aber gleich Richtung Slowenien 🇸🇮 abbiegen.
 Wir merken schon aufgrund der Straßenführung bzw. -beschaffenheit und dem Fahrstil der anderen Autofahrer:innen, dass wir nimmer in Österreich sind… schon a bissl spannend immer wieder… und auch die Vegetation ist echt schon anders! So schön, wenn man einfach mit wachem Auge durch eine noch unbekannte Region fährt!
@@ -375,9 +373,7 @@ Der Kellner macht ganz natürlich mit und es fällt uns erst danach auf, was pas
 Zitat Steff: "Wann hast'n du überhaupt gemerkt, dass der Deutsch kann?"
 Wir kommen gerne wieder, weils uns wirklich gefallen hat und würden gerne noch mehr über die Geschichte und die Zusammenhänge mit Österreich lernen.
 
-<div style="display: flex; justify-content: center;">
-<iframe style="border:none" src="https://mapy.com/s/genulabuge" width="700" height="466" frameborder="0"></iframe>
-</div>
+{{< embed provider="Mapy.com" button="Karte laden" src="https://mapy.com/s/genulabuge" width="700" height="466" title="Karte der Reiseroute" >}}
 
 ## Addendum
 ### Karst – wenn das Wasser einfach verschwindet
