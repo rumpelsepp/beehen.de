@@ -10,6 +10,12 @@ build: clean npm-build
 serve: npm-build
     {{ hugo }} server --buildDrafts
 
+# Creates content/blog/<year>/<slug>/index.md from archetypes/blog/ as a
+# draft; photos go into that folder, next to index.md.
+# Start a new post, e.g. `just new-post kroatien-im-herbst`
+new-post slug:
+    {{ hugo }} new content --kind blog "blog/$(date +%Y)/{{ slug }}"
+
 deploy: build
     rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 
