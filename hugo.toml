@@ -55,16 +55,22 @@ weight = 20
 [imaging]
   resampleFilter = "Lanczos"
 
+  # Global nur fuer Hugo < 0.163 (z.B. das Fedora-Paket), das die Werte pro
+  # Format unten noch nicht kennt und sonst mit 75 baut. Neuere Versionen
+  # melden den Schluessel als veraltet (nur auf Log-Level info) und nehmen
+  # die Werte pro Format. Kann weg, sobald lokal kein altes Hugo mehr laeuft.
+  quality = 90
+
   # Wie bienensteff.de: verlustbehaftete Qualitaet fuer verkleinerte Bilder
-  # (WebP ueber die fig-/image-Partials). Um 80 ist optisch nicht von
-  # hoeheren Werten zu unterscheiden, die Dateien sind aber deutlich kleiner.
+  # (WebP ueber die fig-/image-Partials). Bei 80 waren Artefakte in weichen
+  # Verlaeufen sichtbar, daher 90.
   # Pro Format gesetzt, das globale imaging.quality ist seit Hugo 0.163
   # deprecated.
   [imaging.webp]
-    quality = 80
+    quality = 90
 
   [imaging.jpeg]
-    quality = 80
+    quality = 90
 
   [imaging.meta]
     # Hugo-Default, aber ohne den GPS-Ausschluss: .Meta.Lat/.Long fuer den
