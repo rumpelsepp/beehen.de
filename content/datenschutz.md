@@ -65,7 +65,7 @@ Der Knopf braucht JavaScript; alternativ löschst du die Websitedaten für beehe
 Wir binden Karten dieser Anbieter ein:
 
 * **gpx.studio** – zeigt unsere GPX-Tracks auf einer Karte.
-  Die Anwendung wird über GitHub Pages ausgeliefert (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA; [Datenschutzhinweise](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement)) und lädt ihr Kartenmaterial unter anderem von der MapTiler AG, Höfnerstrasse 98, 6314 Unterägeri, Schweiz ([Datenschutzhinweise](https://www.maptiler.com/privacy-policy/)).
+  Die Anwendung wird über GitHub Pages ausgeliefert (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA; [Datenschutzhinweise](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement)) und lädt ihr Kartenmaterial unter anderem von der MapTiler AG, Zugerstrasse 22, 6314 Unterägeri, Schweiz ([Datenschutzhinweise](https://www.maptiler.com/privacy-policy/)).
   Dabei können Daten in die USA übertragen werden.
 * **Mapy.com** – Seznam.cz, a.s., Radlická 3294/10, 150 00 Praha 5, Tschechien ([Datenschutzhinweise](https://o-seznam.cz/pravni-informace/ochrana-udaju/)).
 * **Komoot** – komoot GmbH, Kienberger Allee 4, 12529 Schönefeld ([Datenschutzhinweise](https://www.komoot.com/de-de/privacy)).
@@ -79,7 +79,7 @@ Daten werden erst übertragen, wenn du einen solchen Link anklickst; ab dann gil
 ## Kontakt per E-Mail
 
 Wenn du uns schreibst, verarbeiten wir deine E-Mail-Adresse und den Inhalt deiner Nachricht, um dir zu antworten (Art. 6 Abs. 1 lit. f DSGVO).
-Unser Postfach liegt bei [mailbox.org](https://mailbox.org) (Heinlein Hosting GmbH, Schwedter Str. 8/9B, 10119 Berlin).
+Unser Postfach liegt bei [mailbox.org](https://mailbox.org) (Heinlein Hosting GmbH, Schwedter Straße 8/9A, 10119 Berlin).
 Wir löschen die Nachrichten, sobald dein Anliegen erledigt ist und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
 ## Deine Rechte
