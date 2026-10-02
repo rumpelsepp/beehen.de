@@ -1,5 +1,15 @@
 /* Site-specific overrides on top of the bienensteff theme. */
 
+/* Links: Bootstrap's default blue (#0d6efd) has a contrast of only 4.2:1 on
+   the page background, short of the 4.5:1 of WCAG AA. These are Bootstrap's
+   own darker shades of it; the link colour comes to 6.1:1. */
+:root {
+    --bs-link-color: #0a58ca;
+    --bs-link-color-rgb: 10, 88, 202;
+    --bs-link-hover-color: #084298;
+    --bs-link-hover-color-rgb: 8, 66, 152;
+}
+
 /* Footer: give the stacked blocks (brand / menu / copyright) some air.
    The theme only spaces them when the .footer-grid columns are present,
    which this site's footer doesn't use. */
