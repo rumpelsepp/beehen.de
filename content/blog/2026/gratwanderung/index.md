@@ -2,7 +2,7 @@
 title: "Gratwanderung"
 date: 2026-09-27
 tags: [Bayern]
-image: "IMG_20260927_162350.jpg"
+image: "IMG_20260927_160356.jpg"
 toc: false
 ---
 
