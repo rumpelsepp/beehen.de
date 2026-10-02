@@ -11,7 +11,7 @@ Daten gehen nur dann an Dritte, wenn du eine eingebundene Karte ausdrücklich l�
 
 ## Verantwortlicher
 
-Dr. Stefan Tatschner  
+Stefan Tatschner  
 Gräfelfinger Straße 169a  
 81375 München
 

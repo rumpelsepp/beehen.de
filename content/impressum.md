@@ -2,7 +2,7 @@
 title: Impressum
 ---
 
-Dr. Stefan Tatschner  
+Stefan Tatschner  
 Gräfelfinger Straße 169a  
 81375 München
 
@@ -12,6 +12,6 @@ E-Mail: stefan.tatschner@mailbox.org
 
 ## Verantwortlich für den Inhalt
 
-Dr. Stefan Tatschner  
+Stefan Tatschner  
 Gräfelfinger Straße 169a  
 81375 München

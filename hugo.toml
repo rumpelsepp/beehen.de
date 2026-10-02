@@ -25,7 +25,7 @@ imageFormat = 'webp'
 # Braucht den GPS-Ausschluss aus [imaging.meta].fields entfernt (siehe unten).
 imageGeotags = true
 # Kontaktblock im Footer (layouts/_partials/footer.html), Markdown.
-contact = """Dr. Stefan Tatschner
+contact = """Stefan Tatschner
 
 <i class="bi bi-envelope" aria-hidden="true"></i> [stefan.tatschner@mailbox.org](mailto:stefan.tatschner@mailbox.org)
 """
