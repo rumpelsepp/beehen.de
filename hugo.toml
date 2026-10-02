@@ -33,7 +33,7 @@ pageRef = '/über-uns'
 weight = 10
 
 [[menus.main]]
-name = '#tags'
+name = '#Tags'
 pageRef = '/tags'
 weight = 20
 

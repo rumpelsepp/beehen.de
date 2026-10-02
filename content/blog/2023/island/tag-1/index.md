@@ -2,7 +2,7 @@
 title: "Tag 1: Wo zum Deifi schloft unser Autovermieter herum?"
 date: 2023-07-30T22:13:16+02:00
 post_image: IMG_20230730_123638.jpg
-tags: ["island", "reykjavik"]
+tags: ["Island", "Reykjavik"]
 draft: false
 ---
 

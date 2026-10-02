@@ -1,7 +1,7 @@
 ---
 title: "Tag 7: Lasst uns baden gehen es ist saukalt!"
 date: 2023-08-05T22:13:16+02:00
-tags: ["island", "westfjords"]
+tags: ["Island", "Westfjorde"]
 draft: false
 ---
 Naja – Es war eigentlich wieder ein wunderbarer Tag und wir haben

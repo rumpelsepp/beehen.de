@@ -1,7 +1,7 @@
 ---
 title: 'Tag 19: Time to say goodbye'
 date: 2023-08-17T22:13:16+02:00
-tags: ["island"]
+tags: ["Island"]
 ---
 
 *Time to say goodbye — oder — Alles hat ein Ende nur die Wurscht hat zwei!*
