@@ -158,7 +158,7 @@ Im Wald kommt dann noch die Brandgefahr dazu. Das Stumpal gehört also in den Ta
 {{< /info >}}
 
 Unten angekommen waren wir ehrlich gesagt ziemlich am Arsch: kaputt, mit müden Beinen und immer noch ein bisserl zittrigen Knien.
-Wobei uns im Nachhinein weniger der Grat Angst gemacht hat als so mancher Mitwanderer. 😄
+Wobei wir uns im Nachhinein weniger um uns selbst fürchten mussten als um so manchen Mitwanderer. 😄
 
 Zum Glück wartete da schon unser bester Freund des Tages: der [Fischerwirt](https://fischerwirt.bayern/) in Schlehdorf.
 Wir sind direkt hingefahren und haben den Tag gebührend zelebriert, mit richtig gutem Essen aus der Gegend.
@@ -172,34 +172,35 @@ IMG_20260927_185319.jpg | Karin sitzt im Biergarten und zeigt grinsend auf ihren
 ## Entstehung, Dauerbrenner Eiszeit
 
 Wer oben am Grat steht, dem fällt eines sofort auf: Die Alpen sind hier einfach zu Ende.
-Kein sanftes Auslaufen, keine Hügel, die langsam kleiner werden – hinter dem letzten Bergrücken ist es auf einmal bretteben, bis zum Horizont.
+Kein sanftes Auslaufen, keine Hügel, die langsam kleiner werden – hinter dem letzten Bergrücken ist es auf einmal brettleben, bis zum Horizont.
 Wir sind da oben gestanden und haben uns gefragt, wie so etwas entsteht.
-Die Antwort ist wie so oft bei uns in der Gegend dieselbe: die Eiszeit.
+Die Antwort hat zwei Teile.
+Dass die Berge hier aufhören, liegt an der Faltung der Alpen: Bis hierher wurde das Gestein aufgetürmt, weiter nicht.
+Den Feinschliff hat dann die Eiszeit erledigt, und die ist bei uns in der Gegend sowieso an fast allem schuld.
 
 {{< fig src="IMG_20260927_141934.jpg" alt="Blick vom Heimgarten nach Norden: Hinter den letzten bewaldeten Bergen beginnt übergangslos das flache Land" caption="Hier hören die Alpen einfach auf" crop-top="25%" >}}
 
+Die Gletscher haben die Landschaft vor den Bergen noch einmal gründlich umgeformt, Becken ausgeschabt und Seen und Moore hinterlassen.
 Man muss sich das einmal vorstellen: Vor 20.000 Jahren hätten wir vom Heimgarten nicht auf Wiesen, Moore und Dörfer hinuntergeschaut, sondern auf ein Meer aus Eis.
 Nur die höchsten Gipfel haben noch herausgeschaut, wie Inseln.
 Der Grat, über den wir gegangen sind, wäre so eine Insel gewesen.
 
 {{< info >}}
-**Was die Eiszeit hier angerichtet hat**
+**Wie die Landschaft hier entstanden ist**
 
-Die letzte Kaltzeit heißt bei uns [Würm-Kaltzeit](https://de.wikipedia.org/wiki/W%C3%BCrm-Kaltzeit). Sie begann vor rund 115.000 Jahren und endete vor etwa 10.000 Jahren; am größten waren die Gletscher vor etwa 20.000 Jahren.
+**Warum die Berge hier aufhören:** Das hat nichts mit dem Eis zu tun, sondern mit der Entstehung der Alpen. Dabei wurden die Gesteine gefaltet, gestapelt und nach Norden geschoben. Am Alpenrand ist dieser Stapel zu Ende. Davor liegen nur noch niedrige, runde [Flyschberge](https://de.wikipedia.org/wiki/Flysch) und dann das [Molassebecken](https://de.wikipedia.org/wiki/Molassebecken), eine Senke voller Abtragungsschutt aus den Alpen.
 
-**Wie das Eis geflossen ist:** Gespeist wurde alles vom riesigen Inngletscher aus den Zentralalpen. Das Eis drückte durch das Loisachtal, das Isartal und das Kochelseebecken aus den Bergen heraus – ein Seitenarm floss direkt nebenan über den Kesselberg, den Sattel zwischen Herzogstand und Jochberg, und zwar bis auf rund 1400 m Höhe. Im Vorland breitete es sich als [Isar-Loisach-Gletscher](https://de.wikipedia.org/wiki/Isar-Loisach-Gletscher) aus, der bis Landsberg am Lech, Grafrath, Leutstetten und Hohenschäftlarn reichte, also bis kurz vor München.
+**Das Gestein:** Herzogstand und Heimgarten bestehen aus [Hauptdolomit](https://de.wikipedia.org/wiki/Hauptdolomit) und Plattenkalk aus der Trias, über 200 Millionen Jahre alten Ablagerungen aus einem flachen Meer. Bei der Faltung wurden sie steil gestellt; an der Nordseite des Jochbergs stehen die Dolomitplatten sogar senkrecht.
 
-**Inseln im Eis:** Ein Berg, der aus dem Gletscher herausschaut, heißt [Nunatak](https://de.wikipedia.org/wiki/Nunatak). Der Jochberg (1565 m) ragte nur etwa 150 m aus dem Eisstrom, der Herzogstand rund 330 m, der Heimgarten noch ein Stück mehr.
+**Dann kam das Eis:** Die letzte Kaltzeit, die [Würm-Kaltzeit](https://de.wikipedia.org/wiki/W%C3%BCrm-Kaltzeit), dauerte von rund 115.000 bis etwa 10.000 Jahre vor heute; am größten waren die Gletscher vor etwa 20.000 Jahren. Gespeist vom Inngletscher drückte das Eis durch Loisachtal, Isartal und über den Kesselberg aus den Bergen heraus. Am Kesselberg, dem Sattel zwischen Herzogstand und Jochberg, stand es rund 1400 m hoch: Der Jochberg (1565 m) ragte nur etwa 150 m heraus, der Herzogstand rund 330 m, der Heimgarten noch ein Stück mehr. So eine Insel im Eis heißt [Nunatak](https://de.wikipedia.org/wiki/Nunatak). Im Vorland reichte der [Isar-Loisach-Gletscher](https://de.wikipedia.org/wiki/Isar-Loisach-Gletscher) bis Landsberg am Lech, Grafrath, Leutstetten und Hohenschäftlarn, also bis kurz vor München.
 
-**Warum es danach so flach ist:** Überall dort, wo das Eis aus den Bergen herauskam, hat es ein tiefes Becken ausgeschürft. Der Eisstrom aus Richtung Walchensee kolkte das Kochelsee-Becken aus und teilte sich danach: Der westliche Ast grub das Becken des Starnberger Sees, der östliche das Wolfratshauser Becken. Das Eis aus dem Loisachtal schürfte das Murnauer Becken und den Ammersee aus. Als das Eis schmolz, liefen die Becken voll und wurden zu [Zungenbeckenseen](https://de.wikipedia.org/wiki/Zungenbeckensee). Ein Teil davon ist seither verlandet, deshalb die weiten Moore rund um Kochelsee und Loisach.
+**Was der Gletscher hinterlassen hat:** Wo das Eis aus den Bergen kam, hat es tiefe Becken ausgeschabt. Der Eisstrom vom Walchensee her kolkte das Kochelsee-Becken aus und teilte sich danach: Der westliche Ast grub den Starnberger See, der östliche das Wolfratshauser Becken. Das Eis aus dem Loisachtal schürfte Murnauer Becken und Ammersee aus. Nach dem Abschmelzen wurden daraus [Zungenbeckenseen](https://de.wikipedia.org/wiki/Zungenbeckensee); ein Teil ist seither zu Mooren verlandet.
 
-**Und der Walchensee?** Der ist die Ausnahme: Sein Becken ist tektonisch eingesenkt, also eine Mulde in den Gesteinsfalten. Die Gletscher haben es nur noch ausgeräumt. Deshalb ist er einer der tiefsten bayerischen Alpenseen.
-
-**Das Gestein:** Herzogstand und Heimgarten bestehen aus [Hauptdolomit](https://de.wikipedia.org/wiki/Hauptdolomit) und Plattenkalk aus der Trias. Das sind über 200 Millionen Jahre alte Ablagerungen aus einem flachen Meer, die bei der Entstehung der Alpen aufgefaltet und steil gestellt wurden. An der Nordseite des Jochbergs stehen die Dolomitplatten sogar senkrecht.
+**Und der Walchensee?** Der ist die Ausnahme: Sein Becken ist tektonisch eingesenkt, die Gletscher haben es nur noch ausgeräumt. Deshalb ist er einer der tiefsten bayerischen Alpenseen.
 
 **Quellen**
 
 - Hermann Jerz: [Das Wolfratshausener Becken](https://doi.org/10.3285/eg.29.1.06), Eiszeitalter und Gegenwart, 1979
 - Bayerisches Landesamt für Umwelt: [Tölz-Miesbacher Oberland](https://www.lfu.bayern.de/natur/kulturlandschaft/gliederung/doc/56.pdf), 2011
-- Wikipedia: [Würm-Kaltzeit](https://de.wikipedia.org/wiki/W%C3%BCrm-Kaltzeit), [Isar-Loisach-Gletscher](https://de.wikipedia.org/wiki/Isar-Loisach-Gletscher), [Herzogstand](https://de.wikipedia.org/wiki/Herzogstand), [Jochberg](https://de.wikipedia.org/wiki/Jochberg_(Berg)), [Kochelsee](https://de.wikipedia.org/wiki/Kochelsee), [Walchenseeberge](https://de.wikipedia.org/wiki/Walchenseeberge), [Hauptdolomit](https://de.wikipedia.org/wiki/Hauptdolomit)
+- Wikipedia: [Würm-Kaltzeit](https://de.wikipedia.org/wiki/W%C3%BCrm-Kaltzeit), [Isar-Loisach-Gletscher](https://de.wikipedia.org/wiki/Isar-Loisach-Gletscher), [Herzogstand](https://de.wikipedia.org/wiki/Herzogstand), [Jochberg](https://de.wikipedia.org/wiki/Jochberg_(Berg)), [Kochelsee](https://de.wikipedia.org/wiki/Kochelsee), [Walchenseeberge](https://de.wikipedia.org/wiki/Walchenseeberge), [Hauptdolomit](https://de.wikipedia.org/wiki/Hauptdolomit), [Molassebecken](https://de.wikipedia.org/wiki/Molassebecken)
 {{< /info >}}
