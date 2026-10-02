@@ -14,26 +14,17 @@
     {{- end }}
   </div>
 
-  {{- with index site.Menus "footer" }}
-    <nav class="footer-col" aria-label="Footer">
-      <ul>
-        {{- range . }}
-          {{- $external := and (strings.HasPrefix .URL "http") (not (strings.HasPrefix .URL site.BaseURL)) }}
-          <li>
-            <a href="{{ .URL }}"
-              {{- if $external }} rel="external noopener noreferrer" target="_blank"{{ end }}
-              {{- if $.IsMenuCurrent .Menu . }} class="active" aria-current="page"{{ end -}}
-            >{{ .Name }}
-              {{- if $external }}<span class="visually-hidden"> (externer Link, öffnet in neuem Tab)</span>{{ end -}}
-            </a>
-          </li>
-        {{- end }}
-      </ul>
-    </nav>
-  {{- end }}
+  {{/* The theme's menu partial marks external entries (link.html). */}}
+  <div class="footer-col">
+    {{ partial "menu-stock.html" (dict "menuID" "footer" "label" "Footer" "page" .) }}
+  </div>
 
   <div class="footer-bottom">
     © {{ now.Year }} {{ site.Title }} ·
-    <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.de" rel="license noopener" target="_blank">CC BY-NC 4.0</a>
+    {{ partial "link.html" (dict
+      "href" "https://creativecommons.org/licenses/by-nc/4.0/deed.de"
+      "text" "CC BY-NC 4.0"
+      "attrs" (dict "rel" "license")
+    ) }}
   </div>
 </div>
