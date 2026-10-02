@@ -1,7 +1,6 @@
 ---
 title: "Tag 2: Wanderung am Ring of Kerry"
 date: 2024-07-23T22:13:16+02:00
-author: Karin
 tags: ["Irland", "Kerry"]
 draft: false
 ---

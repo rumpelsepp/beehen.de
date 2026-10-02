@@ -1,7 +1,6 @@
 ---
 title: 'Tag 19: Time to say goodbye'
 date: 2023-08-17T22:13:16+02:00
-author: Karin
 tags: ["Island"]
 ---
 

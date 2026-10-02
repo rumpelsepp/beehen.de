@@ -1,7 +1,6 @@
 ---
 title: 'Tag 15: Die Umrundung von Snæfellsnes'
 date: 2023-08-13T22:13:16+02:00
-author: Karin
 tags: ["Island", "Snæfellsnes"]
 ---
 

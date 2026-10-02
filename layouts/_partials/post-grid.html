@@ -27,7 +27,7 @@
         "cardClass" "h-100"
         "title" $title
         "level" 2
-        "subtitle" (partial "subtitle.html" (dict "page" .))
+        "subtitle" (partial "subtitle.html" .)
         "content" (printf "<p>%s</p>" $text)
         "url" .RelPermalink
         "image" $image

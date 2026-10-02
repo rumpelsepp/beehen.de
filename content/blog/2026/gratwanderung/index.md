@@ -1,7 +1,6 @@
 ---
 title: "Gratwanderung"
 date: 2026-09-27
-author: Steff
 tags: [Bayern]
 image: "IMG_20260927_160356.jpg"
 toc: false

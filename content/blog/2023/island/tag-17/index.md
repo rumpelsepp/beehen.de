@@ -1,7 +1,6 @@
 ---
 title: 'Tag 17: On the Road again'
 date: 2023-08-15T22:13:16+02:00
-author: Karin
 tags: ["Island"]
 ---
 

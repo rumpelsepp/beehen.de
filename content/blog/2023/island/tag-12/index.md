@@ -1,7 +1,6 @@
 ---
 title: 'Tag 12: Vulkanismus 🌋 at its best'
 date: 2023-08-10T22:13:16+02:00
-author: Karin
 tags: ["Island", "Mývatn"]
 ---
 *Vulkanismus 🌋 at its best - oder „Oh mein Gott! Hoits enk bitte d'Nosn 👃 zua! 😁”*

@@ -1,7 +1,6 @@
 ---
 title: 'Tag 14: Chillen in der Hazienda'
 date: 2023-08-12T22:13:16+02:00
-author: Karin
 tags: ["Island", "Snæfellsnes"]
 ---
 Dieses Mal hatten wir wieder richtig Glück (BY: a Dusl; 🇦🇹/BY: a Massl). Die Unterkunft ist wirklich genau so, wie sie auf den Bildern aussieht und wir waren wieder alle voll und ganz bereit zum Chillen!

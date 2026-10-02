@@ -1,7 +1,6 @@
 ---
 title: "Auszeit in Tschechien: Back to the Roots"
 date: 2025-11-10
-author: Karin
 tags: ["Tschechien", "Böhmen"]
 toc: true
 image: "IMG_20251104_134610.jpg"

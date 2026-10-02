@@ -1,20 +1,5 @@
-{{- /*
-  Meta line of a post: date, tags and, if asked for, who wrote it.
-
-  Params (dict):
-    page    the post
-    author  true to name the author, "author" in the front matter
-            (default: false)
-*/ -}}
-{{- $showAuthor := .author | default false -}}
-{{- with .page -}}
 {{- $dateTag := printf `<time datetime="%s">%s</time>` (.Date.Format "2006-01-02") (.Date.Format "02.01.2006") -}}
 {{- $subtitle := printf `<i class="bi bi-calendar-date"></i> %s` $dateTag -}}
-{{- if $showAuthor -}}
-    {{- with .Params.author -}}
-        {{- $subtitle = printf `%s <i class="bi bi-person"></i> %s` $subtitle (. | htmlEscape) -}}
-    {{- end -}}
-{{- end -}}
 {{- with .Params.tags -}}
     {{- $links := slice -}}
     {{- range . -}}
@@ -28,4 +13,3 @@
     {{- $subtitle = printf `%s <i class="bi bi-tag"></i> %s` $subtitle (delimit $links " ") -}}
 {{- end -}}
 {{- printf `<span class="entry-meta">%s</span>` $subtitle | safeHTML -}}
-{{- end -}}

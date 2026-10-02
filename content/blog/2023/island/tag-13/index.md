@@ -1,7 +1,6 @@
 ---
 title: 'Tag 13: Eine neue Location wartet auf uns: Die Hazienda 🙃'
 date: 2023-08-11T22:13:16+02:00
-author: Karin
 tags: ["Island", "Snæfellsnes"]
 ---
 ## Eckdaten der Reise

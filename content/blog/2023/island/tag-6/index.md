@@ -1,7 +1,6 @@
 ---
 title: "Tag 6: I kenn da a Abkürzung…"
 date: 2023-08-04T22:13:16+02:00
-author: Karin
 tags: ["Island", "Westfjorde"]
 ---
 
