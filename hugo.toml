@@ -47,6 +47,11 @@ weight = 20
   url = 'https://bienensteff.de'
   weight = 20
 
+[[menus.footer]]
+  name = 'sensing-the-world.de/'
+  url = 'https://sensing-the-world.de/'
+  weight = 30
+
 [privacy]
   [privacy.youtube]
     disable = false
