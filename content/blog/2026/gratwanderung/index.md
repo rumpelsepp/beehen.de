@@ -183,7 +183,6 @@ Den Feinschliff hat dann die Eiszeit erledigt, und die ist bei uns in der Gegend
 Die Gletscher haben die Landschaft vor den Bergen noch einmal gründlich umgeformt, Becken ausgeschabt und Seen und Moore hinterlassen.
 Man muss sich das einmal vorstellen: Vor 20.000 Jahren hätten wir vom Heimgarten nicht auf Wiesen, Moore und Dörfer hinuntergeschaut, sondern auf ein Meer aus Eis.
 Nur die höchsten Gipfel haben noch herausgeschaut, wie Inseln.
-Der Grat, über den wir gegangen sind, wäre so eine Insel gewesen.
 
 {{< info >}}
 **Wie die Landschaft hier entstanden ist**
