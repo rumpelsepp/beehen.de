@@ -21,9 +21,11 @@ theme = 'bienensteff'
 description = 'Eine kleine Erkundung der Welt'
 # Zielformat, in das der fig-Shortcode Bilder konvertiert
 imageFormat = 'webp'
-# GPS-Koordinaten (Exif/XMP) unter fig-Bildern anzeigen, verlinkt zu OpenStreetMap.
-# Braucht den GPS-Ausschluss aus [imaging.meta].fields entfernt (siehe unten).
-imageGeotags = true
+# "i" auf fig- und Galerie-Bildern, das eine Box mit Aufnahmedatum, Kamera,
+# Aufnahmeort (verlinkt zu OpenStreetMap) und Link zum Original oeffnet.
+# Der Ort braucht den GPS-Ausschluss aus [imaging.meta].fields entfernt
+# (siehe unten).
+imageInfo = true
 # Kontaktblock im Footer (layouts/_partials/footer.html), Markdown.
 contact = """Stefan Tatschner
 
@@ -90,7 +92,8 @@ weight = 20
 
   [imaging.meta]
     # Hugo-Default, aber ohne den GPS-Ausschluss: .Meta.Lat/.Long fuer den
-    # fig-Geotag (imageGeotags). Aendern invalidiert den Bild-Cache.
+    # Aufnahmeort in der Bild-Info (imageInfo). Aendern invalidiert den
+    # Bild-Cache.
     # Zusaetzlich ohne ComponentsConfiguration: das Feld ist in den
     # Panorama-Bildern (*_PANO.jpg) kaputt und erzeugt sonst je Bild ein WARN.
     fields = ['! *{Exif,Exposure[MPB],Contrast,Resolution,Sharp,JPEG,Metering,Sensing,Saturation,ColorSpace,Flash,WhiteBalance,Components}*']
