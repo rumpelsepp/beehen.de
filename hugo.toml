@@ -26,6 +26,9 @@ imageFormat = 'webp'
 # Der Ort braucht den GPS-Ausschluss aus [imaging.meta].fields entfernt
 # (siehe unten).
 imageInfo = true
+# Dunkles Farbschema, wenn das System des Besuchers auf dunkel steht. Es gibt
+# keinen Schalter auf der Seite.
+darkMode = true
 # Kontaktblock im Footer (layouts/_partials/footer.html), Markdown.
 contact = """Stefan Tatschner
 

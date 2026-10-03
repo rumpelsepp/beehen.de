@@ -10,6 +10,15 @@
     --bs-link-hover-color-rgb: 8, 66, 152;
 }
 
+/* Dark mode (params.darkMode): there it is Bootstrap's lighter shades of
+   the blue, 7.5:1 on the dark page background. */
+[data-bs-theme="dark"] {
+    --bs-link-color: #6ea8fe;
+    --bs-link-color-rgb: 110, 168, 254;
+    --bs-link-hover-color: #8bb9fe;
+    --bs-link-hover-color-rgb: 139, 185, 254;
+}
+
 #site-footer .footer-bottom a {
     color: inherit;
 }
@@ -28,6 +37,19 @@
     --bs-btn-hover-border-color: var(--color-ink);
     --bs-btn-active-border-color: var(--color-ink);
     --bs-btn-disabled-border-color: var(--color-ink);
+}
+
+/* .btn-light stays light in Bootstrap's dark mode; here the buttons take
+   the colours of the page's surfaces instead. */
+[data-bs-theme="dark"] .article-nav .btn {
+    --bs-btn-color: var(--color-ink);
+    --bs-btn-bg: var(--color-surface);
+    --bs-btn-hover-color: var(--color-ink);
+    --bs-btn-hover-bg: color-mix(in srgb, var(--color-ink) 12%, var(--color-surface));
+    --bs-btn-active-color: var(--color-ink);
+    --bs-btn-active-bg: color-mix(in srgb, var(--color-ink) 18%, var(--color-surface));
+    --bs-btn-disabled-color: var(--color-ink-muted);
+    --bs-btn-disabled-bg: transparent;
 }
 
 /* /tags — tag cloud. layouts/taxonomy.html sets --w (0…1, log-scaled by post
