@@ -29,7 +29,7 @@ imageInfo = true
 # Kontaktblock im Footer (layouts/_partials/footer.html), Markdown.
 contact = """Stefan Tatschner
 
-<i class="bi bi-envelope" aria-hidden="true"></i> [stefan.tatschner@mailbox.org](mailto:stefan.tatschner@mailbox.org)
+[stefan.tatschner@mailbox.org](mailto:stefan.tatschner@mailbox.org)
 """
 
 

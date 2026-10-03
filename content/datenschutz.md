@@ -2,7 +2,7 @@
 title: Datenschutzerklärung
 ---
 
-Stand: 2. Oktober 2026
+Stand: 3. Oktober 2026
 
 Kurz gesagt: Dieser Blog ist ein privates Projekt.
 Wir setzen keine Cookies, zählen keine Besuche und binden keine Werbung ein.
@@ -18,23 +18,12 @@ Gräfelfinger Straße 169a
 **E-Mail-Adresse**: stefan.tatschner@mailbox.org  
 **Impressum**: [{{< ref "impressum" >}}]({{< ref "impressum" >}})
 
-## Aufruf der Seite (Hosting und Server-Logs) {#hosting}
+## Aufruf der Seite {#hosting}
 
-Der Blog liegt auf einem Server, den wir bei der [Hetzner Online GmbH](https://www.hetzner.com/de/legal/privacy-policy/), Industriestr. 25, 91710 Gunzenhausen, gemietet haben und selbst betreiben.
-Mit Hetzner besteht ein Vertrag zur Auftragsverarbeitung (Art. 28 DSGVO).
+Der Blog liegt auf einem Server, den wir bei der [Hetzner Online GmbH](https://www.hetzner.com/de/legal/privacy-policy/), Industriestr. 25, 91710 Gunzenhausen, gemietet haben und selbst betreiben; mit Hetzner besteht ein Vertrag zur Auftragsverarbeitung (Art. 28 DSGVO).
 
-Damit dein Browser eine Seite anzeigen kann, überträgt er technisch notwendige Daten an diesen Server.
-Der Webserver hält jeden Abruf in einer Protokolldatei fest:
-
-* IP-Adresse
-* Datum und Uhrzeit des Abrufs
-* abgerufene Adresse (URL), Antwortstatus und übertragene Datenmenge
-* die vom Browser mitgeschickten Kopfzeilen, darunter die Seite, von der aus du gekommen bist (Referrer), sowie Browser und Betriebssystem (User-Agent)
-* Angaben zur verschlüsselten Verbindung (TLS-Version und Verschlüsselungsverfahren)
-
-Wir nutzen diese Daten nur, um den Betrieb sicherzustellen, Fehler zu finden und Angriffe abzuwehren; mit anderen Daten führen wir sie nicht zusammen.
-Rechtsgrundlage ist unser berechtigtes Interesse an einem sicheren und stabilen Betrieb (Art. 6 Abs. 1 lit. f DSGVO).
-Die Protokolle werden nach 90 Tagen automatisch gelöscht.
+Der Webserver protokolliert jeden Abruf: IP-Adresse, Zeitpunkt, abgerufene Adresse, Antwortstatus und Datenmenge, die vom Browser mitgeschickten Kopfzeilen (darunter Referrer und User-Agent) sowie Angaben zur verschlüsselten Verbindung.
+Wir nutzen die Protokolle nur, um den Betrieb sicherzustellen, Fehler zu finden und Angriffe abzuwehren (berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO), und löschen sie nach 90 Tagen.
 
 ## Cookies und lokale Speicherung
 
@@ -71,30 +60,14 @@ Wir binden Karten dieser Anbieter ein:
 * **Komoot** – komoot GmbH, Kienberger Allee 4, 12529 Schönefeld ([Datenschutzhinweise](https://www.komoot.com/de-de/privacy)).
   Komoot setzt beim Laden der Tour Cookies.
 
-## Links zu anderen Seiten
-
-Unsere Beiträge enthalten Links zu anderen Webseiten, zum Beispiel zu OpenStreetMap unter Fotos mit Ortsangabe.
-Daten werden erst übertragen, wenn du einen solchen Link anklickst; ab dann gilt die Datenschutzerklärung der jeweiligen Seite.
-
 ## Kontakt per E-Mail
 
 Wenn du uns schreibst, verarbeiten wir deine E-Mail-Adresse und den Inhalt deiner Nachricht, um dir zu antworten (Art. 6 Abs. 1 lit. f DSGVO).
-Unser Postfach liegt bei [mailbox.org](https://mailbox.org) (Heinlein Hosting GmbH, Schwedter Straße 8/9A, 10119 Berlin).
-Wir löschen die Nachrichten, sobald dein Anliegen erledigt ist und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+Die Nachrichten liegen bei unserem E-Mail-Anbieter; wir löschen sie, sobald dein Anliegen erledigt ist und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
 ## Deine Rechte
 
-Du hast uns gegenüber folgende Rechte hinsichtlich der dich betreffenden personenbezogenen Daten:
-
-* Auskunft (Art. 15 DSGVO)
-* Berichtigung (Art. 16 DSGVO)
-* Löschung (Art. 17 DSGVO)
-* Einschränkung der Verarbeitung (Art. 18 DSGVO)
-* Datenübertragbarkeit (Art. 20 DSGVO)
-* Widerspruch gegen eine Verarbeitung, die auf Art. 6 Abs. 1 lit. f DSGVO beruht (Art. 21 DSGVO)
-* Widerruf einer erteilten Einwilligung mit Wirkung für die Zukunft (Art. 7 Abs. 3 DSGVO)
-
+Du kannst Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Datenübertragbarkeit verlangen, einer Verarbeitung widersprechen, die auf berechtigtem Interesse beruht, und eine Einwilligung für die Zukunft widerrufen (Art. 15 bis 18, 20, 21 und 7 Abs. 3 DSGVO).
 Dafür genügt eine formlose E-Mail an die oben genannte Adresse.
 
-Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO).
-Für uns zuständig ist das [Bayerische Landesamt für Datenschutzaufsicht](https://www.lda.bayern.de/), Promenade 18, 91522 Ansbach.
+Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO); für uns zuständig ist das [Bayerische Landesamt für Datenschutzaufsicht](https://www.lda.bayern.de/), Promenade 18, 91522 Ansbach.
