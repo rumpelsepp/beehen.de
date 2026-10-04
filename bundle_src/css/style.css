@@ -29,6 +29,10 @@
    image/figure.html), so text and single pictures end flush. Galleries,
    panoramas, maps and tables keep the full width and stand out beyond
    the text on both sides. */
+.content--reading {
+    font-size: 1.1rem;
+}
+
 @media (min-width: 992px) {
     .content--reading {
         --text-width: 50rem;
