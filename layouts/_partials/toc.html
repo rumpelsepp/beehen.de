@@ -1,0 +1,16 @@
+{{- /*
+  Local override of the theme's table of contents: the same list, but
+  folded away until the reader opens it. <details> does that without
+  JavaScript; it starts closed, so a post begins with its text.
+
+  Context: the page.
+*/ -}}
+{{- if and .Params.toc (ne .TableOfContents "") }}
+  {{- $toc := .TableOfContents | string | replaceRE `(?s)\s*<nav id="TableOfContents">(.*)</nav>\s*` "$1" }}
+  <nav class="table-of-contents" aria-label="Inhalt">
+    <details>
+      <summary class="toc-title">Inhalt</summary>
+      {{ $toc | safeHTML }}
+    </details>
+  </nav>
+{{- end }}

@@ -23,6 +23,41 @@
     color: inherit;
 }
 
+/* A post on a wide screen reads like a column in a paper: larger text in
+   a column narrow enough to be read without losing the line, centred on
+   the page. It is as wide as a figure (800px, see the theme's
+   image/figure.html), so text and single pictures end flush. Galleries,
+   panoramas, maps and tables keep the full width and stand out beyond
+   the text on both sides. */
+@media (min-width: 992px) {
+    .content--reading {
+        --text-width: 50rem;
+        font-size: 1.2rem;
+    }
+
+    /* The lead has to stay a size above the text it leads into. */
+    article.content.content--reading .lead {
+        font-size: 1.35rem;
+    }
+
+    .content--reading > :not(.d-flex, .gallery-figure, .embed-consent, .embed-frame, table) {
+        max-width: var(--text-width);
+        margin-inline: auto;
+    }
+}
+
+/* Table of contents that folds away (layouts/_partials/toc.html): its
+   title is the handle. */
+article.content .table-of-contents summary.toc-title {
+    margin: 0;
+    font-size: 0.8rem;
+    cursor: pointer;
+}
+
+article.content .table-of-contents details[open] > summary.toc-title {
+    margin-bottom: 0.6rem;
+}
+
 /* Post meta line (date and tags, layouts/_partials/subtitle.html): the
    muted ink instead of Bootstrap's .text-secondary grey it sits in, which
    has only 4.4:1 on the page background. */

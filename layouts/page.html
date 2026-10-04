@@ -1,0 +1,13 @@
+{{- /*
+  Local override of the theme's page layout: an ordinary page (Über uns,
+  Impressum, Datenschutz) is read like a post, in the same column of
+  larger text -- .content--reading, see bundle_src/css/style.css. Posts
+  have a layout of their own, layouts/blog/single.html.
+*/ -}}
+{{ define "main" }}
+<article class="content content--reading">
+    <header class="content-header"><h1>{{ .Title }}</h1></header>
+    {{ partial "toc.html" . }}
+    {{ .Content }}
+</article>
+{{ end }}
