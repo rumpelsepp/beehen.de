@@ -21,7 +21,7 @@
     {{ if not (.Resources.GetMatch $image) }}
       {{ $image = "img/placeholder.svg" }}
     {{ end }}
-    {{ $text := or .Params.description .Summary | plainify | strings.Truncate 200 }}
+    {{ $text := partial "_funcs/summary.html" (dict "page" . "limit" 200) | htmlEscape }}
     <div class="col-md-6">
       {{ partial "card.html" (dict
         "cardClass" "h-100"
