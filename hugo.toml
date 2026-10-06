@@ -17,6 +17,11 @@ copyright = 'CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/'
 
 theme = 'bienensteff'
 
+# Nur Tags: ohne diesen Block baut Hugo zusaetzlich eine leere Seite
+# /categories/.
+[taxonomies]
+tag = 'tags'
+
 [params]
 description = 'Eine kleine Erkundung der Welt'
 # Zielformat, in das der fig-Shortcode Bilder konvertiert
