@@ -121,7 +121,7 @@ IMG_20260826_123834.jpg | Eine Frau mit Kappe und Sonnenbrille hält lachend ein
 {{< info >}}
 **Was hat Wien mit Triest zu tun?**
 
-Triest 🇮🇹 war ab 1719 [Freihafen der Habsburgermonarchie](https://de.wikipedia.org/wiki/Geschichte_Triests) – und damit *der* Hafen, über den der Kaffee ins Reich kam: gelöscht, verzollt und weiter nach Wien 🇦🇹, Prag 🇨🇿 und Budapest 🇭🇺. Die Stadt wurde zum Handels- und Röstzentrum; [illy](https://de.wikipedia.org/wiki/Illycaff%C3%A8) etwa, eine der bekanntesten Espresso-Röstereien Italiens, wurde 1933 hier gegründet und sitzt bis heute da.
+Triest 🇮🇹 war ab 1719 [Freihafen der Habsburgermonarchie](https://de.wikipedia.org/wiki/Triest#Triests_Aufstieg_im_18._Jahrhundert) – und damit *der* Hafen, über den der Kaffee ins Reich kam: gelöscht, verzollt und weiter nach Wien 🇦🇹, Prag 🇨🇿 und Budapest 🇭🇺. Die Stadt wurde zum Handels- und Röstzentrum; [illy](https://de.wikipedia.org/wiki/Illycaff%C3%A8) etwa, eine der bekanntesten Espresso-Röstereien Italiens, wurde 1933 hier gegründet und sitzt bis heute da.
 
 An dieser Adria-Route hing also auch die [Wiener Kaffeehauskultur](https://de.wikipedia.org/wiki/Wiener_Kaffeehaus), die seit 2011 immaterielles UNESCO-Kulturerbe ist. Umgekehrt bestellt man in Triest bis heute anders als im Rest Italiens – „nero“ für den Espresso, „capo in b“ für den kleinen Milchkaffee im Glas.
 {{< /info >}}
@@ -235,7 +235,7 @@ Beispielsweise wurde die Krone etwas zurückgeschnitten um das Gewicht auf den S
 Schon in der Burg haben wir gemerkt, dass wir eher langsame Burgbesucher sind: Wir wurden immer mal wieder von anderen Leuten überholt.
 Aber uns ist das ja wurscht… wir haben keinen Stress.
 Erst als wir wieder aus der Burg raus sind und am Parkplatz kapieren, wie viele Leute da unterwegs sind – wieder einmal alles bummvoi…
-Und es war dann auch schwer, den Weg wieder hochzufahren, weil manche Leute echt so unfassbar intelligent sind, dass sie in der Spitzkehre (nur ums noch anschaulicher zu machen: des sind die 180 Grad!!! Kurven die oft auf an Berg rauf führen, weils einfach anders ned geht!) anfangen zum Überholen – [#Darwinaward](https://de.wikipedia.org/wiki/Darwin_Awards). 🤦
+Und es war dann auch schwer, den Weg wieder hochzufahren, weil manche Leute echt so unfassbar intelligent sind, dass sie in der Spitzkehre (nur ums noch anschaulicher zu machen: des sind die 180 Grad!!! Kurven die oft auf an Berg rauf führen, weils einfach anders ned geht!) anfangen zum Überholen – [#Darwinaward](https://de.wikipedia.org/wiki/Darwin_Award). 🤦
 So richtig klar wurde es uns aber erst bei der Tropfsteinhöhle, dass wir jetzt echt in einer Hochburg sind (die sich aber wirklich gelohnt hat!).
 Der Parkplatz dort war fetzgroß und fetzvoll! 🅿️
 Wir kommen zum Vorplatz beim Eingang der Höhle, wo wir gleich mal in vier verschiedene Gruppen eingeteilt werden – je nach Sprache! (Slowenisch 🇸🇮, Italienisch 🇮🇹, Deutsch 🇩🇪 und a bissl Englisch 🇬🇧 – das ist hier ganz normal!)
@@ -513,5 +513,5 @@ Bis zum Ersten Weltkrieg wurde fast ausschließlich dort gezüchtet. Mit dem Zer
 Der österreichische Anteil übersiedelte 1920 nach Piber.
 Seither ist Piber das Nachfolgegestüt des alten Hofgestüts und der einzige Züchter für die Hofreitschule.
 
-Quellen: [Lipizzaner](https://de.wikipedia.org/wiki/Lipizzaner) und [Bundesgestüt Piber](https://de.wikipedia.org/wiki/Bundesgest%C3%BCt_Piber) – Wikipedia; [Kobilarna Lipica](https://www.lipica.si/de)
+Quellen: [Lipizzaner](https://de.wikipedia.org/wiki/Lipizzaner) und [Bundesgestüt Piber](https://de.wikipedia.org/wiki/Bundesgest%C3%BCt_Piber) – Wikipedia; [Kobilarna Lipica](https://www.lipica.org/de/)
 {{< /info >}}

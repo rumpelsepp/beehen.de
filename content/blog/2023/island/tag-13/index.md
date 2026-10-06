@@ -67,7 +67,7 @@ Wikipedia schreibt im [Island Artikel](https://de.wikipedia.org/wiki/Island):
 > Auffallend für Mitteleuropäer ist der Mangel an Wäldern. Noch zur Zeit der Landnahme waren etwa 20 % des Landes bewaldet. (…) Hauptsächlich fand man ausgedehnte Birkenwälder vor, wie Forschungen nachgewiesen haben. Durch Rodungen zur Weidelandgewinnung, für Brennholz und zur Holzköhlerei verschwanden diese Wälder. Die anschließende Beweidung ließ Sprösslinge nicht mehr hochkommen, so dass die Insel bereits nach wenigen Jahrhunderten der Besiedlung völlig entwaldet war. Nur spärliche Reste der niedrig wachsenden Birkenwälder überlebten. (…) Bauholz wurde aus Norwegen eingeführt, und geeignetes Treibholz für Zimmer- und Tischlerarbeiten genutzt. Heute bemüht man sich um die Wiederaufforstung des Landes, wobei das Projekt „Hekluskógar“ zur Bepflanzung der Umgebung des Vulkans [Hekla](https://de.wikipedia.org/wiki/Hekla) eines der größten ist. Theoretisch wäre eine Fläche von 40000 km² für die Anlage von Wäldern geeignet[^1]. 2015 waren auf Island 492 km² von Wald bedeckt, was im Vergleich zu 2000 (288 km²) und 1990 (161 km²) eine deutliche Zunahme der bewaldeten Fläche bedeutet[^2].
 
 [^1]: https://web.archive.org/web/20160815115407/http://www.skogur.is/english/forestry-in-a-treeless-land
-[^2]: http://www.factfish.com/statistic-country/iceland/forest%20area
+[^2]: https://web.archive.org/web/20250510193538/http://www.factfish.com/statistic-country/iceland/forest%20area
 {{< /info >}}
 
 ## Der einzige Stopp des Tages: Dalvik

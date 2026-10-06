@@ -20,7 +20,7 @@ Zusammenrechnen und durch drei teilen darf jeder selbst. :blush:
 * Flug: Lufthansa MUC <--> KEF; Roundtrip: p.P. ~585€
 * Mietwagen: "Dacia Duster oder ähnlich" über [billiger-mietwagen.de](https://www.billiger-mietwagen.de/): ~2500€
 * Unterkünfte:
-    * [Keflavic (1 Nacht)](https://www.airbnb.de/rooms/850753902296558853): 225€
+    * Keflavic (1 Nacht): 225€
     * [Reykjavic (4 Nächte)](https://www.airbnb.de/rooms/886861286191537966): 711€
     * [D'Hittn (3 Nächte)](https://www.airbnb.de/rooms/905189672286021866): 511€
     * [Herberge (1 Nacht)](https://www.airbnb.de/rooms/25212462): 183€
