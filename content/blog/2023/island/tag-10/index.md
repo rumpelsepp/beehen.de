@@ -54,5 +54,5 @@ IMG_20230808_160500.jpg | Reiterin in gelber Hose und oranger Weste auf einem br
 - Durch die isolierte Lage (Insel) haben sich die Ur-Islandpferde in den letzten 1000 Jahren nicht verändert
 - Um diese einzigartige Rasse zu bewahren, gibt es ein Gesetz, das den Import von Tieren verbietet
 - **Funfact**: selbst auf der Insel aufgewachsene Pferde, die im Ausland waren dürfen nicht mehr zurück
-- Sie haben im Unterschied zu anderen Pferden *vier* Gangarten - sie können zusätzlich [**Tölt**](https://www.youtube.com/watch?v=wGziDugCL9I)
+- Sie haben im Unterschied zu anderen Pferden *vier* Gangarten - sie können zusätzlich [**Tölt**](https://de.wikipedia.org/wiki/T%C3%B6lt)
 {{< /info >}}
