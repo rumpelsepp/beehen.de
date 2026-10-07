@@ -1,12 +1,19 @@
 hugo := "./scripts/hugo"
 
+# List all recipes
+default:
+    @just --list --unsorted
+
+# Bundle CSS/JS from npm deps into assets/gen/ with esbuild
 npm-build:
     npm run build
 
 # --gc drops image variants nothing references any more from resources/_gen
+# Build the site into public/
 build: clean npm-build
     {{ hugo }} build --gc
 
+# Run a local preview server, drafts included
 serve: npm-build
     {{ hugo }} server --buildDrafts
 
@@ -27,19 +34,24 @@ new-note author="Steff":
     {{ hugo }} new content --kind notizen "$dir"
     sed -i 's/^author: .*/author: {{ author }}/' "content/$dir/index.md"
 
+# Build and upload the site to beehen.de
 deploy: build
     rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 
+# Delete the built site in public/
 clean:
     rm -rf public
 
+# Update the Hugo container image
 podman-pull:
     podman pull ghcr.io/gohugoio/hugo:latest
 
+# Build and check the site for broken links and anchors
 check-links: build
     lychee --offline --include-fragments public
 
-# Encode <name>.raw.<ext> into <name>.mp4 + poster. Run after adding a raw
-# video and commit the results -- CI does not encode videos.
+# Run after adding a raw video and commit the results -- CI does not
+# encode videos.
+# Encode <name>.raw.<ext> into <name>.mp4 + poster
 preprocess-video:
     ./scripts/vidpre.py content
