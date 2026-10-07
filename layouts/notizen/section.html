@@ -1,0 +1,25 @@
+{{- /*
+  /notizen/ -- the microblog: all notes in full, newest first, one below
+  the other (_partials/note.html), 20 to a page.
+*/ -}}
+{{ define "main" }}
+<article class="content notes">
+  <header class="content-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}
+      <p class="lead">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  {{ .Content }}
+
+  {{ $paginator := .Paginate .RegularPages.ByDate.Reverse 20 }}
+  {{ range $paginator.Pages }}
+    {{ partial "note.html" (dict "page" . "link" true) }}
+  {{ else }}
+    <p class="text-secondary">Noch keine Notizen.</p>
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+</article>
+{{ end }}

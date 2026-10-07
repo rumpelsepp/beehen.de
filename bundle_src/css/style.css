@@ -166,3 +166,126 @@ article.content .table-of-contents details[open] > summary.toc-title {
 .tag-filter-actions .bi {
     margin-right: 0.15rem;
 }
+
+/* /notizen/ — the microblog (layouts/notizen/, _partials/note.html): short
+   notes one below the other in a narrow column, each a card with its
+   author, date, text and pictures. */
+article.content.notes,
+.content.notes {
+    max-width: 40rem;
+    margin-inline: auto;
+    text-align: left;
+    hyphens: manual;
+}
+
+.note {
+    margin-bottom: 1.25rem;
+    padding: 1rem 1.25rem 1.25rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-surface);
+}
+
+.note-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.25rem 0.6rem;
+    margin-bottom: 0.6rem;
+}
+
+/* The author's initial in a disc of their own colour; --hue is set by
+   note.html. White on it has at least 5.5:1 at any hue. */
+.note-avatar {
+    display: grid;
+    place-items: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background: hsl(var(--hue, 100) 45% 32%);
+    color: #fff;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.note-author {
+    font-weight: 600;
+}
+
+.note-date,
+a.note-date {
+    margin-left: auto;
+    font-size: 0.85rem;
+    color: var(--color-ink-muted);
+}
+
+.note-text > :last-child {
+    margin-bottom: 0;
+}
+
+/* The pictures: one compact block of tiles like in a messenger instead of
+   the theme's rows -- two side by side, three as a large one beside two
+   small ones, four as two by two. The tiles are cropped to fit; the whole
+   picture is a click away in the lightbox. */
+.note-images {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 1fr;
+    gap: 0.2rem;
+    aspect-ratio: 16 / 9;
+    margin: 0.9rem 0 0;
+    overflow: hidden;
+    border-radius: var(--radius-lg);
+}
+
+.note-images .gallery-item {
+    min-width: 0;
+    min-height: 0;
+    max-width: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+/* A single picture keeps its own shape as far as it lies between 3:2 and
+   a wide strip, so neither a portrait nor a panorama takes the card
+   over. */
+.note-images--1 {
+    grid-template-columns: 1fr;
+    aspect-ratio: auto;
+}
+
+.note-images--1 .gallery-item {
+    aspect-ratio: clamp(1.5, var(--ratio), 2.4);
+}
+
+.note-images--3 .gallery-item:first-child {
+    grid-row: span 2;
+}
+
+/* More than four: the rest waits in the lightbox, the fourth tile says
+   how many (data-more, set by note.html). */
+.note-images .gallery-item:nth-child(n + 5) {
+    display: none;
+}
+
+.note-images .gallery-item[data-more]::after {
+    content: "+" attr(data-more);
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    background: rgba(20, 18, 15, 0.55);
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 600;
+    pointer-events: none;
+}
+
+.notes .article-nav {
+    margin-top: 1.75rem;
+}
+
+.notes .pagination {
+    justify-content: center;
+    margin-top: 1.75rem;
+}

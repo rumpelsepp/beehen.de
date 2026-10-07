@@ -1,0 +1,72 @@
+{{- /*
+  A note of the microblog (content/notizen/): who wrote it and when, a few
+  lines of text and below them the pictures of its page bundle -- all of
+  them, in the order of their file names, laid out like a gallery of the
+  theme (.gallery in its main.css) and opened in its lightbox.
+
+  The alt text of a picture comes from the front matter of the note:
+
+    resources:
+      - src: "one.jpg"
+        params:
+          alt: "What is to be seen on it"
+
+  Params (dict):
+    page  the note (required)
+    link  true to link the date to the note's own page, as in the timeline
+          (default: false)
+*/ -}}
+{{- $link := .link | default false -}}
+{{- with .page }}
+{{- $date := .Date.Format "02.01.2006, 15:04" }}
+{{- $author := .Params.author }}
+<article class="note" aria-label="Notiz{{ with $author }} von {{ . }}{{ end }}, {{ $date }}">
+  {{- /* .draft: the theme puts its mark of a draft in front. */}}
+  <header class="note-header{{ if .Draft }} draft{{ end }}">
+    {{- with $author }}
+      {{- /* The colour of the initial follows from the name, so each
+           author keeps their own. */}}
+      <span class="note-avatar" style="--hue: {{ mod (hash.FNV32a .) 360 }}" aria-hidden="true">{{ substr . 0 1 | upper }}</span>
+      <span class="note-author">{{ . }}</span>
+    {{- end }}
+    {{- $time := printf `<time datetime="%s">%s</time>` (.Date.Format "2006-01-02T15:04:05-07:00") $date | safeHTML }}
+    {{- if $link }}
+      <a class="note-date" href="{{ .RelPermalink }}">{{ $time }}</a>
+    {{- else }}
+      <span class="note-date">{{ $time }}</span>
+    {{- end }}
+  </header>
+
+  <div class="note-text">
+    {{ .Content }}
+  </div>
+
+  {{- /* The markup of the theme's gallery shortcode, see there, so its
+       lightbox pages through the pictures -- but laid out as one compact
+       block of up to four tiles (.note-images in style.css). Further
+       pictures are only in the lightbox; the fourth tile says how many. */}}
+  {{- with .Resources.ByType "image" }}
+  {{- $n := len . }}
+  <ul class="gallery note-images note-images--{{ math.Min $n 4 }}" role="list" data-lightbox>
+    {{- range $i, $_ := . }}
+      {{- if reflect.IsImageResourceProcessable . }}
+        {{- $alt := .Params.alt | default "" }}
+        {{- $upright := .Filter images.AutoOrient }}
+        {{- $large := partial "image/large.html" (dict "image" .) }}
+        {{- $ratio := div (float $upright.Width) $upright.Height }}
+    <li class="gallery-item" style="--ratio: {{ printf "%.4f" $ratio }}"{{ if and (eq $i 3) (gt $n 4) }} data-more="{{ sub $n 4 }}"{{ end }}>
+      <a class="gallery-link" href="{{ $large.RelPermalink }}" aria-label="{{ $alt | default "Bild" }} – groß ansehen">
+        {{- partial "image/img.html" (dict
+          "image" .
+          "alt" $alt
+          "sizes" "(max-width: 575.98px) 100vw, 640px"
+        ) -}}
+      </a>
+      {{- partial "image/info.html" (dict "image" . "alt" $alt) }}
+    </li>
+      {{- end }}
+    {{- end }}
+  </ul>
+  {{- end }}
+</article>
+{{- end }}

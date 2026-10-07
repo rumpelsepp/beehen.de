@@ -43,6 +43,11 @@ contact = """Stefan Tatschner
 
 [menus]
 [[menus.main]]
+name = 'Notizen'
+pageRef = '/notizen'
+weight = 5
+
+[[menus.main]]
 name = 'Über uns'
 pageRef = '/über-uns'
 weight = 10

@@ -16,6 +16,17 @@ serve: npm-build
 new-post slug:
     {{ hugo }} new content --kind blog "blog/$(date +%Y)/{{ slug }}"
 
+# Creates content/notizen/<date>-<time>/index.md from
+# archetypes/notizen/. Photos go into that folder, next to index.md, and
+# appear below the text without further ado.
+# Start a new note, e.g. `just new-note` or `just new-note Karin`
+new-note author="Steff":
+    #!/bin/sh
+    set -eu
+    dir="notizen/$(date +%Y-%m-%d-%H%M)"
+    {{ hugo }} new content --kind notizen "$dir"
+    sed -i 's/^author: .*/author: {{ author }}/' "content/$dir/index.md"
+
 deploy: build
     rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 

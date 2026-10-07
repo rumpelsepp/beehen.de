@@ -1,0 +1,29 @@
+{{- /*
+  A single note on a page of its own: what its date in the timeline links
+  to. Below it the way to its neighbours and back to the timeline.
+*/ -}}
+{{ define "main" }}
+{{/* article.content as in the timeline: the theme's styles hang on it,
+     among them the mark of a draft. */}}
+<article class="content notes">
+  {{/* A note shows no headline, but the page needs one for screen readers. */}}
+  <h1 class="visually-hidden">{{ .Title }}</h1>
+  {{ partial "note.html" (dict "page" .) }}
+
+  <nav class="article-nav d-flex flex-wrap justify-content-between gap-2" aria-label="Notizen">
+    {{ with .PrevInSection }}
+      <a class="btn btn-light" href="{{ .RelPermalink }}" rel="prev">« ältere Notiz</a>
+    {{ else }}
+      <span class="btn btn-light disabled" aria-disabled="true">« ältere Notiz</span>
+    {{ end }}
+
+    <a class="btn btn-light" href="{{ .CurrentSection.RelPermalink }}">Alle Notizen</a>
+
+    {{ with .NextInSection }}
+      <a class="btn btn-light" href="{{ .RelPermalink }}" rel="next">neuere Notiz »</a>
+    {{ else }}
+      <span class="btn btn-light disabled" aria-disabled="true">neuere Notiz »</span>
+    {{ end }}
+  </nav>
+</article>
+{{ end }}
