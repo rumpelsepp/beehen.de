@@ -1,0 +1,35 @@
+{{- /*
+  Page of a single hashtag: the notes of the microblog carrying it, shown
+  like in their timeline (layouts/notizen/section.html), under the bar of
+  a filtered list as on the page of a tag (layouts/term.html).
+*/ -}}
+{{ define "main" }}
+<article class="content notes">
+  <header>
+    <h1>#{{ .Title }}</h1>
+  </header>
+
+  {{ $n := len .Pages }}
+  <p class="tag-filter">
+    <span class="tag-filter-text">
+      <i class="bi bi-funnel-fill" aria-hidden="true"></i>
+      Gefiltert nach <strong>#{{ .Title }}</strong> – {{ $n }} {{ cond (eq $n 1) "Notiz" "Notizen" }}
+    </span>
+    <span class="tag-filter-actions">
+      <a href="{{ .Parent.RelPermalink }}"><i class="bi bi-tags" aria-hidden="true"></i> Alle Hashtags</a>
+      {{ with site.GetPage "/notizen" }}
+        <a class="tag-filter-clear" href="{{ .RelPermalink }}"><i class="bi bi-x-lg" aria-hidden="true"></i> Filter aufheben</a>
+      {{ end }}
+    </span>
+  </p>
+
+  {{ .Content }}
+
+  {{ $paginator := .Paginate .Pages.ByDate.Reverse 20 }}
+  {{ range $paginator.Pages }}
+    {{ partial "note.html" (dict "page" . "link" true) }}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+</article>
+{{ end }}

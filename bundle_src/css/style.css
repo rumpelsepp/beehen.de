@@ -223,6 +223,24 @@ a.note-date {
     margin-bottom: 0;
 }
 
+/* The note's hashtags as a line below its text. */
+.note-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 0.75rem;
+    margin: 0.5rem 0 0;
+    font-size: 0.95rem;
+}
+
+.note-tags a {
+    text-decoration-line: none;
+}
+
+.note-tags a:hover,
+.note-tags a:focus-visible {
+    text-decoration-line: underline;
+}
+
 /* The pictures: one compact block of tiles like in a messenger instead of
    the theme's rows -- two side by side, three as a large one beside two
    small ones, four as two by two. The tiles are cropped to fit; the whole

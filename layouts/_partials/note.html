@@ -1,8 +1,9 @@
 {{- /*
   A note of the microblog (content/notizen/): who wrote it and when, a few
-  lines of text and below them the pictures of its page bundle -- all of
-  them, in the order of their file names, laid out like a gallery of the
-  theme (.gallery in its main.css) and opened in its lightbox.
+  lines of text, its hashtags and below them the pictures of its
+  page bundle -- all of them, in the order of their file names, laid out
+  like a gallery of the theme (.gallery in its main.css) and opened in its
+  lightbox.
 
   The alt text of a picture comes from the front matter of the note:
 
@@ -40,6 +41,17 @@
   <div class="note-text">
     {{ .Content }}
   </div>
+
+  {{- /* "hashtags" of the front matter, a taxonomy of the notes alone,
+       apart from the tags of the posts: each a link to the notes carrying
+       it (layouts/hashtags/term.html). */}}
+  {{- with .GetTerms "hashtags" }}
+  <p class="note-tags">
+    {{- range . }}
+    <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
+    {{- end }}
+  </p>
+  {{- end }}
 
   {{- /* The markup of the theme's gallery shortcode, see there, so its
        lightbox pages through the pictures -- but laid out as one compact

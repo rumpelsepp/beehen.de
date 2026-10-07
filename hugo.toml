@@ -17,10 +17,12 @@ copyright = 'CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/'
 
 theme = 'bienensteff'
 
-# Nur Tags: ohne diesen Block baut Hugo zusaetzlich eine leere Seite
-# /categories/.
+# Ohne diesen Block baut Hugo zusaetzlich eine leere Seite /categories/.
+# Tags sind die der Artikel, Hashtags die der Notizen (content/notizen/);
+# beide bleiben getrennt.
 [taxonomies]
 tag = 'tags'
+hashtag = 'hashtags'
 
 [params]
 description = 'Eine kleine Erkundung der Welt'
