@@ -31,35 +31,36 @@
    the text on both sides. */
 .content--reading {
     font-size: 1.1rem;
-}
 
-@media (min-width: 992px) {
-    .content--reading {
+    @media (min-width: 992px) {
         --text-width: 50rem;
         font-size: 1.2rem;
-    }
 
-    /* The lead has to stay a size above the text it leads into. */
-    article.content.content--reading .lead {
-        font-size: 1.35rem;
-    }
+        /* The lead has to stay a size above the text it leads into; the
+           theme sets its size on article.content, hence that in front. */
+        article.content& .lead {
+            font-size: 1.35rem;
+        }
 
-    .content--reading > :not(.d-flex, .gallery-figure, .embed-consent, .embed-frame, table) {
-        max-width: var(--text-width);
-        margin-inline: auto;
+        > :not(.d-flex, .gallery-figure, .embed-consent, .embed-frame, table) {
+            max-width: var(--text-width);
+            margin-inline: auto;
+        }
     }
 }
 
 /* Table of contents that folds away (layouts/_partials/toc.html): its
    title is the handle. */
-article.content .table-of-contents summary.toc-title {
-    margin: 0;
-    font-size: 0.8rem;
-    cursor: pointer;
-}
+article.content .table-of-contents {
+    summary.toc-title {
+        margin: 0;
+        font-size: 0.8rem;
+        cursor: pointer;
+    }
 
-article.content .table-of-contents details[open] > summary.toc-title {
-    margin-bottom: 0.6rem;
+    details[open] > summary.toc-title {
+        margin-bottom: 0.6rem;
+    }
 }
 
 /* Post meta line (date and tags, layouts/_partials/subtitle.html): the
@@ -76,19 +77,19 @@ article.content .table-of-contents details[open] > summary.toc-title {
     --bs-btn-hover-border-color: var(--color-ink);
     --bs-btn-active-border-color: var(--color-ink);
     --bs-btn-disabled-border-color: var(--color-ink);
-}
 
-/* .btn-light stays light in Bootstrap's dark mode; here the buttons take
-   the colours of the page's surfaces instead. */
-[data-bs-theme="dark"] .article-nav .btn {
-    --bs-btn-color: var(--color-ink);
-    --bs-btn-bg: var(--color-surface);
-    --bs-btn-hover-color: var(--color-ink);
-    --bs-btn-hover-bg: color-mix(in srgb, var(--color-ink) 12%, var(--color-surface));
-    --bs-btn-active-color: var(--color-ink);
-    --bs-btn-active-bg: color-mix(in srgb, var(--color-ink) 18%, var(--color-surface));
-    --bs-btn-disabled-color: var(--color-ink-muted);
-    --bs-btn-disabled-bg: transparent;
+    /* .btn-light stays light in Bootstrap's dark mode; here the buttons
+       take the colours of the page's surfaces instead. */
+    [data-bs-theme="dark"] & {
+        --bs-btn-color: var(--color-ink);
+        --bs-btn-bg: var(--color-surface);
+        --bs-btn-hover-color: var(--color-ink);
+        --bs-btn-hover-bg: color-mix(in srgb, var(--color-ink) 12%, var(--color-surface));
+        --bs-btn-active-color: var(--color-ink);
+        --bs-btn-active-bg: color-mix(in srgb, var(--color-ink) 18%, var(--color-surface));
+        --bs-btn-disabled-color: var(--color-ink-muted);
+        --bs-btn-disabled-bg: transparent;
+    }
 }
 
 /* /tags — tag cloud. layouts/taxonomy.html sets --w (0…1, log-scaled by post
@@ -103,36 +104,37 @@ article.content .table-of-contents details[open] > summary.toc-title {
     gap: 0.7rem 1.1rem;
     text-align: left;
     hyphens: none;
-}
 
-.tag-cloud li {
-    display: flex;
-    align-items: baseline;
-    gap: 0.2em;
-}
+    li {
+        display: flex;
+        align-items: baseline;
+        gap: 0.2em;
+    }
 
-/* Rare tags are smaller and lighter, but no lighter than the muted ink:
-   fading them with opacity took the smallest down to a contrast of 3.6:1. */
-.tag-cloud a {
-    font-family: var(--font-display);
-    font-weight: 600;
-    font-size: calc(0.9rem + var(--w, 0) * 1.55rem);
-    line-height: 1.1;
-    color: color-mix(in srgb, var(--color-ink) calc(var(--w, 0) * 100%), var(--color-ink-muted));
-    text-decoration-line: none;
-    transition: color 0.12s ease;
-}
+    /* Rare tags are smaller and lighter, but no lighter than the muted
+       ink: fading them with opacity took the smallest down to a contrast
+       of 3.6:1. */
+    a {
+        font-family: var(--font-display);
+        font-weight: 600;
+        font-size: calc(0.9rem + var(--w, 0) * 1.55rem);
+        line-height: 1.1;
+        color: color-mix(in srgb, var(--color-ink) calc(var(--w, 0) * 100%), var(--color-ink-muted));
+        text-decoration-line: none;
+        transition: color 0.12s ease;
 
-.tag-cloud a:hover,
-.tag-cloud a:focus-visible {
-    color: var(--color-accent);
-    text-decoration-line: underline;
-}
+        &:hover,
+        &:focus-visible {
+            color: var(--color-accent);
+            text-decoration-line: underline;
+        }
+    }
 
-.tag-cloud .count {
-    font-size: 0.75rem;
-    font-weight: 400;
-    color: var(--color-ink-muted);
+    .count {
+        font-size: 0.75rem;
+        font-weight: 400;
+        color: var(--color-ink-muted);
+    }
 }
 
 /* /tags/<tag> — bar above the posts of a tag (layouts/term.html): says that
@@ -149,33 +151,41 @@ article.content .table-of-contents details[open] > summary.toc-title {
     background: color-mix(in srgb, var(--color-accent) 10%, var(--color-surface));
     text-align: left;
     hyphens: none;
-}
 
-.tag-filter-text .bi {
-    margin-right: 0.3rem;
-    color: var(--color-accent);
-}
+    .tag-filter-text .bi {
+        margin-right: 0.3rem;
+        color: var(--color-accent);
+    }
 
-.tag-filter-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.25rem 1.25rem;
-    margin-left: auto;
-}
+    .tag-filter-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.25rem 1.25rem;
+        margin-left: auto;
 
-.tag-filter-actions .bi {
-    margin-right: 0.15rem;
+        .bi {
+            margin-right: 0.15rem;
+        }
+    }
 }
 
 /* /notizen/ — the microblog (layouts/notizen/, _partials/note.html): short
    notes one below the other in a narrow column, each a card with its
    author, date, text and pictures. */
-article.content.notes,
 .content.notes {
     max-width: 40rem;
     margin-inline: auto;
     text-align: left;
     hyphens: manual;
+
+    .article-nav {
+        margin-top: 1.75rem;
+    }
+
+    .pagination {
+        justify-content: center;
+        margin-top: 1.75rem;
+    }
 }
 
 .note {
@@ -184,61 +194,60 @@ article.content.notes,
     border: 1px solid var(--color-border);
     border-radius: var(--radius-lg);
     background: var(--color-surface);
-}
 
-.note-header {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.25rem 0.6rem;
-    margin-bottom: 0.6rem;
-}
+    .note-header {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.25rem 0.6rem;
+        margin-bottom: 0.6rem;
+    }
 
-/* The author's initial in a disc of their own colour; --hue is set by
-   note.html. White on it has at least 5.5:1 at any hue. */
-.note-avatar {
-    display: grid;
-    place-items: center;
-    width: 2.25rem;
-    height: 2.25rem;
-    border-radius: 50%;
-    background: hsl(var(--hue, 100) 45% 32%);
-    color: #fff;
-    font-weight: 600;
-    line-height: 1;
-}
+    /* The author's initial in a disc of their own colour; --hue is set by
+       note.html. White on it has at least 5.5:1 at any hue. */
+    .note-avatar {
+        display: grid;
+        place-items: center;
+        width: 2.25rem;
+        height: 2.25rem;
+        border-radius: 50%;
+        background: hsl(var(--hue, 100) 45% 32%);
+        color: #fff;
+        font-weight: 600;
+        line-height: 1;
+    }
 
-.note-author {
-    font-weight: 600;
-}
+    .note-author {
+        font-weight: 600;
+    }
 
-.note-date,
-a.note-date {
-    margin-left: auto;
-    font-size: 0.85rem;
-    color: var(--color-ink-muted);
-}
+    .note-date {
+        margin-left: auto;
+        font-size: 0.85rem;
+        color: var(--color-ink-muted);
+    }
 
-.note-text > :last-child {
-    margin-bottom: 0;
-}
+    .note-text > :last-child {
+        margin-bottom: 0;
+    }
 
-/* The note's hashtags as a line below its text. */
-.note-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0 0.75rem;
-    margin: 0.5rem 0 0;
-    font-size: 0.95rem;
-}
+    /* The note's hashtags as a line below its text. */
+    .note-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0 0.75rem;
+        margin: 0.5rem 0 0;
+        font-size: 0.95rem;
 
-.note-tags a {
-    text-decoration-line: none;
-}
+        a {
+            text-decoration-line: none;
 
-.note-tags a:hover,
-.note-tags a:focus-visible {
-    text-decoration-line: underline;
+            &:hover,
+            &:focus-visible {
+                text-decoration-line: underline;
+            }
+        }
+    }
 }
 
 /* The pictures: one compact block of tiles like in a messenger instead of
@@ -254,56 +263,47 @@ a.note-date {
     margin: 0.9rem 0 0;
     overflow: hidden;
     border-radius: var(--radius-lg);
-}
 
-.note-images .gallery-item {
-    min-width: 0;
-    min-height: 0;
-    max-width: none;
-    border-radius: 0;
-    box-shadow: none;
-}
+    .gallery-item {
+        min-width: 0;
+        min-height: 0;
+        max-width: none;
+        border-radius: 0;
+        box-shadow: none;
 
-/* A single picture keeps its own shape as far as it lies between 3:2 and
-   a wide strip, so neither a portrait nor a panorama takes the card
-   over. */
-.note-images--1 {
-    grid-template-columns: 1fr;
-    aspect-ratio: auto;
-}
+        /* More than four: the rest waits in the lightbox, the fourth tile
+           says how many (data-more, set by note.html). */
+        &:nth-child(n + 5) {
+            display: none;
+        }
 
-.note-images--1 .gallery-item {
-    aspect-ratio: clamp(1.5, var(--ratio), 2.4);
-}
+        &[data-more]::after {
+            content: "+" attr(data-more);
+            position: absolute;
+            inset: 0;
+            display: grid;
+            place-items: center;
+            background: rgba(20, 18, 15, 0.55);
+            color: #fff;
+            font-size: 1.6rem;
+            font-weight: 600;
+            pointer-events: none;
+        }
+    }
 
-.note-images--3 .gallery-item:first-child {
-    grid-row: span 2;
-}
+    /* A single picture keeps its own shape as far as it lies between 3:2
+       and a wide strip, so neither a portrait nor a panorama takes the
+       card over. */
+    &.note-images--1 {
+        grid-template-columns: 1fr;
+        aspect-ratio: auto;
 
-/* More than four: the rest waits in the lightbox, the fourth tile says
-   how many (data-more, set by note.html). */
-.note-images .gallery-item:nth-child(n + 5) {
-    display: none;
-}
+        .gallery-item {
+            aspect-ratio: clamp(1.5, var(--ratio), 2.4);
+        }
+    }
 
-.note-images .gallery-item[data-more]::after {
-    content: "+" attr(data-more);
-    position: absolute;
-    inset: 0;
-    display: grid;
-    place-items: center;
-    background: rgba(20, 18, 15, 0.55);
-    color: #fff;
-    font-size: 1.6rem;
-    font-weight: 600;
-    pointer-events: none;
-}
-
-.notes .article-nav {
-    margin-top: 1.75rem;
-}
-
-.notes .pagination {
-    justify-content: center;
-    margin-top: 1.75rem;
+    &.note-images--3 .gallery-item:first-child {
+        grid-row: span 2;
+    }
 }
