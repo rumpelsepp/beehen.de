@@ -3,7 +3,8 @@
   lines of text, its hashtags and below them the pictures of its
   page bundle -- all of them, in the order of their file names, laid out
   like a gallery of the theme (.gallery in its main.css) and opened in its
-  lightbox.
+  lightbox. They carry no "i" of the theme's image/info.html, whatever
+  params.imageInfo says.
 
   The alt text of a picture comes from the front matter of the note:
 
@@ -74,7 +75,6 @@
           "sizes" "(max-width: 575.98px) 100vw, 640px"
         ) -}}
       </a>
-      {{- partial "image/info.html" (dict "image" . "alt" $alt) }}
     </li>
       {{- end }}
     {{- end }}
