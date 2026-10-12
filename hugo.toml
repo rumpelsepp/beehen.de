@@ -36,12 +36,32 @@ imageInfo = true
 # Dunkles Farbschema, wenn das System des Besuchers auf dunkel steht. Es gibt
 # keinen Schalter auf der Seite.
 darkMode = true
-# Kontaktblock im Footer (layouts/_partials/footer.html), Markdown.
+# Kontaktblock im Footer, Markdown.
 contact = """Stefan Tatschner
 
 [stefan.tatschner@mailbox.org](mailto:stefan.tatschner@mailbox.org)
 """
 
+# Footer (Partial footer.html des Themes).
+[params.footer]
+brand = true
+copyright = true
+
+[params.footer.license]
+name = 'CC BY-NC 4.0'
+url = 'https://creativecommons.org/licenses/by-nc/4.0/deed.de'
+
+[[params.footer.columns]]
+title = 'Externe Links'
+menu = 'footerExternalLinks'
+
+[[params.footer.columns]]
+title = 'Rechtliches'
+menu = 'footerLegal'
+
+[[params.footer.columns]]
+title = 'Kontakt'
+contact = true
 
 [menus]
 [[menus.main]]
