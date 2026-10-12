@@ -1,7 +1,7 @@
 {{- /*
   Page of a single tag: the posts carrying it, shown like on the home page
   (_partials/post-grid.html), under a bar that says the list is filtered
-  and offers the way back to all posts.
+  and offers the way back to all posts (the theme's tag-filter.html).
 */ -}}
 {{ define "main" }}
 <article class="content">
@@ -10,16 +10,13 @@
   </header>
 
   {{ $n := len .Pages }}
-  <p class="tag-filter">
-    <span class="tag-filter-text">
-      <i class="bi bi-funnel-fill" aria-hidden="true"></i>
-      Gefiltert nach <strong>#{{ .Title }}</strong> – {{ $n }} {{ cond (eq $n 1) "Beitrag" "Beiträge" }}
-    </span>
-    <span class="tag-filter-actions">
-      <a href="{{ .Parent.RelPermalink }}"><i class="bi bi-tags" aria-hidden="true"></i> Alle Tags</a>
-      <a class="tag-filter-clear" href="{{ site.Home.RelPermalink }}"><i class="bi bi-x-lg" aria-hidden="true"></i> Filter aufheben</a>
-    </span>
-  </p>
+  {{ partial "tag-filter.html" (dict
+    "title" (printf "#%s" .Title)
+    "count" (printf "%d %s" $n (cond (eq $n 1) "Beitrag" "Beiträge"))
+    "allHref" .Parent.RelPermalink
+    "allText" "Alle Tags"
+    "clear" site.Home.RelPermalink
+  ) }}
 
   {{ .Content }}
 
