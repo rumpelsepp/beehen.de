@@ -1,28 +1,5 @@
 /* Site-specific overrides on top of the bienensteff theme. */
 
-/* Links: Bootstrap's default blue (#0d6efd) has a contrast of only 4.2:1 on
-   the page background, short of the 4.5:1 of WCAG AA. These are Bootstrap's
-   own darker shades of it; the link colour comes to 6.1:1. */
-:root {
-    --bs-link-color: #0a58ca;
-    --bs-link-color-rgb: 10, 88, 202;
-    --bs-link-hover-color: #084298;
-    --bs-link-hover-color-rgb: 8, 66, 152;
-}
-
-/* Dark mode (params.darkMode): there it is Bootstrap's lighter shades of
-   the blue, 7.5:1 on the dark page background. */
-[data-bs-theme="dark"] {
-    --bs-link-color: #6ea8fe;
-    --bs-link-color-rgb: 110, 168, 254;
-    --bs-link-hover-color: #8bb9fe;
-    --bs-link-hover-color-rgb: 139, 185, 254;
-}
-
-#site-footer .footer-bottom a {
-    color: inherit;
-}
-
 /* A post on a wide screen reads like a column in a paper: larger text in
    a column narrow enough to be read without losing the line, centred on
    the page. It is as wide as a figure (800px, see the theme's
@@ -61,13 +38,6 @@ article.content .table-of-contents {
     details[open] > summary.toc-title {
         margin-bottom: 0.6rem;
     }
-}
-
-/* Post meta line (date and tags, layouts/_partials/subtitle.html): the
-   muted ink instead of Bootstrap's .text-secondary grey it sits in, which
-   has only 4.4:1 on the page background. */
-.entry-meta {
-    color: var(--color-ink-muted);
 }
 
 /* Article prev/next nav: Bootstrap's .btn-light border is near-invisible on
