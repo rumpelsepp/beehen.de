@@ -1,21 +1,11 @@
-hugo := "./themes/bienensteff/scripts/hugo"
+# The recipes every site shares (npm-build, build, serve, clean,
+# podman-pull, check-links); a recipe below under the same name replaces
+# the theme's.
+import 'themes/bienensteff/justfile'
 
 # List all recipes
 default:
     @just --list --unsorted
-
-# Bundle CSS/JS from npm deps into assets/gen/ with esbuild
-npm-build *args:
-    npm run build -- {{ args }}
-
-# --gc drops image variants nothing references any more from resources/_gen
-# Build the site into public/
-build: clean npm-build
-    {{ hugo }} build --gc
-
-# Run a local preview server, drafts included
-serve: (npm-build "--sourcemap")
-    {{ hugo }} server --buildDrafts
 
 # Creates content/blog/<year>/<slug>/index.md from archetypes/blog/ as a
 # draft; photos go into that folder, next to index.md.
@@ -37,18 +27,6 @@ new-note author="Steff":
 # Build and upload the site to beehen.de
 deploy: build
     rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
-
-# Delete the built site in public/
-clean:
-    rm -rf public
-
-# Update the Hugo container image
-podman-pull:
-    podman pull ghcr.io/gohugoio/hugo:latest
-
-# Build and check the site for broken links and anchors
-check-links: build
-    lychee --offline --include-fragments public
 
 # Run after adding a raw video and commit the results -- CI does not
 # encode videos.

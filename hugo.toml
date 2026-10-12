@@ -36,6 +36,11 @@ imageInfo = true
 # Dunkles Farbschema, wenn das System des Besuchers auf dunkel steht. Es gibt
 # keinen Schalter auf der Seite.
 darkMode = true
+# Seiten als schmale Lesespalte mit größerer Schrift (page.html des Themes);
+# Beiträge haben ihr eigenes Layout, layouts/blog/single.html.
+readingColumn = true
+# Inhaltsverzeichnis eingeklappt, bis man es öffnet (toc.html des Themes).
+tocCollapsed = true
 # Kontaktblock im Footer, Markdown.
 contact = """Stefan Tatschner
 
@@ -133,14 +138,11 @@ weight = 20
     # Panorama-Bildern (*_PANO.jpg) kaputt und erzeugt sonst je Bild ein WARN.
     fields = ['! *{Exif,Exposure[MPB],Contrast,Resolution,Sharp,JPEG,Metering,Sensing,Saturation,ColorSpace,Flash,WhiteBalance,Components}*']
 
+# Rohes HTML in Markdown und Attribute an Blöcken und Titeln bringt das
+# Theme mit (themes/bienensteff/hugo.toml); _merge übernimmt sie.
 [markup]
+  _merge = 'deep'
   [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-    [markup.goldmark.parser]
-      [markup.goldmark.parser.attribute]
-        block = true
-        title = true
     [markup.goldmark.extensions]
       [markup.goldmark.extensions.typographer]
         apostrophe = '&rsquo;'
