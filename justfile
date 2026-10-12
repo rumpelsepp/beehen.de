@@ -5,8 +5,8 @@ default:
     @just --list --unsorted
 
 # Bundle CSS/JS from npm deps into assets/gen/ with esbuild
-npm-build:
-    npm run build
+npm-build *args:
+    npm run build -- {{ args }}
 
 # --gc drops image variants nothing references any more from resources/_gen
 # Build the site into public/
@@ -14,7 +14,7 @@ build: clean npm-build
     {{ hugo }} build --gc
 
 # Run a local preview server, drafts included
-serve: npm-build
+serve: (npm-build "--sourcemap")
     {{ hugo }} server --buildDrafts
 
 # Creates content/blog/<year>/<slug>/index.md from archetypes/blog/ as a
