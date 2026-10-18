@@ -1,7 +1,8 @@
 {{- /*
   A note of the microblog (content/notizen/): who wrote it and when, a few
   lines of text, its hashtags and below them the pictures of its
-  page bundle -- all of them, in the order of their file names, laid out
+  page bundle -- all of them, in the order of their file names (or the
+  other way round with "imagesReverse: true" in the front matter), laid out
   like a gallery of the theme (.gallery in its main.css) and opened in its
   lightbox. They carry no "i" of the theme's image/info.html, whatever
   params.imageInfo says.
@@ -58,7 +59,15 @@
        lightbox pages through the pictures -- but laid out as one compact
        block of up to four tiles (.note-images in style.css). Further
        pictures are only in the lightbox; the fourth tile says how many. */}}
-  {{- with .Resources.ByType "image" }}
+  {{- $images := .Resources.ByType "image" }}
+  {{- if and $images .Params.imagesReverse }}
+    {{- $rev := slice }}
+    {{- range seq (sub (len $images) 1) -1 0 }}
+      {{- $rev = $rev | append (index $images .) }}
+    {{- end }}
+    {{- $images = $rev }}
+  {{- end }}
+  {{- with $images }}
   {{- $n := len . }}
   <ul class="gallery note-images note-images--{{ math.Min $n 4 }}" role="list" data-lightbox>
     {{- range $i, $_ := . }}
