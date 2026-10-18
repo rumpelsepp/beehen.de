@@ -18,4 +18,6 @@ imagesReverse: true
 #       alt: "Was auf dem Bild zu sehen ist"
 ---
 
+**Nudeleintopfgericht mit Auberginen**
+
 Wie geil ist es, wenn sich das Gericht einfach selbst kocht und man währenddessen einfach Duschen gehen kann?
