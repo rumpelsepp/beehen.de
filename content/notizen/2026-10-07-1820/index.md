@@ -8,6 +8,8 @@ author: Karin
 # Hashtags unter dem Text, z.B. [Slowenien, Bienen]. Sie gehören nur den
 # Notizen und sind von den Tags der Artikel getrennt.
 hashtags: [Kochen]
+# true zeigt die Bilder in umgekehrter Reihenfolge ihrer Dateinamen.
+imagesReverse: true
 # Alle Bilder in diesem Ordner erscheinen unter dem Text, in der Reihenfolge
 # ihrer Dateinamen. Alt-Texte dazu, falls gewünscht:
 # resources:
