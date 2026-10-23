@@ -5,9 +5,10 @@
 
   Context: the pages to show.
 */ -}}
-{{/* g-4 spaces the cards, h-100 stretches each card to the height of
-     its row so neighbours line up regardless of text length. */}}
-<div class="row g-4">
+{{/* The theme's .grid: two to a row where there is room for two of
+     20rem, one below the other else; a card stretches to the height of
+     its row, so neighbours line up regardless of text length. */}}
+<div class="grid" style="--grid-max: 2; --grid-min: 20rem">
   {{ range . }}
     {{ $title := .Title }}
     {{ if .Draft }}
@@ -22,9 +23,7 @@
       {{ $image = "img/placeholder.svg" }}
     {{ end }}
     {{ $text := partial "_funcs/summary.html" (dict "page" . "limit" 200) | htmlEscape }}
-    <div class="col-md-6">
-      {{ partial "card.html" (dict
-        "cardClass" "h-100"
+    {{ partial "card.html" (dict
         "title" $title
         "level" 2
         "subtitle" (partial "subtitle.html" .)
@@ -33,6 +32,5 @@
         "image" $image
         "page" .
       ) }}
-    </div>
   {{ end }}
 </div>

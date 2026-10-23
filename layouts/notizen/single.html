@@ -10,7 +10,7 @@
   <h1 class="visually-hidden">{{ .Title }}</h1>
   {{ partial "note.html" (dict "page" .) }}
 
-  <nav class="article-nav d-flex flex-wrap justify-content-between gap-2" aria-label="Notizen">
+  <nav class="article-nav" aria-label="Notizen">
     {{ with .PrevInSection }}
       <a class="btn btn-light" href="{{ .RelPermalink }}" rel="prev">« ältere Notiz</a>
     {{ else }}

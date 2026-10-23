@@ -1,7 +1,17 @@
 /* Site-specific overrides on top of the bienensteff theme. */
 
-/* Article prev/next nav: Bootstrap's .btn-light border is near-invisible on
-   the warm page background — give the buttons a defined black edge. */
+/* Article prev/next nav (layouts/_partials/article-nav.html): the two
+   buttons at either end of the line, one below the other where it is too
+   narrow for both. */
+.article-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
+
+/* Bootstrap's .btn-light border is near-invisible on the warm page
+   background — give the buttons a defined black edge. */
 .article-nav .btn {
     --bs-btn-border-color: var(--color-ink);
     --bs-btn-hover-border-color: var(--color-ink);
