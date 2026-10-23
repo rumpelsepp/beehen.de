@@ -10,26 +10,12 @@
     gap: 0.5rem;
 }
 
-/* Bootstrap's .btn-light border is near-invisible on the warm page
-   background — give the buttons a defined black edge. */
+/* The light buttons' edge is near-invisible on the warm page background
+   — give them a defined one in the ink. */
 .article-nav .btn {
-    --bs-btn-border-color: var(--color-ink);
-    --bs-btn-hover-border-color: var(--color-ink);
-    --bs-btn-active-border-color: var(--color-ink);
-    --bs-btn-disabled-border-color: var(--color-ink);
-
-    /* .btn-light stays light in Bootstrap's dark mode; here the buttons
-       take the colours of the page's surfaces instead. */
-    [data-theme="dark"] & {
-        --bs-btn-color: var(--color-ink);
-        --bs-btn-bg: var(--color-surface);
-        --bs-btn-hover-color: var(--color-ink);
-        --bs-btn-hover-bg: color-mix(in srgb, var(--color-ink) 12%, var(--color-surface));
-        --bs-btn-active-color: var(--color-ink);
-        --bs-btn-active-bg: color-mix(in srgb, var(--color-ink) 18%, var(--color-surface));
-        --bs-btn-disabled-color: var(--color-ink-muted);
-        --bs-btn-disabled-bg: transparent;
-    }
+    --btn-border: var(--color-ink);
+    --btn-hover-border: var(--color-ink);
+    --btn-active-border: var(--color-ink);
 }
 
 /* /notizen/ — the microblog (layouts/notizen/, _partials/note.html): short
