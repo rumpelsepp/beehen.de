@@ -10,7 +10,7 @@
 
     /* .btn-light stays light in Bootstrap's dark mode; here the buttons
        take the colours of the page's surfaces instead. */
-    [data-bs-theme="dark"] & {
+    [data-theme="dark"] & {
         --bs-btn-color: var(--color-ink);
         --bs-btn-bg: var(--color-surface);
         --bs-btn-hover-color: var(--color-ink);
