@@ -26,7 +26,7 @@ new-note author="Steff":
 
 # Build and upload the site to beehen.de
 deploy: build
-    rsync -avz --delete public/ deploy@beehen.de:/srv/http/deploy/beehen.de
+    rsync -az --delete --info=progress2 --no-inc-recursive public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 
 # Run after adding a raw video and commit the results -- CI does not
 # encode videos.
