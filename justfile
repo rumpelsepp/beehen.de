@@ -24,9 +24,13 @@ new-note author="Steff":
     {{ hugo }} new content --kind notizen "$dir"
     sed -i 's/^author: .*/author: {{ author }}/' "content/$dir/index.md"
 
+# A terminal gets one line of overall progress; a CI log ($CI is set
+# there), which cannot redraw a line, gets the list of files instead.
+rsync_output := if env("CI", "") == "" { "--info=progress2 --no-inc-recursive" } else { "-v" }
+
 # Build and upload the site to beehen.de
 deploy: build
-    rsync -az --delete --info=progress2 --no-inc-recursive public/ deploy@beehen.de:/srv/http/deploy/beehen.de
+    rsync -az --delete {{ rsync_output }} public/ deploy@beehen.de:/srv/http/deploy/beehen.de
 
 # Run after adding a raw video and commit the results -- CI does not
 # encode videos.
