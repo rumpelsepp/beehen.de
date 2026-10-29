@@ -2,7 +2,7 @@
 title: Datenschutzerklärung
 ---
 
-Stand: 3. Oktober 2026
+Stand: 29. Oktober 2026
 
 Kurz gesagt: Dieser Blog ist ein privates Projekt.
 Wir setzen keine Cookies, zählen keine Besuche und binden keine Werbung ein.
@@ -11,12 +11,8 @@ Daten gehen nur dann an Dritte, wenn du eine eingebundene Karte ausdrücklich l�
 
 ## Verantwortlicher
 
-Stefan Tatschner  
-Gräfelfinger Straße 169a  
-81375 München
-
-**E-Mail-Adresse**: stefan.tatschner@mailbox.org  
-**Impressum**: [{{< ref "impressum" >}}]({{< ref "impressum" >}})
+Stefan Tatschner (Anschrift siehe [Impressum]({{< ref "impressum" >}}))  
+**E-Mail-Adresse**: stefan.tatschner@mailbox.org
 
 ## Aufruf der Seite {#hosting}
 
