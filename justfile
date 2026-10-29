@@ -30,7 +30,7 @@ rsync_output := if env("CI", "") == "" { "--info=progress2 --no-inc-recursive" }
 
 # Build and upload the site to beehen.de
 deploy: build
-    rsync -az --delete {{ rsync_output }} public/ deploy@beehen.de:/srv/http/deploy/beehen.de
+    rsync -az --delete {{ rsync_output }} public/ deploy@beehen.de:beehen.de
 
 # Run after adding a raw video and commit the results -- CI does not
 # encode videos.
