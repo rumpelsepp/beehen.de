@@ -10,6 +10,6 @@ Gräfelfinger Straße 169a
 
 E-Mail: stefan.tatschner@mailbox.org
 
-## Verantwortlich nach § 18 Abs. 2 MStV
+## Verantwortlich für den Inhalt
 
 Stefan Tatschner, Anschrift wie oben.
